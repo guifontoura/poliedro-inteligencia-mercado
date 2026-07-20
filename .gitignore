@@ -1,0 +1,12 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.~lock.*
+
+# Dados brutos grandes (baixe via poliedro_01_baixar_dados.py, não versionar binário)
+data/raw/*.zip
+data/raw/*.xlsx
+
+# Artefatos do exercício anterior, não relacionados a este case
+mercado_educacional_local.db
