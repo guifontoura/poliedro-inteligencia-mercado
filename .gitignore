@@ -3,6 +3,8 @@
 __pycache__/
 *.pyc
 .~lock.*
+node_modules/
+package-lock.json
 
 # Dados brutos grandes (baixe via poliedro_01_baixar_dados.py, não versionar binário)
 data/raw/*.zip

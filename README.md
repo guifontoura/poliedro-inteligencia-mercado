@@ -2,6 +2,19 @@
 
 Onde o Poliedro deveria construir share de prestígio: cidades e escolas privadas de maior relevância no Brasil, usando dados públicos (Censo Escolar INEP 2025 + Microdados ENEM 2025 + IBGE).
 
+## Prévia
+
+<p align="center">
+  <img src="assets/preview/capa.png" width="800" alt="Capa da apresentação"><br>
+  <em>Capa — Poliedro_Apresentacao_Completa.pptx</em>
+</p>
+
+<p align="center">
+  <img src="data/outputs/grafico_top10_cidades_dark.png" width="410" alt="Top 10 cidades prioritárias">
+  <img src="assets/preview/tabela_escolas.png" width="410" alt="Tabela completa das 20 escolas de destaque">
+</p>
+<p align="center"><em>Esquerda: as 10 cidades prioritárias (Parte 1). Direita: dado completo por trás do score de cada escola (Parte 2).</em></p>
+
 ## Entregáveis
 
 - `Poliedro_Apresentacao_Completa.pptx` — apresentação final (18 slides), narrativa única em 4 atos: (I) crescimento na base atual — LTV, TAM/SOM, Cosmos —, (II) o teto desse crescimento (slide-pivô), (III) resposta ao case + conteúdo além do case (cidades, escolas, tabela completa de dados por escola, Golden Leads, segmentação, bairros), (IV) limitações, plano de ação (Fase 1/2/3, com Goiânia já defendida) e roadmap técnico (do pipeline atual a um modelo preditivo de prospecção, projeto futuro pós-efetivação).
