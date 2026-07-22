@@ -28,6 +28,18 @@ por percentil (0 a 1) e ponderados:
    prestígio acadêmico já reconhecido na praça — o critério que faltava por
    completo na versão anterior deste pipeline.
 
+   Revisão de 21/07 (Gui apontou o risco): a média da praça é PONDERADA por
+   qtd_participantes_enem de cada escola, não é mais a média simples das
+   médias por escola. Motivo: média simples dá o mesmo peso a uma escola de
+   15 participantes com média 800 e a uma escola de 300 participantes com
+   média 650 — a cidade "parece" mais forte do que o aluno médio realmente
+   experimenta ali. A versão ponderada reflete melhor a praça como um todo.
+   Testado: essa mudança altera o Top 10 de fato (Florianópolis, Porto
+   Alegre, Brasília, Goiânia e Jundiaí saem; entram Recife, Ribeirão Preto,
+   João Pessoa, Aracaju e Uberlândia) — mas as 3 cidades usadas na Parte 2
+   (Belo Horizonte, Niterói, Vitória) continuam #1-#3, então a análise de
+   escolas (Parte 2) não precisou ser refeita.
+
 Limitação documentada: 27,2% das escolas elegíveis não têm nenhum participante
 do ENEM vinculado (ver poliedro_02_extrair_enem.py) — a média da praça usa só
 as escolas com dado disponível, o que pode sub-representar cidades onde as
@@ -111,6 +123,14 @@ def carregar_escolas_elegiveis_com_enem() -> pd.DataFrame:
                           on="codigo_escola", how="left")
 
 
+def media_enem_ponderada_por_participante(grupo: pd.DataFrame) -> float:
+    """Média do ENEM da praça, ponderada por qtd_participantes_enem de cada escola (não é média simples)."""
+    valido = grupo.dropna(subset=["enem_media_geral", "qtd_participantes_enem"])
+    if valido["qtd_participantes_enem"].sum() == 0:
+        return float("nan")
+    return (valido["enem_media_geral"] * valido["qtd_participantes_enem"]).sum() / valido["qtd_participantes_enem"].sum()
+
+
 def montar_score_cidades() -> pd.DataFrame:
     """Monta o score de priorização municipal aplicando o filtro de escopo e os 3 critérios ponderados."""
     pop_total = carregar_populacao_total()
@@ -124,11 +144,17 @@ def montar_score_cidades() -> pd.DataFrame:
         escolas.groupby("codigo_municipio")
         .agg(
             qtd_escolas_elegiveis=("codigo_escola", "count"),
-            enem_media_praca=("enem_media_geral", "mean"),
             qtd_escolas_com_enem=("enem_media_geral", "count"),
         )
         .reset_index()
     )
+    media_ponderada = (
+        escolas.groupby("codigo_municipio")
+        .apply(media_enem_ponderada_por_participante, include_groups=False)
+        .rename("enem_media_praca")
+        .reset_index()
+    )
+    agg_escolas = agg_escolas.merge(media_ponderada, on="codigo_municipio", how="left")
 
     df = municipios_elegiveis.merge(agg_escolas, on="codigo_municipio", how="left")
     df = df.merge(score_renda, on="codigo_municipio", how="left")

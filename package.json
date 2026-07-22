@@ -1,0 +1,12 @@
+{
+  "name": "poliedro-apresentacao",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gera Poliedro_Apresentacao_Completa.pptx a partir dos gráficos do pipeline Python (data/outputs/*.png).",
+  "scripts": {
+    "gerar-deck": "node gerar_apresentacao.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}

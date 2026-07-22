@@ -1,9 +1,13 @@
 """
 Case Poliedro — Passo 5: SCORE DE DESTAQUE DE ESCOLAS (Parte 2 do case).
 
-Aplicado às 3 cidades de maior score_priorizacao (Parte 1): Belo Horizonte,
-Niterói e Vitória. Critério de escolha das 3 cidades: simplesmente o topo do
-ranking da Parte 1 — evita qualquer viés de escolha arbitrária.
+Aplicado às 4 cidades de maior score_priorizacao (Parte 1, versão com média
+ENEM ponderada por participante — revisão de 21/07): Belo Horizonte, Niterói,
+Goiânia e Vitória. Critério de escolha: simplesmente o topo do ranking da
+Parte 1 — evita qualquer viés de escolha arbitrária. O case pede "pelo menos
+3 cidades"; usamos 4 para não descartar Vitória (topo da versão anterior,
+não-ponderada) nem Goiânia (topo da versão corrigida) — mantém as duas
+análises já validadas e evita decidir arbitrariamente entre elas.
 
 Metodologia (2 critérios, um de cada base exigida pelo case):
 
@@ -49,7 +53,7 @@ OUT_DIR = Path("data/outputs")
 PESO_ENEM = 0.60
 PESO_INFRA = 0.40
 MIN_PARTICIPANTES_CONFIAVEL = 10
-TOP_N_CIDADES = 3
+TOP_N_CIDADES = 4
 TOP_N_ESCOLAS_POR_CIDADE = 5
 
 COLS_INFRA = [
