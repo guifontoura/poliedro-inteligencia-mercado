@@ -44,6 +44,7 @@ frágil por nome+município que o poliedro_11 fazia antes.
 Gera: data/outputs/04_golden_leads_segmentadas.csv
 """
 
+import re
 from pathlib import Path
 
 import pandas as pd
@@ -53,11 +54,24 @@ OUT_DIR = Path("data/outputs")
 SCORE_MINIMO_GOLDEN_LEADS = 0.70
 MIN_ESCOLAS_CONFIAVEIS_PARA_RANK = 3
 
+# "Sistema S" (SESI, SENAI, SESC, SENAC): mantidas pelo Serviço Social da
+# Indústria/Comércio, sem fins lucrativos, financiadas por contribuição
+# compulsória sobre a folha das empresas. Usam sistema de ensino AUTORAL
+# próprio (ex.: Sistema SESI-SP de Ensino) — não são prospect de um sistema
+# de ensino licenciado como o Poliedro, então não fazem sentido na lista
+# comercial de Golden Leads, mesmo pontuando bem no score acadêmico/infra.
+PADRAO_SISTEMA_S = re.compile(r"\b(?:SESI|SENAI|SESC|SENAC)\b", re.IGNORECASE)
+
 
 def carregar_escolas_confiaveis() -> pd.DataFrame:
     """Escolas nacionais com score_destaque calculado e ENEM confiável (>=10 participantes vinculados)."""
     df = pd.read_csv(OUT_DIR / "funil_escolas_pontuadas.csv", dtype={"codigo_municipio": str})
-    return df[df["confiavel_enem"] == True].copy()
+    df = df[df["confiavel_enem"] == True].copy()
+
+    eh_sistema_s = df["NO_ENTIDADE"].str.contains(PADRAO_SISTEMA_S, regex=True, na=False)
+    print(f"[Filtro Sistema S] Removendo {eh_sistema_s.sum()} escolas SESI/SENAI/SESC/SENAC "
+          f"(sistema de ensino próprio, não são prospect comercial) antes do ranking.")
+    return df[~eh_sistema_s].copy()
 
 
 def calcular_rank_municipal(df: pd.DataFrame) -> pd.DataFrame:

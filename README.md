@@ -23,8 +23,8 @@ Onde o Poliedro deveria construir share de prestígio: cidades e escolas privada
 - `gerar_apresentacao.js` — monta o .pptx a partir dos gráficos gerados pelo pipeline (Node.js + pptxgenjs).
 - `data/outputs/01_cidades_prioritarias.csv` — as 318 cidades elegíveis rankeadas (Top 10 = prioritárias).
 - `data/outputs/02_escolas_destaque_top3_cidades.csv` — Top 5 escolas em Belo Horizonte, Niterói e Vitória.
-- `data/outputs/04_golden_leads_segmentadas.csv` — as 869 Golden Leads (score ≥ 0,70) com tag de segmento comercial (Líder local / Desafiante / Outras posições / Sem comparação local).
-- `data/outputs/05_golden_leads_geocodificadas.csv` — as 167 Golden Leads das 10 cidades prioritárias com bairro (via CEP/ViaCEP) — gerado localmente (`poliedro_11_geocodificar_ceps.py`), não em ambiente sandbox.
+- `data/outputs/04_golden_leads_segmentadas.csv` — as 840 Golden Leads (score ≥ 0,70) com tag de segmento comercial (Líder local / Desafiante / Outras posições / Sem comparação local). Exclui escolas do "Sistema S" (SESI/SENAI/SESC/SENAC) — usam sistema de ensino próprio, não são prospect comercial (ver `poliedro_09_icp_poliedro.py`).
+- `data/outputs/05_golden_leads_geocodificadas.csv` — as 161 Golden Leads das 10 cidades prioritárias com bairro (via CEP/ViaCEP) — gerado localmente (`poliedro_11_geocodificar_ceps.py`), não em ambiente sandbox.
 
 ## Como rodar do zero
 

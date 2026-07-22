@@ -1,7 +1,10 @@
 """
 Case Poliedro — gráfico de funil de priorização de escolas, tema escuro.
 
-Revisão de 21/07: o funil agora termina em "869 Golden Leads (score >= 0,70)".
+Revisão de 21/07: o funil agora termina em "Golden Leads (score >= 0,70)".
+Revisão de 22/07: universo caiu de 869 para 840 após excluir escolas do
+"Sistema S" (SESI/SENAI/SESC/SENAC) do ranking em poliedro_09 — elas usam
+sistema de ensino próprio, não são prospect comercial (ver poliedro_09).
 Antes havia um 5º estágio "129 Golden Leads (score >= 0,90)" — foi removido
 daqui porque deixou de ser um subconjunto mais estreito numa hierarquia de
 funil; virou uma TAG de segmento comercial dentro do universo de 869 (ver
