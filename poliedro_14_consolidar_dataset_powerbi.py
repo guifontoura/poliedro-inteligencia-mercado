@@ -13,6 +13,12 @@ Modelo sugerido (ver POWER_BI_GUIA.md):
 Relacionamento: `codigo_municipio` (N:1, escolas → cidades).
 
 Gera: data/outputs/14_escolas_powerbi.csv, data/outputs/14_cidades_powerbi.csv
+
+Formato do CSV: separador ';' e decimal ',' (padrão brasileiro), não o padrão
+internacional do pandas ('.' decimal). Isso é de propósito — o Power BI
+Desktop instalado com localidade Português (Brasil) auto-detecta esse
+formato ao importar, sem exigir o passo manual de "Alterar Tipo com
+Localidade" no Power Query pra cada coluna decimal.
 """
 
 from pathlib import Path
@@ -42,6 +48,9 @@ def montar_tabela_escolas() -> pd.DataFrame:
             "CO_CEP": "cep",
         }
     )
+    # Int64 nullable (não float) — evita "52060460,0" no CSV pros CEPs
+    # em branco (703 das 869, ainda não geocodificadas).
+    escolas["cep"] = escolas["cep"].astype("Int64")
     return escolas
 
 
@@ -65,8 +74,10 @@ def main():
     escolas = montar_tabela_escolas()
     cidades = montar_tabela_cidades()
     exibir_resumo(escolas, cidades)
-    escolas.to_csv(OUT_DIR / "14_escolas_powerbi.csv", index=False)
-    cidades.to_csv(OUT_DIR / "14_cidades_powerbi.csv", index=False)
+    # sep=';' e decimal=',' — formato brasileiro, pro Power BI Desktop
+    # (localidade pt-BR) reconhecer os decimais automaticamente na importação.
+    escolas.to_csv(OUT_DIR / "14_escolas_powerbi.csv", index=False, sep=";", decimal=",")
+    cidades.to_csv(OUT_DIR / "14_cidades_powerbi.csv", index=False, sep=";", decimal=",")
     print(f"[✓] Salvo em {OUT_DIR / '14_escolas_powerbi.csv'} e {OUT_DIR / '14_cidades_powerbi.csv'}")
 
 

@@ -21,6 +21,15 @@ Rode `python poliedro_14_consolidar_dataset_powerbi.py` (depende dos passos 01,
 2. **Página Inicial → Obter Dados → Texto/CSV** → selecione `14_escolas_powerbi.csv` → Carregar.
 3. Repita para `14_cidades_powerbi.csv`.
 
+O CSV é gerado com separador `;` e decimal `,` (formato brasileiro) de
+propósito — com a instalação do Power BI em Português (Brasil), ele reconhece
+os números decimais (score, percentis) automaticamente ao importar, sem
+precisar do passo manual "Alterar Tipo com Localidade" no Power Query. Se
+você já tinha importado uma versão anterior do CSV e os números vieram
+errados (tipo `9738` em vez de `0,9738`), apague as duas consultas em
+**Transformar dados** e importe de novo do zero — não dá pra só "atualizar",
+porque o tipo da coluna já ficou gravado errado na consulta antiga.
+
 ## 3. Criar o relacionamento
 
 1. Vá na visualização **Modelo** (ícone de tabelas conectadas, barra lateral esquerda).
