@@ -19,7 +19,7 @@ Onde o Poliedro deveria construir share de prestígio: cidades e escolas privada
 
 - `Poliedro_Apresentacao_Completa.pptx` — apresentação final (18 slides), narrativa única em 4 atos: (I) crescimento na base atual — LTV, TAM/SOM, Cosmos —, (II) o teto desse crescimento (slide-pivô), (III) resposta ao case + conteúdo além do case (cidades, escolas, tabela completa de dados por escola, Golden Leads, segmentação, bairros), (IV) limitações, plano de ação (Fase 1/2/3, com Goiânia já defendida) e roadmap técnico (do pipeline atual a um modelo preditivo de prospecção, projeto futuro pós-efetivação).
 - `METODOLOGIA.md` — critérios, pesos, fórmulas e limitações, documentado para reprodução.
-- `poliedro_01_*.py` a `poliedro_13_*.py` — pipeline Python, nessa ordem de execução (ver abaixo).
+- `poliedro_01_*.py` a `poliedro_14_*.py` — pipeline Python, nessa ordem de execução (ver abaixo).
 - `gerar_apresentacao.js` — monta o .pptx a partir dos gráficos gerados pelo pipeline (Node.js + pptxgenjs).
 - `data/outputs/01_cidades_prioritarias.csv` — as 318 cidades elegíveis rankeadas (Top 10 = prioritárias).
 - `data/outputs/02_escolas_destaque_top3_cidades.csv` — Top 5 escolas em Belo Horizonte, Niterói e Vitória.
@@ -46,6 +46,7 @@ python poliedro_10_segmentacao_comercial.py  # gráfico da segmentação comerci
 python poliedro_11_geocodificar_ceps.py      # opcional — geocodifica CEP → bairro (precisa de internet local, não roda em sandbox)
 python poliedro_12_graficos_cidades.py       # gráficos Top10 e dispersão (tema escuro) a partir de 01_cidades_prioritarias.csv
 python poliedro_13_detectar_salas_vitrine.py # bônus — detecta nacionalmente o padrão "sala vitrine" (generaliza o caso Farias Brito)
+python poliedro_14_consolidar_dataset_powerbi.py # roadmap 2.0 — consolida escolas+cidades num dataset pronto pra Power BI (ver POWER_BI_GUIA.md)
 
 npm install               # instala pptxgenjs (Node.js)
 node gerar_apresentacao.js  # monta Poliedro_Apresentacao_Completa.pptx a partir dos gráficos acima
@@ -70,6 +71,10 @@ data/
   raw/       — dados brutos baixados (Censo, ENEM, IBGE) e caches intermediários
   outputs/   — resultados finais (CSVs rankeados, gráficos)
 ```
+
+## Roadmap — em andamento
+
+Pós-entrega, começamos a puxar os itens do roadmap técnico (slide 18). Primeiro: **2.0, Inteligência Comercial em Tempo Real**. `poliedro_14_consolidar_dataset_powerbi.py` gera `data/outputs/14_escolas_powerbi.csv` e `14_cidades_powerbi.csv`, prontos pra montar um painel Power BI com filtro por UF/cidade/segmento — passo a passo em `POWER_BI_GUIA.md`.
 
 ## Uma lição do caminho
 
