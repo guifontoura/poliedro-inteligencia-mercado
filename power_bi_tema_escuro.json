@@ -1,0 +1,96 @@
+{
+  "name": "Poliedro Dark Executive",
+  "dataColors": [
+    "#D9AE4E",
+    "#E2954F",
+    "#5B9BD5",
+    "#B8934A",
+    "#C97A3D",
+    "#4A85B8",
+    "#EAC178",
+    "#7FB3E0"
+  ],
+  "background": "#121212",
+  "foreground": "#E0E0E0",
+  "tableAccent": "#D9AE4E",
+  "good": "#6FCF97",
+  "bad": "#EB5757",
+  "neutral": "#A0A0A0",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#121212" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          { "show": false }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#1E1E1E" } },
+            "transparency": 0
+          }
+        ],
+        "labels": [
+          { "color": { "solid": { "color": "#E0E0E0" } }, "fontSize": 28 }
+        ],
+        "categoryLabels": [
+          { "color": { "solid": { "color": "#A0A0A0" } } }
+        ]
+      }
+    },
+    "multiRowCard": {
+      "*": {
+        "background": [
+          { "show": true, "color": { "solid": { "color": "#1E1E1E" } }, "transparency": 0 }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "background": [
+          { "show": true, "color": { "solid": { "color": "#1E1E1E" } }, "transparency": 0 }
+        ],
+        "columnHeaders": [
+          {
+            "fontColor": { "solid": { "color": "#E0E0E0" } },
+            "backColor": { "solid": { "color": "#242424" } }
+          }
+        ],
+        "values": [
+          { "fontColor": { "solid": { "color": "#E0E0E0" } } }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [
+          { "show": true, "color": { "solid": { "color": "#1E1E1E" } }, "transparency": 0 }
+        ]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "background": [
+          { "show": true, "color": { "solid": { "color": "#1E1E1E" } }, "transparency": 0 }
+        ]
+      }
+    },
+    "clusteredColumnChart": {
+      "*": {
+        "background": [
+          { "show": true, "color": { "solid": { "color": "#1E1E1E" } }, "transparency": 0 }
+        ]
+      }
+    }
+  }
+}
