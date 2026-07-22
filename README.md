@@ -21,7 +21,6 @@ Onde o Poliedro deveria construir share de prestígio: cidades e escolas privada
 - `METODOLOGIA.md` — critérios, pesos, fórmulas e limitações, documentado para reprodução.
 - `poliedro_01_*.py` a `poliedro_13_*.py` — pipeline Python, nessa ordem de execução (ver abaixo).
 - `gerar_apresentacao.js` — monta o .pptx a partir dos gráficos gerados pelo pipeline (Node.js + pptxgenjs).
-- `Roteiro_Apresentacao_Oral.md` — roteiro de apoio para a defesa oral (~10min), slide a slide.
 - `data/outputs/01_cidades_prioritarias.csv` — as 318 cidades elegíveis rankeadas (Top 10 = prioritárias).
 - `data/outputs/02_escolas_destaque_top3_cidades.csv` — Top 5 escolas em Belo Horizonte, Niterói e Vitória.
 - `data/outputs/04_golden_leads_segmentadas.csv` — as 869 Golden Leads (score ≥ 0,70) com tag de segmento comercial (Líder local / Desafiante / Outras posições / Sem comparação local).
@@ -72,11 +71,6 @@ data/
   outputs/   — resultados finais (CSVs rankeados, gráficos)
 ```
 
-## Não relacionados a este case
+## Uma lição do caminho
 
-`mercado_educacional_local.db` (SQLite, tabela única `escolas_privadas_potenciais`, 33.915 linhas)
-e `escolas_premium_potencial.csv` são de um exercício anterior (venda de
-software educacional B2B, metodologia baseada em PIB per capita + porte por
-salas, sem ENEM, Censo 2023, sem o recorte >100k do case) — mantidos na pasta
-mas não fazem parte desta entrega. Ver METODOLOGIA.md, seção 1.1, para os
-detalhes de por que essa metodologia antiga não foi reaproveitada aqui.
+Uma versão inicial deste projeto (anterior a este case, venda de software educacional B2B) usava PIB per capita municipal como proxy de poder de compra e não cruzava com o ENEM. PIB per capita mistura riqueza industrial/institucional com renda das famílias — viés que distorce cidades com base industrial forte mas população de renda baixa. Os arquivos dessa versão foram removidos desta entrega (ficam apenas no histórico do git, não na pasta); a métrica correta — renda domiciliar per capita (Censo 2022) — é a usada em toda a Parte 1 deste case. Ver METODOLOGIA.md, seção 3, para o critério completo.

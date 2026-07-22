@@ -6,6 +6,9 @@ __pycache__/
 node_modules/
 package-lock.json
 
+# Material de uso pessoal para a entrevista, não faz parte da entrega técnica
+Roteiro_Apresentacao_Oral.md
+
 # Dados brutos grandes (baixe via poliedro_01_baixar_dados.py, não versionar binário)
 data/raw/*.zip
 data/raw/*.xlsx
