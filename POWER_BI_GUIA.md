@@ -84,3 +84,47 @@ do mapa, mas continuam na tabela normalmente.
 Pra manter a identidade do deck: Formatar → Tema → tema customizado com fundo
 `#141B2C`, destaque `#D4AF37` (dourado), texto `#F5F7FA`. Não é obrigatório,
 mas fica consistente com a apresentação se você for mostrar os dois juntos.
+
+## 7. Página bônus — Renda x ENEM (SP/RJ), pedido pela recrutadora (23/07)
+
+Objetivo: achar visualmente bairros/distritos de alta renda onde a Poliedro
+ainda tem pouca presença (poucas Golden Leads) — candidatos a expansão por
+prestígio de marca, não só por nota. Os dois exemplos que essa página já
+revelou: Flamengo (RJ) e Itaim Bibi/Vila Leopoldina/Perdizes (SP) — renda
+alta, poucas ou nenhuma Golden Lead.
+
+**1. Importar o dado**: Página Inicial → Obter Dados → Texto/CSV →
+`data/outputs/16_regioes_sp_rj_com_renda.csv` → Carregar. (Mesmo formato
+brasileiro `;`/`,` dos outros CSVs — importa direto, sem passo manual.)
+
+**2. Criar a página**: clique no "+" na barra de abas embaixo, renomeie pra
+"Renda x ENEM (SP/RJ)".
+
+**3. Montar o gráfico de dispersão**:
+- Adicione o visual "Gráfico de Dispersão" (ícone de pontos espalhados, no
+  painel de Visualizações).
+- Campo **Eixo X**: `renda_mediana_responsavel`
+- Campo **Eixo Y**: `enem_ponderado`
+- Campo **Tamanho**: `qtd_escolas_elegiveis` (bairros com mais escolas
+  aparecem como bolhas maiores)
+- Campo **Legenda** (cor): `qtd_golden_leads` (ou `cidade`, se preferir
+  separar visualmente São Paulo de Rio de Janeiro por cor)
+- Campo **Detalhes**: `regiao` (aparece no tooltip ao passar o mouse)
+
+**4. Ler o gráfico**: o quadrante que interessa é **canto direito-inferior**
+(renda alta no eixo X, ENEM baixo/médio no eixo Y) — são os bairros ricos
+"não conquistados academicamente ainda". Adicione um filtro de página
+`amostra_significativa = Verdadeiro` (painel Filtros) pra tirar bairros com
+menos de 3 escolas confiáveis, que são ruído estatístico.
+
+**5. Opcional — linha de referência**: Formatar visual → Linhas de
+referência → adicione uma linha vertical no valor médio de
+`renda_mediana_responsavel` da cidade, pra dividir visualmente "bairro rico"
+de "bairro não-rico" sem precisar decorar o número.
+
+**Sobre escalar pra outras cidades**: já existe uma versão nacional,
+`data/outputs/17_regioes_nacional_com_renda.csv` (318 cidades, ~81% de
+match de renda) — mesma estrutura de colunas, o mesmo gráfico funciona só
+trocando o CSV de origem. Ainda é uma primeira versão (ver docstring do
+`poliedro_17_regioes_nacional_renda.py` pras limitações), recomendo revisão
+amostral antes de usar em decisão comercial real.

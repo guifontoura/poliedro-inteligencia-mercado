@@ -26,6 +26,8 @@ Onde o Poliedro deveria construir share de prestígio: cidades e escolas privada
 - `data/outputs/04_golden_leads_segmentadas.csv` — as 943 Golden Leads (score ≥ 0,70) com tag de segmento comercial (Líder local / Desafiante / Outras posições / Sem comparação local). Exclui escolas do "Sistema S" (SESI/SENAI/SESC/SENAC, via flag oficial do Censo) — usam sistema de ensino próprio, não são prospect comercial (ver `poliedro_09_icp_poliedro.py`). **Peso do `score_destaque` neste arquivo é PROVISÓRIO** (72% ENEM / 18% infra / 5% seletividade / 5% inclusão, revisão 23/07 pendente de validação com o time Poliedro — ver docstring de `poliedro_05b_score_destaque_nacional.py`); a resposta formal ao case (`02_escolas_destaque_top3_cidades.csv`) continua na fórmula original 60/40.
 - `data/outputs/05_golden_leads_geocodificadas.csv` — **obsoleto (23/07)**: era o bairro via CEP/ViaCEP das 139 Golden Leads nas 10 cidades prioritárias. `14_escolas_powerbi.csv` (passo 14) já traz bairro/distrito/lat-long nativos do Censo pras 943 Golden Leads inteiras (99,5% de cobertura) — esse arquivo e o `poliedro_11_geocodificar_ceps.py` que o gera não são mais necessários pro dado geográfico; mantidos só como histórico de como chegamos até a descoberta da fonte nativa.
 - `data/outputs/15_regioes_sp_rj.csv` — detalhamento por região dentro de São Paulo (distrito) e Rio de Janeiro (bairro — `NO_DISTRITO` é degenerado ali no Censo), com volume e ENEM ponderado por região, pedido pela recrutadora na entrevista de 23/07 (ver `poliedro_15_regioes_sp_rj.py`).
+- `data/outputs/16_regioes_sp_rj_com_renda.csv` — o mesmo detalhamento acima, enriquecido com renda do responsável (IBGE, Censo 2022) por bairro/distrito. Já revelou bairros de alta renda com pouca presença de Golden Leads (Flamengo no RJ, Itaim Bibi/Vila Leopoldina/Perdizes em SP) — ver seção 7 do `POWER_BI_GUIA.md`.
+- `data/outputs/17_regioes_nacional_com_renda.csv` — o mesmo cruzamento (região + renda), escalado pras 318 cidades do recorte nacional. Usa bairro quando o IBGE tem cadastro (190 cidades) e distrito como fallback nas outras 128 — 81,4% de taxa de match; ver limitações no docstring de `poliedro_17_regioes_nacional_renda.py` (é uma primeira versão, recomenda revisão amostral antes de decisão comercial).
 
 ## Como rodar do zero
 
@@ -49,6 +51,8 @@ python poliedro_12_graficos_cidades.py       # gráficos Top10 e dispersão (tem
 python poliedro_13_detectar_salas_vitrine.py # bônus — detecta nacionalmente o padrão "sala vitrine" (generaliza o caso Farias Brito)
 python poliedro_14_consolidar_dataset_powerbi.py # roadmap 2.0 — consolida escolas+cidades num dataset pronto pra Power BI (ver POWER_BI_GUIA.md)
 python poliedro_15_regioes_sp_rj.py          # bônus — detalhamento por região (distrito em SP, bairro no RJ), pedido em entrevista
+python poliedro_16_renda_bairro_distrito.py  # bônus — renda do responsável (IBGE Censo 2022) cruzada com ENEM/leads, SP e RJ
+python poliedro_17_regioes_nacional_renda.py # bônus — mesmo cruzamento, escalado pras 318 cidades (81% de match)
 
 npm install               # instala pptxgenjs (Node.js)
 node gerar_apresentacao.js  # monta Poliedro_Apresentacao_Completa.pptx a partir dos gráficos acima
