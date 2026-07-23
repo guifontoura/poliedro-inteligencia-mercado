@@ -13,6 +13,11 @@ Extrai DS_ENDERECO, NU_ENDERECO, CO_CEP e NU_CNPJ_MANTENEDORA (Censo Escolar
 2025) só para as escolas já elegíveis (poliedro_03_extrair_censo.py) — não
 processa as 8.095 * todas as colunas de novo, só o necessário.
 
+Revisão 23/07: descobrimos que o Censo Escolar 2025 já traz NO_BAIRRO
+(99,9% preenchido em SP/RJ), NO_DISTRITO (100%) e LATITUDE/LONGITUDE (76,8%)
+direto na Tabela_Escola — sem precisar do workaround de geocodificação via
+ViaCEP (poliedro_11) para ter bairro. Passa a extrair também essas 4 colunas.
+
 Gera: data/raw/escolas_com_endereco.csv
 """
 
@@ -25,7 +30,10 @@ RAW_DIR = Path("data/raw")
 CAMINHO_ZIP = RAW_DIR / "microdados_censo_escolar_2025.zip"
 CAMINHO_CSV_NO_ZIP = "microdados_censo_escolar_2025/dados/Tabela_Escola_2025.csv"
 
-COLS_ENDERECO = ["CO_ENTIDADE", "DS_ENDERECO", "NU_ENDERECO", "CO_CEP", "NU_CNPJ_MANTENEDORA"]
+COLS_ENDERECO = [
+    "CO_ENTIDADE", "DS_ENDERECO", "NU_ENDERECO", "CO_CEP", "NU_CNPJ_MANTENEDORA",
+    "NO_BAIRRO", "NO_DISTRITO", "LATITUDE", "LONGITUDE",
+]
 
 
 def extrair_enderecos() -> pd.DataFrame:
@@ -44,8 +52,10 @@ def extrair_enderecos() -> pd.DataFrame:
 
 
 def exibir_resumo(df: pd.DataFrame) -> None:
-    com_cep = df["CO_CEP"].notna().sum()
-    print(f"[Sanity check] Escolas elegíveis com CEP: {com_cep:,} de {len(df):,} ({com_cep / len(df) * 100:.1f}%)")
+    total = len(df)
+    for col in ["CO_CEP", "NO_BAIRRO", "NO_DISTRITO", "LATITUDE", "LONGITUDE"]:
+        preenchido = df[col].notna().sum()
+        print(f"[Sanity check] Escolas elegíveis com {col}: {preenchido:,} de {total:,} ({preenchido / total * 100:.1f}%)")
 
 
 def main():
