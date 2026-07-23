@@ -23,8 +23,8 @@ Onde o Poliedro deveria construir share de prestígio: cidades e escolas privada
 - `gerar_apresentacao.js` — monta o .pptx a partir dos gráficos gerados pelo pipeline (Node.js + pptxgenjs).
 - `data/outputs/01_cidades_prioritarias.csv` — as 318 cidades elegíveis rankeadas (Top 10 = prioritárias).
 - `data/outputs/02_escolas_destaque_top3_cidades.csv` — Top 5 escolas em Belo Horizonte, Niterói e Vitória.
-- `data/outputs/04_golden_leads_segmentadas.csv` — as 840 Golden Leads (score ≥ 0,70) com tag de segmento comercial (Líder local / Desafiante / Outras posições / Sem comparação local). Exclui escolas do "Sistema S" (SESI/SENAI/SESC/SENAC) — usam sistema de ensino próprio, não são prospect comercial (ver `poliedro_09_icp_poliedro.py`).
-- `data/outputs/05_golden_leads_geocodificadas.csv` — as 161 Golden Leads das 10 cidades prioritárias com bairro (via CEP/ViaCEP) — gerado localmente (`poliedro_11_geocodificar_ceps.py`), não em ambiente sandbox.
+- `data/outputs/04_golden_leads_segmentadas.csv` — as 943 Golden Leads (score ≥ 0,70) com tag de segmento comercial (Líder local / Desafiante / Outras posições / Sem comparação local). Exclui escolas do "Sistema S" (SESI/SENAI/SESC/SENAC, via flag oficial do Censo) — usam sistema de ensino próprio, não são prospect comercial (ver `poliedro_09_icp_poliedro.py`). **Peso do `score_destaque` neste arquivo é PROVISÓRIO** (72% ENEM / 18% infra / 5% seletividade / 5% inclusão, revisão 23/07 pendente de validação com o time Poliedro — ver docstring de `poliedro_05b_score_destaque_nacional.py`); a resposta formal ao case (`02_escolas_destaque_top3_cidades.csv`) continua na fórmula original 60/40.
+- `data/outputs/05_golden_leads_geocodificadas.csv` — as 139 Golden Leads das 10 cidades prioritárias com bairro (via CEP/ViaCEP, gerado localmente). **Desatualizado pela descoberta de 23/07**: o Censo Escolar já traz `NO_BAIRRO` nativamente (87,4% de cobertura nacional, ver `data/raw/escolas_com_endereco.csv`) — o workaround de geocodificação por CEP não é mais necessário, mas `poliedro_11_geocodificar_ceps.py` ainda não foi atualizado pra usar a fonte nova (próximo passo).
 
 ## Como rodar do zero
 

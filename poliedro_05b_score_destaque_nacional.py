@@ -28,6 +28,41 @@ confiáveis é a comparação mais "maçã com maçã". Resultado: 869 Golden Le
 deck e no METODOLOGIA.md.
 
 Gera: data/outputs/funil_escolas_pontuadas.csv
+
+Revisão 23/07 (PROVISÓRIA — pendente de validação com o time Poliedro em
+próxima conversa técnica, não mude sem alinhar): pesos ajustados de 60/40
+(ENEM/infra) para 72/18/5/5 (ENEM/infra/seletividade/inclusão). Motivo:
+testamos com dado real (Santos, SP) que 40% em infra deixava a fórmula
+sensível demais a diferenças de infraestrutura mesmo quando o gap de ENEM
+era grande (ex.: escola com infra 5 e ENEM mediano ultrapassando escola com
+infra 4 e ENEM claramente melhor). 80/20 (ENEM/infra) mostrou comportamento
+mais estável nesse teste — infra decide empate real, não domina o ranking.
+Isso deixa 90% pra ENEM+infra na proporção 80/20 (=72/18) e reserva 10% pra
+dois critérios novos, cada um a 5% — peso propositalmente baixo porque ainda
+não sabemos se agregam sinal de verdade ou são ruído (ver METODOLOGIA.md):
+
+- **Seletividade** (`IN_EXAME_SELECAO`, Censo): escola faz exame de seleção
+  pra ingresso. Testamos: escolas com essa flag têm ENEM médio 614 vs 593
+  sem — diferença real mas moderada (~20 pontos), não um sinal fortíssimo.
+  Peso baixo reflete essa incerteza; pode ser reforçado por "sala vitrine"
+  (grupo curado via seleção) em vez de seletividade acadêmica de verdade.
+- **Inclusão** (`IN_SALA_ATENDIMENTO_ESPECIAL` + `IN_ACESSIBILIDADE_RAMPAS`,
+  Censo, índice 0-2): presença de estrutura de atendimento educacional
+  especializado e acessibilidade física. Não teria relação direta com
+  prestígio acadêmico — incluído a pedido do Gui como hipótese a testar,
+  peso baixo até decisão do time Poliedro sobre manter ou remover.
+
+`TP_AEE` foi descartado como critério: 98,4% das escolas elegíveis marcam
+"não oferece" — variância baixa demais pra discriminar (mesmo motivo que já
+tirou "internet" do score antigo). `IN_SALA_ATENDIMENTO_ESPECIAL` tem
+variância melhor (21% sim) e mede algo parecido, por isso foi o escolhido.
+
+Dispositivo do aluno (tablet/notebook/desktop) foi avaliado e DESCARTADO:
+ENEM médio praticamente igual com ou sem dispositivo (diferença de 5-8
+pontos, e desktop até inverte o sinal) — não discrimina qualidade. Também
+correlaciona forte com indice_infra (escolas com infra 4-5 têm tablet em
+45% dos casos vs 26% nas de infra 0-1), ou seja, mediria a mesma coisa que
+a infra já mede, sem sinal novo.
 """
 
 from pathlib import Path
@@ -38,14 +73,17 @@ import pandas as pd
 RAW_DIR = Path("data/raw")
 OUT_DIR = Path("data/outputs")
 
-PESO_ENEM = 0.60
-PESO_INFRA = 0.40
+PESO_ENEM = 0.72
+PESO_INFRA = 0.18
+PESO_SELETIVIDADE = 0.05
+PESO_INCLUSAO = 0.05
 MIN_PARTICIPANTES_CONFIAVEL = 10
 
 COLS_INFRA = [
     "IN_LABORATORIO_CIENCIAS", "IN_LABORATORIO_INFORMATICA",
     "IN_BIBLIOTECA", "IN_QUADRA_ESPORTES_COBERTA", "IN_AUDITORIO",
 ]
+COLS_INCLUSAO = ["IN_SALA_ATENDIMENTO_ESPECIAL", "IN_ACESSIBILIDADE_RAMPAS"]
 
 
 def carregar_base_escolas_com_enem() -> pd.DataFrame:
@@ -76,23 +114,27 @@ def calcular_score_destaque(escolas: pd.DataFrame) -> pd.DataFrame:
     já publicados no deck.
     """
     df = escolas.copy()
-    for col in COLS_INFRA:
+    for col in COLS_INFRA + COLS_INCLUSAO + ["IN_EXAME_SELECAO"]:
         df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0)
     df["indice_infra"] = df[COLS_INFRA].sum(axis=1)
+    df["indice_inclusao"] = df[COLS_INCLUSAO].sum(axis=1)
 
     df["confiavel_enem"] = df["qtd_participantes_enem"].fillna(0) >= MIN_PARTICIPANTES_CONFIAVEL
 
-    df["percentil_enem"] = np.nan
-    df.loc[df["confiavel_enem"], "percentil_enem"] = (
-        df.loc[df["confiavel_enem"], "enem_media_geral"].rank(pct=True)
-    )
-    df["percentil_infra"] = np.nan
-    df.loc[df["confiavel_enem"], "percentil_infra"] = (
-        df.loc[df["confiavel_enem"], "indice_infra"].rank(pct=True)
-    )
+    for origem, destino in [
+        ("enem_media_geral", "percentil_enem"),
+        ("indice_infra", "percentil_infra"),
+        ("indice_inclusao", "percentil_inclusao"),
+        ("IN_EXAME_SELECAO", "percentil_seletividade"),
+    ]:
+        df[destino] = np.nan
+        df.loc[df["confiavel_enem"], destino] = df.loc[df["confiavel_enem"], origem].rank(pct=True)
 
     df["score_destaque"] = (
-        df["percentil_enem"] * PESO_ENEM + df["percentil_infra"] * PESO_INFRA
+        df["percentil_enem"] * PESO_ENEM
+        + df["percentil_infra"] * PESO_INFRA
+        + df["percentil_seletividade"] * PESO_SELETIVIDADE
+        + df["percentil_inclusao"] * PESO_INCLUSAO
     ).round(4)
 
     return df

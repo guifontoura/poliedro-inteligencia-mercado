@@ -9,11 +9,13 @@ de planilha ou slide fixo. Isso já monta o essencial em ~20-30min.
 Rode `python poliedro_14_consolidar_dataset_powerbi.py` (depende dos passos 01,
 04, 09 e 11 já terem rodado). Gera duas tabelas:
 
-- `data/outputs/14_escolas_powerbi.csv` — 840 Golden Leads, 1 linha por escola,
+- `data/outputs/14_escolas_powerbi.csv` — 943 Golden Leads, 1 linha por escola,
   com cidade, UF, segmento comercial, score, e bairro/CEP onde já geocodificado
-  (161 das 840 — as demais ficam em branco nessas duas colunas, não é erro).
+  (139 das 943 — as demais ficam em branco nessas duas colunas, não é erro).
   Não inclui escolas do "Sistema S" (SESI/SENAI/SESC/SENAC) — usam sistema de
-  ensino próprio, não são prospect comercial.
+  ensino próprio, não são prospect comercial. Peso do score_destaque aqui é
+  PROVISÓRIO (72/18/5/5 — ENEM/infra/seletividade/inclusão), pendente de
+  validação com o time Poliedro.
 - `data/outputs/14_cidades_powerbi.csv` — as 318 cidades do recorte, com
   `rank_cidade` e uma coluna `top10` (verdadeiro/falso) pra filtrar rápido.
 
@@ -44,9 +46,9 @@ porque o tipo da coluna já ficou gravado errado na consulta antiga.
 Na visualização **Relatório**, monte esta grade:
 
 **Linha 1 — Cartões KPI** (visual "Cartão"):
-- Contagem de linhas de `14_escolas_powerbi` = **840** (total Golden Leads)
-- Filtre uma cópia por `segmento_comercial = Líder local` → **186**
-- Filtre outra por `segmento_comercial = Desafiante (2º-5º local)` → **319**
+- Contagem de linhas de `14_escolas_powerbi` = **943** (total Golden Leads)
+- Filtre uma cópia por `segmento_comercial = Líder local` → **201**
+- Filtre outra por `segmento_comercial = Desafiante (2º-5º local)` → **356**
 
 **Linha 2 — Gráfico de barras** ("Gráfico de Colunas Clusterizadas"):
 - Eixo: `nome_municipio_ibge` (tabela cidades), filtrado por `top10 = Verdadeiro`

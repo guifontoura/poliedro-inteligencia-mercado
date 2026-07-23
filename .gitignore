@@ -8,6 +8,7 @@ package-lock.json
 
 # Material de uso pessoal para a entrevista, não faz parte da entrega técnica
 Roteiro_Apresentacao_Oral.md
+Roteiro_Apresentacao_Oral.pdf
 
 # Dados brutos grandes (baixe via poliedro_01_baixar_dados.py, não versionar binário)
 data/raw/*.zip

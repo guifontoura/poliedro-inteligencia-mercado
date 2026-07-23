@@ -44,7 +44,6 @@ frágil por nome+município que o poliedro_11 fazia antes.
 Gera: data/outputs/04_golden_leads_segmentadas.csv
 """
 
-import re
 from pathlib import Path
 
 import pandas as pd
@@ -60,7 +59,14 @@ MIN_ESCOLAS_CONFIAVEIS_PARA_RANK = 3
 # próprio (ex.: Sistema SESI-SP de Ensino) — não são prospect de um sistema
 # de ensino licenciado como o Poliedro, então não fazem sentido na lista
 # comercial de Golden Leads, mesmo pontuando bem no score acadêmico/infra.
-PADRAO_SISTEMA_S = re.compile(r"\b(?:SESI|SENAI|SESC|SENAC)\b", re.IGNORECASE)
+#
+# Revisão 23/07: trocado de regex de nome pra flag oficial do Censo
+# (IN_MANT_ESCOLA_PRIVADA_SIST_S). Comparei os dois: a flag oficial pega 611
+# escolas contra 582 do regex — 40 são Sistema S "disfarçado" (nome genérico
+# tipo "Centro Educacional Memorina Rosa Campos", sem SESI/SENAI no nome, que
+# o regex não pegava) e 11 têm "SESI" no nome mas a flag não está marcada
+# (inconsistência de preenchimento da própria escola). Flag oficial é a fonte
+# mais confiável.
 
 
 def carregar_escolas_confiaveis() -> pd.DataFrame:
@@ -68,9 +74,12 @@ def carregar_escolas_confiaveis() -> pd.DataFrame:
     df = pd.read_csv(OUT_DIR / "funil_escolas_pontuadas.csv", dtype={"codigo_municipio": str})
     df = df[df["confiavel_enem"] == True].copy()
 
-    eh_sistema_s = df["NO_ENTIDADE"].str.contains(PADRAO_SISTEMA_S, regex=True, na=False)
-    print(f"[Filtro Sistema S] Removendo {eh_sistema_s.sum()} escolas SESI/SENAI/SESC/SENAC "
-          f"(sistema de ensino próprio, não são prospect comercial) antes do ranking.")
+    df["IN_MANT_ESCOLA_PRIVADA_SIST_S"] = pd.to_numeric(
+        df["IN_MANT_ESCOLA_PRIVADA_SIST_S"], errors="coerce"
+    ).fillna(0)
+    eh_sistema_s = df["IN_MANT_ESCOLA_PRIVADA_SIST_S"] == 1
+    print(f"[Filtro Sistema S] Removendo {eh_sistema_s.sum()} escolas (flag oficial "
+          f"IN_MANT_ESCOLA_PRIVADA_SIST_S do Censo — sistema de ensino próprio, não são prospect comercial).")
     return df[~eh_sistema_s].copy()
 
 
