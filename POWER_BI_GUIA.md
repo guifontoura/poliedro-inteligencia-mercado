@@ -10,12 +10,13 @@ Rode `python poliedro_14_consolidar_dataset_powerbi.py` (depende dos passos 01,
 04, 09 e 11 já terem rodado). Gera duas tabelas:
 
 - `data/outputs/14_escolas_powerbi.csv` — 943 Golden Leads, 1 linha por escola,
-  com cidade, UF, segmento comercial, score, e bairro/CEP onde já geocodificado
-  (139 das 943 — as demais ficam em branco nessas duas colunas, não é erro).
-  Não inclui escolas do "Sistema S" (SESI/SENAI/SESC/SENAC) — usam sistema de
-  ensino próprio, não são prospect comercial. Peso do score_destaque aqui é
-  PROVISÓRIO (72/18/5/5 — ENEM/infra/seletividade/inclusão), pendente de
-  validação com o time Poliedro.
+  com cidade, UF, segmento comercial, score, e bairro/distrito/lat-long
+  nativos do Censo Escolar (99,5% com bairro, 100% com distrito, 82% com
+  lat/long — atualizado 23/07, antes vinha de geocodificação por CEP e só
+  cobria 139 das 943). Não inclui escolas do "Sistema S" (SESI/SENAI/SESC/SENAC)
+  — usam sistema de ensino próprio, não são prospect comercial. Peso do
+  score_destaque aqui é PROVISÓRIO (72/18/5/5 — ENEM/infra/seletividade/
+  inclusão), pendente de validação com o time Poliedro.
 - `data/outputs/14_cidades_powerbi.csv` — as 318 cidades do recorte, com
   `rank_cidade` e uma coluna `top10` (verdadeiro/falso) pra filtrar rápido.
 
@@ -68,14 +69,15 @@ Na visualização **Relatório**, monte esta grade:
 Com isso, clicar em "SP" no slicer de UF já filtra o mapa de barras, a tabela
 e os cartões juntos — é exatamente o "sem depender de planilha" que o roadmap promete.
 
-## 5. Sobre o mapa geográfico (limitação atual)
+## 5. Sobre o mapa geográfico (atualizado 23/07)
 
-Não incluí um visual de mapa de pontos porque **não temos latitude/longitude**
-— só bairro (texto) e CEP. O visual "Mapa" do Power BI consegue plotar por UF
-(nome do estado) usando geocodificação automática do Bing, então dá pra fazer
-um mapa de calor por estado se quiser. Bairro no mapa de verdade só com
-lat/long — isso está no roadmap 3.0 (setor censitário IBGE via geopandas),
-ainda não feito.
+Agora dá pra fazer mapa de pontos de verdade: `14_escolas_powerbi.csv` já
+traz `LATITUDE`/`LONGITUDE` nativas do Censo (82% de cobertura). Use o visual
+"Mapa" ou "Mapa Densidade" do Power BI, campo "Local" = `LATITUDE`/`LONGITUDE`
+diretamente (não precisa geocodificação automática do Bing por nome). Cor por
+`segmento_comercial` e tamanho por `score_destaque` funcionam bem aqui. As
+18% sem lat/long (escolas onde o Censo não preencheu o campo) ficam de fora
+do mapa, mas continuam na tabela normalmente.
 
 ## 6. Estética (opcional)
 

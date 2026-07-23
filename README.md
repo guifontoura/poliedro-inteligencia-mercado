@@ -24,7 +24,8 @@ Onde o Poliedro deveria construir share de prestígio: cidades e escolas privada
 - `data/outputs/01_cidades_prioritarias.csv` — as 318 cidades elegíveis rankeadas (Top 10 = prioritárias).
 - `data/outputs/02_escolas_destaque_top3_cidades.csv` — Top 5 escolas em Belo Horizonte, Niterói e Vitória.
 - `data/outputs/04_golden_leads_segmentadas.csv` — as 943 Golden Leads (score ≥ 0,70) com tag de segmento comercial (Líder local / Desafiante / Outras posições / Sem comparação local). Exclui escolas do "Sistema S" (SESI/SENAI/SESC/SENAC, via flag oficial do Censo) — usam sistema de ensino próprio, não são prospect comercial (ver `poliedro_09_icp_poliedro.py`). **Peso do `score_destaque` neste arquivo é PROVISÓRIO** (72% ENEM / 18% infra / 5% seletividade / 5% inclusão, revisão 23/07 pendente de validação com o time Poliedro — ver docstring de `poliedro_05b_score_destaque_nacional.py`); a resposta formal ao case (`02_escolas_destaque_top3_cidades.csv`) continua na fórmula original 60/40.
-- `data/outputs/05_golden_leads_geocodificadas.csv` — as 139 Golden Leads das 10 cidades prioritárias com bairro (via CEP/ViaCEP, gerado localmente). **Desatualizado pela descoberta de 23/07**: o Censo Escolar já traz `NO_BAIRRO` nativamente (87,4% de cobertura nacional, ver `data/raw/escolas_com_endereco.csv`) — o workaround de geocodificação por CEP não é mais necessário, mas `poliedro_11_geocodificar_ceps.py` ainda não foi atualizado pra usar a fonte nova (próximo passo).
+- `data/outputs/05_golden_leads_geocodificadas.csv` — **obsoleto (23/07)**: era o bairro via CEP/ViaCEP das 139 Golden Leads nas 10 cidades prioritárias. `14_escolas_powerbi.csv` (passo 14) já traz bairro/distrito/lat-long nativos do Censo pras 943 Golden Leads inteiras (99,5% de cobertura) — esse arquivo e o `poliedro_11_geocodificar_ceps.py` que o gera não são mais necessários pro dado geográfico; mantidos só como histórico de como chegamos até a descoberta da fonte nativa.
+- `data/outputs/15_regioes_sp_rj.csv` — detalhamento por região dentro de São Paulo (distrito) e Rio de Janeiro (bairro — `NO_DISTRITO` é degenerado ali no Censo), com volume e ENEM ponderado por região, pedido pela recrutadora na entrevista de 23/07 (ver `poliedro_15_regioes_sp_rj.py`).
 
 ## Como rodar do zero
 
@@ -47,6 +48,7 @@ python poliedro_11_geocodificar_ceps.py      # opcional — geocodifica CEP → 
 python poliedro_12_graficos_cidades.py       # gráficos Top10 e dispersão (tema escuro) a partir de 01_cidades_prioritarias.csv
 python poliedro_13_detectar_salas_vitrine.py # bônus — detecta nacionalmente o padrão "sala vitrine" (generaliza o caso Farias Brito)
 python poliedro_14_consolidar_dataset_powerbi.py # roadmap 2.0 — consolida escolas+cidades num dataset pronto pra Power BI (ver POWER_BI_GUIA.md)
+python poliedro_15_regioes_sp_rj.py          # bônus — detalhamento por região (distrito em SP, bairro no RJ), pedido em entrevista
 
 npm install               # instala pptxgenjs (Node.js)
 node gerar_apresentacao.js  # monta Poliedro_Apresentacao_Completa.pptx a partir dos gráficos acima
