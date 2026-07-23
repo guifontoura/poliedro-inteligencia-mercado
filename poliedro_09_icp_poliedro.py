@@ -80,7 +80,21 @@ def carregar_escolas_confiaveis() -> pd.DataFrame:
     eh_sistema_s = df["IN_MANT_ESCOLA_PRIVADA_SIST_S"] == 1
     print(f"[Filtro Sistema S] Removendo {eh_sistema_s.sum()} escolas (flag oficial "
           f"IN_MANT_ESCOLA_PRIVADA_SIST_S do Censo — sistema de ensino próprio, não são prospect comercial).")
-    return df[~eh_sistema_s].copy()
+
+    # Achado 24/07: 4 escolas da PRÓPRIA rede Poliedro (Barra Funda/Perdizes-SP,
+    # Campinas Taquaral, Campinas Centro, São José dos Campos) estavam entrando
+    # como Golden Leads — o funil estava recomendando "vender o sistema
+    # Poliedro" pra escolas que já SÃO Poliedro. Confirmado via endereço exato
+    # (ex.: "COLEGIO POLIEDRO DE EDUCACAO", Francisco Matarazzo 913, Barra
+    # Funda — bate com o endereço oficial da unidade própria no site do
+    # colégio). Filtro por nome (POLIEDRO no NO_ENTIDADE) — nacional, não é
+    # regex frágil: são só 5 escolas no Brasil todo com esse nome, e todas
+    # batem com endereço de unidade própria/franquia confirmada.
+    eh_poliedro = df["NO_ENTIDADE"].str.contains("POLIEDRO", case=False, na=False)
+    print(f"[Filtro Rede Própria] Removendo {eh_poliedro.sum()} escolas com 'Poliedro' no nome "
+          f"(unidades próprias/franquia — já são Poliedro, não são prospect comercial).")
+
+    return df[~eh_sistema_s & ~eh_poliedro].copy()
 
 
 def calcular_rank_municipal(df: pd.DataFrame) -> pd.DataFrame:

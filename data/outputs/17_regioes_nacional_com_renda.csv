@@ -270,7 +270,7 @@ codigo_municipio;nome_municipio_ibge;uf;nivel_regiao;regiao;qtd_escolas_confiave
 2504009;Campina Grande;PB;bairro;TRES IRMAS;1;54;616,9;1;False;0;exato;1951,39;1212,0
 2504009;Campina Grande;PB;bairro;CENTRO;2;186;668,4;3;False;1;sem_match;;
 3509502;Campinas;SP;distrito;Barão Geraldo;2;120;645,0;2;False;1;exato;6891,19;4000,0
-3509502;Campinas;SP;distrito;Campinas;35;1791;605,8;47;True;6;exato;5247,76;3000,0
+3509502;Campinas;SP;distrito;Campinas;35;1791;605,8;47;True;4;exato;5247,76;3000,0
 5002704;Campo Grande;MS;bairro;CHACARA CACHOEIRA;2;129;626,0;2;False;1;exato;12280,66;10000,0
 5002704;Campo Grande;MS;bairro;JARDIM DOS ESTADOS;5;256;631,4;5;True;2;exato;14026,8;10000,0
 5002704;Campo Grande;MS;bairro;SANTA FÉ;1;53;674,5;1;False;1;exato;12389,92;9000,0
@@ -1510,7 +1510,7 @@ codigo_municipio;nome_municipio_ibge;uf;nivel_regiao;regiao;qtd_escolas_confiave
 3549904;São José dos Campos;SP;bairro;BOSQUE DOS EUCALIPTOS;2;52;589,9;2;False;0;sem_match;;
 3549904;São José dos Campos;SP;bairro;EUGENIO DE MELLO;1;153;715,7;1;False;1;sem_match;;
 3549904;São José dos Campos;SP;bairro;JARDIM ALVORADA;1;88;705,8;1;False;1;sem_match;;
-3549904;São José dos Campos;SP;bairro;JARDIM ESPLANADA;3;503;673,3;3;True;2;sem_match;;
+3549904;São José dos Campos;SP;bairro;JARDIM ESPLANADA;3;503;673,3;3;True;1;sem_match;;
 3549904;São José dos Campos;SP;bairro;JARDIM ESPLANADA II;1;43;717,3;2;False;1;sem_match;;
 3549904;São José dos Campos;SP;bairro;JARDIM NOVA AMERICA;1;81;590,3;1;False;0;sem_match;;
 3549904;São José dos Campos;SP;bairro;JARDIM ORIENTE;2;65;559,5;2;False;0;sem_match;;
@@ -1545,7 +1545,7 @@ codigo_municipio;nome_municipio_ibge;uf;nivel_regiao;regiao;qtd_escolas_confiave
 3550308;São Paulo;SP;distrito;Jardim Paulista;2;237;677,9;6;False;1;exato;14796,54;10000,0
 3550308;São Paulo;SP;distrito;Pinheiros;3;120;635,5;7;True;1;exato;14085,28;10000,0
 3550308;São Paulo;SP;distrito;Vila Mariana;8;1044;701,8;9;True;6;exato;12782,2;9600,0
-3550308;São Paulo;SP;distrito;Barra Funda;3;212;643,3;5;True;2;exato;12448,29;8500,0
+3550308;São Paulo;SP;distrito;Barra Funda;3;212;643,3;5;True;1;exato;12448,29;8500,0
 3550308;São Paulo;SP;distrito;Campo Belo;5;115;668,6;7;True;1;exato;12282,9;8000,0
 3550308;São Paulo;SP;distrito;Morumbi;2;87;667,8;5;False;1;exato;13488,17;8000,0
 3550308;São Paulo;SP;distrito;Perdizes;6;234;638,1;9;True;1;exato;11667,22;8000,0
