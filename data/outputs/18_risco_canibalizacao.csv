@@ -1,0 +1,62 @@
+unidade_propria;escola_lead;cidade;bairro;segmento_comercial;score_destaque;distancia_km;risco_canibalizacao
+São José dos Campos (Jd. Esplanada);COLEGIO ANGLO ALANTE SAO JOSE DOS CAMPOS;São José dos Campos;JARDIM ESPLANADA;Desafiante (2º-5º local);0,8305;0,54;ALTO (<=3km)
+São José dos Campos (Jd. Esplanada);ALPHA LUMEN INSTITUTO;São José dos Campos;JARDIM ESPLANADA II;Outras posições;0,7597;0,56;ALTO (<=3km)
+Campinas (Taquaral);PROGRESSO CAMPINEIRO COLEGIO;Campinas;CAMBUI;Líder local;0,8922;1,25;ALTO (<=3km)
+São Paulo (Perdizes/Barra Funda);PENTAGONO COLEGIO UNIDADE CAIUBI;São Paulo;PERDIZES;Outras posições;0,8457;1,55;ALTO (<=3km)
+São Paulo (Perdizes/Barra Funda);EQUIPE COLEGIO;São Paulo;SANTA CECILIA;Outras posições;0,7378;1,9;ALTO (<=3km)
+São José dos Campos (Jd. Esplanada);INSTITUTO EDUCACIONAL IGUATEMY ESCOLA DE EI EF E EM;São José dos Campos;VILA ADYANA;Desafiante (2º-5º local);0,7814;1,92;ALTO (<=3km)
+São Paulo (Perdizes/Barra Funda);OBJETIVO CENTRO INTERESCOLAR UNIDADE POMPEIA;São Paulo;AGUA BRANCA;Outras posições;0,7024;2,27;ALTO (<=3km)
+São José dos Campos (Jd. Esplanada);COLEGIO PLANCK;São José dos Campos;JARDIM ALVORADA;Desafiante (2º-5º local);0,8011;2,52;ALTO (<=3km)
+São Paulo (Perdizes/Barra Funda);COLEGIO ANGLO SAO PAULO;São Paulo;VILA CLEMENTINO;Outras posições;0,784;2,98;ALTO (<=3km)
+Campinas (Taquaral);ASTHER COLEGIO;Campinas;JARDIM PARAISO;Desafiante (2º-5º local);0,779;3,77;MODERADO (3-6km)
+São Paulo (Perdizes/Barra Funda);DANTE ALIGHIERI COLEGIO;São Paulo;JARDIM PAULISTA;Desafiante (2º-5º local);0,9134;4,2;MODERADO (3-6km)
+Campinas (Taquaral);COLEGIO ELITECOL;Campinas;PARQUE RURAL FAZENDA SANTA CANDIDA;Desafiante (2º-5º local);0,773;4,37;MODERADO (3-6km)
+São Paulo (Perdizes/Barra Funda);OBJETIVO COLEGIO INTEGRADO;São Paulo;BELA VISTA;Líder local;0,9231;4,66;MODERADO (3-6km)
+São Paulo (Perdizes/Barra Funda);OBJETIVO CENTRO INTERESCOLAR UNIDADE PAULISTA;São Paulo;BELA VISTA;Outras posições;0,8314;4,66;MODERADO (3-6km)
+São Paulo (Perdizes/Barra Funda);COLEGIO SANTO IVO;São Paulo;ALTO DA LAPA;Outras posições;0,7977;4,81;MODERADO (3-6km)
+São Paulo (Perdizes/Barra Funda);OBJETIVO COLEGIO I UNIDADE PINHEIROS;São Paulo;PINHEIROS;Outras posições;0,7809;4,88;MODERADO (3-6km)
+Campinas (Taquaral);COMUNITARIA DE CAMPINAS ESCOLA;Campinas;PARQUE DA HIPICA;Desafiante (2º-5º local);0,7577;5,09;MODERADO (3-6km)
+São José dos Campos (Jd. Esplanada);INSPIRE COLEGIO;São José dos Campos;VILA TATETUBA;Desafiante (2º-5º local);0,8;5,25;MODERADO (3-6km)
+São Paulo (Perdizes/Barra Funda);IMPERATRIZ LEOPOLDINA COLEGIO;São Paulo;SANTANA;Outras posições;0,8235;6,04;baixo
+São Paulo (Perdizes/Barra Funda);NOSSA SENHORA DAS GRACAS ESCOLA;São Paulo;ITAIM BIBI;Outras posições;0,7262;6,09;baixo
+São Paulo (Perdizes/Barra Funda);BANDEIRANTES COLEGIO EFM;São Paulo;VILA MARIANA;Outras posições;0,8474;6,24;baixo
+São Paulo (Perdizes/Barra Funda);BENJAMIN CONSTANT COLEGIO;São Paulo;VILA MARIANA;Outras posições;0,7354;6,42;baixo
+São Paulo (Perdizes/Barra Funda);ETAPA COLEGIO DE EFM;São Paulo;VILA MARIANA;Outras posições;0,8682;6,6;baixo
+São Paulo (Perdizes/Barra Funda);ETAPA III COLEGIO;São Paulo;VILA MARIANA;Outras posições;0,7667;6,61;baixo
+São Paulo (Perdizes/Barra Funda);JARDIM SAO PAULO COLEGIO;São Paulo;JARDIM SAO PAULO;Outras posições;0,8703;6,72;baixo
+Campinas (Taquaral);RIO BRANCO COLEGIO;Campinas;BARAO GERALDO;Desafiante (2º-5º local);0,816;6,92;baixo
+São Paulo (Perdizes/Barra Funda);ESCOLA NOVA LOURENCO UNIDADE IV;São Paulo;VILA NOVA CONCEICAO;Outras posições;0,7656;7,01;baixo
+São Paulo (Perdizes/Barra Funda);BEACON SCHOOL;São Paulo;VILA LEOPOLDINA;Outras posições;0,8619;7,27;baixo
+São Paulo (Perdizes/Barra Funda);MIRANDA COLEGIO DE EIFM;São Paulo;VILA MARIA EUGENIA;Outras posições;0,7883;7,7;baixo
+São Paulo (Perdizes/Barra Funda);ESCOLA CARANDA VIVA VIDA;São Paulo;MIRANDOPOLIS;Outras posições;0,779;7,79;baixo
+São Paulo (Perdizes/Barra Funda);DOM BOSCO COLEGIO UNID III;São Paulo;PARQUE MANDAQUI;Outras posições;0,7321;7,89;baixo
+São Paulo (Perdizes/Barra Funda);MOBILE COLEGIO;São Paulo;VILA NOVA CONCEICAO;Desafiante (2º-5º local);0,8975;7,92;baixo
+São Paulo (Perdizes/Barra Funda);PIONEIRO CENTRO EDUCACIONAL;São Paulo;VILA CLEMENTINO;Outras posições;0,7499;8,66;baixo
+São Paulo (Perdizes/Barra Funda);VITAL BRAZIL COLEGIO;São Paulo;VILA BUTANTA;Outras posições;0,7517;8,75;baixo
+São Paulo (Perdizes/Barra Funda);MIGUEL DE CERVANTES COLEGIO;São Paulo;VILA PROGREDIOR;Outras posições;0,8812;8,75;baixo
+São Paulo (Perdizes/Barra Funda);NOSSA SENHORA DO ROSARIO COLEGIO;São Paulo;VILA MARIANA;Outras posições;0,8838;8,99;baixo
+São Paulo (Perdizes/Barra Funda);OBJETIVO CENTRO INTERESCOLAR UNIDADE IPIRANGA;São Paulo;IPIRANGA;Outras posições;0,7199;9,12;baixo
+São Paulo (Perdizes/Barra Funda);FUTURO ESCOLA DO;São Paulo;VILA SAO FRANCISCO;Outras posições;0,7264;9,21;baixo
+São Paulo (Perdizes/Barra Funda);JARDIM SAO PAULO UNIDADE TREMEMBE COLEGIO;São Paulo;TUCURUVI;Outras posições;0,7776;9,27;baixo
+São Paulo (Perdizes/Barra Funda);AUGUSTO LARANJA COLEGIO UNIDADE I;São Paulo;INDIANOPOLIS;Desafiante (2º-5º local);0,9132;9,46;baixo
+São Paulo (Perdizes/Barra Funda);VERTICE COLEGIO UNIDADE II;São Paulo;CAMPO BELO;Outras posições;0,855;9,92;baixo
+São Paulo (Perdizes/Barra Funda);STOCKLER COLEGIO;São Paulo;BROOKLIN PAULISTA;Outras posições;0,7687;10,68;baixo
+São Paulo (Perdizes/Barra Funda);BEATISSIMA VIRGEM MARIA INSTITUTO DE EDUCACAO;São Paulo;SANTO AMARO;Outras posições;0,741;10,68;baixo
+São Paulo (Perdizes/Barra Funda);COLEGIO FRANCISCANO PIOXII;São Paulo;FAZENDA MORUMBI;Desafiante (2º-5º local);0,8981;11,07;baixo
+São Paulo (Perdizes/Barra Funda);ESCOLA DA VILA VILA DAS JUVENTUDES;São Paulo;BUTANTA;Outras posições;0,7857;11,25;baixo
+São Paulo (Perdizes/Barra Funda);ALBERT SABIN COLEGIO;São Paulo;PARQUE DOS PRINCIPES;Outras posições;0,8544;11,63;baixo
+São Paulo (Perdizes/Barra Funda);OBJETIVO CENTRO INTERESCOLAR UNIDADE PAZ;São Paulo;SANTO AMARO;Outras posições;0,721;11,88;baixo
+São Paulo (Perdizes/Barra Funda);ESCOLA BILINGUE PUERI DOMUS UNIDADE I VERBO DIVINO;São Paulo;CHACARA SANTO ANTONIO ZONA SUL;Outras posições;0,7492;12,27;baixo
+São Paulo (Perdizes/Barra Funda);PENHENSE ESCOLA ESP;São Paulo;PENHA DE FRANCA;Outras posições;0,7385;12,42;baixo
+São Paulo (Perdizes/Barra Funda);ELVIRA BRANDAO COLEGIO;São Paulo;JARDIM CARAVELAS;Outras posições;0,7017;12,57;baixo
+São Paulo (Perdizes/Barra Funda);DOMINUS VIVENDI COLEGIO EIFM;São Paulo;VILA MASCOTE;Outras posições;0,7269;13,28;baixo
+São Paulo (Perdizes/Barra Funda);PENTAGONO COLEGIO UNIDADE MORUMBI;São Paulo;VILA ANDRADE;Outras posições;0,7565;13,31;baixo
+São Paulo (Perdizes/Barra Funda);SUICO BRASILEIRA SAO PAULO ESCOLA;São Paulo;JARDIM DOS ESTADOS;Outras posições;0,7342;13,35;baixo
+São Paulo (Perdizes/Barra Funda);BRASILIA DE SAO PAULO COLEGIO;São Paulo;VILA FORMOSA;Outras posições;0,865;13,61;baixo
+São Paulo (Perdizes/Barra Funda);MAGNO COLEGIO;São Paulo;PARQUE RESIDENCIAL JULIA;Outras posições;0,8183;14,86;baixo
+São Paulo (Perdizes/Barra Funda);INSTITUTO DE ENSINO NOVO DINAMICO;São Paulo;SITIO PINHEIRINHO;Outras posições;0,7763;15,13;baixo
+São Paulo (Perdizes/Barra Funda);COLEGIO MAGISTER;São Paulo;JARDIM TAQUARAL;Outras posições;0,7463;15,61;baixo
+São José dos Campos (Jd. Esplanada);EMBRAER JUAREZ WANDERLEY COLEGIO;São José dos Campos;EUGENIO DE MELLO;Líder local;0,9396;17,0;baixo
+São Paulo (Perdizes/Barra Funda);PERSPECTIVA ESCOLA;São Paulo;VILA FAZZEONI;Outras posições;0,7201;18,97;baixo
+São Paulo (Perdizes/Barra Funda);ARGUMENTO COLEGIO;São Paulo;VILA ROBERTINA;Outras posições;0,7857;20,68;baixo
+São Paulo (Perdizes/Barra Funda);COLEGIO SANTA VIRGINIA;São Paulo;ITAQUERA;Outras posições;0,7509;24,72;baixo
