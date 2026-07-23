@@ -1,14 +1,20 @@
 """
 Case Poliedro — Passo 15 (bônus, pedido pela recrutadora na entrevista de
 23/07: "SP e RJ são praças importantes, como delimitar range de influência
-por região?"): DETALHAMENTO POR DISTRITO EM SÃO PAULO E RIO DE JANEIRO.
+por região?"): DETALHAMENTO REGIONAL EM SÃO PAULO E RIO DE JANEIRO.
 
-Por que distrito, não bairro: testamos os dois. Bairro é mais granular (o
-nome que a família reconhece), mas em muitos casos tem só 1-2 escolas —
-ranking com amostra tão pequena é ruído, não sinal (mesmo problema que já
-motivou o piso de 10 participantes ENEM pra "confiável" em outras partes do
-projeto). Distrito é a divisão administrativa oficial (96 em São Paulo, mais
-grosseira, mas estatisticamente mais estável).
+Nome do arquivo revisado (23/07, feedback do Gui): "distrito" não descreve
+bem o que o script faz — só São Paulo usa distrito como unidade; Rio de
+Janeiro usa bairro. "Regiões" é o nome correto e genérico, já que a unidade
+de agregação varia por cidade (ver abaixo o motivo).
+
+Por que a unidade varia por cidade: testamos distrito e bairro nas duas.
+Bairro é mais granular (o nome que a família reconhece), mas em muitos casos
+tem só 1-2 escolas — ranking com amostra tão pequena é ruído, não sinal
+(mesmo problema que já motivou o piso de 10 participantes ENEM pra
+"confiável" em outras partes do projeto). Distrito é a divisão administrativa
+oficial, mais grosseira, estatisticamente mais estável — seria a escolha
+padrão se estivesse disponível em ambas as cidades.
 
 Descoberta ao rodar (23/07): São Paulo e Rio de Janeiro NÃO têm a mesma
 estrutura no Censo. São Paulo tem `NO_DISTRITO` de verdade (88 distritos
@@ -18,7 +24,8 @@ ali. Então o script usa **distrito pra São Paulo e bairro pra Rio de
 Janeiro** (122 bairros distintos, 100% preenchido) — não foi escolha, foi
 constatação: é a única granularidade que a fonte primária realmente oferece
 pra cada cidade. Cada linha do CSV de saída tem uma coluna `granularidade`
-avisando qual das duas está sendo usada.
+avisando qual das duas está sendo usada, pra deixar isso explícito (não
+escondido) em qualquer visual que consumir esse dado.
 
 Limitação importante (documentada, não escondida): o score_priorizacao da
 Parte 1 usa 3 componentes (40% renda, 30% volume, 30% ENEM). Aqui só
@@ -26,8 +33,8 @@ conseguimos volume + ENEM — renda domiciliar per capita do IBGE (Tabela
 10296) só existe no nível de município, não de distrito/bairro. Por isso
 este script NÃO gera um "score" único comparável ao score_priorizacao — mostra
 os dois componentes disponíveis lado a lado, sem forçar um peso artificial
-pro terceiro que não temos. Renda por distrito é o próximo passo (setor
-censitário IBGE, roadmap 3.0).
+pro terceiro que não temos. Renda por região é o próximo passo (setor
+censitário IBGE, roadmap 3.0, ver poliedro_16).
 
 Teste de sanidade (23/07): comparamos os distritos de maior ENEM ponderado
 em São Paulo com a média da cidade #1 do ranking nacional (Belo Horizonte,
@@ -35,7 +42,7 @@ em São Paulo com a média da cidade #1 do ranking nacional (Belo Horizonte,
 Horizonte inteira — evidência concreta de que o score de São Paulo (29º
 lugar nacional) é diluição de escala, não fraqueza real da praça.
 
-Gera: data/outputs/15_distritos_sp_rj.csv
+Gera: data/outputs/15_regioes_sp_rj.csv
 """
 
 from pathlib import Path
@@ -51,7 +58,7 @@ MIN_PARTICIPANTES_CONFIAVEL = 10
 
 
 def carregar_escolas_sp_rj() -> pd.DataFrame:
-    """Escolas elegíveis de SP e RJ, com distrito/bairro e médias ENEM."""
+    """Escolas elegíveis de SP e RJ, com região (distrito ou bairro, a depender da cidade) e médias ENEM."""
     end = pd.read_csv(RAW_DIR / "escolas_com_endereco.csv", dtype={"codigo_municipio": str})
     end = end[end["codigo_municipio"].isin(MUNICIPIOS_ALVO)].copy()
     end["cidade"] = end["codigo_municipio"].map(MUNICIPIOS_ALVO)
@@ -63,12 +70,12 @@ def carregar_escolas_sp_rj() -> pd.DataFrame:
     )
     end["confiavel_enem"] = end["qtd_participantes_enem"].fillna(0) >= MIN_PARTICIPANTES_CONFIAVEL
 
-    # Descoberta 23/07: NO_DISTRITO é degenerado no Rio de Janeiro (100% das
-    # escolas caem em "Rio de Janeiro", 1 valor só) — o campo simplesmente não
-    # é subdividido ali no Censo. Em São Paulo, NO_DISTRITO é real (88
-    # distritos distintos). Então usamos uma unidade de agregação por cidade:
-    # distrito pra São Paulo, bairro pra Rio de Janeiro — e marcamos qual é
-    # qual numa coluna própria, pra não escondermos a diferença de fonte.
+    # NO_DISTRITO é degenerado no Rio de Janeiro (100% das escolas caem em
+    # "Rio de Janeiro", 1 valor só) — o campo simplesmente não é subdividido
+    # ali no Censo. Em São Paulo, NO_DISTRITO é real (88 distritos
+    # distintos). Então usamos uma unidade de agregação por cidade: distrito
+    # pra São Paulo, bairro pra Rio de Janeiro — e marcamos qual é qual numa
+    # coluna própria, pra não escondermos a diferença de fonte.
     end["granularidade"] = end["cidade"].map({"São Paulo": "distrito", "Rio de Janeiro": "bairro"})
     end["regiao"] = end["NO_DISTRITO"].where(end["cidade"] == "São Paulo", end["NO_BAIRRO"])
     return end
@@ -133,8 +140,8 @@ def main():
 
     exibir_resumo(dist)
     dist = dist.sort_values(["cidade", "enem_ponderado"], ascending=[True, False])
-    dist.to_csv(OUT_DIR / "15_distritos_sp_rj.csv", index=False)
-    print(f"\n[✓] Salvo em {OUT_DIR / '15_distritos_sp_rj.csv'}")
+    dist.to_csv(OUT_DIR / "15_regioes_sp_rj.csv", index=False)
+    print(f"\n[✓] Salvo em {OUT_DIR / '15_regioes_sp_rj.csv'}")
 
 
 if __name__ == "__main__":
