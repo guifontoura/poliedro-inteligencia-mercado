@@ -1,176 +1,176 @@
-cidade,granularidade,regiao,qtd_escolas_confiaveis,qtd_participantes_enem,enem_ponderado,qtd_escolas_elegiveis,amostra_significativa,rank_enem_na_cidade,rank_volume_na_cidade,qtd_golden_leads
-Rio de Janeiro,bairro,FREGUESIA (ILHA DO GOVERNADOR),1,29,716.2,1,False,1.0,60.0,1
-Rio de Janeiro,bairro,CENTRO,3,187,701.9,4,True,2.0,27.0,2
-Rio de Janeiro,bairro,OSWALDO CRUZ,1,68,691.7,2,False,3.0,45.0,1
-Rio de Janeiro,bairro,LEBLON,2,219,688.3,2,False,4.0,45.0,2
-Rio de Janeiro,bairro,JACAREPAGUÁ,1,39,677.8,3,False,5.0,34.0,1
-Rio de Janeiro,bairro,HUMAITÁ,1,45,677.4,1,False,6.0,60.0,1
-Rio de Janeiro,bairro,JOÁ,1,20,665.2,1,False,7.0,60.0,1
-Rio de Janeiro,bairro,ANIL,3,84,663.3,4,True,8.0,27.0,2
-Rio de Janeiro,bairro,URCA,2,94,658.6,3,False,9.0,34.0,1
-Rio de Janeiro,bairro,GAVEA,3,165,657.3,3,True,10.0,34.0,2
-Rio de Janeiro,bairro,LARANJEIRAS,5,238,657.2,7,True,11.0,16.0,4
-Rio de Janeiro,bairro,BARRA DA TIJUCA,26,1282,657.0,36,True,12.0,1.0,16
-Rio de Janeiro,bairro,MANGUINHOS,1,43,651.7,1,False,13.0,60.0,1
-Rio de Janeiro,bairro,PECHINCHA,5,371,647.4,7,True,14.0,16.0,2
-Rio de Janeiro,bairro,JARDIM CARIOCA,3,114,645.3,5,True,15.0,24.0,0
-Rio de Janeiro,bairro,BOTAFOGO,12,468,644.1,16,True,16.0,6.0,6
-Rio de Janeiro,bairro,CATETE,1,18,643.2,1,False,17.0,60.0,1
-Rio de Janeiro,bairro,ITANHANGÁ,2,41,634.6,3,False,18.0,34.0,2
-Rio de Janeiro,bairro,TIJUCA,13,952,634.3,22,True,19.0,4.0,6
-Rio de Janeiro,bairro,MARACANÃ,7,300,630.4,8,True,20.0,15.0,3
-Rio de Janeiro,bairro,RAMOS,1,50,630.2,3,False,21.0,34.0,1
-Rio de Janeiro,bairro,FREGUESIA (JACAREPAGUÁ),10,466,624.1,10,True,22.0,11.0,3
-Rio de Janeiro,bairro,RECREIO DOS BANDEIRANTES,24,811,623.6,30,True,23.0,3.0,7
-Rio de Janeiro,bairro,IPANEMA,2,56,623.4,2,False,24.0,45.0,1
-Rio de Janeiro,bairro,COPACABANA,5,129,621.6,7,True,25.0,16.0,1
-Rio de Janeiro,bairro,SANTA TERESA,1,25,613.8,1,False,26.0,60.0,0
-Rio de Janeiro,bairro,MÉIER,8,280,611.1,12,True,27.0,7.0,2
-Rio de Janeiro,bairro,JARDIM GUANABARA,7,183,607.9,11,True,28.0,9.0,3
-Rio de Janeiro,bairro,COLÉGIO,1,48,607.3,1,False,29.0,60.0,0
-Rio de Janeiro,bairro,PRAIA DA BANDEIRA,1,16,607.2,1,False,30.0,60.0,0
-Rio de Janeiro,bairro,JACAREPAGUA,3,79,605.8,4,True,31.0,27.0,0
-Rio de Janeiro,bairro,VILA KOSMOS,1,17,602.8,1,False,32.0,60.0,0
-Rio de Janeiro,bairro,CAMPINHO,1,10,602.3,1,False,33.0,60.0,0
-Rio de Janeiro,bairro,JARDIM SULACAP,1,14,600.4,1,False,34.0,60.0,0
-Rio de Janeiro,bairro,PORTUGUESA,1,45,599.2,1,False,35.0,60.0,0
-Rio de Janeiro,bairro,VILA ISABEL,3,95,596.7,6,True,36.0,20.0,0
-Rio de Janeiro,bairro,SÃO CONRADO,1,21,593.4,1,False,37.0,60.0,0
-Rio de Janeiro,bairro,VILA DA PENHA,8,296,590.8,9,True,38.0,13.0,0
-Rio de Janeiro,bairro,FLAMENGO,3,81,590.3,4,True,39.0,27.0,0
-Rio de Janeiro,bairro,PEDRA DE GUARATIBA,1,12,589.8,1,False,40.0,60.0,0
-Rio de Janeiro,bairro,MEIER,2,66,588.6,3,False,41.0,34.0,0
-Rio de Janeiro,bairro,MADUREIRA,9,404,586.8,12,True,42.0,7.0,2
-Rio de Janeiro,bairro,PILARES,4,54,585.2,6,True,43.0,20.0,0
-Rio de Janeiro,bairro,BENFICA,1,178,584.9,2,False,44.0,45.0,0
-Rio de Janeiro,bairro,VILA VALQUEIRE,2,150,581.8,2,False,45.0,45.0,0
-Rio de Janeiro,bairro,PENHA CIRCULAR,1,30,580.3,2,False,46.0,45.0,0
-Rio de Janeiro,bairro,GARDÊNIA AZUL,1,23,578.9,1,False,47.0,60.0,0
-Rio de Janeiro,bairro,CASCADURA,2,74,575.7,2,False,48.0,45.0,0
-Rio de Janeiro,bairro,TAQUARA,13,612,575.7,22,True,48.0,4.0,1
-Rio de Janeiro,bairro,ENGENHO NOVO,1,43,572.5,1,False,50.0,60.0,0
-Rio de Janeiro,bairro,CACHAMBI,3,186,572.2,3,True,51.0,34.0,0
-Rio de Janeiro,bairro,CAMPO GRANDE,23,809,571.2,33,True,52.0,2.0,2
-Rio de Janeiro,bairro,DEODORO,1,10,571.2,1,False,52.0,60.0,0
-Rio de Janeiro,bairro,SÃO CRISTÓVÃO,1,19,569.7,2,False,54.0,45.0,0
-Rio de Janeiro,bairro,JARDIM BOTANICO,1,13,567.9,1,False,55.0,60.0,0
-Rio de Janeiro,bairro,SENADOR CAMARA,1,15,565.9,1,False,56.0,60.0,0
-Rio de Janeiro,bairro,BANGU,6,296,561.5,11,True,57.0,9.0,0
-Rio de Janeiro,bairro,ROCHA MIRANDA,1,45,556.7,2,False,58.0,45.0,0
-Rio de Janeiro,bairro,MARACANA,1,14,555.7,1,False,59.0,60.0,0
-Rio de Janeiro,bairro,SEPETIBA,1,14,554.4,2,False,60.0,45.0,0
-Rio de Janeiro,bairro,TAUÁ,1,13,554.2,1,False,61.0,60.0,0
-Rio de Janeiro,bairro,COCOTÁ,2,39,554.0,2,False,62.0,45.0,0
-Rio de Janeiro,bairro,SANTA CRUZ,7,215,552.9,9,True,63.0,13.0,0
-Rio de Janeiro,bairro,CAMORIM,1,14,550.5,1,False,64.0,60.0,0
-Rio de Janeiro,bairro,GUARATIBA,3,88,549.7,6,True,65.0,20.0,0
-Rio de Janeiro,bairro,OLARIA,5,137,549.6,5,True,66.0,24.0,0
-Rio de Janeiro,bairro,PADRE MIGUEL,4,79,549.5,4,True,67.0,27.0,0
-Rio de Janeiro,bairro,BONSUCESSO,4,133,548.3,7,True,68.0,16.0,0
-Rio de Janeiro,bairro,HIGIENOPOLIS,1,10,547.3,2,False,69.0,45.0,0
-Rio de Janeiro,bairro,RICARDO DE ALBUQUERQUE,1,20,547.1,1,False,70.0,60.0,0
-Rio de Janeiro,bairro,CORDOVIL,1,22,545.0,3,False,71.0,34.0,0
-Rio de Janeiro,bairro,CURICICA,3,31,543.7,5,True,72.0,24.0,0
-Rio de Janeiro,bairro,REALENGO,8,267,542.7,10,True,73.0,11.0,0
-Rio de Janeiro,bairro,PARADA DE LUCAS,1,10,539.8,1,False,74.0,60.0,0
-Rio de Janeiro,bairro,GUADALUPE,1,64,538.7,4,False,75.0,27.0,0
-Rio de Janeiro,bairro,IRAJÁ,5,180,536.0,6,True,76.0,20.0,0
-Rio de Janeiro,bairro,SANTÍSSIMO,2,151,531.5,3,False,77.0,34.0,0
-Rio de Janeiro,bairro,MARECHAL HERMES,1,14,530.5,2,False,78.0,45.0,0
-Rio de Janeiro,bairro,ENGENHO DA RAINHA,1,13,530.1,1,False,79.0,60.0,0
-Rio de Janeiro,bairro,PRAÇA SECA,1,15,529.2,2,False,80.0,45.0,0
-Rio de Janeiro,bairro,PRACA SECA,1,15,524.8,3,False,81.0,34.0,0
-Rio de Janeiro,bairro,GALEÃO,2,30,524.6,3,False,82.0,34.0,0
-Rio de Janeiro,bairro,BRAS DE PINA,1,14,520.5,1,False,83.0,60.0,0
-Rio de Janeiro,bairro,INHOAIBA,1,15,519.9,1,False,84.0,60.0,0
-Rio de Janeiro,bairro,BENTO RIBEIRO,3,107,519.0,4,True,85.0,27.0,0
-Rio de Janeiro,bairro,ABOLIÇÃO,1,21,513.9,1,False,86.0,60.0,0
-Rio de Janeiro,bairro,PACIENCIA,1,24,511.5,2,False,87.0,45.0,0
-São Paulo,distrito,Vila Mariana,8,1044,701.8,9,True,1.0,22.0,6
-São Paulo,distrito,Moema,8,351,679.0,10,True,2.0,14.0,3
-São Paulo,distrito,Jardim Paulista,2,237,677.9,6,False,3.0,42.0,1
-São Paulo,distrito,Bela Vista,2,255,671.5,2,False,4.0,76.0,2
-São Paulo,distrito,Rio Pequeno,4,234,670.5,6,True,5.0,42.0,2
-São Paulo,distrito,Campo Belo,5,115,668.6,7,True,6.0,33.0,1
-São Paulo,distrito,Morumbi,2,87,667.8,5,False,7.0,52.0,1
-São Paulo,distrito,Vila Andrade,3,136,662.9,7,True,8.0,33.0,2
-São Paulo,distrito,Alto de Pinheiros,1,10,657.1,1,False,9.0,85.0,1
-São Paulo,distrito,Barra Funda,3,212,643.3,5,True,10.0,52.0,2
-São Paulo,distrito,Perdizes,6,234,638.1,9,True,11.0,22.0,1
-São Paulo,distrito,Pinheiros,3,120,635.5,7,True,12.0,33.0,1
-São Paulo,distrito,Butantã,11,426,635.3,11,True,13.0,11.0,2
-São Paulo,distrito,Itaim Bibi,5,180,631.4,10,True,14.0,14.0,2
-São Paulo,distrito,Vila Sônia,7,250,623.6,8,True,15.0,29.0,1
-São Paulo,distrito,Campo Grande,5,208,623.2,6,True,16.0,42.0,2
-São Paulo,distrito,Tremembé,3,104,617.6,4,True,17.0,60.0,1
-São Paulo,distrito,Consolação,2,100,617.5,3,False,18.0,69.0,0
-São Paulo,distrito,Saúde,6,257,614.0,7,True,19.0,33.0,2
-São Paulo,distrito,Santana,9,448,612.7,10,True,20.0,14.0,2
-São Paulo,distrito,Liberdade,4,433,608.4,5,True,21.0,52.0,0
-São Paulo,distrito,Vila Formosa,6,217,608.3,10,True,22.0,14.0,1
-São Paulo,distrito,Raposo Tavares,2,46,605.3,2,False,23.0,76.0,0
-São Paulo,distrito,Mandaqui,5,239,604.9,7,True,24.0,33.0,1
-São Paulo,distrito,Cursino,3,78,600.4,5,True,25.0,52.0,0
-São Paulo,distrito,Tatuapé,9,454,600.4,14,True,25.0,4.0,0
-São Paulo,distrito,Ermelino Matarazzo,8,353,600.3,9,True,27.0,22.0,1
-São Paulo,distrito,São Lucas,3,77,600.3,6,True,27.0,42.0,1
-São Paulo,distrito,Mooca,5,134,598.4,9,True,29.0,22.0,0
-São Paulo,distrito,Vila Jacuí,2,160,598.3,2,False,30.0,76.0,0
-São Paulo,distrito,Santa Cecília,3,74,596.2,4,True,31.0,60.0,1
-São Paulo,distrito,Jaraguá,5,285,595.1,6,True,32.0,42.0,0
-São Paulo,distrito,Vila Guilherme,2,93,594.9,2,False,33.0,76.0,0
-São Paulo,distrito,Água Rasa,4,123,593.9,9,True,34.0,22.0,0
-São Paulo,distrito,Itaim Paulista,4,97,593.7,6,True,35.0,42.0,0
-São Paulo,distrito,Ipiranga,4,217,592.6,10,True,36.0,14.0,1
-São Paulo,distrito,Socorro,3,74,590.0,5,True,37.0,52.0,0
-São Paulo,distrito,Cambuci,5,191,589.6,7,True,38.0,33.0,0
-São Paulo,distrito,Cidade Ademar,4,141,589.2,5,True,39.0,52.0,0
-São Paulo,distrito,Santo Amaro,16,1200,588.1,23,True,40.0,1.0,5
-São Paulo,distrito,Limão,5,147,587.4,6,True,41.0,42.0,0
-São Paulo,distrito,Cidade Dutra,10,351,587.1,13,True,42.0,6.0,0
-São Paulo,distrito,Jaguaré,1,19,584.9,1,False,43.0,85.0,0
-São Paulo,distrito,Carrão,6,175,584.5,10,True,44.0,14.0,0
-São Paulo,distrito,Jabaquara,9,338,583.6,12,True,45.0,8.0,1
-São Paulo,distrito,Pirituba,9,240,583.0,10,True,46.0,14.0,1
-São Paulo,distrito,Freguesia do Ó,9,236,580.1,12,True,47.0,8.0,0
-São Paulo,distrito,Tucuruvi,11,303,578.9,14,True,48.0,4.0,0
-São Paulo,distrito,Capão Redondo,6,405,578.0,8,True,49.0,29.0,1
-São Paulo,distrito,Casa Verde,6,144,577.5,10,True,50.0,14.0,0
-São Paulo,distrito,Vila Leopoldina,3,204,576.7,4,True,51.0,60.0,0
-São Paulo,distrito,Penha,12,377,576.5,13,True,52.0,6.0,1
-São Paulo,distrito,Vila Matilde,5,168,575.7,9,True,53.0,22.0,0
-São Paulo,distrito,Cidade Lider,3,64,575.6,4,True,54.0,60.0,0
-São Paulo,distrito,Sapopemba,2,70,575.6,2,False,54.0,76.0,0
-São Paulo,distrito,Aricanduva,4,89,575.2,7,True,56.0,33.0,0
-São Paulo,distrito,Pedreira,5,130,575.1,5,True,57.0,52.0,0
-São Paulo,distrito,Lapa,10,477,574.0,15,True,58.0,3.0,1
-São Paulo,distrito,Vila Medeiros,6,143,570.9,8,True,59.0,29.0,0
-São Paulo,distrito,São Mateus,9,227,570.0,11,True,60.0,11.0,0
-São Paulo,distrito,Pari,3,94,569.5,3,True,61.0,69.0,0
-São Paulo,distrito,Artur Alvim,6,249,568.7,7,True,62.0,33.0,0
-São Paulo,distrito,Itaquera,11,273,568.5,12,True,63.0,8.0,1
-São Paulo,distrito,Cangaiba,3,77,568.1,3,True,64.0,69.0,0
-São Paulo,distrito,Sacomã,10,224,565.9,11,True,65.0,11.0,0
-São Paulo,distrito,Belém,2,79,563.3,2,False,66.0,76.0,0
-São Paulo,distrito,São Miguel,12,363,562.7,18,True,67.0,2.0,0
-São Paulo,distrito,Parelheiros,1,28,561.3,1,False,68.0,85.0,0
-São Paulo,distrito,Vila Curuçá,2,23,560.8,3,False,69.0,69.0,0
-São Paulo,distrito,Lajeado,1,53,560.4,1,False,70.0,85.0,0
-São Paulo,distrito,Campo Limpo,8,298,559.3,8,True,71.0,29.0,0
-São Paulo,distrito,Sé,1,91,558.0,2,False,72.0,76.0,0
-São Paulo,distrito,Bom Retiro,2,40,557.8,6,False,73.0,42.0,0
-São Paulo,distrito,Ponte Rasa,3,77,556.7,5,True,74.0,52.0,0
-São Paulo,distrito,Vila Maria,6,163,556.1,7,True,75.0,33.0,0
-São Paulo,distrito,Vila Prudente,3,86,556.1,4,True,75.0,60.0,0
-São Paulo,distrito,São Rafael,3,77,554.9,4,True,77.0,60.0,0
-São Paulo,distrito,Guaianases,2,90,552.8,2,False,78.0,76.0,0
-São Paulo,distrito,Jardim Ângela,1,16,551.8,4,False,79.0,60.0,0
-São Paulo,distrito,Cachoeirinha,6,176,551.5,6,True,80.0,42.0,0
-São Paulo,distrito,Jaçanã,7,224,551.4,9,True,81.0,22.0,0
-São Paulo,distrito,Grajaú,3,58,545.5,6,True,82.0,42.0,0
-São Paulo,distrito,Iguatemi,2,25,544.9,4,False,83.0,60.0,0
-São Paulo,distrito,Anhanguera,1,27,539.7,2,False,84.0,76.0,0
-São Paulo,distrito,Parque do Carmo,3,67,539.0,3,True,85.0,69.0,0
-São Paulo,distrito,Brasilândia,1,17,534.2,3,False,86.0,69.0,0
-São Paulo,distrito,Jardim São Luís,2,50,528.8,3,False,87.0,69.0,0
-São Paulo,distrito,Cidade Tiradentes,2,38,512.3,4,False,88.0,60.0,0
+cidade;granularidade;regiao;qtd_escolas_confiaveis;qtd_participantes_enem;enem_ponderado;qtd_escolas_elegiveis;amostra_significativa;rank_enem_na_cidade;rank_volume_na_cidade;qtd_golden_leads
+Rio de Janeiro;bairro;FREGUESIA (ILHA DO GOVERNADOR);1;29;716,2;1;False;1,0;60,0;1
+Rio de Janeiro;bairro;CENTRO;3;187;701,9;4;True;2,0;27,0;2
+Rio de Janeiro;bairro;OSWALDO CRUZ;1;68;691,7;2;False;3,0;45,0;1
+Rio de Janeiro;bairro;LEBLON;2;219;688,3;2;False;4,0;45,0;2
+Rio de Janeiro;bairro;JACAREPAGUÁ;1;39;677,8;3;False;5,0;34,0;1
+Rio de Janeiro;bairro;HUMAITÁ;1;45;677,4;1;False;6,0;60,0;1
+Rio de Janeiro;bairro;JOÁ;1;20;665,2;1;False;7,0;60,0;1
+Rio de Janeiro;bairro;ANIL;3;84;663,3;4;True;8,0;27,0;2
+Rio de Janeiro;bairro;URCA;2;94;658,6;3;False;9,0;34,0;1
+Rio de Janeiro;bairro;GAVEA;3;165;657,3;3;True;10,0;34,0;2
+Rio de Janeiro;bairro;LARANJEIRAS;5;238;657,2;7;True;11,0;16,0;4
+Rio de Janeiro;bairro;BARRA DA TIJUCA;26;1282;657,0;36;True;12,0;1,0;16
+Rio de Janeiro;bairro;MANGUINHOS;1;43;651,7;1;False;13,0;60,0;1
+Rio de Janeiro;bairro;PECHINCHA;5;371;647,4;7;True;14,0;16,0;2
+Rio de Janeiro;bairro;JARDIM CARIOCA;3;114;645,3;5;True;15,0;24,0;0
+Rio de Janeiro;bairro;BOTAFOGO;12;468;644,1;16;True;16,0;6,0;6
+Rio de Janeiro;bairro;CATETE;1;18;643,2;1;False;17,0;60,0;1
+Rio de Janeiro;bairro;ITANHANGÁ;2;41;634,6;3;False;18,0;34,0;2
+Rio de Janeiro;bairro;TIJUCA;13;952;634,3;22;True;19,0;4,0;6
+Rio de Janeiro;bairro;MARACANÃ;7;300;630,4;8;True;20,0;15,0;3
+Rio de Janeiro;bairro;RAMOS;1;50;630,2;3;False;21,0;34,0;1
+Rio de Janeiro;bairro;FREGUESIA (JACAREPAGUÁ);10;466;624,1;10;True;22,0;11,0;3
+Rio de Janeiro;bairro;RECREIO DOS BANDEIRANTES;24;811;623,6;30;True;23,0;3,0;7
+Rio de Janeiro;bairro;IPANEMA;2;56;623,4;2;False;24,0;45,0;1
+Rio de Janeiro;bairro;COPACABANA;5;129;621,6;7;True;25,0;16,0;1
+Rio de Janeiro;bairro;SANTA TERESA;1;25;613,8;1;False;26,0;60,0;0
+Rio de Janeiro;bairro;MÉIER;8;280;611,1;12;True;27,0;7,0;2
+Rio de Janeiro;bairro;JARDIM GUANABARA;7;183;607,9;11;True;28,0;9,0;3
+Rio de Janeiro;bairro;COLÉGIO;1;48;607,3;1;False;29,0;60,0;0
+Rio de Janeiro;bairro;PRAIA DA BANDEIRA;1;16;607,2;1;False;30,0;60,0;0
+Rio de Janeiro;bairro;JACAREPAGUA;3;79;605,8;4;True;31,0;27,0;0
+Rio de Janeiro;bairro;VILA KOSMOS;1;17;602,8;1;False;32,0;60,0;0
+Rio de Janeiro;bairro;CAMPINHO;1;10;602,3;1;False;33,0;60,0;0
+Rio de Janeiro;bairro;JARDIM SULACAP;1;14;600,4;1;False;34,0;60,0;0
+Rio de Janeiro;bairro;PORTUGUESA;1;45;599,2;1;False;35,0;60,0;0
+Rio de Janeiro;bairro;VILA ISABEL;3;95;596,7;6;True;36,0;20,0;0
+Rio de Janeiro;bairro;SÃO CONRADO;1;21;593,4;1;False;37,0;60,0;0
+Rio de Janeiro;bairro;VILA DA PENHA;8;296;590,8;9;True;38,0;13,0;0
+Rio de Janeiro;bairro;FLAMENGO;3;81;590,3;4;True;39,0;27,0;0
+Rio de Janeiro;bairro;PEDRA DE GUARATIBA;1;12;589,8;1;False;40,0;60,0;0
+Rio de Janeiro;bairro;MEIER;2;66;588,6;3;False;41,0;34,0;0
+Rio de Janeiro;bairro;MADUREIRA;9;404;586,8;12;True;42,0;7,0;2
+Rio de Janeiro;bairro;PILARES;4;54;585,2;6;True;43,0;20,0;0
+Rio de Janeiro;bairro;BENFICA;1;178;584,9;2;False;44,0;45,0;0
+Rio de Janeiro;bairro;VILA VALQUEIRE;2;150;581,8;2;False;45,0;45,0;0
+Rio de Janeiro;bairro;PENHA CIRCULAR;1;30;580,3;2;False;46,0;45,0;0
+Rio de Janeiro;bairro;GARDÊNIA AZUL;1;23;578,9;1;False;47,0;60,0;0
+Rio de Janeiro;bairro;CASCADURA;2;74;575,7;2;False;48,0;45,0;0
+Rio de Janeiro;bairro;TAQUARA;13;612;575,7;22;True;48,0;4,0;1
+Rio de Janeiro;bairro;ENGENHO NOVO;1;43;572,5;1;False;50,0;60,0;0
+Rio de Janeiro;bairro;CACHAMBI;3;186;572,2;3;True;51,0;34,0;0
+Rio de Janeiro;bairro;CAMPO GRANDE;23;809;571,2;33;True;52,0;2,0;2
+Rio de Janeiro;bairro;DEODORO;1;10;571,2;1;False;52,0;60,0;0
+Rio de Janeiro;bairro;SÃO CRISTÓVÃO;1;19;569,7;2;False;54,0;45,0;0
+Rio de Janeiro;bairro;JARDIM BOTANICO;1;13;567,9;1;False;55,0;60,0;0
+Rio de Janeiro;bairro;SENADOR CAMARA;1;15;565,9;1;False;56,0;60,0;0
+Rio de Janeiro;bairro;BANGU;6;296;561,5;11;True;57,0;9,0;0
+Rio de Janeiro;bairro;ROCHA MIRANDA;1;45;556,7;2;False;58,0;45,0;0
+Rio de Janeiro;bairro;MARACANA;1;14;555,7;1;False;59,0;60,0;0
+Rio de Janeiro;bairro;SEPETIBA;1;14;554,4;2;False;60,0;45,0;0
+Rio de Janeiro;bairro;TAUÁ;1;13;554,2;1;False;61,0;60,0;0
+Rio de Janeiro;bairro;COCOTÁ;2;39;554,0;2;False;62,0;45,0;0
+Rio de Janeiro;bairro;SANTA CRUZ;7;215;552,9;9;True;63,0;13,0;0
+Rio de Janeiro;bairro;CAMORIM;1;14;550,5;1;False;64,0;60,0;0
+Rio de Janeiro;bairro;GUARATIBA;3;88;549,7;6;True;65,0;20,0;0
+Rio de Janeiro;bairro;OLARIA;5;137;549,6;5;True;66,0;24,0;0
+Rio de Janeiro;bairro;PADRE MIGUEL;4;79;549,5;4;True;67,0;27,0;0
+Rio de Janeiro;bairro;BONSUCESSO;4;133;548,3;7;True;68,0;16,0;0
+Rio de Janeiro;bairro;HIGIENOPOLIS;1;10;547,3;2;False;69,0;45,0;0
+Rio de Janeiro;bairro;RICARDO DE ALBUQUERQUE;1;20;547,1;1;False;70,0;60,0;0
+Rio de Janeiro;bairro;CORDOVIL;1;22;545,0;3;False;71,0;34,0;0
+Rio de Janeiro;bairro;CURICICA;3;31;543,7;5;True;72,0;24,0;0
+Rio de Janeiro;bairro;REALENGO;8;267;542,7;10;True;73,0;11,0;0
+Rio de Janeiro;bairro;PARADA DE LUCAS;1;10;539,8;1;False;74,0;60,0;0
+Rio de Janeiro;bairro;GUADALUPE;1;64;538,7;4;False;75,0;27,0;0
+Rio de Janeiro;bairro;IRAJÁ;5;180;536,0;6;True;76,0;20,0;0
+Rio de Janeiro;bairro;SANTÍSSIMO;2;151;531,5;3;False;77,0;34,0;0
+Rio de Janeiro;bairro;MARECHAL HERMES;1;14;530,5;2;False;78,0;45,0;0
+Rio de Janeiro;bairro;ENGENHO DA RAINHA;1;13;530,1;1;False;79,0;60,0;0
+Rio de Janeiro;bairro;PRAÇA SECA;1;15;529,2;2;False;80,0;45,0;0
+Rio de Janeiro;bairro;PRACA SECA;1;15;524,8;3;False;81,0;34,0;0
+Rio de Janeiro;bairro;GALEÃO;2;30;524,6;3;False;82,0;34,0;0
+Rio de Janeiro;bairro;BRAS DE PINA;1;14;520,5;1;False;83,0;60,0;0
+Rio de Janeiro;bairro;INHOAIBA;1;15;519,9;1;False;84,0;60,0;0
+Rio de Janeiro;bairro;BENTO RIBEIRO;3;107;519,0;4;True;85,0;27,0;0
+Rio de Janeiro;bairro;ABOLIÇÃO;1;21;513,9;1;False;86,0;60,0;0
+Rio de Janeiro;bairro;PACIENCIA;1;24;511,5;2;False;87,0;45,0;0
+São Paulo;distrito;Vila Mariana;8;1044;701,8;9;True;1,0;22,0;6
+São Paulo;distrito;Moema;8;351;679,0;10;True;2,0;14,0;3
+São Paulo;distrito;Jardim Paulista;2;237;677,9;6;False;3,0;42,0;1
+São Paulo;distrito;Bela Vista;2;255;671,5;2;False;4,0;76,0;2
+São Paulo;distrito;Rio Pequeno;4;234;670,5;6;True;5,0;42,0;2
+São Paulo;distrito;Campo Belo;5;115;668,6;7;True;6,0;33,0;1
+São Paulo;distrito;Morumbi;2;87;667,8;5;False;7,0;52,0;1
+São Paulo;distrito;Vila Andrade;3;136;662,9;7;True;8,0;33,0;2
+São Paulo;distrito;Alto de Pinheiros;1;10;657,1;1;False;9,0;85,0;1
+São Paulo;distrito;Barra Funda;3;212;643,3;5;True;10,0;52,0;2
+São Paulo;distrito;Perdizes;6;234;638,1;9;True;11,0;22,0;1
+São Paulo;distrito;Pinheiros;3;120;635,5;7;True;12,0;33,0;1
+São Paulo;distrito;Butantã;11;426;635,3;11;True;13,0;11,0;2
+São Paulo;distrito;Itaim Bibi;5;180;631,4;10;True;14,0;14,0;2
+São Paulo;distrito;Vila Sônia;7;250;623,6;8;True;15,0;29,0;1
+São Paulo;distrito;Campo Grande;5;208;623,2;6;True;16,0;42,0;2
+São Paulo;distrito;Tremembé;3;104;617,6;4;True;17,0;60,0;1
+São Paulo;distrito;Consolação;2;100;617,5;3;False;18,0;69,0;0
+São Paulo;distrito;Saúde;6;257;614,0;7;True;19,0;33,0;2
+São Paulo;distrito;Santana;9;448;612,7;10;True;20,0;14,0;2
+São Paulo;distrito;Liberdade;4;433;608,4;5;True;21,0;52,0;0
+São Paulo;distrito;Vila Formosa;6;217;608,3;10;True;22,0;14,0;1
+São Paulo;distrito;Raposo Tavares;2;46;605,3;2;False;23,0;76,0;0
+São Paulo;distrito;Mandaqui;5;239;604,9;7;True;24,0;33,0;1
+São Paulo;distrito;Cursino;3;78;600,4;5;True;25,0;52,0;0
+São Paulo;distrito;Tatuapé;9;454;600,4;14;True;25,0;4,0;0
+São Paulo;distrito;Ermelino Matarazzo;8;353;600,3;9;True;27,0;22,0;1
+São Paulo;distrito;São Lucas;3;77;600,3;6;True;27,0;42,0;1
+São Paulo;distrito;Mooca;5;134;598,4;9;True;29,0;22,0;0
+São Paulo;distrito;Vila Jacuí;2;160;598,3;2;False;30,0;76,0;0
+São Paulo;distrito;Santa Cecília;3;74;596,2;4;True;31,0;60,0;1
+São Paulo;distrito;Jaraguá;5;285;595,1;6;True;32,0;42,0;0
+São Paulo;distrito;Vila Guilherme;2;93;594,9;2;False;33,0;76,0;0
+São Paulo;distrito;Água Rasa;4;123;593,9;9;True;34,0;22,0;0
+São Paulo;distrito;Itaim Paulista;4;97;593,7;6;True;35,0;42,0;0
+São Paulo;distrito;Ipiranga;4;217;592,6;10;True;36,0;14,0;1
+São Paulo;distrito;Socorro;3;74;590,0;5;True;37,0;52,0;0
+São Paulo;distrito;Cambuci;5;191;589,6;7;True;38,0;33,0;0
+São Paulo;distrito;Cidade Ademar;4;141;589,2;5;True;39,0;52,0;0
+São Paulo;distrito;Santo Amaro;16;1200;588,1;23;True;40,0;1,0;5
+São Paulo;distrito;Limão;5;147;587,4;6;True;41,0;42,0;0
+São Paulo;distrito;Cidade Dutra;10;351;587,1;13;True;42,0;6,0;0
+São Paulo;distrito;Jaguaré;1;19;584,9;1;False;43,0;85,0;0
+São Paulo;distrito;Carrão;6;175;584,5;10;True;44,0;14,0;0
+São Paulo;distrito;Jabaquara;9;338;583,6;12;True;45,0;8,0;1
+São Paulo;distrito;Pirituba;9;240;583,0;10;True;46,0;14,0;1
+São Paulo;distrito;Freguesia do Ó;9;236;580,1;12;True;47,0;8,0;0
+São Paulo;distrito;Tucuruvi;11;303;578,9;14;True;48,0;4,0;0
+São Paulo;distrito;Capão Redondo;6;405;578,0;8;True;49,0;29,0;1
+São Paulo;distrito;Casa Verde;6;144;577,5;10;True;50,0;14,0;0
+São Paulo;distrito;Vila Leopoldina;3;204;576,7;4;True;51,0;60,0;0
+São Paulo;distrito;Penha;12;377;576,5;13;True;52,0;6,0;1
+São Paulo;distrito;Vila Matilde;5;168;575,7;9;True;53,0;22,0;0
+São Paulo;distrito;Cidade Lider;3;64;575,6;4;True;54,0;60,0;0
+São Paulo;distrito;Sapopemba;2;70;575,6;2;False;54,0;76,0;0
+São Paulo;distrito;Aricanduva;4;89;575,2;7;True;56,0;33,0;0
+São Paulo;distrito;Pedreira;5;130;575,1;5;True;57,0;52,0;0
+São Paulo;distrito;Lapa;10;477;574,0;15;True;58,0;3,0;1
+São Paulo;distrito;Vila Medeiros;6;143;570,9;8;True;59,0;29,0;0
+São Paulo;distrito;São Mateus;9;227;570,0;11;True;60,0;11,0;0
+São Paulo;distrito;Pari;3;94;569,5;3;True;61,0;69,0;0
+São Paulo;distrito;Artur Alvim;6;249;568,7;7;True;62,0;33,0;0
+São Paulo;distrito;Itaquera;11;273;568,5;12;True;63,0;8,0;1
+São Paulo;distrito;Cangaiba;3;77;568,1;3;True;64,0;69,0;0
+São Paulo;distrito;Sacomã;10;224;565,9;11;True;65,0;11,0;0
+São Paulo;distrito;Belém;2;79;563,3;2;False;66,0;76,0;0
+São Paulo;distrito;São Miguel;12;363;562,7;18;True;67,0;2,0;0
+São Paulo;distrito;Parelheiros;1;28;561,3;1;False;68,0;85,0;0
+São Paulo;distrito;Vila Curuçá;2;23;560,8;3;False;69,0;69,0;0
+São Paulo;distrito;Lajeado;1;53;560,4;1;False;70,0;85,0;0
+São Paulo;distrito;Campo Limpo;8;298;559,3;8;True;71,0;29,0;0
+São Paulo;distrito;Sé;1;91;558,0;2;False;72,0;76,0;0
+São Paulo;distrito;Bom Retiro;2;40;557,8;6;False;73,0;42,0;0
+São Paulo;distrito;Ponte Rasa;3;77;556,7;5;True;74,0;52,0;0
+São Paulo;distrito;Vila Maria;6;163;556,1;7;True;75,0;33,0;0
+São Paulo;distrito;Vila Prudente;3;86;556,1;4;True;75,0;60,0;0
+São Paulo;distrito;São Rafael;3;77;554,9;4;True;77,0;60,0;0
+São Paulo;distrito;Guaianases;2;90;552,8;2;False;78,0;76,0;0
+São Paulo;distrito;Jardim Ângela;1;16;551,8;4;False;79,0;60,0;0
+São Paulo;distrito;Cachoeirinha;6;176;551,5;6;True;80,0;42,0;0
+São Paulo;distrito;Jaçanã;7;224;551,4;9;True;81,0;22,0;0
+São Paulo;distrito;Grajaú;3;58;545,5;6;True;82,0;42,0;0
+São Paulo;distrito;Iguatemi;2;25;544,9;4;False;83,0;60,0;0
+São Paulo;distrito;Anhanguera;1;27;539,7;2;False;84,0;76,0;0
+São Paulo;distrito;Parque do Carmo;3;67;539,0;3;True;85,0;69,0;0
+São Paulo;distrito;Brasilândia;1;17;534,2;3;False;86,0;69,0;0
+São Paulo;distrito;Jardim São Luís;2;50;528,8;3;False;87,0;69,0;0
+São Paulo;distrito;Cidade Tiradentes;2;38;512,3;4;False;88,0;60,0;0

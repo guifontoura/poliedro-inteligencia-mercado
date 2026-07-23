@@ -73,7 +73,7 @@ def carregar_renda_distrito_sp() -> pd.DataFrame:
     for col in ["V06004", "V06006"]:
         df[col] = df[col].astype(str).str.replace(",", ".").astype(float)
     return df.rename(columns={"V06004": "renda_media_responsavel", "V06006": "renda_mediana_responsavel"})[
-        ["regiao_norm", "NM_DIST", "renda_media_responsavel", "renda_mediana_responsavel"]
+        ["regiao_norm", "renda_media_responsavel", "renda_mediana_responsavel"]
     ]
 
 
@@ -86,13 +86,13 @@ def carregar_renda_bairro_rj() -> pd.DataFrame:
     for col in ["V06004", "V06006"]:
         df[col] = df[col].astype(str).str.replace(",", ".").astype(float)
     return df.rename(columns={"V06004": "renda_media_responsavel", "V06006": "renda_mediana_responsavel"})[
-        ["regiao_norm", "NM_BAIRRO", "renda_media_responsavel", "renda_mediana_responsavel"]
+        ["regiao_norm", "renda_media_responsavel", "renda_mediana_responsavel"]
     ]
 
 
 def enriquecer_regioes_com_renda() -> pd.DataFrame:
     """Junta 15_regioes_sp_rj.csv (ENEM + volume) com a renda do IBGE por região."""
-    regioes = pd.read_csv(OUT_DIR / "15_regioes_sp_rj.csv")
+    regioes = pd.read_csv(OUT_DIR / "15_regioes_sp_rj.csv", sep=";", decimal=",")
     regioes["regiao_norm"] = regioes["regiao"].apply(normalizar_nome)
 
     renda_sp = carregar_renda_distrito_sp()
@@ -122,7 +122,8 @@ def exibir_resumo(df: pd.DataFrame) -> None:
 def main():
     df = enriquecer_regioes_com_renda()
     exibir_resumo(df)
-    df.to_csv(OUT_DIR / "16_regioes_sp_rj_com_renda.csv", index=False)
+    # sep=';' e decimal=',' — formato brasileiro, pro Power BI Desktop reconhecer os decimais.
+    df.to_csv(OUT_DIR / "16_regioes_sp_rj_com_renda.csv", index=False, sep=";", decimal=",")
     print(f"\n[✓] Salvo em {OUT_DIR / '16_regioes_sp_rj_com_renda.csv'}")
 
 

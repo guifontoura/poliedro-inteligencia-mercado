@@ -198,7 +198,8 @@ def main():
     resultado = resultado.drop(columns=["regiao_norm"]).sort_values(
         ["nome_municipio_ibge", "renda_mediana_responsavel"], ascending=[True, False]
     )
-    resultado.to_csv(OUT_DIR / "17_regioes_nacional_com_renda.csv", index=False)
+    # sep=';' e decimal=',' — formato brasileiro, pro Power BI Desktop reconhecer os decimais.
+    resultado.to_csv(OUT_DIR / "17_regioes_nacional_com_renda.csv", index=False, sep=";", decimal=",")
     print(f"\n[✓] Salvo em {OUT_DIR / '17_regioes_nacional_com_renda.csv'}")
 
 

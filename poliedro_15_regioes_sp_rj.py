@@ -170,7 +170,10 @@ def main():
 
     exibir_resumo(dist)
     dist = dist.sort_values(["cidade", "enem_ponderado"], ascending=[True, False])
-    dist.to_csv(OUT_DIR / "15_regioes_sp_rj.csv", index=False)
+    # sep=';' e decimal=',' — formato brasileiro, pro Power BI Desktop (locale
+    # pt-BR) reconhecer os decimais automaticamente na importação (mesmo fix
+    # já aplicado no passo 14).
+    dist.to_csv(OUT_DIR / "15_regioes_sp_rj.csv", index=False, sep=";", decimal=",")
     print(f"\n[✓] Salvo em {OUT_DIR / '15_regioes_sp_rj.csv'}")
 
 
