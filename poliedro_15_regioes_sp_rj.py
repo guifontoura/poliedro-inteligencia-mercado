@@ -56,6 +56,35 @@ MUNICIPIOS_ALVO = {"3550308": "São Paulo", "3304557": "Rio de Janeiro"}
 MIN_ESCOLAS_CONFIAVEIS_PARA_RANK = 3
 MIN_PARTICIPANTES_CONFIAVEL = 10
 
+# Correções de nome de bairro no RJ (24/07, achado ao cruzar com renda IBGE
+# no passo 16): NO_BAIRRO é auto-declarado por cada escola no Censo, então o
+# MESMO bairro real aparece grafado de formas diferentes — fragmentando o
+# agrupamento por região (ex.: 4 escolas em "RECREIO DOS BANDEIRANTES" e 1
+# em "RECREIO" viravam 2 linhas separadas). Corrigido caso a caso, com fonte:
+#   - RECREIO -> RECREIO DOS BANDEIRANTES (nome oficial, é o mesmo bairro)
+#   - IRAJA / IRAJ -> IRAJÁ (sem acento / truncado no Censo)
+#   - BARRA OLIMPICA / BARRA OLÍMPICA -> BARRA DA TIJUCA ("Barra Olímpica"
+#     não é bairro oficial do IBGE, é nome popular de uma região dentro de
+#     Barra da Tijuca — confirmado: não existe na lista de bairros do IBGE)
+#   - FREGUESIA (JACAREPAGUA) -> FREGUESIA (JACAREPAGUÁ) (sem acento)
+#   - FREGUESIA JACAREPAGU -> FREGUESIA (JACAREPAGUÁ) (truncado no Censo)
+#   - FREGUESIA (bare, sem qualificador) -> FREGUESIA (JACAREPAGUÁ):
+#     ASSUNÇÃO documentada, não confirmada — existem duas Freguesias no Rio
+#     (Jacarepaguá e Ilha do Governador), e o Censo já tem "FREGUESIA (ILHA
+#     DO GOVERNADOR)" como valor próprio quando é essa; assumimos que a
+#     forma bare se refere à de Jacarepaguá (a mais populosa/mais citada).
+#     Afeta só 5 das 465 escolas do RJ — baixo risco, mas fica registrado.
+CORRECOES_BAIRRO_RJ = {
+    "RECREIO": "RECREIO DOS BANDEIRANTES",
+    "IRAJA": "IRAJÁ",
+    "IRAJ": "IRAJÁ",
+    "BARRA OLIMPICA": "BARRA DA TIJUCA",
+    "BARRA OLÍMPICA": "BARRA DA TIJUCA",
+    "FREGUESIA (JACAREPAGUA)": "FREGUESIA (JACAREPAGUÁ)",
+    "FREGUESIA JACAREPAGU": "FREGUESIA (JACAREPAGUÁ)",
+    "FREGUESIA": "FREGUESIA (JACAREPAGUÁ)",
+}
+
 
 def carregar_escolas_sp_rj() -> pd.DataFrame:
     """Escolas elegíveis de SP e RJ, com região (distrito ou bairro, a depender da cidade) e médias ENEM."""
@@ -77,7 +106,8 @@ def carregar_escolas_sp_rj() -> pd.DataFrame:
     # pra São Paulo, bairro pra Rio de Janeiro — e marcamos qual é qual numa
     # coluna própria, pra não escondermos a diferença de fonte.
     end["granularidade"] = end["cidade"].map({"São Paulo": "distrito", "Rio de Janeiro": "bairro"})
-    end["regiao"] = end["NO_DISTRITO"].where(end["cidade"] == "São Paulo", end["NO_BAIRRO"])
+    bairro_corrigido = end["NO_BAIRRO"].replace(CORRECOES_BAIRRO_RJ)
+    end["regiao"] = end["NO_DISTRITO"].where(end["cidade"] == "São Paulo", bairro_corrigido)
     return end
 
 
