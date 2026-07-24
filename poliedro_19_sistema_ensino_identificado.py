@@ -117,6 +117,29 @@ REGISTROS = {
     "31014061": ("não identificado", "provavel_proprio", "Colégio Santo Agostinho-Unidade Contagem — mesma rede confessional agostiniano das unidades BH (31004651) e Nova Lima (31333921), já registradas sem sistema de terceiros; registrado por padrão de rede (pedido do Gui), sem pesquisa nova"),
     "43173330": ("Sistema SAS (Grupo Arco Educação)", "confirmado", "Col João Paulo I - Unidade Sul (Porto Alegre, zona sul / JPSul) — usa material SAS (Ari de Sá); confiança média-alta, fonte não é o site oficial da escola (fleye.com.br), recomendável checar lista de material oficial se possível"),
     "35115712": ("não identificado", "nao_identificado", "Fundação Educacional Raul Bauab (Jaú, SP) — perfil institucional/técnico (PDI, produção acadêmica de docentes em Lattes/Escavador), sem sinal de sistema de ensino comercial licenciado; pode usar material próprio institucional, não confirmado"),
+    # Sexta leva (24/07, ritmo acelerado a pedido do Gui: buscas com snippet só, sem navegar
+    # em página nenhuma — se o resultado não é conclusivo de cara, marca nao_identificado e
+    # segue pra próxima; ver conversa sobre pipeline de busca).
+    "29480620": ("não identificado", "nao_identificado", "Centro Educacional Villa Lobos (Camaçari, BA) — busca não confirmou sistema; ATENÇÃO: unidade irmã (mesmo CNPJ 04692152000153, unidade Salvador) usa Sistema COC — vale conferir se Camaçari segue o mesmo, não presumi"),
+    "52103137": ("não identificado", "nao_identificado", "Colégio Arena (Goiânia) — busca não trouxe sistema de terceiros; site oficial não citado nos resultados"),
+    "35142967": ("não identificado", "provavel_proprio", "Colégio Engenheiro Salvador Arena (São Bernardo do Campo) — mantido pela Fundação Salvador Arena, ensino gratuito, metodologia/currículo próprios, sem sistema de terceiros citado"),
+    "35286187": ("Sistema Etapa (produzido pelo próprio Colégio Etapa, comercializado a escolas conveniadas)", "confirmado", "Etapa Colégio (Valinhos) — usa o Sistema Etapa, material próprio da rede Etapa que também é vendido a escolas conveniadas em todo o Brasil"),
+    "31354562": ("não identificado", "provavel_proprio", "Colégio Gabarito (Uberaba) — rede própria (Gabarito Educação, 7 unidades em MG) que licencia SUA PRÓPRIA marca/material a escolas afiliadas na região; não usa sistema de terceiros, é ela quem licencia"),
+    "33042578": ("não identificado", "nao_identificado", "Colégio São Paulo (Teresópolis) — busca não trouxe sistema de terceiros"),
+    "31074373": ("não identificado", "nao_identificado", "Colégio Santa Catarina (Juiz de Fora) — busca não trouxe sistema de terceiros (não confundir com 'Colégio Franciscano Santa Catarina', rede G12 diferente, que usa Positivo)"),
+    "31041181": ("não identificado", "nao_identificado", "Escola Técnica de Divinópolis-Integral — busca só retornou resultados do 'Anglo Divinópolis', escola diferente; sem sinal pra esta"),
+    "24281301": ("não identificado", "provavel_proprio", "Colégio Salesiano Dom Bosco (Parnamirim) — rede salesiana, pedagogia própria da congregação (Sistema Preventivo de Dom Bosco), sem sistema comercial de terceiros citado"),
+    "52020517": ("Sistema Positivo (Infantil/Fund. I) + Sistema Bernoulli (Fund. II/EM)", "confirmado", "Colégio Galileu (Anápolis) — site oficial cita parceria com Sistema Positivo pras séries iniciais e Bernoulli do Fund. II em diante; caso raro de dois sistemas no mesmo colégio por segmento"),
+    "31339989": ("Sistema SAS (Grupo Arco Educação)", "confirmado", "Instituto Educacional Margarida Rezende - IEMAR (Conselheiro Lafaiete) — parceria com SAS Educação citada como diferencial da escola"),
+    "50032895": ("Sistema Anglo (Grupo Cogna)", "confirmado", "Colégio Unigran - Unidade II (Dourados) — opera como 'Colégio Anglo Unigran', usa material do Sistema Anglo de Ensino"),
+    "43119930": ("não identificado", "nao_identificado", "Colégio Mauá (Santa Cruz do Sul) — filantrópica tradicional (150+ anos), busca não trouxe sistema de terceiros"),
+    "29422272": ("Sistema COC", "confirmado", "Centro Educacional Villa Lobos (Salvador) — usa o Sistema COC do Fund. I ao EM; ver observação na unidade irmã de Camaçari (mesmo CNPJ, não confirmado lá)"),
+    "41148142": ("Sistema Poliedro", "confirmado", "Colégio do Bosque Mananciais (Curitiba) — usa material do Sistema Poliedro do Fund. II ao EM, uma das poucas escolas de Curitiba com Poliedro desde o Fundamental; MESMO PADRÃO do caso Contato/Ábaco: Golden Lead que já é cliente Poliedro sob marca própria, sem passar pelo filtro de nome do passo 09"),
+    "35449003": ("não identificado", "provavel_proprio", "Colégio FAAP (Ribeirão Preto) — material didático exclusivo de produção própria da FAAP, sem sistema de terceiros"),
+    "21010331": ("Sistema SAS (Grupo Arco Educação)", "confirmado", "Colégio Dom Bosco (São Luís, MA) — usa a plataforma SAS (inclusive o Eureka, gamificação SAS pros Anos Finais)"),
+    "28032322": ("Sistema SAS (Grupo Arco Educação)", "confirmado", "Centro de Excelência Master (Aracaju) — usa Sistema Ari de Sá (SAS), com 'Meta SAS' e avaliações sistemáticas próprias do sistema citadas pelo colégio"),
+    "25073214": ("Sistema SAS (Grupo Arco Educação)", "confirmado", "Colégio Nossa Senhora de Lourdes (Campina Grande) — usa o sistema SAS de ensino"),
+    "43216471": ("não identificado", "nao_identificado", "Unidade de Ensino Colégio Sinodal Prado Gravataí — mesma mantenedora (ISAEC/IECLB) da unidade São Leopoldo (que confirma Bernoulli no EM), mas não achei confirmação direta pra esta unidade especificamente; não presumi"),
 }
 
 # Observação (24/07): o caso do Colégio Contato (27220885) revelou que o filtro de exclusão de
