@@ -157,17 +157,15 @@ Objetivo: no lugar de um slicer de cidade que só mostra "São Paulo" como uma
 linha única, ter algo tipo "São Paulo - Itaim Bibi" / "São Paulo - Vila
 Mariana", só com as combinações que realmente têm Golden Lead.
 
-**Por que o slicer atual não faz isso**: o cartão de slicer que você mostrou
-("UF, cidade, segmento_comercial") usa `nome_municipio_ibge` da tabela
-**`14_cidades_powerbi`** — a tabela de DIMENSÃO das 318 cidades do recorte
-inteiro, sem golden lead nenhuma vinculada a ela diretamente. É por isso que
-aparecem cidades como Nova Friburgo, Petrópolis etc. como linha única e
-plana: essa tabela não tem bairro/distrito, só o nome da cidade.
-
-**A tabela certa pra esse slicer é `14_escolas_powerbi`** (a tabela de FATO
-— 1 linha por Golden Lead). Como essa tabela só tem linhas de escola que
-realmente existem, um slicer feito a partir dela automaticamente só mostra
-combinações que têm pelo menos 1 Golden Lead — exatamente o que você quer.
+**Correção (24/07 — o Gui checou e eu errei o diagnóstico na primeira
+versão deste guia)**: o slicer que você mostrou já usa `14_escolas_powerbi`
+(o campo `cidade` de lá, junto com `UF` e `segmento_comercial` — todos
+existem nessa tabela de FATO). Não é problema de tabela errada. O motivo
+de mostrar só "São Paulo" como linha única é mais simples: o campo `cidade`
+é só o nome da cidade, sem subdivisão nenhuma — não existe hoje nenhum
+campo que já venha pronto tipo "São Paulo - Itaim Bibi". Cada distrito/RA
+já está na coluna `distrito` (separada), só falta CRIAR um campo que
+combine as duas coisas — é o que o passo a passo abaixo faz.
 
 **Passo a passo:**
 
@@ -199,6 +197,26 @@ troque `[distrito]` por `[bairro]` na fórmula acima — os dois campos
 existem em `14_escolas_powerbi`, é só escolher qual granularidade prefere
 pro slicer.
 
+**Pergunta do Gui: `14_cidades_powerbi` também deveria ter bairro/distrito?**
+Não — e vale explicar o porquê, é um conceito útil de modelagem. `14_cidades_powerbi`
+é uma tabela de DIMENSÃO: 1 linha por município (318 linhas), usada pra
+relacionar com `14_escolas_powerbi` via `codigo_municipio` numa cardinalidade
+Muitos-para-Um (várias escolas apontam pra 1 cidade). Bairro/distrito é um
+atributo de ESCOLA, não de cidade — se eu colasse bairro/distrito nessa
+tabela, cada município passaria a ter várias linhas (uma por bairro), o que
+quebra a premissa "1 linha = 1 cidade" que o relacionamento inteiro depende
+pra funcionar direito (senão o Power BI não sabe mais somar direito os
+totais por cidade). A regra geral: granularidade de bairro/distrito já
+está no lugar certo, dentro de `14_escolas_powerbi` (cada linha é uma
+escola, então bairro/distrito da escola faz sentido ali). Se um dia você
+quiser um terceiro nível — uma tabela "1 linha por bairro/RA" com métricas
+PRÓPRIAS de região (não de escola individual, tipo renda mediana e ENEM
+ponderado do bairro inteiro) — isso já existe separado, é o
+`16_regioes_sp_rj_com_renda.csv` (SP/RJ) ou `17_regioes_nacional_com_renda.csv`
+(nacional) que usamos na Seção 7. Um bom dashboard usa as 3 tabelas juntas,
+cada uma na sua granularidade certa, relacionadas entre si — não tenta
+espremer tudo numa tabela só.
+
 ## 9. Solução de problemas — dado não atualiza / falta coluna / decimais errados
 
 Se depois de reimportar `14_escolas_powerbi.csv` você não vê `distrito`
@@ -223,9 +241,63 @@ como RA no RJ, `sistema_ensino_identificado`, `rede_propria_poliedro`, ou o
    (apontando pra uma cópia antiga em outra pasta), corrija ali.
 3. **`score_destaque` com 2 casas decimais mesmo com o dado certo**: isso
    quase sempre é FORMATAÇÃO DE EXIBIÇÃO, não o dado em si (o CSV já vem
-   com 3 casas). Vá em **Modelagem** → selecione a coluna `score_destaque`
-   na tabela `14_escolas_powerbi` → no painel **Propriedades da coluna**,
-   campo **Formato** → **Casas decimais** → mude de 2 pra 3. Isso é uma
-   configuração do MODELO (afeta todos os visuais); dá pra sobrescrever por
-   visual também em Formatar Visual → Valores → Casas decimais, se só um
-   gráfico específico precisar ser diferente.
+   com 3 casas — confirmei rodando o script de novo, os valores estão lá).
+   Existem DOIS lugares onde essa formatação pode estar travada em 2 casas
+   — o visual costuma vencer o modelo, então cheque os dois:
+
+   **a) No MODELO** (afeta todos os visuais que usarem a coluna, é o
+   padrão): clique na aba **Modelagem** (barra superior) → no painel
+   **Dados** (direita), clique na tabela `14_escolas_powerbi` pra expandir
+   e clique no campo `score_destaque` (isso muda a faixa/ribbon de cima pra
+   "Ferramentas de Coluna"). Nessa nova faixa, grupo **Formatação**, tem um
+   dropdown de tipo (deve estar em "Número" ou "Decimal Fixo") e, do lado,
+   dois ícones pequenos com `.0→.00` (aumentar/diminuir casas decimais) —
+   clique no de aumentar até chegar em 3.
+
+   **b) No VISUAL específico** (sobrescreve o modelo SÓ nesse gráfico/
+   tabela — é provavelmente o seu caso, já que você viu 2 casas numa tabela
+   específica): clique no visual (tabela) pra selecioná-lo → no painel
+   **Visualizações** (direita), ícone de pincel/formato (parece um rolo de
+   pintura) → **Formatar visual** → seção **Valores** (pode estar dentro de
+   "Células" dependendo da versão) → expanda e procure `score_destaque` →
+   campo **Casas decimais** → mude pra 3. Se você formatou manualmente essa
+   tabela antes (comum, principalmente com Copilot/sugestão automática do
+   Power BI), é bem provável que o valor "2" esteja fixado bem aqui, não no
+   modelo.
+
+## 10. Primeira aba do dashboard executivo — quais colunas manter
+
+Pergunta do Gui: quantas/quais colunas deixar na tabela principal da
+primeira página. Regra geral pra dashboard executivo: quem olha (gestor,
+supervisor) quer decidir rápido "essa escola é prioridade ou não", não ler
+todo o dado bruto — cada coluna a mais é um pouco mais de tempo pra achar o
+que importa. Recomendo 9 colunas, cada uma respondendo uma pergunta
+específica de quem for usar:
+
+| # | Coluna | Por que está na lista |
+|---|---|---|
+| 1 | `NO_ENTIDADE` | Identifica a escola — óbvio, mas é a única coluna que não dá pra cortar. |
+| 2 | `cidade` (ou `cidade_regiao`, se criar a coluna da Seção 8) | Onde fica — primeiro filtro mental de quem olha. |
+| 3 | `UF` | Agrupamento regional rápido (times comerciais costumam ser organizados por estado/região). |
+| 4 | `segmento_comercial` | A tese comercial em 1 palavra: Líder local, Desafiante, Outras posições — decide a ABORDAGEM de venda, não só o "quão boa é a escola". |
+| 5 | `score_destaque` | O número que resume tudo (ENEM+infra+seletividade+inclusão) — ordenação padrão da tabela. |
+| 6 | `bairro` | Granularidade fina pra quem já conhece a cidade (SP/RJ principalmente). |
+| 7 | `renda_categoria` | Sinaliza poder de compra da região sem precisar decorar faixa de R$ — "Alta"/"Média" já fala por si. |
+| 8 | `sistema_ensino_identificado` | A pergunta mais prática pro time comercial: "essa escola já usa concorrente, é livre, ou já é nossa?" — literalmente decide se vale ligar. |
+| 9 | `rede_propria_poliedro` | Flag booleana rápida pra não ligar acidentalmente pra uma unidade que já é Poliedro — mais direto que ler o texto de `sistema_ensino_identificado`. |
+
+**Deixaria de fora da primeira aba** (mas mantidas na tabela de dados, só
+não na visão executiva): `codigo_escola`/`codigo_municipio` (chaves
+técnicas, ruído visual pra quem não vai fazer join manual),
+`score_priorizacao_cidade` (é sobre a CIDADE, não a escola — já implícito
+no ranking de UF/cidade), `granularidade_geo` (é metadado explicando a
+coluna `distrito`, não um dado em si — bom pra tooltip, não pra coluna
+fixa), `confianca` (relevante só quando alguém for confirmar uma pesquisa
+específica, não pra visão rápida), `cep`/`LATITUDE`/`LONGITUDE` (usadas no
+mapa, não na tabela).
+
+Se quiser reduzir mais ainda pra caber na tela sem rolar (dashboards
+executivos costumam ter 5-6 colunas), tiraria `bairro` e `UF` primeiro —
+`cidade` e `segmento_comercial` já cobrem a localização/prioridade
+essencial, e quem quiser o detalhe fino pode clicar na linha ou usar o
+slicer da Seção 8.
