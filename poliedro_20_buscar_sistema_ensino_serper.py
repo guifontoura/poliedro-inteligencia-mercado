@@ -43,8 +43,32 @@ OUT_DIR = Path("data/outputs")
 CACHE_DIR = RAW_DIR / "serper_cache"
 CHAVE_PATH = RAW_DIR / ".serper_key"
 
-CONCORRENCIA_MAXIMA = 10  # nº de chamadas simultâneas — moderado, não agressivo
+CONCORRENCIA_MAXIMA = 4  # nº de chamadas simultâneas em voo
 TIMEOUT_SEGUNDOS = 15
+
+# Plano gratuito do Serper permite só 5 requisições/segundo (achado nesta rodada: 697 das 947
+# chamadas voltaram "429 Rate limit exceeded" porque a concorrência de 10 disparava tudo de
+# uma vez, sem espaçamento). 4/s fica com margem de segurança sob o limite real de 5/s.
+MAX_REQUISICOES_POR_SEGUNDO = 4.0
+
+
+class LimitadorDeTaxa:
+    """Espaça as chamadas pra nunca ultrapassar MAX_REQUISICOES_POR_SEGUNDO, não importa a
+    concorrência configurada — é isso que faltava antes (só limitar quantas rodam ao mesmo
+    tempo não limita a TAXA de disparo)."""
+
+    def __init__(self, max_por_segundo: float):
+        self._intervalo_minimo = 1.0 / max_por_segundo
+        self._lock = asyncio.Lock()
+        self._proxima_liberacao = 0.0
+
+    async def aguardar_vez(self) -> None:
+        async with self._lock:
+            agora = asyncio.get_event_loop().time()
+            espera = max(0.0, self._proxima_liberacao - agora)
+            if espera > 0:
+                await asyncio.sleep(espera)
+            self._proxima_liberacao = max(agora, self._proxima_liberacao) + self._intervalo_minimo
 
 TERMOS_SISTEMA = (
     '("sistema de ensino" OR "material didático" OR "SAS" OR "Bernoulli" OR '
@@ -86,19 +110,34 @@ def carregar_escolas_pendentes() -> pd.DataFrame:
     )
 
 
+def _cache_valido(cache_path: Path) -> "dict | None":
+    """Carrega o cache só se ele NÃO for um erro transitório (429) — esse tipo de erro não
+    deve travar a escola como 'já tentada pra sempre', tem que ser retentado numa próxima rodada."""
+    if not cache_path.exists():
+        return None
+    dados = json.loads(cache_path.read_text(encoding="utf-8"))
+    erro = dados.get("resposta", {}).get("erro", "")
+    if erro.startswith("HTTP 429"):
+        return None
+    return dados
+
+
 async def buscar_uma_escola(cliente: httpx.AsyncClient, chave: str, codigo: str, nome: str, cidade: str,
-                             semaforo: asyncio.Semaphore) -> dict:
-    """Busca 1 escola no Serper, com cache em disco (nunca repete a mesma chamada)."""
+                             semaforo: asyncio.Semaphore, limitador: LimitadorDeTaxa) -> dict:
+    """Busca 1 escola no Serper, com cache em disco (nunca repete uma chamada que já deu certo,
+    ou que deu erro definitivo — só re-tenta erro de rate limit, ver `_cache_valido`)."""
     cache_path = CACHE_DIR / f"{codigo}.json"
-    if cache_path.exists():
-        return json.loads(cache_path.read_text(encoding="utf-8"))
+    cache = _cache_valido(cache_path)
+    if cache is not None:
+        return cache
 
     query = montar_query(nome, cidade if pd.notna(cidade) else "")
     async with semaforo:
         dados = None
-        # Falha de rede transitória (timeout, conexão resetada) é comum em lotes grandes —
-        # tenta até 3 vezes com espera crescente antes de desistir e registrar o erro de vez.
-        for tentativa in range(3):
+        # Até 4 tentativas: rate limit (429) e falha de rede transitória (timeout, conexão
+        # resetada) são comuns em lotes grandes — espera crescente entre elas.
+        for tentativa in range(4):
+            await limitador.aguardar_vez()
             try:
                 resposta = await cliente.post(
                     "https://google.serper.dev/search",
@@ -110,13 +149,15 @@ async def buscar_uma_escola(cliente: httpx.AsyncClient, chave: str, codigo: str,
                 dados = resposta.json()
                 break
             except httpx.HTTPStatusError as erro:
-                # Erro do próprio Serper (ex.: chave inválida, cota estourada) — não adianta
-                # tentar de novo, é sempre a mesma resposta.
                 dados = {"erro": f"HTTP {erro.response.status_code}: {erro.response.text[:200]}"}
-                break
+                if erro.response.status_code == 429 and tentativa < 3:
+                    # Rate limit é sempre transitório — vale a pena esperar e tentar de novo.
+                    await asyncio.sleep(2.0 * (tentativa + 1))
+                    continue
+                break  # outros erros HTTP (ex.: 401 chave inválida) não se resolvem tentando de novo
             except Exception as erro:  # noqa: BLE001 — qualquer falha de rede/timeout entra aqui
                 dados = {"erro": f"{type(erro).__name__}: {erro}"}
-                if tentativa < 2:
+                if tentativa < 3:
                     await asyncio.sleep(1.5 * (tentativa + 1))
 
     resultado = {"codigo_escola": codigo, "NO_ENTIDADE": nome, "cidade": cidade, "query": query, "resposta": dados}
@@ -142,11 +183,12 @@ async def rodar_lote(escolas: pd.DataFrame) -> pd.DataFrame:
     chave = ler_chave_api()
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
     semaforo = asyncio.Semaphore(CONCORRENCIA_MAXIMA)
+    limitador = LimitadorDeTaxa(MAX_REQUISICOES_POR_SEGUNDO)
 
     async with httpx.AsyncClient() as cliente:
         tarefas = [
             buscar_uma_escola(cliente, chave, row["codigo_escola"], row["NO_ENTIDADE"],
-                               row["nome_municipio_ibge"], semaforo)
+                               row["nome_municipio_ibge"], semaforo, limitador)
             for _, row in escolas.iterrows()
         ]
         resultados = await asyncio.gather(*tarefas)
