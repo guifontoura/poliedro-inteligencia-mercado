@@ -70,10 +70,14 @@ class LimitadorDeTaxa:
                 await asyncio.sleep(espera)
             self._proxima_liberacao = max(agora, self._proxima_liberacao) + self._intervalo_minimo
 
+# Pedido do Gui (24/07): termos genéricos, SEM nomear marcas específicas (SAS/Bernoulli/Anglo/
+# etc.) — nomear marca no próprio termo de busca enviesa o Google a devolver só o que a gente já
+# sabia que existia, em vez de deixar a própria escola se identificar. Os termos abaixo descrevem
+# a CATEGORIA (qualquer sistema de terceiros se encaixa em pelo menos um), sem pressupor qual é
+# a resposta — quem decide o nome do sistema sou eu, lendo o snippet depois, não a query.
 TERMOS_SISTEMA = (
-    '("sistema de ensino" OR "material didático" OR "SAS" OR "Bernoulli" OR '
-    '"Anglo" OR "Positivo" OR "Objetivo" OR "COC" OR "Poliedro" OR "FTD" OR '
-    '"Eleva" OR "Pitágoras" OR "pH" OR "Etapa")'
+    '("sistema de ensino" OR "material didático" OR "sistema pedagógico" OR '
+    '"solução educacional" OR "apostila" OR "sistema de aprendizagem")'
 )
 
 
