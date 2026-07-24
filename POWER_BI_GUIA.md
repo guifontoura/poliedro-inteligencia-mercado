@@ -9,7 +9,7 @@ de planilha ou slide fixo. Isso já monta o essencial em ~20-30min.
 Rode `python poliedro_14_consolidar_dataset_powerbi.py` (depende dos passos 01,
 04, 09 e 11 já terem rodado). Gera duas tabelas:
 
-- `data/outputs/14_escolas_powerbi.csv` — 969 Golden Leads, 1 linha por escola,
+- `data/outputs/14_escolas_powerbi.csv` — 1.127 Golden Leads, 1 linha por escola,
   com cidade, UF, segmento comercial, score, bairro/lat-long nativos do Censo
   Escolar (99,5% com bairro, 82% com lat/long), renda mediana do responsável
   + categoria legível (IBGE Censo 2022) e sistema de ensino já identificado
@@ -56,7 +56,7 @@ porque o tipo da coluna já ficou gravado errado na consulta antiga.
 Na visualização **Relatório**, monte esta grade:
 
 **Linha 1 — Cartões KPI** (visual "Cartão"):
-- Contagem de linhas de `14_escolas_powerbi` = **969** (total Golden Leads)
+- Contagem de linhas de `14_escolas_powerbi` = **1.127** (total Golden Leads)
 - Filtre uma cópia por `segmento_comercial = Líder local` → **205**
 - Filtre outra por `segmento_comercial = Desafiante (2º-5º local)` → **365**
 

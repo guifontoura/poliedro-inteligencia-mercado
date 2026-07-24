@@ -162,7 +162,9 @@ def montar_tabela_escolas() -> pd.DataFrame:
     cidades = pd.read_csv(OUT_DIR / "01_cidades_prioritarias.csv", dtype={"codigo_municipio": str})[
         ["codigo_municipio", "nome_municipio_ibge", "uf", "score_priorizacao"]
     ]
-    geo = pd.read_csv(RAW_DIR / "escolas_com_endereco.csv", dtype={"codigo_municipio": str, "CO_ENTIDADE": str})[
+    # Revisão 24/07 à noite: lê a versão AMPLIADA (ver poliedro_03/03b) — golden leads agora
+    # pode incluir escolas do recorte de categoria 4 refinado, que só têm endereço nesse arquivo.
+    geo = pd.read_csv(RAW_DIR / "escolas_com_endereco_ampliado.csv", dtype={"codigo_municipio": str, "CO_ENTIDADE": str})[
         ["CO_ENTIDADE", "codigo_municipio", "NO_BAIRRO", "NO_DISTRITO", "LATITUDE", "LONGITUDE", "CO_CEP"]
     ].rename(columns={"CO_ENTIDADE": "codigo_escola"})
     geo = geo.drop(columns=["codigo_municipio"])  # já vem de golden, evita duplicar/conflitar

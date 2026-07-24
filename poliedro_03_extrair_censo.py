@@ -32,6 +32,33 @@ Limitações de qualidade de dado encontradas e tratadas (documentar na entrega)
   filtro caso alguma sobreviva.
 
 Gera: data/raw/escolas_privadas_elegiveis_2025.csv
+
+Revisão 24/07 à noite (roadmap 3.0, achado + pedido do Gui): TP_CATEGORIA_ESCOLA_PRIVADA==4
+("Filantrópica") excluía as 8.431 escolas dessa categoria em bloco — sem distinguir entidade
+genuinamente assistencial (APAE, creche comunitária) de rede confessional de mensalidade cheia
+registrada como "sem fins lucrativos" por regime tributário. Achado real: Colégio Agostiniano
+Mendel e Agostiniano São José (SP, ambos com Ensino Médio robusto e ENEM alto) caem nessa
+categoria e ficavam de fora do funil inteiro por causa disso — não por engano de nome, por
+classificação tributária. Levantamento: 665 escolas em cidades do recorte >100k oferecem Ensino
+Médio e são categoria 4; a rede Adventista inteira, por exemplo, está nesse grupo.
+
+Gera TAMBÉM (função nova, não mexe na função/arquivo original acima — a resposta formal ao case,
+`01_cidades_prioritarias.csv`/`02_escolas_destaque_top3_cidades.csv`, continua intocada, lendo só
+o arquivo original): `data/raw/escolas_privadas_elegiveis_2025_ampliado.csv`, usado a partir do
+`poliedro_05b_score_destaque_nacional.py` (roadmap/funil/Golden Leads, não a resposta formal).
+Critério do "ampliado": mantém a exclusão de categoria 4 só quando o NOME bate um padrão de
+entidade genuinamente assistencial/especial (APAE, Associação de Pais e Amigos, Pestalozzi,
+Educação Especial/Excepcionais) — o resto da categoria 4 (colégios/institutos com nome comum,
+mesmo "sem fins lucrativos" no registro) passa a entrar no funil.
+
+LIMITAÇÃO HONESTA, não escondida: o Censo não tem campo "cobra mensalidade" — não existe forma
+100% confiável via dado público de diferenciar, DENTRO da mesma rede, uma unidade de elite
+pagante de uma unidade filantrópica de verdade. Exemplo citado pelo próprio Gui: a rede Marista
+em Ribeirão Preto tem 3 unidades — 2 de elite, 1 realmente filantrópica/gratuita na periferia —
+sem diferença de NOME que um filtro capture. Mitigação: qualquer escola nova que vire Golden
+Lead só por causa dessa mudança deve passar por checagem manual rápida (bairro/renda da região,
+distância de outra unidade da mesma rede) antes de virar lead comercial de verdade — mesmo
+cuidado já usado no achado de "sala vitrine" (poliedro_13).
 """
 
 import zipfile
@@ -43,6 +70,14 @@ import pandas as pd
 RAW_DIR = Path("data/raw")
 CAMINHO_ZIP_CENSO = RAW_DIR / "microdados_censo_escolar_2025.zip"
 CAMINHO_SAIDA = RAW_DIR / "escolas_privadas_elegiveis_2025.csv"
+CAMINHO_SAIDA_AMPLIADO = RAW_DIR / "escolas_privadas_elegiveis_2025_ampliado.csv"
+
+# Padrão de nome que indica entidade genuinamente assistencial/especial dentro da categoria 4 —
+# só essas continuam excluídas no recorte "ampliado". Case-insensitive.
+PADRAO_FILANTROPICA_ASSISTENCIAL = (
+    r"APAE|ASSOCIACAO DE PAIS E AMIGOS|PESTALOZZI|EDUCACAO ESPECIAL|EXCEPCIONA|"
+    r"DEFICIENTE|CRECHE|EDUCANDARIO|ABRIGO|ASILO"
+)
 
 CAMINHO_TABELA_ESCOLA = "microdados_censo_escolar_2025/dados/Tabela_Escola_2025.csv"
 CAMINHO_TABELA_TURMA = "microdados_censo_escolar_2025/dados/Tabela_Turma_2025.csv"
@@ -69,8 +104,12 @@ LIMITE_MAT_POR_SALA = 150  # acima disso é erro de preenchimento, não escola g
 CO_ENTIDADE_ERRO_CONHECIDO = 31305120  # 4.444 matrículas em 10 salas — documentado acima
 
 
-def extrair_escolas_privadas_elegiveis() -> pd.DataFrame:
-    """Lê as 3 tabelas do Censo 2025, cruza por CO_ENTIDADE e aplica os filtros de elegibilidade."""
+def extrair_escolas_privadas_elegiveis(ampliado: bool = False) -> pd.DataFrame:
+    """Lê as 3 tabelas do Censo 2025, cruza por CO_ENTIDADE e aplica os filtros de elegibilidade.
+
+    ampliado=False (padrão, resposta formal ao case): categoria 4 sempre excluída em bloco.
+    ampliado=True (roadmap 3.0, só usado a partir do poliedro_05b em diante): categoria 4 só
+    excluída quando o nome bate PADRAO_FILANTROPICA_ASSISTENCIAL — ver docstring do módulo."""
     if not CAMINHO_ZIP_CENSO.exists():
         raise FileNotFoundError(f"[Censo] Arquivo não encontrado: {CAMINHO_ZIP_CENSO}")
 
@@ -88,12 +127,25 @@ def extrair_escolas_privadas_elegiveis() -> pd.DataFrame:
             df_mat = pd.read_csv(f, sep=";", encoding="latin-1", usecols=COLS_MATRICULA, low_memory=False)
         print(f"[Censo] Tabela_Matricula: {len(df_mat):,} linhas | {time.time() - t0:.1f}s")
 
+    categoria_valida = df_escola["TP_CATEGORIA_ESCOLA_PRIVADA"].isin(CATEGORIAS_PRIVADAS_VALIDAS)
+    if ampliado:
+        eh_categoria4 = df_escola["TP_CATEGORIA_ESCOLA_PRIVADA"] == 4
+        eh_assistencial_real = df_escola["NO_ENTIDADE"].str.contains(
+            PADRAO_FILANTROPICA_ASSISTENCIAL, case=False, na=False, regex=True
+        )
+        categoria4_mantida = eh_categoria4 & ~eh_assistencial_real
+        print(f"[Censo][ampliado] Categoria 4 (Filantrópica) total: {eh_categoria4.sum():,} | "
+              f"reconhecida como assistencial/especial de verdade (continua fora): "
+              f"{(eh_categoria4 & eh_assistencial_real).sum():,} | passa a entrar no funil: "
+              f"{categoria4_mantida.sum():,}")
+        categoria_valida = categoria_valida | categoria4_mantida
+
     df_priv = df_escola[
         (df_escola["TP_DEPENDENCIA"] == TP_DEPENDENCIA_PRIVADA)
-        & (df_escola["TP_CATEGORIA_ESCOLA_PRIVADA"].isin(CATEGORIAS_PRIVADAS_VALIDAS))
+        & categoria_valida
         & (df_escola["TP_SITUACAO_FUNCIONAMENTO"] == TP_SITUACAO_EM_ATIVIDADE)
     ].copy()
-    print(f"[Censo] Privadas não-filantrópicas em atividade: {len(df_priv):,}")
+    print(f"[Censo] Privadas {'(ampliado) ' if ampliado else ''}não-filantrópicas em atividade: {len(df_priv):,}")
 
     df_priv = df_priv.merge(df_turma, on="CO_ENTIDADE", how="left")
     df_priv = df_priv.merge(df_mat, on="CO_ENTIDADE", how="left")
@@ -128,6 +180,14 @@ def main():
     exibir_resumo(df)
     df.to_csv(CAMINHO_SAIDA, index=False)
     print(f"\n[✓] Salvo em {CAMINHO_SAIDA}")
+
+    print("\n" + "=" * 70)
+    print("Gerando também a versão AMPLIADA (roadmap 3.0 — não usada pela resposta formal ao case)")
+    print("=" * 70)
+    df_ampliado = extrair_escolas_privadas_elegiveis(ampliado=True)
+    exibir_resumo(df_ampliado)
+    df_ampliado.to_csv(CAMINHO_SAIDA_AMPLIADO, index=False)
+    print(f"\n[✓] Salvo em {CAMINHO_SAIDA_AMPLIADO} ({len(df_ampliado) - len(df):,} escolas a mais que o original)")
 
 
 if __name__ == "__main__":

@@ -96,8 +96,13 @@ COLS_INCLUSAO = ["IN_SALA_ATENDIMENTO_ESPECIAL", "IN_ACESSIBILIDADE_RAMPAS"]
 
 
 def carregar_base_escolas_com_enem() -> pd.DataFrame:
-    """Mesma base do poliedro_05: escolas elegíveis + médias ENEM por escola."""
-    escolas = pd.read_csv(RAW_DIR / "escolas_privadas_elegiveis_2025.csv", dtype={"codigo_municipio": str})
+    """Base de escolas + médias ENEM por escola.
+
+    Revisão 24/07 à noite (achado + pedido do Gui): passou a ler o recorte AMPLIADO
+    (`escolas_privadas_elegiveis_2025_ampliado.csv`, ver docstring do poliedro_03) em vez do
+    original — a resposta formal ao case (poliedro_05, Top 4 cidades) continua no recorte
+    original, só o funil/Golden Leads (roadmap 3.0) usa o ampliado."""
+    escolas = pd.read_csv(RAW_DIR / "escolas_privadas_elegiveis_2025_ampliado.csv", dtype={"codigo_municipio": str})
     enem = pd.read_csv(RAW_DIR / "enem_2025_medias_por_escola.csv")
     escolas["codigo_escola"] = escolas["CO_ENTIDADE"].astype("int64")
     return escolas.merge(

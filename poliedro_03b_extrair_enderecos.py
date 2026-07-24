@@ -19,6 +19,10 @@ direto na Tabela_Escola — sem precisar do workaround de geocodificação via
 ViaCEP (poliedro_11) para ter bairro. Passa a extrair também essas 4 colunas.
 
 Gera: data/raw/escolas_com_endereco.csv
+
+Revisão 24/07 à noite: gera também `escolas_com_endereco_ampliado.csv`, endereço das escolas do
+recorte AMPLIADO (poliedro_03, categoria 4 refinada) — usado só pelo roadmap 3.0 (poliedro_14 em
+diante), não pela resposta formal ao case.
 """
 
 import zipfile
@@ -36,9 +40,10 @@ COLS_ENDERECO = [
 ]
 
 
-def extrair_enderecos() -> pd.DataFrame:
+def extrair_enderecos(ampliado: bool = False) -> pd.DataFrame:
     """Lê só as colunas de endereço/CEP do Censo 2025, para as escolas já elegíveis."""
-    elegiveis = pd.read_csv(RAW_DIR / "escolas_privadas_elegiveis_2025.csv", dtype={"codigo_municipio": str})
+    nome_arquivo_elegiveis = "escolas_privadas_elegiveis_2025_ampliado.csv" if ampliado else "escolas_privadas_elegiveis_2025.csv"
+    elegiveis = pd.read_csv(RAW_DIR / nome_arquivo_elegiveis, dtype={"codigo_municipio": str})
     codigos_elegiveis = set(elegiveis["CO_ENTIDADE"].astype("int64"))
 
     with zipfile.ZipFile(CAMINHO_ZIP) as z:
@@ -63,6 +68,14 @@ def main():
     exibir_resumo(df)
     df.to_csv(RAW_DIR / "escolas_com_endereco.csv", index=False)
     print(f"[✓] Salvo em {RAW_DIR / 'escolas_com_endereco.csv'}")
+
+    print("\n" + "=" * 70)
+    print("Gerando também a versão AMPLIADA (roadmap 3.0)")
+    print("=" * 70)
+    df_ampliado = extrair_enderecos(ampliado=True)
+    exibir_resumo(df_ampliado)
+    df_ampliado.to_csv(RAW_DIR / "escolas_com_endereco_ampliado.csv", index=False)
+    print(f"[✓] Salvo em {RAW_DIR / 'escolas_com_endereco_ampliado.csv'}")
 
 
 if __name__ == "__main__":
