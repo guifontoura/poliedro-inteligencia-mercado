@@ -158,27 +158,34 @@ def casar_com_renda(agr: pd.DataFrame, renda_b: pd.DataFrame, renda_d: pd.DataFr
     renda_b_por_mun = {cod: g for cod, g in renda_b.groupby("codigo_municipio")}
     renda_d_por_mun = {cod: g for cod, g in renda_d.groupby("codigo_municipio")}
 
+    def buscar(chave, renda_mun):
+        if renda_mun is None or pd.isna(chave):
+            return None, "sem_match"
+        exato = renda_mun[renda_mun["nome_norm"] == chave]
+        if len(exato):
+            return exato.iloc[0], "exato"
+        candidatos = difflib.get_close_matches(chave, renda_mun["nome_norm"].tolist(), n=1, cutoff=LIMIAR_FUZZY)
+        if candidatos:
+            return renda_mun[renda_mun["nome_norm"] == candidatos[0]].iloc[0], "fuzzy"
+        return None, "sem_match"
+
     resultado = []
     for _, row in agr.iterrows():
         cod_mun = row["codigo_municipio"]
-        usa_bairro = cod_mun in cidades_com_bairro_ibge
-        nivel_renda = "bairro" if usa_bairro else "distrito (aproximado)"
-        tabela = renda_b_por_mun if usa_bairro else renda_d_por_mun
-        chave_busca = row["bairro_norm"] if usa_bairro else row["distrito_mais_comum"]
-        renda_mun = tabela.get(cod_mun)
-        match, confianca = None, "sem_match"
+        match, confianca, nivel_renda = None, "sem_match", "distrito (aproximado)"
 
-        if renda_mun is not None and pd.notna(chave_busca):
-            exato = renda_mun[renda_mun["nome_norm"] == chave_busca]
-            if len(exato):
-                match, confianca = exato.iloc[0], "exato"
-            else:
-                candidatos = difflib.get_close_matches(
-                    chave_busca, renda_mun["nome_norm"].tolist(), n=1, cutoff=LIMIAR_FUZZY
-                )
-                if candidatos:
-                    match = renda_mun[renda_mun["nome_norm"] == candidatos[0]].iloc[0]
-                    confianca = "fuzzy"
+        # Corrigido 24/07 (mesmo bug achado no passo 14 via Ribeirão Preto):
+        # tenta bairro primeiro SEMPRE que a cidade tem bairro cadastrado no
+        # IBGE; só cai pra distrito se esse match específico falhar (nome não
+        # bate — ex.: IBGE cadastra "Setor Central" em vez do bairro popular)
+        # — antes só caía pra distrito quando a cidade INTEIRA não tinha
+        # bairro, perdendo casos onde o bairro existe mas não bate o nome.
+        if cod_mun in cidades_com_bairro_ibge:
+            match, confianca = buscar(row["bairro_norm"], renda_b_por_mun.get(cod_mun))
+            if match is not None:
+                nivel_renda = "bairro"
+        if match is None:
+            match, confianca = buscar(row["distrito_mais_comum"], renda_d_por_mun.get(cod_mun))
 
         nova = row.to_dict()
         nova["nivel_renda"] = nivel_renda

@@ -67,6 +67,8 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2800308;Aracaju;SE;CIRURGIA;1;34;670,0;1;False;1;bairro;exato;3525,82;2000,0
 2800308;Aracaju;SE;COROA DO MEIO;1;29;643,3;1;False;1;bairro;exato;4098,19;2000,0
 2800308;Aracaju;SE;SIQUEIRA CAMPOS;1;122;599,5;1;False;0;bairro;exato;3267,24;1965,0
+2800308;Aracaju;SE;ARUANA;1;11;527,8;2;False;0;distrito (aproximado);exato;3791,01;1670,0
+2800308;Aracaju;SE;SUISSA;1;57;602,7;1;False;0;distrito (aproximado);exato;3791,01;1670,0
 2800308;Aracaju;SE;SÃO CONRADO;2;37;623,8;2;False;0;bairro;exato;2376,56;1437,0
 2800308;Aracaju;SE;SANTO ANTONIO;1;23;550,0;3;False;0;bairro;exato;2364,36;1215,0
 2800308;Aracaju;SE;BUGIO;1;12;534,7;1;False;0;bairro;exato;1978,32;1212,0
@@ -74,8 +76,6 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2800308;Aracaju;SE;DEZOITO DO FORTE;1;35;591,0;1;False;0;bairro;exato;2067,76;1212,0
 2800308;Aracaju;SE;DOM LUCIANO;1;24;529,5;1;False;0;bairro;exato;1678,52;1212,0
 2800308;Aracaju;SE;SANTOS DUMONT;1;11;556,6;3;False;0;bairro;exato;1644,15;1212,0
-2800308;Aracaju;SE;ARUANA;1;11;527,8;2;False;0;bairro;sem_match;;
-2800308;Aracaju;SE;SUISSA;1;57;602,7;1;False;0;bairro;sem_match;;
 3103504;Araguari;MG;CENTRO;3;85;617,1;3;True;1;distrito (aproximado);exato;2868,72;2000,0
 3103504;Araguari;MG;GOIÁS;1;28;603,7;1;False;0;distrito (aproximado);exato;2868,72;2000,0
 3103504;Araguari;MG;MIRANDA;1;31;660,6;1;False;1;distrito (aproximado);exato;2868,72;2000,0
@@ -132,21 +132,21 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3504107;Atibaia;SP;ITAPETINGA;1;23;665,3;1;False;1;bairro;exato;7129,23;5000,0
 3504107;Atibaia;SP;CENTRO;1;72;594,7;1;False;0;bairro;exato;5197,89;3500,0
 3504107;Atibaia;SP;ALVINOPOLIS;1;12;551,5;2;False;0;bairro;exato;3268,34;2500,0
+3504107;Atibaia;SP;ATIBAIA JARDIM;1;21;638,3;1;False;0;distrito (aproximado);exato;4021,11;2500,0
+3504107;Atibaia;SP;JARDIM BRASIL;1;30;642,1;1;False;1;distrito (aproximado);exato;4021,11;2500,0
+3504107;Atibaia;SP;JARDIM PAULISTA;2;76;608,3;2;False;0;distrito (aproximado);exato;4021,11;2500,0
+3504107;Atibaia;SP;SAMAMBAIA PARQUE RESIDENCIAL;1;23;577,9;1;False;0;distrito (aproximado);exato;4021,11;2500,0
+3504107;Atibaia;SP;VILA ESPERIA OU GIGLIO;1;18;627,7;1;False;0;distrito (aproximado);exato;4021,11;2500,0
+3504107;Atibaia;SP;VILA SANTISTA;1;30;663,6;1;False;1;distrito (aproximado);exato;4021,11;2500,0
 3504107;Atibaia;SP;PORTAO;1;17;587,3;1;False;0;bairro;exato;2546,41;2000,0
-3504107;Atibaia;SP;ATIBAIA JARDIM;1;21;638,3;1;False;0;bairro;sem_match;;
-3504107;Atibaia;SP;JARDIM BRASIL;1;30;642,1;1;False;1;bairro;sem_match;;
-3504107;Atibaia;SP;JARDIM PAULISTA;2;76;608,3;2;False;0;bairro;sem_match;;
-3504107;Atibaia;SP;SAMAMBAIA PARQUE RESIDENCIAL;1;23;577,9;1;False;0;bairro;sem_match;;
-3504107;Atibaia;SP;VILA ESPERIA OU GIGLIO;1;18;627,7;1;False;0;bairro;sem_match;;
-3504107;Atibaia;SP;VILA SANTISTA;1;30;663,6;1;False;1;bairro;sem_match;;
 2101202;Bacabal;MA;CENTRO;2;69;550,0;2;False;0;distrito (aproximado);exato;1638,82;1212,0
 4301602;Bagé;RS;CENTRO;1;25;613,6;1;False;0;distrito (aproximado);exato;2823,94;1600,0
 4202008;Balneário Camboriú;SC;CENTRO;4;336;628,6;6;True;1;bairro;exato;7924,58;5000,0
-4202008;Balneário Camboriú;SC;ESTADOS;1;12;568,1;2;False;0;bairro;sem_match;;
+4202008;Balneário Camboriú;SC;ESTADOS;1;12;568,1;2;False;0;distrito (aproximado);exato;6074,78;4000,0
 2101400;Balsas;MA;CENTRO;2;103;639,5;2;False;2;distrito (aproximado);exato;2637,12;1250,0
 3105608;Barbacena;MG;BOA MORTE;2;45;609,1;2;False;0;bairro;exato;4496,12;3000,0
 3105608;Barbacena;MG;SÃO SEBASTIÃO;1;12;661,1;1;False;1;bairro;exato;3219,22;1800,0
-3105608;Barbacena;MG;CARMO;1;67;653,1;1;False;0;bairro;sem_match;;
+3105608;Barbacena;MG;CARMO;1;67;653,1;1;False;0;distrito (aproximado);exato;3034,59;1700,0
 1501303;Barcarena;PA;VILA DOS CABANOS;1;24;583,5;1;False;0;distrito (aproximado);exato;1666,44;1212,0
 3300407;Barra Mansa;RJ;CENTRO;2;204;586,7;2;False;0;bairro;exato;4527,62;3000,0
 2903201;Barreiras;BA;BELA VISTA;1;60;583,6;1;False;0;distrito (aproximado);exato;2594,29;1215,0
@@ -163,21 +163,21 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3505500;Barretos;SP;MARIETA;1;15;583,7;1;False;0;distrito (aproximado);exato;3353,1;2400,0
 3505708;Barueri;SP;ALDEIA DA SERRA;1;22;598,3;1;False;0;bairro;exato;20111,31;15000,0
 3505708;Barueri;SP;CENTRO;1;34;611,9;2;False;0;bairro;exato;6564,74;4000,0
-3505708;Barueri;SP;ALPHAVILLE INDUSTRIAL;1;83;681,2;1;False;1;bairro;sem_match;;
-3505708;Barueri;SP;DEZOITO DO FORTE EMPRESARIAL/ALPHAVILLE.;1;14;643,1;1;False;1;bairro;sem_match;;
+3505708;Barueri;SP;ALPHAVILLE INDUSTRIAL;1;83;681,2;1;False;1;distrito (aproximado);exato;6391,13;3000,0
+3505708;Barueri;SP;DEZOITO DO FORTE EMPRESARIAL/ALPHAVILLE.;1;14;643,1;1;False;1;distrito (aproximado);exato;6391,13;3000,0
 3506003;Bauru;SP;CENTRO;2;68;565,4;3;False;0;bairro;exato;4765,56;3000,0
-3506003;Bauru;SP;ALTO HIGIENOPOLIS;2;83;642,9;2;False;1;bairro;sem_match;;
-3506003;Bauru;SP;JARDIM AMALIA;1;70;615,6;1;False;0;bairro;sem_match;;
-3506003;Bauru;SP;JARDIM AMERICA;1;42;668,6;1;False;1;bairro;sem_match;;
-3506003;Bauru;SP;JARDIM AURI VERDE;1;29;619,2;1;False;0;bairro;sem_match;;
-3506003;Bauru;SP;JARDIM ESTORIL;1;73;566,6;1;False;0;bairro;sem_match;;
-3506003;Bauru;SP;JARDIM ESTORIL IV;2;123;587,0;2;False;0;bairro;sem_match;;
-3506003;Bauru;SP;MADUREIRA;1;23;594,7;1;False;0;bairro;sem_match;;
-3506003;Bauru;SP;VILA AVIACAO;2;47;659,1;2;False;2;bairro;sem_match;;
-3506003;Bauru;SP;VILA FLORES;1;12;568,2;1;False;0;bairro;sem_match;;
-3506003;Bauru;SP;VILA MARIANA;1;25;565,5;1;False;0;bairro;sem_match;;
-3506003;Bauru;SP;VILA SAMARITANA;1;26;623,2;1;False;0;bairro;sem_match;;
-3506003;Bauru;SP;VILA SOUTO;2;71;600,5;2;False;0;bairro;sem_match;;
+3506003;Bauru;SP;ALTO HIGIENOPOLIS;2;83;642,9;2;False;1;distrito (aproximado);exato;3921,49;2400,0
+3506003;Bauru;SP;JARDIM AMALIA;1;70;615,6;1;False;0;distrito (aproximado);exato;3921,49;2400,0
+3506003;Bauru;SP;JARDIM AMERICA;1;42;668,6;1;False;1;distrito (aproximado);exato;3921,49;2400,0
+3506003;Bauru;SP;JARDIM AURI VERDE;1;29;619,2;1;False;0;distrito (aproximado);exato;3921,49;2400,0
+3506003;Bauru;SP;JARDIM ESTORIL;1;73;566,6;1;False;0;distrito (aproximado);exato;3921,49;2400,0
+3506003;Bauru;SP;JARDIM ESTORIL IV;2;123;587,0;2;False;0;distrito (aproximado);exato;3921,49;2400,0
+3506003;Bauru;SP;MADUREIRA;1;23;594,7;1;False;0;distrito (aproximado);exato;3921,49;2400,0
+3506003;Bauru;SP;VILA AVIACAO;2;47;659,1;2;False;2;distrito (aproximado);exato;3921,49;2400,0
+3506003;Bauru;SP;VILA FLORES;1;12;568,2;1;False;0;distrito (aproximado);exato;3921,49;2400,0
+3506003;Bauru;SP;VILA MARIANA;1;25;565,5;1;False;0;distrito (aproximado);exato;3921,49;2400,0
+3506003;Bauru;SP;VILA SAMARITANA;1;26;623,2;1;False;0;distrito (aproximado);exato;3921,49;2400,0
+3506003;Bauru;SP;VILA SOUTO;2;71;600,5;2;False;0;distrito (aproximado);exato;3921,49;2400,0
 3300456;Belford Roxo;RJ;CENTRO;1;40;559,2;2;False;0;bairro;exato;2803,59;2000,0
 3300456;Belford Roxo;RJ;SANTA TEREZA;1;18;565,8;2;False;0;bairro;exato;1415,82;1230,0
 3300456;Belford Roxo;RJ;ANDRADE ARAUJO;1;12;503,6;1;False;0;bairro;exato;1593,74;1212,0
@@ -223,6 +223,7 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3106200;Belo Horizonte;MG;UNIÃO;1;25;659,3;1;False;1;bairro;exato;5628,6;3400,0
 3106200;Belo Horizonte;MG;BARREIRO;1;67;637,6;2;False;1;bairro;exato;5348,33;3260,0
 3106200;Belo Horizonte;MG;HELIÓPOLIS;1;12;557,9;1;False;0;bairro;exato;4577,0;3001,0
+3106200;Belo Horizonte;MG;SAO JOAO BATISTA (VENDA NOVA);1;19;635,0;1;False;0;distrito (aproximado);exato;6073,37;3001,0
 3106200;Belo Horizonte;MG;CARLOS PRATES;2;54;619,1;2;False;1;bairro;exato;4553,92;3000,0
 3106200;Belo Horizonte;MG;PLANALTO;1;11;607,8;2;False;0;bairro;exato;4475,33;3000,0
 3106200;Belo Horizonte;MG;SERRANO;1;18;650,4;1;False;1;bairro;exato;4398,89;3000,0
@@ -245,9 +246,10 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3106200;Belo Horizonte;MG;TUPI A;1;30;631,5;1;False;1;bairro;exato;2439,34;1800,0
 3106200;Belo Horizonte;MG;VALE DO JATOBA;1;59;620,5;1;False;0;bairro;exato;2216,86;1700,0
 3106200;Belo Horizonte;MG;SAO SALVADOR;2;85;617,3;2;False;0;bairro;exato;2360,36;1500,0
-3106200;Belo Horizonte;MG;SAO JOAO BATISTA (VENDA NOVA);1;19;635,0;1;False;0;bairro;sem_match;;
 1501402;Belém;PA;NAZARÉ;5;197;657,3;6;True;3;bairro;exato;10892,99;7500,0
 1501402;Belém;PA;BATISTA CAMPOS;3;458;626,6;3;True;2;bairro;exato;9423,35;6000,0
+1501402;Belém;PA;SAO BRAZ;1;112;569,4;1;False;0;distrito (aproximado);exato;9028,15;6000,0
+1501402;Belém;PA;TERRA FIRME;1;12;591,2;1;False;0;distrito (aproximado);exato;9028,15;6000,0
 1501402;Belém;PA;UMARIZAL;2;74;569,1;3;False;0;bairro;exato;9752,31;6000,0
 1501402;Belém;PA;SAO BRAS;2;127;581,2;2;False;0;bairro;exato;7600,1;5000,0
 1501402;Belém;PA;VAL-DE-CAES;1;19;578,6;1;False;0;bairro;exato;7144,7;5000,0
@@ -259,23 +261,21 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 1501402;Belém;PA;MANGUEIRÃO;1;82;516,9;1;False;0;bairro;exato;3500,59;1800,0
 1501402;Belém;PA;MARAMBAIA;3;229;586,8;5;True;0;bairro;exato;3487,72;1800,0
 1501402;Belém;PA;CASTANHEIRA;1;53;575,7;1;False;0;bairro;exato;2835,35;1500,0
+1501402;Belém;PA;AGULHA (ICOARACI);1;31;571,5;1;False;0;distrito (aproximado);exato;1812,98;1212,0
+1501402;Belém;PA;AGULHA - ICOARACI;1;27;511,8;1;False;0;distrito (aproximado);exato;1812,98;1212,0
 1501402;Belém;PA;CAMPINA DE ICOARACI;2;155;590,8;2;False;1;bairro;exato;1952,43;1212,0
+1501402;Belém;PA;CRUZEIRO (ICOARACI);1;53;550,7;2;False;0;distrito (aproximado);exato;1812,98;1212,0
 1501402;Belém;PA;GUAMÁ;1;22;533,4;1;False;0;bairro;exato;2342,83;1212,0
 1501402;Belém;PA;SACRAMENTA;2;75;548,4;2;False;0;bairro;exato;2157,7;1212,0
 1501402;Belém;PA;TAPANA;1;36;596,8;2;False;0;bairro;exato;2303,72;1212,0
 1501402;Belém;PA;UNA;1;31;547,3;1;False;0;bairro;exato;2020,11;1212,0
-1501402;Belém;PA;ÁGUA BOA (OUTEIRO);1;12;497,1;1;False;0;bairro;sem_match;;
-1501402;Belém;PA;AGULHA (ICOARACI);1;31;571,5;1;False;0;bairro;sem_match;;
-1501402;Belém;PA;AGULHA - ICOARACI;1;27;511,8;1;False;0;bairro;sem_match;;
-1501402;Belém;PA;CRUZEIRO (ICOARACI);1;53;550,7;2;False;0;bairro;sem_match;;
-1501402;Belém;PA;SAO BRAZ;1;112;569,4;1;False;0;bairro;sem_match;;
-1501402;Belém;PA;TERRA FIRME;1;12;591,2;1;False;0;bairro;sem_match;;
-1501402;Belém;PA;VILA (MOSQUEIRO);1;45;600,4;1;False;0;bairro;sem_match;;
+1501402;Belém;PA;ÁGUA BOA (OUTEIRO);1;12;497,1;1;False;0;distrito (aproximado);exato;1394,1;1200,0
+1501402;Belém;PA;VILA (MOSQUEIRO);1;45;600,4;1;False;0;distrito (aproximado);exato;1541,25;1200,0
 4302105;Bento Gonçalves;RS;CIDADE ALTA;1;55;645,6;1;False;1;bairro;exato;6990,12;4750,0
 4302105;Bento Gonçalves;RS;FENAVINHO;1;17;644,7;1;False;1;bairro;exato;3829,17;3000,0
 3106705;Betim;MG;JARDIM DA CIDADE;1;28;634,1;1;False;0;bairro;exato;7583,36;6000,0
 3106705;Betim;MG;ARQUIPELAGO VERDE;2;99;617,9;2;False;0;bairro;exato;3255,59;2000,0
-3106705;Betim;MG;VILA CRISTINA;1;38;613,5;1;False;0;bairro;sem_match;;
+3106705;Betim;MG;VILA CRISTINA;1;38;613,5;1;False;0;distrito (aproximado);exato;2422,81;1700,0
 3506508;Birigui;SP;CENTRO;1;29;647,5;1;False;1;distrito (aproximado);exato;2884,23;2000,0
 3506508;Birigui;SP;CHACARAS CAICARA;1;22;672,5;1;False;1;distrito (aproximado);exato;2884,23;2000,0
 3506508;Birigui;SP;JARDIM PINHEIROS;1;66;621,4;1;False;0;distrito (aproximado);exato;2884,23;2000,0
@@ -292,20 +292,20 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3507506;Botucatu;SP;CENTRO;4;168;617,4;4;True;2;bairro;exato;5872,84;4000,0
 3507506;Botucatu;SP;VILA NOGUEIRA;1;26;581,4;1;False;0;bairro;exato;6045,4;4000,0
 3507506;Botucatu;SP;VILA NOVA BOTUCATU;1;17;581,4;1;False;0;bairro;exato;3510,75;2800,0
+3507506;Botucatu;SP;PARK RESIDENCIAL CONVIVIO;1;46;572,0;1;False;0;distrito (aproximado);exato;3628,49;2500,0
 3507506;Botucatu;SP;VILA GUIMARAES;1;15;612,7;1;False;0;bairro;exato;3483,67;2400,0
 3507506;Botucatu;SP;JARDIM AEROPORTO;1;79;674,4;1;False;1;bairro;exato;2424,39;2000,0
-3507506;Botucatu;SP;PARK RESIDENCIAL CONVIVIO;1;46;572,0;1;False;0;bairro;sem_match;;
 1501709;Bragança;PA;CENTRO;1;46;597,4;1;False;0;bairro;exato;4255,6;2800,0
 3507605;Bragança Paulista;SP;SANTA LUZIA;1;29;584,9;1;False;0;bairro;exato;6266,66;4000,0
+3507605;Bragança Paulista;SP;CONDOMINIO JARDIM DAS PALMEIRAS;1;15;585,0;1;False;0;distrito (aproximado);exato;3539,89;2400,0
+3507605;Bragança Paulista;SP;JARDIM DOUTOR JULIO DE MESQUITA FILHO;1;35;612,4;1;False;0;distrito (aproximado);exato;3539,89;2400,0
+3507605;Bragança Paulista;SP;JARDIM EUROPA;1;21;631,6;1;False;1;distrito (aproximado);exato;3539,89;2400,0
+3507605;Bragança Paulista;SP;JARDIM MORUMBI;1;52;592,2;1;False;0;distrito (aproximado);exato;3539,89;2400,0
+3507605;Bragança Paulista;SP;JARDIM SANTA RITA DE CASSIA;1;19;646,1;1;False;1;distrito (aproximado);exato;3539,89;2400,0
+3507605;Bragança Paulista;SP;JARDIM SAO JOSE;1;25;681,9;1;False;1;distrito (aproximado);exato;3539,89;2400,0
+3507605;Bragança Paulista;SP;VILA MUNICIPAL;1;26;565,2;1;False;0;distrito (aproximado);exato;3539,89;2400,0
+3507605;Bragança Paulista;SP;VILA SANTA CRISTINA;1;23;601,3;1;False;0;distrito (aproximado);exato;3539,89;2400,0
 3507605;Bragança Paulista;SP;CAMPO NOVO;1;14;659,1;1;False;1;bairro;exato;2966,44;2000,0
-3507605;Bragança Paulista;SP;CONDOMINIO JARDIM DAS PALMEIRAS;1;15;585,0;1;False;0;bairro;sem_match;;
-3507605;Bragança Paulista;SP;JARDIM DOUTOR JULIO DE MESQUITA FILHO;1;35;612,4;1;False;0;bairro;sem_match;;
-3507605;Bragança Paulista;SP;JARDIM EUROPA;1;21;631,6;1;False;1;bairro;sem_match;;
-3507605;Bragança Paulista;SP;JARDIM MORUMBI;1;52;592,2;1;False;0;bairro;sem_match;;
-3507605;Bragança Paulista;SP;JARDIM SANTA RITA DE CASSIA;1;19;646,1;1;False;1;bairro;sem_match;;
-3507605;Bragança Paulista;SP;JARDIM SAO JOSE;1;25;681,9;1;False;1;bairro;sem_match;;
-3507605;Bragança Paulista;SP;VILA MUNICIPAL;1;26;565,2;1;False;0;bairro;sem_match;;
-3507605;Bragança Paulista;SP;VILA SANTA CRISTINA;1;23;601,3;1;False;0;bairro;sem_match;;
 5300108;Brasília;DF;AGUAS CLARAS;3;104;621,3;3;True;1;distrito (aproximado);exato;5784,31;3000,0
 5300108;Brasília;DF;ÁREA OCTOGONAL;1;69;640,6;1;False;1;distrito (aproximado);exato;5784,31;3000,0
 5300108;Brasília;DF;AREAL (AGUAS CLARAS);2;190;677,0;2;False;1;distrito (aproximado);exato;5784,31;3000,0
@@ -360,7 +360,7 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 5300108;Brasília;DF;ZONA INDUSTRIAL;1;12;654,8;2;False;1;distrito (aproximado);exato;5784,31;3000,0
 4202909;Brusque;SC;JARDIM MALUCHE;1;17;642,1;1;False;1;bairro;exato;5284,38;3500,0
 4202909;Brusque;SC;SANTA TEREZINHA;1;24;585,0;1;False;0;bairro;exato;3613,47;2800,0
-4202909;Brusque;SC;PRIMEIRO DE MAIO;1;13;586,1;2;False;0;bairro;sem_match;;
+4202909;Brusque;SC;PRIMEIRO DE MAIO;1;13;586,1;2;False;0;distrito (aproximado);exato;3660,56;2600,0
 3300704;Cabo Frio;RJ;CENTRO;2;93;602,7;3;False;0;distrito (aproximado);exato;3293,47;1900,0
 3300704;Cabo Frio;RJ;JARDIM CAICARA;2;30;573,2;2;False;0;distrito (aproximado);exato;3293,47;1900,0
 3300704;Cabo Frio;RJ;JARDIM EXCELSIOR;1;34;597,5;1;False;0;distrito (aproximado);exato;3293,47;1900,0
@@ -400,12 +400,12 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2504009;Campina Grande;PB;QUARENTA;1;27;589,7;1;False;0;bairro;exato;2488,99;1400,0
 2504009;Campina Grande;PB;LIBERDADE;2;73;627,0;2;False;1;bairro;exato;2667,77;1290,0
 2504009;Campina Grande;PB;BODOCONGO;1;14;578,8;1;False;0;bairro;exato;2111,98;1212,0
+2504009;Campina Grande;PB;CENTRO;2;186;668,4;3;False;1;distrito (aproximado);exato;2662,32;1212,0
 2504009;Campina Grande;PB;CONCEIÇÃO;1;13;621,4;1;False;0;bairro;exato;2665,42;1212,0
 2504009;Campina Grande;PB;JOSÉ PINHEIRO;1;74;644,8;2;False;1;bairro;exato;1789,37;1212,0
 2504009;Campina Grande;PB;MALVINAS;2;37;568,9;3;False;0;bairro;exato;1771,33;1212,0
 2504009;Campina Grande;PB;SANTA CRUZ;1;62;624,5;1;False;0;bairro;exato;2185,04;1212,0
 2504009;Campina Grande;PB;TRES IRMAS;1;54;616,9;1;False;0;bairro;exato;1951,39;1212,0
-2504009;Campina Grande;PB;CENTRO;2;186;668,4;3;False;1;bairro;sem_match;;
 3509502;Campinas;SP;BARAO GERALDO;2;120;645,0;2;False;1;distrito (aproximado);exato;6891,19;4000,0
 3509502;Campinas;SP;ARRUAMENTO FAIN JOSE FERES;1;51;632,5;1;False;0;distrito (aproximado);exato;5247,76;3000,0
 3509502;Campinas;SP;BOSQUE;1;26;601,9;1;False;0;distrito (aproximado);exato;5247,76;3000,0
@@ -443,11 +443,11 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 5002704;Campo Grande;MS;AMAMBAÍ;1;37;590,6;1;False;0;bairro;exato;5245,55;3001,0
 5002704;Campo Grande;MS;MONTE CASTELO;6;355;618,8;8;True;1;bairro;exato;4130,72;3000,0
 5002704;Campo Grande;MS;JARDIM PAULISTA;2;69;606,6;2;False;0;bairro;exato;3824,45;2500,0
+5002704;Campo Grande;MS;JARDIM IMA;1;18;553,6;2;False;0;distrito (aproximado);exato;3834,91;2000,0
+5002704;Campo Grande;MS;JARDIM LEBLON;1;53;562,1;1;False;0;distrito (aproximado);exato;3834,91;2000,0
+5002704;Campo Grande;MS;VILA ALBA;1;14;666,9;1;False;1;distrito (aproximado);exato;3834,91;2000,0
+5002704;Campo Grande;MS;VILA TAVEIRPOLIS;1;77;633,4;1;False;1;distrito (aproximado);exato;3834,91;2000,0
 5002704;Campo Grande;MS;COOPHAVILA II;1;12;602,0;1;False;0;bairro;exato;2481,06;1850,0
-5002704;Campo Grande;MS;JARDIM IMA;1;18;553,6;2;False;0;bairro;sem_match;;
-5002704;Campo Grande;MS;JARDIM LEBLON;1;53;562,1;1;False;0;bairro;sem_match;;
-5002704;Campo Grande;MS;VILA ALBA;1;14;666,9;1;False;1;bairro;sem_match;;
-5002704;Campo Grande;MS;VILA TAVEIRPOLIS;1;77;633,4;1;False;1;bairro;sem_match;;
 4104204;Campo Largo;PR;CENTRO;1;34;576,9;2;False;0;distrito (aproximado);exato;3218,8;2500,0
 4104204;Campo Largo;PR;VILA ELIZABETH;1;18;586,5;2;False;0;distrito (aproximado);exato;3218,8;2500,0
 3301009;Campos dos Goytacazes;RJ;PARQUE TAMANDARÉ;1;17;624,8;1;False;1;bairro;exato;7707,8;5000,0
@@ -505,13 +505,13 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3511102;Catanduva;SP;CENTRO;2;48;596,1;2;False;0;bairro;exato;6551,75;3985,0
 3511102;Catanduva;SP;PARQUE JOAQUIM LOPES;2;51;638,9;2;False;1;bairro;exato;4348,72;3200,0
 3511102;Catanduva;SP;HIGIENOPOLIS;2;83;612,5;2;False;1;bairro;exato;4605,44;3000,0
+3511102;Catanduva;SP;PARQUE RESIDENCIAL FLAMINGO;1;18;543,5;1;False;0;distrito (aproximado);exato;3214,77;2200,0
 3511102;Catanduva;SP;SAO FRANCISCO;1;15;656,6;1;False;1;bairro;exato;3086,45;2000,0
-3511102;Catanduva;SP;PARQUE RESIDENCIAL FLAMINGO;1;18;543,5;1;False;0;bairro;sem_match;;
 2303709;Caucaia;CE;CENTRO;1;42;546,0;1;False;0;bairro;exato;2640,83;1500,0
+2303709;Caucaia;CE;CONJUNTO ARATURI;1;12;546,6;1;False;0;distrito (aproximado);exato;1899,53;1212,0
+2303709;Caucaia;CE;METROPOLE;1;13;550,8;1;False;0;distrito (aproximado);exato;1899,53;1212,0
 2303709;Caucaia;CE;PARQUE GUADALAJARA;1;11;512,4;1;False;0;bairro;exato;1930,9;1212,0
 2303709;Caucaia;CE;PLANALTO CAUCAIA;1;31;585,5;1;False;0;bairro;exato;2453,93;1212,0
-2303709;Caucaia;CE;CONJUNTO ARATURI;1;12;546,6;1;False;0;bairro;sem_match;;
-2303709;Caucaia;CE;METROPOLE;1;13;550,8;1;False;0;bairro;sem_match;;
 2103000;Caxias;MA;DINIR SILVA;2;85;542,0;2;False;0;bairro;exato;3910,26;1800,0
 2103000;Caxias;MA;CENTRO;2;43;572,4;2;False;0;bairro;exato;2676,88;1500,0
 4305108;Caxias do Sul;RS;EXPOSICAO;1;46;681,4;1;False;1;bairro;exato;8632,01;4800,0
@@ -576,12 +576,12 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 5103403;Cuiabá;MT;CIDADE ALTA;1;59;669,5;1;False;1;bairro;exato;5706,01;3500,0
 5103403;Cuiabá;MT;PORTO;1;17;701,0;1;False;1;bairro;exato;4929,26;3001,0
 5103403;Cuiabá;MT;AREÃO;3;264;635,3;3;True;2;bairro;exato;4545,29;3000,0
+5103403;Cuiabá;MT;MORADA DO OURO - SETOR OESTE;1;10;514,6;1;False;0;distrito (aproximado);exato;6222,11;3000,0
 5103403;Cuiabá;MT;DOM AQUINO;4;254;626,0;4;True;1;bairro;exato;4043,56;2500,0
 5103403;Cuiabá;MT;CHÁCARA DOS PINHEIROS;1;68;583,0;1;False;0;bairro;exato;3553,01;2300,0
 5103403;Cuiabá;MT;JARDIM UBIRAJARA;1;22;627,8;1;False;0;bairro;exato;3820,68;2200,0
 5103403;Cuiabá;MT;MORADA DA SERRA;2;80;538,7;2;False;0;bairro;exato;3185,99;2001,0
 5103403;Cuiabá;MT;BELA VISTA;1;56;553,1;1;False;0;bairro;exato;2725,19;1800,0
-5103403;Cuiabá;MT;MORADA DO OURO - SETOR OESTE;1;10;514,6;1;False;0;bairro;sem_match;;
 4106902;Curitiba;PR;BATEL;1;79;629,1;1;False;1;bairro;exato;14756,7;10000,0
 4106902;Curitiba;PR;MOSSUNGUÊ;1;79;599,2;1;False;0;bairro;exato;14627,59;10000,0
 4106902;Curitiba;PR;AHÚ;3;182;641,4;3;True;2;bairro;exato;11154,95;8000,0
@@ -602,18 +602,18 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 4106902;Curitiba;PR;NOVO MUNDO;1;35;603,4;1;False;0;bairro;exato;4672,9;3200,0
 4106902;Curitiba;PR;BAIRRO ALTO;2;61;569,4;2;False;0;bairro;exato;4363,54;3000,0
 4106902;Curitiba;PR;BOQUEIRAO;3;287;574,4;5;True;1;bairro;exato;4446,47;3000,0
+4106902;Curitiba;PR;CIC;1;249;566,6;1;False;0;distrito (aproximado);exato;5394,9;3000,0
+4106902;Curitiba;PR;CIDADE INDUSTRIAL;3;79;571,0;5;True;0;distrito (aproximado);exato;5394,9;3000,0
 4106902;Curitiba;PR;XAXIM;3;155;613,0;3;True;1;bairro;exato;4308,03;3000,0
 4106902;Curitiba;PR;CAJURU;2;37;571,1;2;False;0;bairro;exato;3178,25;2200,0
 4106902;Curitiba;PR;SÍTIO CERCADO;2;85;583,4;2;False;0;bairro;exato;2796,52;2100,0
-4106902;Curitiba;PR;CIC;1;249;566,6;1;False;0;bairro;sem_match;;
-4106902;Curitiba;PR;CIDADE INDUSTRIAL;3;79;571,0;5;True;0;bairro;sem_match;;
 3513801;Diadema;SP;CENTRO;8;254;588,9;12;True;1;bairro;exato;4255,57;3000,0
+3513801;Diadema;SP;PARQUE GALICIA;1;26;566,1;1;False;0;distrito (aproximado);exato;2653,66;2000,0
+3513801;Diadema;SP;PARQUE JABUTICABEIRAS;1;29;638,3;1;False;0;distrito (aproximado);exato;2653,66;2000,0
 3513801;Diadema;SP;PIRAPORINHA;1;14;576,3;2;False;0;bairro;exato;2551,32;2000,0
 3513801;Diadema;SP;TABOAO;1;14;552,1;1;False;0;bairro;exato;2431,01;1900,0
 3513801;Diadema;SP;VILA NOGUEIRA;1;20;574,8;1;False;0;bairro;exato;2177,17;1800,0
 3513801;Diadema;SP;CAMPANARIO;1;50;558,4;1;False;0;bairro;exato;2060,2;1500,0
-3513801;Diadema;SP;PARQUE GALICIA;1;26;566,1;1;False;0;bairro;sem_match;;
-3513801;Diadema;SP;PARQUE JABUTICABEIRAS;1;29;638,3;1;False;0;bairro;sem_match;;
 3122306;Divinópolis;MG;BOM PASTOR;1;25;627,5;1;False;0;distrito (aproximado);exato;3085,7;2000,0
 3122306;Divinópolis;MG;CENTRO;6;224;663,5;6;True;4;distrito (aproximado);exato;3085,7;2000,0
 3122306;Divinópolis;MG;SAO JOSE;1;13;637,7;1;False;1;distrito (aproximado);exato;3085,7;2000,0
@@ -624,18 +624,18 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 5003702;Dourados;MS;PORTO MADERO;1;20;717,2;1;False;1;distrito (aproximado);exato;3546,88;2000,0
 5003702;Dourados;MS;VILA PROGRESSO;1;43;590,2;1;False;0;distrito (aproximado);exato;3546,88;2000,0
 3301702;Duque de Caxias;RJ;CENTRO;7;354;576,3;11;True;1;bairro;exato;2424,23;1500,0
+3301702;Duque de Caxias;RJ;JARDIM LEAL;1;11;506,4;1;False;0;distrito (aproximado);exato;2261,53;1500,0
+3301702;Duque de Caxias;RJ;JARDIM VINTE E CINCO DE AGOSTO;2;82;575,4;4;False;0;distrito (aproximado);exato;2261,53;1500,0
+3301702;Duque de Caxias;RJ;PARQUE ESPERANÇA;1;20;533,2;1;False;0;distrito (aproximado);exato;2261,53;1500,0
+3301702;Duque de Caxias;RJ;PARQUE LAFAIETE;2;35;554,4;3;False;0;distrito (aproximado);exato;2261,53;1500,0
+3301702;Duque de Caxias;RJ;PARQUE MARILANDIA;1;64;535,2;1;False;0;distrito (aproximado);exato;2261,53;1500,0
+3301702;Duque de Caxias;RJ;PARQUE PAULICÉIA;1;14;543,6;1;False;0;distrito (aproximado);exato;2261,53;1500,0
 3301702;Duque de Caxias;RJ;VILA SÃO LUÍS;1;52;524,6;2;False;0;bairro;exato;2381,08;1500,0
+3301702;Duque de Caxias;RJ;PARQUE XERÉM;1;18;556,8;1;False;0;distrito (aproximado);exato;2049,44;1400,0
 3301702;Duque de Caxias;RJ;SANTA CRUZ DA SERRA;1;70;632,1;1;False;1;bairro;exato;2000,28;1400,0
 3301702;Duque de Caxias;RJ;CHACARAS ARCAMPO;1;70;601,7;1;False;0;bairro;exato;2006,03;1300,0
+3301702;Duque de Caxias;RJ;VILA SANTA CRUZ;1;10;604,2;1;False;0;distrito (aproximado);exato;1851,2;1280,0
 3301702;Duque de Caxias;RJ;CHÁCARAS RIO-PETRÓPOLIS;1;24;498,0;1;False;0;bairro;exato;1642,0;1212,0
-3301702;Duque de Caxias;RJ;JARDIM LEAL;1;11;506,4;1;False;0;bairro;sem_match;;
-3301702;Duque de Caxias;RJ;JARDIM VINTE E CINCO DE AGOSTO;2;82;575,4;4;False;0;bairro;sem_match;;
-3301702;Duque de Caxias;RJ;PARQUE ESPERANÇA;1;20;533,2;1;False;0;bairro;sem_match;;
-3301702;Duque de Caxias;RJ;PARQUE LAFAIETE;2;35;554,4;3;False;0;bairro;sem_match;;
-3301702;Duque de Caxias;RJ;PARQUE MARILANDIA;1;64;535,2;1;False;0;bairro;sem_match;;
-3301702;Duque de Caxias;RJ;PARQUE PAULICÉIA;1;14;543,6;1;False;0;bairro;sem_match;;
-3301702;Duque de Caxias;RJ;PARQUE XERÉM;1;18;556,8;1;False;0;bairro;sem_match;;
-3301702;Duque de Caxias;RJ;VILA SANTA CRUZ;1;10;604,2;1;False;0;bairro;sem_match;;
 3515004;Embu das Artes;SP;TINGIDOR;1;19;575,4;2;False;0;bairro;exato;2818,3;2000,0
 3515004;Embu das Artes;SP;ESTANCIA DE EMBUARAMA;1;11;557,2;1;False;0;bairro;exato;2231,29;1900,0
 3515004;Embu das Artes;SP;JARDIM SANTA EMILIA;1;23;526,5;1;False;0;bairro;exato;1864,09;1500,0
@@ -650,12 +650,12 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2910800;Feira de Santana;BA;PONTO CENTRAL;4;306;641,7;4;True;2;bairro;exato;3452,43;2000,0
 2910800;Feira de Santana;BA;PARQUE GETÚLIO VARGAS;1;25;578,2;1;False;0;bairro;exato;3252,88;1500,0
 2910800;Feira de Santana;BA;SERRARIA BRASIL;2;43;602,6;2;False;0;bairro;exato;2745,34;1500,0
+2910800;Feira de Santana;BA;ALTO DO CRUZEIRO;1;114;635,1;1;False;0;distrito (aproximado);exato;2314,07;1212,0
 2910800;Feira de Santana;BA;CENTRO;3;92;586,9;4;True;1;bairro;exato;2689,47;1212,0
 2910800;Feira de Santana;BA;JARDIM CRUZEIRO;1;24;587,1;1;False;0;bairro;exato;2053,64;1212,0
 2910800;Feira de Santana;BA;MANGABEIRA;1;20;585,1;1;False;0;bairro;exato;2226,32;1212,0
+2910800;Feira de Santana;BA;SÃO JOÃO;1;130;639,4;1;False;1;distrito (aproximado);exato;2314,07;1212,0
 2910800;Feira de Santana;BA;TOMBA;1;19;614,0;1;False;0;bairro;exato;1780,36;1212,0
-2910800;Feira de Santana;BA;ALTO DO CRUZEIRO;1;114;635,1;1;False;0;bairro;sem_match;;
-2910800;Feira de Santana;BA;SÃO JOÃO;1;130;639,4;1;False;1;bairro;sem_match;;
 3515707;Ferraz de Vasconcelos;SP;JARDIM JULIANA;1;55;579,8;1;False;0;distrito (aproximado);exato;2311,84;1800,0
 3515707;Ferraz de Vasconcelos;SP;JARDIM SAO JOAO;1;14;511,1;1;False;0;distrito (aproximado);exato;2311,84;1800,0
 3515707;Ferraz de Vasconcelos;SP;SITIO PAREDAO;1;17;545,4;1;False;0;distrito (aproximado);exato;2311,84;1800,0
@@ -665,15 +665,15 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 4205407;Florianópolis;SC;ITACORUBI;3;92;636,0;3;True;2;bairro;exato;8837,01;6000,0
 4205407;Florianópolis;SC;BALNEARIO;1;18;568,7;1;False;0;bairro;exato;7656,89;5001,0
 4205407;Florianópolis;SC;COQUEIROS;1;30;551,0;1;False;0;bairro;exato;7647,98;5000,0
+4205407;Florianópolis;SC;INGLESES DO RIO VERMELHO;3;72;587,1;4;True;0;distrito (aproximado);exato;7228,81;4200,0
 4205407;Florianópolis;SC;AGRONÔMICA;1;75;623,3;1;False;0;bairro;exato;8740,8;4000,0
+4205407;Florianópolis;SC;CAMPECHE;2;48;616,0;2;False;0;distrito (aproximado);exato;6037,68;4000,0
+4205407;Florianópolis;SC;LAGOA DA CONCEICAO;1;16;643,1;2;False;1;distrito (aproximado);exato;6823,57;4000,0
 4205407;Florianópolis;SC;JARDIM ATLANTICO;1;61;662,4;1;False;1;bairro;exato;5867,13;3500,0
 4205407;Florianópolis;SC;JURERE;1;13;640,4;1;False;1;bairro;exato;4052,52;3000,0
 4205407;Florianópolis;SC;SACO GRANDE;1;106;558,5;2;False;0;bairro;exato;4065,79;2500,0
 4205407;Florianópolis;SC;VARGEM GRANDE;1;10;620,5;1;False;0;bairro;exato;3455,92;2500,0
 4205407;Florianópolis;SC;COSTEIRA DO PIRAJUBAE;1;29;590,2;1;False;0;bairro;exato;3086,97;2200,0
-4205407;Florianópolis;SC;CAMPECHE;2;48;616,0;2;False;0;bairro;sem_match;;
-4205407;Florianópolis;SC;INGLESES DO RIO VERMELHO;3;72;587,1;4;True;0;bairro;sem_match;;
-4205407;Florianópolis;SC;LAGOA DA CONCEICAO;1;16;643,1;2;False;1;bairro;sem_match;;
 5208004;Formosa;GO;CENTRO;1;14;588,0;1;False;0;distrito (aproximado);exato;2903,36;1600,0
 5208004;Formosa;GO;FORMOSINHA;1;36;598,9;2;False;0;distrito (aproximado);exato;2903,36;1600,0
 5208004;Formosa;GO;SETOR PRIMAVERA;1;11;509,8;1;False;0;distrito (aproximado);exato;2903,36;1600,0
@@ -713,6 +713,10 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2304400;Fortaleza;CE;EDSON QUEIROZ;5;225;691,1;5;True;4;bairro;exato;3868,77;1300,0
 2304400;Fortaleza;CE;ITAOCA;1;26;532,1;1;False;0;bairro;exato;2186,75;1300,0
 2304400;Fortaleza;CE;PASSARÉ;2;26;565,0;2;False;0;bairro;exato;2807,27;1300,0
+2304400;Fortaleza;CE;BOA VISTA-CASTELÃO;1;28;529,8;1;False;0;distrito (aproximado);exato;3084,07;1224,0
+2304400;Fortaleza;CE;RACHEL DE QUEIROZ;1;11;562,7;1;False;0;distrito (aproximado);exato;3084,07;1224,0
+2304400;Fortaleza;CE;SAPIRANGA-COITÉ;1;87;659,0;2;False;1;distrito (aproximado);exato;3084,07;1224,0
+2304400;Fortaleza;CE;TAUAPE;3;66;590,2;3;True;1;distrito (aproximado);exato;3084,07;1224,0
 2304400;Fortaleza;CE;ALVARO WEYNE;2;70;547,3;2;False;0;bairro;exato;2176,09;1220,0
 2304400;Fortaleza;CE;BARRA DO CEARÁ;1;152;542,8;1;False;0;bairro;exato;1606,63;1212,0
 2304400;Fortaleza;CE;CARLITO PAMPLONA;1;12;559,9;2;False;0;bairro;exato;1822,87;1212,0
@@ -734,17 +738,13 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2304400;Fortaleza;CE;VICENTE PINZON;1;41;614,2;2;False;0;bairro;exato;2241,61;1212,0
 2304400;Fortaleza;CE;VILA PERI;4;218;582,1;4;True;0;bairro;exato;1882,42;1212,0
 2304400;Fortaleza;CE;VILA VELHA;2;44;576,2;4;False;0;bairro;exato;1960,13;1212,0
-2304400;Fortaleza;CE;BOA VISTA-CASTELÃO;1;28;529,8;1;False;0;bairro;sem_match;;
-2304400;Fortaleza;CE;RACHEL DE QUEIROZ;1;11;562,7;1;False;0;bairro;sem_match;;
-2304400;Fortaleza;CE;SAPIRANGA-COITÉ;1;87;659,0;2;False;1;bairro;sem_match;;
-2304400;Fortaleza;CE;TAUAPE;3;66;590,2;3;True;1;bairro;sem_match;;
 4108304;Foz do Iguaçu;PR;MONJOLO;1;17;532,8;1;False;0;bairro;exato;7989,77;5500,0
 4108304;Foz do Iguaçu;PR;CENTRO;4;186;622,7;4;True;1;bairro;exato;6628,65;4000,0
 4108304;Foz do Iguaçu;PR;KLP;2;65;618,2;2;False;1;bairro;exato;3963,93;2500,0
 4108304;Foz do Iguaçu;PR;PANORAMA;1;18;540,7;2;False;0;bairro;exato;3334,45;2200,0
-4108304;Foz do Iguaçu;PR;JARDIM SAO PAULO;1;24;582,0;1;False;0;bairro;sem_match;;
-4108304;Foz do Iguaçu;PR;JD IMPERATRIZ;1;19;596,5;1;False;0;bairro;sem_match;;
-4108304;Foz do Iguaçu;PR;VILA A;1;21;557,2;1;False;0;bairro;sem_match;;
+4108304;Foz do Iguaçu;PR;JARDIM SAO PAULO;1;24;582,0;1;False;0;distrito (aproximado);exato;3552,0;2100,0
+4108304;Foz do Iguaçu;PR;JD IMPERATRIZ;1;19;596,5;1;False;0;distrito (aproximado);exato;3552,0;2100,0
+4108304;Foz do Iguaçu;PR;VILA A;1;21;557,2;1;False;0;distrito (aproximado);exato;3552,0;2100,0
 3516200;Franca;SP;CENTRO;2;32;619,8;3;False;1;distrito (aproximado);exato;3090,12;2000,0
 3516200;Franca;SP;CIDADE NOVA;1;64;637,7;1;False;0;distrito (aproximado);exato;3090,12;2000,0
 3516200;Franca;SP;JARDIM DO EDEN;1;11;635,4;1;False;0;distrito (aproximado);exato;3090,12;2000,0
@@ -814,63 +814,63 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 4109401;Guarapuava;PR;VILA BELA;1;11;640,0;1;False;1;bairro;exato;2575,43;2000,0
 3518404;Guaratinguetá;SP;PORTAL DAS COLINAS;2;63;611,2;2;False;0;bairro;exato;10149,93;8000,0
 3518404;Guaratinguetá;SP;CAMPO DO GALVAO;1;10;626,5;1;False;0;bairro;exato;3605,45;2400,0
+3518404;Guaratinguetá;SP;CENTRO;1;11;552,5;2;False;0;distrito (aproximado);exato;3409,49;2000,0
+3518404;Guaratinguetá;SP;CHACARA SELLES;1;58;638,8;1;False;0;distrito (aproximado);exato;3409,49;2000,0
 3518404;Guaratinguetá;SP;FIGUEIRA;1;20;568,5;1;False;0;bairro;exato;3164,51;2000,0
-3518404;Guaratinguetá;SP;CENTRO;1;11;552,5;2;False;0;bairro;sem_match;;
-3518404;Guaratinguetá;SP;CHACARA SELLES;1;58;638,8;1;False;0;bairro;sem_match;;
 3518701;Guarujá;SP;PITANGUEIRAS;1;17;609,6;1;False;0;bairro;exato;7294,78;5000,0
 3518701;Guarujá;SP;PARQUE ESTUARIO;2;32;565,1;2;False;0;bairro;exato;2625,28;2000,0
-3518701;Guarujá;SP;VILA ALZIRA;1;26;578,2;1;False;0;bairro;sem_match;;
-3518701;Guarujá;SP;VILA AUREA VICENTE DE CARVALHO;1;14;577,3;1;False;0;bairro;sem_match;;
-3518701;Guarujá;SP;VILA JULIA;1;34;595,0;1;False;0;bairro;sem_match;;
-3518701;Guarujá;SP;VILA MAIA;1;25;559,0;1;False;0;bairro;sem_match;;
-3518701;Guarujá;SP;VILA SANTA ROSA;1;81;574,2;1;False;0;bairro;sem_match;;
+3518701;Guarujá;SP;VILA ALZIRA;1;26;578,2;1;False;0;distrito (aproximado);exato;3409,07;2000,0
+3518701;Guarujá;SP;VILA JULIA;1;34;595,0;1;False;0;distrito (aproximado);exato;3409,07;2000,0
+3518701;Guarujá;SP;VILA MAIA;1;25;559,0;1;False;0;distrito (aproximado);exato;3409,07;2000,0
+3518701;Guarujá;SP;VILA SANTA ROSA;1;81;574,2;1;False;0;distrito (aproximado);exato;3409,07;2000,0
+3518701;Guarujá;SP;VILA AUREA VICENTE DE CARVALHO;1;14;577,3;1;False;0;distrito (aproximado);exato;2287,46;1900,0
 3518800;Guarulhos;SP;CENTRO;3;178;580,1;4;True;0;bairro;exato;8561,54;5700,0
 3518800;Guarulhos;SP;VILA AUGUSTA;2;88;609,7;2;False;1;bairro;exato;6723,4;5000,0
 3518800;Guarulhos;SP;MACEDO;2;100;637,1;2;False;1;bairro;exato;5818,02;4000,0
 3518800;Guarulhos;SP;VILA GALVAO;3;67;543,9;5;True;0;bairro;exato;5826,06;4000,0
 3518800;Guarulhos;SP;PICANCO;1;15;581,6;1;False;0;bairro;exato;5184,65;3200,0
 3518800;Guarulhos;SP;GOPOUVA;1;12;561,3;2;False;0;bairro;exato;4214,62;3000,0
+3518800;Guarulhos;SP;CIDADE PARQUE ALVORADA;1;18;530,2;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;CIDADE SERODIO;1;16;575,8;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM ADRIANA;2;106;556,0;2;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM AIDA;1;21;641,9;1;False;1;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM ALBERTINA;1;15;575,9;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM ALMEIDA PRADO;1;57;527,0;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM ANGELICA;1;12;587,5;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM BOM CLIMA;1;14;607,2;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM COCAIA;2;67;537,1;2;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM CUMBICA;2;65;589,8;2;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM DOS AFONSOS;1;28;535,1;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM GRACINDA;1;14;578,6;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM MAIA;1;89;672,1;2;False;1;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM PRESIDENTE DUTRA;2;121;570,9;4;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM SAO DOMINGOS;1;19;561,3;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM SAO JOSE;1;28;538,3;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;JARDIM TIJUCO;1;31;626,5;1;False;1;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;PARQUE CONTINENTAL I;2;32;565,5;2;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;PARQUE CONTINENTAL II;1;17;577,1;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;PARQUE RENATO MAIA;1;13;547,2;2;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;PARQUE SAO MIGUEL;1;30;593,4;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;PORTAL DOS GRAMADOS;2;53;571,7;2;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;VILA CAMARGOS;1;38;612,6;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;VILA DAS BANDEIRAS;1;22;595,1;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;VILA DAS PALMEIRAS;2;35;579,8;2;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;VILA ENDRES;1;27;564,5;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;VILA FLORIDA;1;38;552,6;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;VILA HERMINIA;1;15;572,2;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;VILA LEONOR;1;27;695,4;1;False;1;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;VILA PROGRESSO;1;32;545,6;2;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;VILA ROSALIA;2;47;581,4;2;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;VILA SAO JOAO;1;17;546,0;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;VILA SILVEIRA;1;82;554,5;1;False;0;distrito (aproximado);exato;3678,7;2300,0
+3518800;Guarulhos;SP;VILA SIRENA;1;48;645,8;1;False;1;distrito (aproximado);exato;3678,7;2300,0
 3518800;Guarulhos;SP;JARDIM VILA GALVAO;1;16;576,3;1;False;0;bairro;exato;3028,56;2000,0
 3518800;Guarulhos;SP;VILA BARROS;1;27;567,2;1;False;0;bairro;exato;2495,77;2000,0
-3518800;Guarulhos;SP;CIDADE PARQUE ALVORADA;1;18;530,2;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;CIDADE SERODIO;1;16;575,8;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM ADRIANA;2;106;556,0;2;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM AIDA;1;21;641,9;1;False;1;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM ALBERTINA;1;15;575,9;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM ALMEIDA PRADO;1;57;527,0;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM ANGELICA;1;12;587,5;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM BOM CLIMA;1;14;607,2;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM COCAIA;2;67;537,1;2;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM CUMBICA;2;65;589,8;2;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM DOS AFONSOS;1;28;535,1;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM GRACINDA;1;14;578,6;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM MAIA;1;89;672,1;2;False;1;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM PRESIDENTE DUTRA;2;121;570,9;4;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM SAO DOMINGOS;1;19;561,3;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM SAO JOSE;1;28;538,3;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;JARDIM TIJUCO;1;31;626,5;1;False;1;bairro;sem_match;;
-3518800;Guarulhos;SP;PARQUE CONTINENTAL I;2;32;565,5;2;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;PARQUE CONTINENTAL II;1;17;577,1;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;PARQUE RENATO MAIA;1;13;547,2;2;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;PARQUE SAO MIGUEL;1;30;593,4;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;PORTAL DOS GRAMADOS;2;53;571,7;2;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;VILA CAMARGOS;1;38;612,6;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;VILA DAS BANDEIRAS;1;22;595,1;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;VILA DAS PALMEIRAS;2;35;579,8;2;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;VILA ENDRES;1;27;564,5;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;VILA FLORIDA;1;38;552,6;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;VILA HERMINIA;1;15;572,2;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;VILA LEONOR;1;27;695,4;1;False;1;bairro;sem_match;;
-3518800;Guarulhos;SP;VILA PROGRESSO;1;32;545,6;2;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;VILA ROSALIA;2;47;581,4;2;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;VILA SAO JOAO;1;17;546,0;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;VILA SILVEIRA;1;82;554,5;1;False;0;bairro;sem_match;;
-3518800;Guarulhos;SP;VILA SIRENA;1;48;645,8;1;False;1;bairro;sem_match;;
-3519071;Hortolândia;SP;JARDIM AMANDA I;1;10;577,6;1;False;0;bairro;sem_match;;
-3519071;Hortolândia;SP;JARDIM SANTA IZABEL;1;31;576,9;1;False;0;bairro;sem_match;;
-3519071;Hortolândia;SP;PARQUE ORTOLANDIA;1;19;582,9;1;False;0;bairro;sem_match;;
-3519071;Hortolândia;SP;REMANSO CAMPINEIRO;2;68;585,9;2;False;0;bairro;sem_match;;
-3519071;Hortolândia;SP;VILA SAO FRANCISCO;1;57;616,9;1;False;0;bairro;sem_match;;
+3519071;Hortolândia;SP;JARDIM AMANDA I;1;10;577,6;1;False;0;distrito (aproximado);exato;3103,19;2200,0
+3519071;Hortolândia;SP;JARDIM SANTA IZABEL;1;31;576,9;1;False;0;distrito (aproximado);exato;3103,19;2200,0
+3519071;Hortolândia;SP;PARQUE ORTOLANDIA;1;19;582,9;1;False;0;distrito (aproximado);exato;3103,19;2200,0
+3519071;Hortolândia;SP;REMANSO CAMPINEIRO;2;68;585,9;2;False;0;distrito (aproximado);exato;3103,19;2200,0
+3519071;Hortolândia;SP;VILA SAO FRANCISCO;1;57;616,9;1;False;0;distrito (aproximado);exato;3103,19;2200,0
 2606804;Igarassu;PE;CRUZ DE REBOUCAS;1;34;502,0;1;False;0;bairro;exato;2125,48;1250,0
 2606804;Igarassu;PE;CRUZ DO REBOUCAS;1;38;611,4;2;False;0;bairro;fuzzy;2125,48;1250,0
 2913606;Ilhéus;BA;CIDADE NOVA;2;82;620,2;3;False;0;bairro;exato;9006,36;6000,0
@@ -901,7 +901,7 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3131307;Ipatinga;MG;CENTRO;2;81;593,3;4;False;0;bairro;exato;2485,56;1500,0
 2802908;Itabaiana;SE;SERRANO;2;96;650,3;2;False;1;bairro;exato;2687,16;1400,0
 2802908;Itabaiana;SE;CENTRO;2;41;593,3;3;False;0;bairro;exato;2650,81;1212,0
-2802908;Itabaiana;SE;ROTARY CLUB DE ITABAIANA;1;59;660,2;1;False;1;bairro;sem_match;;
+2802908;Itabaiana;SE;ROTARY CLUB DE ITABAIANA;1;59;660,2;1;False;1;distrito (aproximado);exato;1803,81;1212,0
 3131703;Itabira;MG;CENTRO;1;43;676,6;1;False;1;distrito (aproximado);exato;2968,98;2000,0
 3131703;Itabira;MG;GABIROBA (1ª SECAO);1;16;611,4;1;False;0;distrito (aproximado);exato;2968,98;2000,0
 3131703;Itabira;MG;PARÁ;2;47;604,3;2;False;0;distrito (aproximado);exato;2968,98;2000,0
@@ -909,11 +909,11 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3301900;Itaboraí;RJ;OUTEIRO DAS PEDRAS;1;31;642,5;2;False;1;bairro;exato;2925,85;2000,0
 3301900;Itaboraí;RJ;VENDA DAS PEDRAS;1;12;540,9;1;False;0;bairro;exato;2964,1;2000,0
 3301900;Itaboraí;RJ;AMPLIAÇÃO;1;10;537,3;1;False;0;bairro;exato;1883,54;1300,0
+3301900;Itaboraí;RJ;CENTRO;2;69;600,8;3;False;0;distrito (aproximado);exato;2108,9;1300,0
+3301900;Itaboraí;RJ;CENTRO (MANILHA);1;17;576,3;1;False;0;distrito (aproximado);exato;1932,17;1300,0
+3301900;Itaboraí;RJ;JARDIM PLANALTO;1;17;567,3;1;False;0;distrito (aproximado);exato;1932,17;1300,0
 3301900;Itaboraí;RJ;NANCILANDIA;1;20;541,9;1;False;0;bairro;exato;2073,27;1300,0
-3301900;Itaboraí;RJ;CENTRO;2;69;600,8;3;False;0;bairro;sem_match;;
-3301900;Itaboraí;RJ;CENTRO (MANILHA);1;17;576,3;1;False;0;bairro;sem_match;;
-3301900;Itaboraí;RJ;JARDIM PLANALTO;1;17;567,3;1;False;0;bairro;sem_match;;
-3301900;Itaboraí;RJ;VILA BRASIL (MANILHA);1;17;535,5;1;False;0;bairro;sem_match;;
+3301900;Itaboraí;RJ;VILA BRASIL (MANILHA);1;17;535,5;1;False;0;distrito (aproximado);exato;1932,17;1300,0
 2914802;Itabuna;BA;ZILDOLANDIA;1;27;650,8;1;False;1;bairro;exato;7600,78;5000,0
 2914802;Itabuna;BA;CENTRO;4;270;623,1;5;True;1;bairro;exato;5688,37;3100,0
 2914802;Itabuna;BA;JARDIM GRAPIUNA;1;19;550,4;1;False;0;bairro;exato;2347,51;1212,0
@@ -945,8 +945,8 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3523107;Itaquaquecetuba;SP;ESTACAO;1;19;546,1;1;False;0;bairro;exato;2730,16;2000,0
 3523107;Itaquaquecetuba;SP;VILA VIRGINIA;1;39;640,0;1;False;1;bairro;exato;2732,3;2000,0
 3523107;Itaquaquecetuba;SP;CENTRO;1;28;625,8;1;False;0;bairro;exato;3129,05;1800,0
-3523107;Itaquaquecetuba;SP;JARDIM GONCALVES;1;15;531,3;1;False;0;bairro;sem_match;;
-3523107;Itaquaquecetuba;SP;VILA ZEFERINA;1;16;557,4;1;False;0;bairro;sem_match;;
+3523107;Itaquaquecetuba;SP;JARDIM GONCALVES;1;15;531,3;1;False;0;distrito (aproximado);exato;2215,68;1700,0
+3523107;Itaquaquecetuba;SP;VILA ZEFERINA;1;16;557,4;1;False;0;distrito (aproximado);exato;2215,68;1700,0
 3523404;Itatiba;SP;CENTRO;1;20;612,2;2;False;0;distrito (aproximado);exato;3838,92;2500,0
 3523404;Itatiba;SP;JARDIM ALTO DE SANTA CRUZ;1;35;650,1;1;False;1;distrito (aproximado);exato;3838,92;2500,0
 3523404;Itatiba;SP;JARDIM ARIZONA;1;11;568,2;1;False;0;distrito (aproximado);exato;3838,92;2500,0
@@ -1002,7 +1002,7 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2918001;Jequié;BA;JEQUIEZINHO;1;36;614,4;2;False;0;distrito (aproximado);exato;1893,6;1212,0
 2918001;Jequié;BA;SAO JUDAS TADEU;1;12;637,4;1;False;1;distrito (aproximado);exato;1893,6;1212,0
 1100122;Ji-Paraná;RO;CENTRO;1;18;590,1;1;False;0;bairro;exato;3449,67;2500,0
-1100122;Ji-Paraná;RO;AREA RURAL DE JI-PARANA;1;46;533,8;1;False;0;bairro;sem_match;;
+1100122;Ji-Paraná;RO;AREA RURAL DE JI-PARANA;1;46;533,8;1;False;0;distrito (aproximado);exato;2703,65;1800,0
 4209102;Joinville;SC;ATIRADORES;2;205;631,4;2;False;1;bairro;exato;12250,63;8000,0
 4209102;Joinville;SC;CENTRO;1;23;585,3;1;False;0;bairro;exato;10054,29;6000,0
 4209102;Joinville;SC;ANITA GARIBALDI;1;18;579,2;3;False;0;bairro;exato;7726,29;5000,0
@@ -1024,15 +1024,15 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2507507;João Pessoa;PB;TORRE;2;60;590,6;2;False;1;bairro;exato;3537,57;2400,0
 2507507;João Pessoa;PB;JAGUARIBE;1;21;614,7;1;False;0;bairro;exato;3163,16;2000,0
 2507507;João Pessoa;PB;TAMBIA;3;92;573,8;3;True;0;bairro;exato;2990,17;2000,0
+2507507;João Pessoa;PB;CIDADE UNIVERSITARIA;1;12;618,3;1;False;0;distrito (aproximado);exato;3544,1;1600,0
+2507507;João Pessoa;PB;JOSÉ AMÉRICO DE ALMEIDA;1;15;558,0;1;False;0;distrito (aproximado);exato;3544,1;1600,0
+2507507;João Pessoa;PB;VALENTINA DE FIGUEIREDO;2;26;527,3;3;False;0;distrito (aproximado);exato;3544,1;1600,0
 2507507;João Pessoa;PB;MANGABEIRA;4;132;561,3;5;True;0;bairro;exato;2097,04;1300,0
 2507507;João Pessoa;PB;COSTA E SILVA;1;50;557,8;1;False;0;bairro;exato;1376,47;1212,0
 2507507;João Pessoa;PB;CRISTO REDENTOR;2;121;593,8;2;False;1;bairro;exato;2441,59;1212,0
 2507507;João Pessoa;PB;CRUZ DAS ARMAS;2;52;530,4;2;False;0;bairro;exato;1631,02;1212,0
 2507507;João Pessoa;PB;INDÚSTRIAS;1;20;552,2;2;False;0;bairro;exato;1605,65;1212,0
 2507507;João Pessoa;PB;MUÇUMAGRO;1;42;586,7;1;False;0;bairro;exato;1724,65;1212,0
-2507507;João Pessoa;PB;CIDADE UNIVERSITARIA;1;12;618,3;1;False;0;bairro;sem_match;;
-2507507;João Pessoa;PB;JOSÉ AMÉRICO DE ALMEIDA;1;15;558,0;1;False;0;bairro;sem_match;;
-2507507;João Pessoa;PB;VALENTINA DE FIGUEIREDO;2;26;527,3;3;False;0;bairro;sem_match;;
 2918407;Juazeiro;BA;COUNTRY CLUB;1;82;604,3;1;False;0;bairro;exato;7075,86;5000,0
 2918407;Juazeiro;BA;CAJUEIRO;1;16;565,7;1;False;0;bairro;exato;5164,48;2700,0
 2918407;Juazeiro;BA;ALTO DA MARAVILHA;1;34;575,8;1;False;0;bairro;exato;1959,13;1212,0
@@ -1040,39 +1040,39 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2307304;Juazeiro do Norte;CE;CENTRO;1;16;594,8;2;False;0;bairro;exato;2642,86;1500,0
 2307304;Juazeiro do Norte;CE;NOVO JUAZEIRO;1;19;611,7;1;False;0;bairro;exato;2605,33;1500,0
 2307304;Juazeiro do Norte;CE;FRANCISCANOS;1;16;576,3;2;False;0;bairro;exato;1529,92;1212,0
+2307304;Juazeiro do Norte;CE;PREFEITO CARLOS ALBERTO DA CRUZ;1;72;643,9;1;False;1;distrito (aproximado);exato;1882,57;1212,0
 2307304;Juazeiro do Norte;CE;SALESIANOS;1;46;549,3;1;False;0;bairro;exato;1853,81;1212,0
 2307304;Juazeiro do Norte;CE;SÃO MIGUEL;2;217;652,2;2;False;2;bairro;exato;2070,92;1212,0
-2307304;Juazeiro do Norte;CE;PREFEITO CARLOS ALBERTO DA CRUZ;1;72;643,9;1;False;1;bairro;sem_match;;
 3136702;Juiz de Fora;MG;SALVATERRA;1;15;613,8;1;False;0;bairro;exato;17877,12;8000,0
 3136702;Juiz de Fora;MG;CENTRO;9;620;633,9;9;True;2;bairro;exato;6238,23;4000,0
 3136702;Juiz de Fora;MG;SÃO MATEUS;1;54;634,8;1;False;1;bairro;exato;6107,4;4000,0
 3136702;Juiz de Fora;MG;SAO PEDRO;1;10;557,4;2;False;0;bairro;exato;3442,34;2001,0
 3136702;Juiz de Fora;MG;NOVA ERA;2;71;589,0;2;False;0;bairro;exato;2681,76;2000,0
-3136702;Juiz de Fora;MG;PASSOS;1;17;643,0;1;False;1;bairro;sem_match;;
+3136702;Juiz de Fora;MG;PASSOS;1;17;643,0;1;False;1;distrito (aproximado);exato;3626,25;2000,0
 3525904;Jundiaí;SP;MEDEIROS;1;19;600,7;2;False;0;bairro;exato;7254,02;5000,0
 3525904;Jundiaí;SP;CENTRO;3;92;582,2;4;True;1;bairro;exato;7045,12;4500,0
 3525904;Jundiaí;SP;PONTE DE SAO JOAO;1;29;611,7;1;False;0;bairro;fuzzy;4979,21;3800,0
 3525904;Jundiaí;SP;VILA PROGRESSO;1;13;614,4;1;False;0;bairro;exato;4559,78;3002,0
 3525904;Jundiaí;SP;CAXAMBU;1;14;655,2;1;False;0;bairro;exato;4946,51;3000,0
-3525904;Jundiaí;SP;JARDIM ANA MARIA;1;30;615,2;1;False;0;bairro;sem_match;;
-3525904;Jundiaí;SP;JARDIM BONFIGLIOLI;1;59;650,1;1;False;1;bairro;sem_match;;
-3525904;Jundiaí;SP;JARDIM BRASIL;1;166;561,5;1;False;0;bairro;sem_match;;
-3525904;Jundiaí;SP;JARDIM CAMPOS ELISIOS;1;11;566,1;1;False;0;bairro;sem_match;;
-3525904;Jundiaí;SP;JARDIM ERMIDA II;1;18;613,1;1;False;0;bairro;sem_match;;
-3525904;Jundiaí;SP;JARDIM FLORESTAL;1;21;614,1;1;False;0;bairro;sem_match;;
-3525904;Jundiaí;SP;JARDIM PAULISTA I;1;33;578,8;1;False;0;bairro;sem_match;;
-3525904;Jundiaí;SP;JARDIM SANTA TERESA;1;10;666,0;1;False;1;bairro;sem_match;;
-3525904;Jundiaí;SP;JARDIM TARUMA;1;55;561,2;1;False;0;bairro;sem_match;;
-3525904;Jundiaí;SP;PARQUE CIDADE JARDIM II;1;12;565,3;1;False;0;bairro;sem_match;;
-3525904;Jundiaí;SP;PARQUE RESIDENCIAL ELOY CHAVES;1;14;623,9;1;False;0;bairro;sem_match;;
-3525904;Jundiaí;SP;VILA ARENS II;1;46;640,3;1;False;1;bairro;sem_match;;
-3525904;Jundiaí;SP;VILA BANDEIRANTES;1;51;635,0;1;False;0;bairro;sem_match;;
-3525904;Jundiaí;SP;VILA BOAVENTURA;2;71;641,5;2;False;1;bairro;sem_match;;
-3525904;Jundiaí;SP;VILA CACILDA;1;18;616,2;1;False;0;bairro;sem_match;;
-3525904;Jundiaí;SP;VILA DELLA PIAZZA;1;113;580,5;1;False;0;bairro;sem_match;;
-3525904;Jundiaí;SP;VILA GUARANI;1;11;558,5;1;False;0;bairro;sem_match;;
-3525904;Jundiaí;SP;VILA INHAMUPE;1;24;623,0;1;False;0;bairro;sem_match;;
-3525904;Jundiaí;SP;VILA RAFAEL DE OLIVEIRA;1;111;707,6;1;False;1;bairro;sem_match;;
+3525904;Jundiaí;SP;JARDIM ANA MARIA;1;30;615,2;1;False;0;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;JARDIM BONFIGLIOLI;1;59;650,1;1;False;1;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;JARDIM BRASIL;1;166;561,5;1;False;0;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;JARDIM CAMPOS ELISIOS;1;11;566,1;1;False;0;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;JARDIM ERMIDA II;1;18;613,1;1;False;0;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;JARDIM FLORESTAL;1;21;614,1;1;False;0;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;JARDIM PAULISTA I;1;33;578,8;1;False;0;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;JARDIM SANTA TERESA;1;10;666,0;1;False;1;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;JARDIM TARUMA;1;55;561,2;1;False;0;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;PARQUE CIDADE JARDIM II;1;12;565,3;1;False;0;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;PARQUE RESIDENCIAL ELOY CHAVES;1;14;623,9;1;False;0;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;VILA ARENS II;1;46;640,3;1;False;1;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;VILA BANDEIRANTES;1;51;635,0;1;False;0;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;VILA BOAVENTURA;2;71;641,5;2;False;1;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;VILA CACILDA;1;18;616,2;1;False;0;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;VILA DELLA PIAZZA;1;113;580,5;1;False;0;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;VILA GUARANI;1;11;558,5;1;False;0;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;VILA INHAMUPE;1;24;623,0;1;False;0;distrito (aproximado);exato;5053,75;3000,0
+3525904;Jundiaí;SP;VILA RAFAEL DE OLIVEIRA;1;111;707,6;1;False;1;distrito (aproximado);exato;5053,75;3000,0
 2803500;Lagarto;SE;CIDADE NOVA;1;40;630,9;1;False;1;bairro;exato;1527,93;1212,0
 4209300;Lages;SC;CENTRO;3;175;620,5;4;True;1;bairro;exato;6540,63;4500,0
 4209300;Lages;SC;FREI ROGÉRIO;1;41;610,0;1;False;0;bairro;exato;5652,49;4000,0
@@ -1081,8 +1081,8 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2919207;Lauro de Freitas;BA;BURAQUINHO;2;205;667,3;2;False;1;bairro;exato;8412,56;6500,0
 2919207;Lauro de Freitas;BA;PITANGUEIRAS;2;140;626,3;2;False;1;bairro;exato;6553,53;5000,0
 2919207;Lauro de Freitas;BA;CENTRO;1;27;644,4;3;False;1;bairro;exato;6370,37;3001,0
+2919207;Lauro de Freitas;BA;JARDIM AEROPORTO;1;42;565,2;1;False;0;distrito (aproximado);exato;3669,43;1500,0
 2919207;Lauro de Freitas;BA;VIDA NOVA;1;12;549,0;1;False;0;bairro;exato;1716,14;1212,0
-2919207;Lauro de Freitas;BA;JARDIM AEROPORTO;1;42;565,2;1;False;0;bairro;sem_match;;
 3138203;Lavras;MG;CENTRO;3;68;619,3;3;True;1;distrito (aproximado);exato;3371,08;2000,0
 3138203;Lavras;MG;PADRE DEHON;1;51;664,5;1;False;1;distrito (aproximado);exato;3371,08;2000,0
 3138203;Lavras;MG;VILA BRASILIA;1;25;661,4;1;False;1;distrito (aproximado);exato;3371,08;2000,0
@@ -1102,19 +1102,19 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 4113700;Londrina;PR;ESPERANÇA;1;27;637,5;1;False;1;bairro;exato;18203,77;12000,0
 4113700;Londrina;PR;PETROPOLIS;1;80;651,8;1;False;1;bairro;exato;8849,28;6000,0
 4113700;Londrina;PR;COLISEU;1;16;567,9;1;False;0;bairro;exato;3777,12;3000,0
-4113700;Londrina;PR;BOA VISTA;2;119;578,8;2;False;0;bairro;sem_match;;
-4113700;Londrina;PR;CENTRO;1;57;621,5;2;False;0;bairro;sem_match;;
-4113700;Londrina;PR;CONCEIÇÃO;1;13;647,6;1;False;1;bairro;sem_match;;
-4113700;Londrina;PR;CONJUNTO HABITACIONAL VIOLIM;1;13;590,6;1;False;0;bairro;sem_match;;
-4113700;Londrina;PR;CONJUNTO SEMIRAMIS BARROS BRAGA;1;16;549,5;1;False;0;bairro;sem_match;;
-4113700;Londrina;PR;GLEBA FAZENDA PALHANO;3;145;644,6;3;True;3;bairro;sem_match;;
-4113700;Londrina;PR;JARDIM AGARI;1;49;589,7;1;False;0;bairro;sem_match;;
-4113700;Londrina;PR;JARDIM DOS BANCARIOS;1;28;584,0;1;False;0;bairro;sem_match;;
-4113700;Londrina;PR;JARDIM HIGIENÓPOLIS;1;15;569,4;1;False;0;bairro;sem_match;;
-4113700;Londrina;PR;LIMA AZEVEDO;1;158;648,2;1;False;1;bairro;sem_match;;
-4113700;Londrina;PR;VILA LARSEN 1;1;15;546,2;1;False;0;bairro;sem_match;;
-4113700;Londrina;PR;VILA SIAM;1;19;592,0;1;False;0;bairro;sem_match;;
-4113700;Londrina;PR;VITORIA;1;32;601,8;1;False;0;bairro;sem_match;;
+4113700;Londrina;PR;BOA VISTA;2;119;578,8;2;False;0;distrito (aproximado);exato;4247,06;2500,0
+4113700;Londrina;PR;CENTRO;1;57;621,5;2;False;0;distrito (aproximado);exato;4247,06;2500,0
+4113700;Londrina;PR;CONCEIÇÃO;1;13;647,6;1;False;1;distrito (aproximado);exato;4247,06;2500,0
+4113700;Londrina;PR;CONJUNTO HABITACIONAL VIOLIM;1;13;590,6;1;False;0;distrito (aproximado);exato;4247,06;2500,0
+4113700;Londrina;PR;CONJUNTO SEMIRAMIS BARROS BRAGA;1;16;549,5;1;False;0;distrito (aproximado);exato;4247,06;2500,0
+4113700;Londrina;PR;GLEBA FAZENDA PALHANO;3;145;644,6;3;True;3;distrito (aproximado);exato;4247,06;2500,0
+4113700;Londrina;PR;JARDIM AGARI;1;49;589,7;1;False;0;distrito (aproximado);exato;4247,06;2500,0
+4113700;Londrina;PR;JARDIM DOS BANCARIOS;1;28;584,0;1;False;0;distrito (aproximado);exato;4247,06;2500,0
+4113700;Londrina;PR;JARDIM HIGIENÓPOLIS;1;15;569,4;1;False;0;distrito (aproximado);exato;4247,06;2500,0
+4113700;Londrina;PR;LIMA AZEVEDO;1;158;648,2;1;False;1;distrito (aproximado);exato;4247,06;2500,0
+4113700;Londrina;PR;VILA LARSEN 1;1;15;546,2;1;False;0;distrito (aproximado);exato;4247,06;2500,0
+4113700;Londrina;PR;VILA SIAM;1;19;592,0;1;False;0;distrito (aproximado);exato;4247,06;2500,0
+4113700;Londrina;PR;VITORIA;1;32;601,8;1;False;0;distrito (aproximado);exato;4247,06;2500,0
 5212501;Luziânia;GO;JARDIM FLAMBOYANT;1;12;585,2;1;False;0;distrito (aproximado);exato;2357,3;1400,0
 2919553;Luís Eduardo Magalhães;BA;CENTRO;1;31;611,2;2;False;0;distrito (aproximado);exato;3105,36;1600,0
 2919553;Luís Eduardo Magalhães;BA;FLORAIS LEA;1;82;569,7;1;False;0;distrito (aproximado);exato;3105,36;1600,0
@@ -1127,9 +1127,9 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 1600303;Macapá;AP;JESUS DE NAZARE;3;48;595,9;3;True;0;bairro;exato;3747,4;2400,0
 1600303;Macapá;AP;JARDIM EQUATORIAL;1;38;593,4;1;False;0;bairro;exato;4103,92;2200,0
 1600303;Macapá;AP;BEIROL;2;145;628,7;2;False;1;bairro;exato;3586,43;2000,0
+1600303;Macapá;AP;JULIAO RAMOS;1;49;557,5;1;False;0;distrito (aproximado);exato;2980,03;1380,0
 1600303;Macapá;AP;NOVO BURITIZAL;1;21;620,1;1;False;0;bairro;exato;2281,79;1212,0
 1600303;Macapá;AP;SAO LAZARO;1;12;559,0;1;False;0;bairro;exato;2606,8;1212,0
-1600303;Macapá;AP;JULIAO RAMOS;1;49;557,5;1;False;0;bairro;sem_match;;
 3302403;Macaé;RJ;CAVALEIROS;1;26;629,5;1;False;1;bairro;exato;11350,14;9000,0
 3302403;Macaé;RJ;LAGOA;1;11;589,9;1;False;0;bairro;exato;7880,05;5500,0
 3302403;Macaé;RJ;IMBETIBA;1;42;625,3;2;False;0;bairro;exato;4989,51;4000,0
@@ -1194,10 +1194,10 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 1504208;Marabá;PA;NOVA MARABA;3;101;628,6;5;True;1;distrito (aproximado);exato;2450,68;1300,0
 1504208;Marabá;PA;NOVO HORIZONTE;2;60;611,3;2;False;1;distrito (aproximado);exato;2450,68;1300,0
 1504208;Marabá;PA;VELHA MARABÁ;2;27;648,4;3;False;1;distrito (aproximado);exato;2450,68;1300,0
+2307650;Maracanaú;CE;CONJUNTO INDUSTRIAL;1;14;531,7;1;False;0;distrito (aproximado);exato;1753,3;1212,0
+2307650;Maracanaú;CE;INDUSTRIAL;1;21;596,1;1;False;0;distrito (aproximado);exato;1753,3;1212,0
+2307650;Maracanaú;CE;JEREISSATI I;1;14;573,7;2;False;0;distrito (aproximado);exato;1753,3;1212,0
 2307650;Maracanaú;CE;PAJUÇARA;1;14;547,2;1;False;0;bairro;exato;1840,17;1212,0
-2307650;Maracanaú;CE;CONJUNTO INDUSTRIAL;1;14;531,7;1;False;0;bairro;sem_match;;
-2307650;Maracanaú;CE;INDUSTRIAL;1;21;596,1;1;False;0;bairro;sem_match;;
-2307650;Maracanaú;CE;JEREISSATI I;1;14;573,7;2;False;0;bairro;sem_match;;
 2307700;Maranguape;CE;CENTRO;1;37;600,2;1;False;0;bairro;exato;2346,46;1212,0
 2307700;Maranguape;CE;PARQUE IRACEMA;1;26;557,6;1;False;0;bairro;exato;2306,81;1212,0
 2307700;Maranguape;CE;NOVO MARANGUAPE I;2;30;553,2;2;False;0;bairro;exato;1673,19;1200,0
@@ -1206,19 +1206,19 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3302700;Maricá;RJ;BARROCO ITAIPUAU;1;31;596,2;1;False;0;distrito (aproximado);exato;3255,61;2000,0
 3302700;Maricá;RJ;CENTRO;4;120;608,0;5;True;1;distrito (aproximado);exato;3255,61;2000,0
 3302700;Maricá;RJ;ITAPEBA;1;12;533,4;1;False;0;distrito (aproximado);exato;3255,61;2000,0
+4115200;Maringá;PR;CENTRO;1;192;636,6;1;False;0;distrito (aproximado);exato;4632,18;3000,0
+4115200;Maringá;PR;CONJUNTO HABITACIONAL INOCENTE VILA NOVA JUNIOR;1;10;622,4;1;False;1;distrito (aproximado);exato;4632,18;3000,0
+4115200;Maringá;PR;PARQUE PALMEIRAS;1;34;588,6;1;False;0;distrito (aproximado);exato;4632,18;3000,0
+4115200;Maringá;PR;VILA MORANGUEIRA;1;36;620,0;1;False;0;distrito (aproximado);exato;4632,18;3000,0
+4115200;Maringá;PR;ZONA 01;2;164;623,7;3;False;0;distrito (aproximado);exato;4632,18;3000,0
+4115200;Maringá;PR;ZONA 03;2;118;578,9;2;False;0;distrito (aproximado);exato;4632,18;3000,0
+4115200;Maringá;PR;ZONA 04;1;45;583,9;1;False;0;distrito (aproximado);exato;4632,18;3000,0
+4115200;Maringá;PR;ZONA 05;1;47;550,4;2;False;0;distrito (aproximado);exato;4632,18;3000,0
+4115200;Maringá;PR;ZONA 07;4;181;598,7;5;True;1;distrito (aproximado);exato;4632,18;3000,0
+4115200;Maringá;PR;ZONA 10;1;35;579,7;1;False;0;distrito (aproximado);exato;4632,18;3000,0
+4115200;Maringá;PR;ZONA ARMAZEM;1;25;600,2;1;False;0;distrito (aproximado);exato;4632,18;3000,0
 4115200;Maringá;PR;JARDIM ACLIMAÇÃO;1;38;606,3;1;False;0;bairro;exato;3582,68;2500,0
 4115200;Maringá;PR;JARDIM SAO SILVESTRE;1;23;627,5;1;False;0;bairro;exato;2737,72;2200,0
-4115200;Maringá;PR;CENTRO;1;192;636,6;1;False;0;bairro;sem_match;;
-4115200;Maringá;PR;CONJUNTO HABITACIONAL INOCENTE VILA NOVA JUNIOR;1;10;622,4;1;False;1;bairro;sem_match;;
-4115200;Maringá;PR;PARQUE PALMEIRAS;1;34;588,6;1;False;0;bairro;sem_match;;
-4115200;Maringá;PR;VILA MORANGUEIRA;1;36;620,0;1;False;0;bairro;sem_match;;
-4115200;Maringá;PR;ZONA 01;2;164;623,7;3;False;0;bairro;sem_match;;
-4115200;Maringá;PR;ZONA 03;2;118;578,9;2;False;0;bairro;sem_match;;
-4115200;Maringá;PR;ZONA 04;1;45;583,9;1;False;0;bairro;sem_match;;
-4115200;Maringá;PR;ZONA 05;1;47;550,4;2;False;0;bairro;sem_match;;
-4115200;Maringá;PR;ZONA 07;4;181;598,7;5;True;1;bairro;sem_match;;
-4115200;Maringá;PR;ZONA 10;1;35;579,7;1;False;0;bairro;sem_match;;
-4115200;Maringá;PR;ZONA ARMAZEM;1;25;600,2;1;False;0;bairro;sem_match;;
 1504422;Marituba;PA;CENTRO;1;16;530,5;1;False;0;bairro;exato;2491,6;1700,0
 3529005;Marília;SP;CENTRO;1;42;547,8;2;False;0;distrito (aproximado);exato;3541,17;2400,0
 3529005;Marília;SP;FRAGATA;2;179;613,8;2;False;0;distrito (aproximado);exato;3541,17;2400,0
@@ -1228,13 +1228,13 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3529005;Marília;SP;MARILIA;1;46;577,0;1;False;0;distrito (aproximado);exato;3541,17;2400,0
 3529005;Marília;SP;PARQUE SAO JORGE;1;39;545,2;1;False;0;distrito (aproximado);exato;3541,17;2400,0
 3529005;Marília;SP;PARQUE DAS ESMERALDAS II;1;28;644,5;1;False;1;distrito (aproximado);exato;2246,32;1600,0
-3529401;Mauá;SP;CENTRO;1;19;554,1;1;False;0;bairro;sem_match;;
-3529401;Mauá;SP;JARDIM ADELINA;1;27;551,8;1;False;0;bairro;sem_match;;
-3529401;Mauá;SP;JARDIM MAUA;1;31;564,0;1;False;0;bairro;sem_match;;
-3529401;Mauá;SP;JARDIM ZAIRA;1;77;559,9;1;False;0;bairro;sem_match;;
-3529401;Mauá;SP;MATRIZ;1;41;579,5;1;False;0;bairro;sem_match;;
-3529401;Mauá;SP;VILA BOCAINA;4;200;577,8;7;True;0;bairro;sem_match;;
-3529401;Mauá;SP;VILA NOSSA SENHORA DAS VITÓRIAS;1;34;601,2;1;False;0;bairro;sem_match;;
+3529401;Mauá;SP;CENTRO;1;19;554,1;1;False;0;distrito (aproximado);exato;2666,13;2000,0
+3529401;Mauá;SP;JARDIM ADELINA;1;27;551,8;1;False;0;distrito (aproximado);exato;2666,13;2000,0
+3529401;Mauá;SP;JARDIM MAUA;1;31;564,0;1;False;0;distrito (aproximado);exato;2666,13;2000,0
+3529401;Mauá;SP;JARDIM ZAIRA;1;77;559,9;1;False;0;distrito (aproximado);exato;2666,13;2000,0
+3529401;Mauá;SP;MATRIZ;1;41;579,5;1;False;0;distrito (aproximado);exato;2666,13;2000,0
+3529401;Mauá;SP;VILA BOCAINA;4;200;577,8;7;True;0;distrito (aproximado);exato;2666,13;2000,0
+3529401;Mauá;SP;VILA NOSSA SENHORA DAS VITÓRIAS;1;34;601,2;1;False;0;distrito (aproximado);exato;2666,13;2000,0
 3302858;Mesquita;RJ;VILA EMIL;1;43;546,7;2;False;0;bairro;exato;2562,27;1900,0
 3302858;Mesquita;RJ;CENTRO;1;42;573,0;3;False;0;bairro;exato;2308,29;1500,0
 3530706;Mogi Guaçu;SP;CENTRO;1;26;659,9;1;False;1;distrito (aproximado);exato;3069,12;2300,0
@@ -1284,13 +1284,13 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2408102;Natal;RN;CIDADE ALTA;2;77;576,0;2;False;1;bairro;exato;4016,6;1700,0
 2408102;Natal;RN;CIDADE DA ESPERANÇA;1;19;619,3;1;False;0;bairro;exato;3413,29;1700,0
 2408102;Natal;RN;ALECRIM;3;168;562,2;3;True;1;bairro;exato;2692,77;1500,0
+2408102;Natal;RN;PAJUCARA II;1;10;548,3;1;False;0;distrito (aproximado);exato;3679,65;1500,0
 2408102;Natal;RN;POTENGI;7;260;570,8;8;True;0;bairro;exato;2359,07;1500,0
 2408102;Natal;RN;IGAPO;3;106;558,7;3;True;0;bairro;exato;1760,58;1212,0
 2408102;Natal;RN;PAJUCARA;2;46;532,0;2;False;0;bairro;exato;1983,04;1212,0
 2408102;Natal;RN;PLANALTO;1;14;548,4;1;False;0;bairro;exato;1931,96;1212,0
-2408102;Natal;RN;PAJUCARA II;1;10;548,3;1;False;0;bairro;sem_match;;
 3303203;Nilópolis;RJ;CENTRO;7;174;562,6;10;True;0;bairro;exato;3372,99;2500,0
-3303203;Nilópolis;RJ;NILOPOLIS;1;56;549,9;1;False;0;bairro;sem_match;;
+3303203;Nilópolis;RJ;NILOPOLIS;1;56;549,9;1;False;0;distrito (aproximado);exato;2158,66;1500,0
 3303302;Niterói;RJ;CAMBOINHAS;1;38;598,8;1;False;0;bairro;exato;12139,62;10000,0
 3303302;Niterói;RJ;ICARAÍ;10;549;668,7;14;True;6;bairro;exato;11022,85;8200,0
 3303302;Niterói;RJ;SÃO FRANCISCO;1;100;713,4;3;False;1;bairro;exato;9280,1;6000,0
@@ -1298,13 +1298,13 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3303302;Niterói;RJ;SAO DOMINGOS;1;10;728,5;1;False;1;bairro;exato;7250,57;5001,0
 3303302;Niterói;RJ;ITAIPU;8;240;644,7;10;True;6;bairro;exato;7194,18;5000,0
 3303302;Niterói;RJ;CENTRO;2;117;585,9;4;False;0;bairro;exato;4874,99;3500,0
+3303302;Niterói;RJ;LARGO DO BARRADAS;1;28;565,9;1;False;0;distrito (aproximado);exato;6097,42;3200,0
 3303302;Niterói;RJ;PIRATININGA;4;142;638,6;4;True;2;bairro;exato;5810,58;3100,0
 3303302;Niterói;RJ;BADU;2;24;594,2;2;False;0;bairro;exato;5303,89;2700,0
 3303302;Niterói;RJ;FONSECA;2;39;598,7;5;False;1;bairro;exato;3610,09;2300,0
 3303302;Niterói;RJ;LARGO DA BATALHA;2;35;561,1;2;False;0;bairro;exato;2290,67;1500,0
 3303302;Niterói;RJ;RIO DO OURO;1;11;562,5;1;False;0;bairro;exato;2631,88;1500,0
 3303302;Niterói;RJ;ENGENHOCA;1;21;561,4;1;False;0;bairro;exato;2192,46;1300,0
-3303302;Niterói;RJ;LARGO DO BARRADAS;1;28;565,9;1;False;0;bairro;sem_match;;
 2804805;Nossa Senhora do Socorro;SE;FERNANDO COLLOR;1;19;578,1;2;False;0;bairro;exato;1803,96;1212,0
 2804805;Nossa Senhora do Socorro;SE;JOÃO ALVES;1;18;563,3;1;False;0;bairro;exato;1610,93;1212,0
 2804805;Nossa Senhora do Socorro;SE;MARCOS FREIRE II;2;60;607,7;2;False;0;bairro;exato;1929,67;1212,0
@@ -1321,15 +1321,15 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3303500;Nova Iguaçu;RJ;COMENDADOR SOARES;2;31;541,5;3;False;0;bairro;exato;2071,96;1400,0
 3303500;Nova Iguaçu;RJ;KENNEDY;2;31;543,5;2;False;0;bairro;exato;2080,88;1400,0
 3303500;Nova Iguaçu;RJ;MIGUEL COUTO;1;16;534,5;1;False;0;bairro;exato;1987,27;1300,0
+3303500;Nova Iguaçu;RJ;CARMARI;1;12;548,7;1;False;0;distrito (aproximado);exato;2143,06;1250,0
+3303500;Nova Iguaçu;RJ;JARDIM NOSSA SENHORA DAS GRAÇAS;1;13;557,1;1;False;0;distrito (aproximado);exato;2143,06;1250,0
+3303500;Nova Iguaçu;RJ;PALHADA;1;20;546,6;1;False;0;distrito (aproximado);exato;2143,06;1250,0
+3303500;Nova Iguaçu;RJ;PRATA;1;12;575,4;1;False;0;distrito (aproximado);exato;2143,06;1250,0
+3303500;Nova Iguaçu;RJ;VILA CATIA;1;11;541,1;1;False;0;distrito (aproximado);exato;2143,06;1250,0
 3303500;Nova Iguaçu;RJ;AUSTIN;2;31;541,5;3;False;0;bairro;exato;1670,69;1212,0
 3303500;Nova Iguaçu;RJ;PARAÍSO;1;14;557,2;2;False;0;bairro;exato;1918,65;1212,0
 3303500;Nova Iguaçu;RJ;PARQUE AMBAÍ;1;14;505,0;1;False;0;bairro;exato;1562,22;1212,0
 3303500;Nova Iguaçu;RJ;VILA DE CAVA;1;14;559,0;2;False;0;bairro;exato;1631,74;1212,0
-3303500;Nova Iguaçu;RJ;CARMARI;1;12;548,7;1;False;0;bairro;sem_match;;
-3303500;Nova Iguaçu;RJ;JARDIM NOSSA SENHORA DAS GRAÇAS;1;13;557,1;1;False;0;bairro;sem_match;;
-3303500;Nova Iguaçu;RJ;PALHADA;1;20;546,6;1;False;0;bairro;sem_match;;
-3303500;Nova Iguaçu;RJ;PRATA;1;12;575,4;1;False;0;bairro;sem_match;;
-3303500;Nova Iguaçu;RJ;VILA CATIA;1;11;541,1;1;False;0;bairro;sem_match;;
 3144805;Nova Lima;MG;ALPHAVILLE - LAGOA DOS INGLESES;1;19;658,0;1;False;1;distrito (aproximado);exato;7572,74;2600,0
 3144805;Nova Lima;MG;CHÁCARA SILVEIRA RAMOS;1;16;508,3;1;False;0;distrito (aproximado);exato;7572,74;2600,0
 3144805;Nova Lima;MG;JARDIM CANADÁ;1;18;660,7;1;False;1;distrito (aproximado);exato;7572,74;2600,0
@@ -1357,12 +1357,12 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3534401;Osasco;SP;QUITAUNA;1;40;578,4;1;False;0;bairro;fuzzy;4274,93;3000,0
 3534401;Osasco;SP;JARDIM D ABRIL;1;25;574,7;1;False;0;bairro;fuzzy;3951,48;2525,0
 3534401;Osasco;SP;BELA VISTA;1;12;610,2;1;False;0;bairro;exato;3759,12;2500,0
+3534401;Osasco;SP;VILA QUITAUNA;1;22;640,5;1;False;0;distrito (aproximado);exato;3626,43;2300,0
 3534401;Osasco;SP;AYROSA;2;87;595,3;4;False;0;bairro;exato;2952,8;2200,0
 3534401;Osasco;SP;VILA YOLANDA;1;51;583,1;1;False;0;bairro;exato;3015,75;2001,0
 3534401;Osasco;SP;BUSSOCABA;1;11;562,1;1;False;0;bairro;exato;2789,02;2000,0
 3534401;Osasco;SP;PIRATININGA;1;136;568,4;1;False;0;bairro;exato;2985,43;2000,0
 3534401;Osasco;SP;ROCHDALE;1;10;542,1;1;False;0;bairro;exato;2387,98;1800,0
-3534401;Osasco;SP;VILA QUITAUNA;1;22;640,5;1;False;0;bairro;sem_match;;
 3534708;Ourinhos;SP;CENTRO;1;37;599,4;2;False;0;distrito (aproximado);exato;3198,06;2000,0
 3534708;Ourinhos;SP;JARDIM MATILDE;1;24;700,1;1;False;1;distrito (aproximado);exato;3198,06;2000,0
 3534708;Ourinhos;SP;JARDIM ORIENTAL;1;19;640,6;1;False;1;distrito (aproximado);exato;3198,06;2000,0
@@ -1370,11 +1370,11 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3534708;Ourinhos;SP;JARDIM SANTA FE;1;56;581,8;1;False;0;distrito (aproximado);exato;3198,06;2000,0
 3534708;Ourinhos;SP;VILA MARGARIDA;1;16;595,6;1;False;0;distrito (aproximado);exato;3198,06;2000,0
 3534708;Ourinhos;SP;VILA PERINO;1;31;588,0;1;False;0;distrito (aproximado);exato;3198,06;2000,0
+4211900;Palhoça;SC;CENTRO;2;55;594,8;2;False;0;distrito (aproximado);exato;3659,08;2500,0
+4211900;Palhoça;SC;CIDADE UNIVERSITARIA PEDRA BRANCA;1;49;642,1;1;False;0;distrito (aproximado);exato;3659,08;2500,0
+4211900;Palhoça;SC;PAGANI;2;52;640,1;2;False;1;distrito (aproximado);exato;3659,08;2500,0
+4211900;Palhoça;SC;PEDRA BRANCA;1;21;575,2;1;False;0;distrito (aproximado);exato;3659,08;2500,0
 4211900;Palhoça;SC;PONTE DO IMARUIM;2;36;576,1;2;False;0;bairro;exato;3100,62;2500,0
-4211900;Palhoça;SC;CENTRO;2;55;594,8;2;False;0;bairro;sem_match;;
-4211900;Palhoça;SC;CIDADE UNIVERSITARIA PEDRA BRANCA;1;49;642,1;1;False;0;bairro;sem_match;;
-4211900;Palhoça;SC;PAGANI;2;52;640,1;2;False;1;bairro;sem_match;;
-4211900;Palhoça;SC;PEDRA BRANCA;1;21;575,2;1;False;0;bairro;sem_match;;
 1721000;Palmas;TO;PLANO DIRETOR NORTE;4;170;650,1;4;True;1;distrito (aproximado);exato;4209,55;2148,5
 1721000;Palmas;TO;PLANO DIRETOR SUL;7;147;596,6;9;True;2;distrito (aproximado);exato;4209,55;2148,5
 1721000;Palmas;TO;SETOR BELA VISTA (TAQUARALTO);1;12;504,0;1;False;0;distrito (aproximado);exato;4209,55;2148,5
@@ -1382,11 +1382,11 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 1505502;Paragominas;PA;PROMISSÃO;1;30;557,2;1;False;0;bairro;exato;2311,15;1300,0
 4118204;Paranaguá;PR;ALVORADA;1;25;604,2;1;False;0;bairro;exato;5318,14;4000,0
 4118204;Paranaguá;PR;COSTEIRA;1;16;506,8;1;False;0;bairro;exato;5087,56;3000,0
+4118204;Paranaguá;PR;JD ELDORADO;1;11;592,7;1;False;0;distrito (aproximado);exato;3015,62;2000,0
+4118204;Paranaguá;PR;JD YAMAGUCHI;1;12;500,5;1;False;0;distrito (aproximado);exato;3015,62;2000,0
 4118204;Paranaguá;PR;PORTO DOS PADRES;1;10;558,1;2;False;0;bairro;exato;2824,68;2000,0
 4118204;Paranaguá;PR;VL PARANAGUA;1;12;569,1;1;False;0;bairro;fuzzy;2780,11;2000,0
-4118204;Paranaguá;PR;CENTRO;2;52;591,4;2;False;0;bairro;sem_match;;
-4118204;Paranaguá;PR;JD ELDORADO;1;11;592,7;1;False;0;bairro;sem_match;;
-4118204;Paranaguá;PR;JD YAMAGUCHI;1;12;500,5;1;False;0;bairro;sem_match;;
+4118204;Paranaguá;PR;CENTRO;2;52;591,4;2;False;0;distrito (aproximado);exato;2207,48;1700,0
 1505536;Parauapebas;PA;NUCLEO URBANO DE CARAJAS;1;54;632,2;1;False;1;distrito (aproximado);exato;2743,59;1800,0
 2403251;Parnamirim;RN;COHABINAL;1;21;554,6;2;False;0;bairro;exato;4949,35;3500,0
 2403251;Parnamirim;RN;NOVA PARNAMIRIM;7;358;638,0;8;True;2;bairro;exato;5233,4;3500,0
@@ -1397,10 +1397,10 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2403251;Parnamirim;RN;SANTOS REIS;1;29;619,3;1;False;0;bairro;exato;2163,88;1212,0
 2207702;Parnaíba;PI;CENTRO;6;209;612,3;7;True;2;bairro;exato;4204,55;2500,0
 2207702;Parnaíba;PI;SÃO BENEDITO;1;31;647,0;1;False;1;bairro;exato;4219,23;2424,0
+2207702;Parnaíba;PI;NOSSA SENHORA DE FÁTIMA;2;63;650,3;2;False;1;distrito (aproximado);exato;2124,94;1212,0
 2207702;Parnaíba;PI;PINDORAMA;1;22;558,6;1;False;0;bairro;exato;2198,64;1212,0
 2207702;Parnaíba;PI;RODOVIARIA;1;61;553,9;1;False;0;bairro;exato;2246,24;1212,0
-2207702;Parnaíba;PI;NOSSA SENHORA DE FÁTIMA;2;63;650,3;2;False;1;bairro;sem_match;;
-4314100;Passo Fundo;RS;CENTRO;2;74;635,1;3;False;1;bairro;sem_match;;
+4314100;Passo Fundo;RS;CENTRO;2;74;635,1;3;False;1;distrito (aproximado);exato;3830,56;2500,0
 3147907;Passos;MG;CENTRO;2;61;635,6;2;False;1;bairro;exato;5197,72;3300,0
 3147907;Passos;MG;COIMBRAS;1;17;658,9;1;False;1;bairro;exato;2198,87;1600,0
 3147907;Passos;MG;CANJERANUS;1;32;641,2;1;False;1;bairro;exato;2691,28;1560,0
@@ -1419,9 +1419,9 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2610707;Paulista;PE;NOSSA SENHORA DA CONCEIÇÃO;1;16;557,0;1;False;0;bairro;exato;2541,18;1500,0
 2610707;Paulista;PE;PAU AMARELO;2;34;555,2;2;False;0;bairro;exato;2281,0;1500,0
 2610707;Paulista;PE;MARANGUAPE I;1;14;567,9;1;False;0;bairro;exato;2129,61;1357,0
+2610707;Paulista;PE;VILA TORRES GALVAO;2;68;585,8;2;False;0;distrito (aproximado);exato;2165,63;1245,0
 2610707;Paulista;PE;JARDIM PAULISTA;2;40;545,1;2;False;0;bairro;exato;1953,6;1212,0
 2610707;Paulista;PE;PARATIBE;1;17;577,5;1;False;0;bairro;exato;1586,33;1212,0
-2610707;Paulista;PE;VILA TORRES GALVAO;2;68;585,8;2;False;0;bairro;sem_match;;
 2924009;Paulo Afonso;BA;CENTRO;1;58;612,0;1;False;0;distrito (aproximado);exato;2015,45;1212,0
 2924009;Paulo Afonso;BA;GENERAL DUTRA;1;31;545,2;1;False;0;distrito (aproximado);exato;2015,45;1212,0
 3536505;Paulínia;SP;MORUMBI;2;68;617,3;2;False;1;bairro;exato;7726,08;6000,0
@@ -1436,7 +1436,7 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2611101;Petrolina;PE;COHAB MASSANGANO;1;33;551,5;1;False;0;bairro;fuzzy;2849,49;2000,0
 2611101;Petrolina;PE;VILA EDUARDO;3;120;626,4;3;True;1;bairro;exato;2408,9;1400,0
 2611101;Petrolina;PE;COHAB SÃO FRANCISCO;1;14;487,6;1;False;0;bairro;fuzzy;2187,24;1250,0
-2611101;Petrolina;PE;COLÔNIA IMPERIAL;1;11;550,4;1;False;0;bairro;sem_match;;
+2611101;Petrolina;PE;COLÔNIA IMPERIAL;1;11;550,4;1;False;0;distrito (aproximado);exato;2499,75;1212,0
 3303906;Petrópolis;RJ;BINGEN;1;145;636,4;2;False;0;distrito (aproximado);exato;3329,34;1900,0
 3303906;Petrópolis;RJ;CENTRO;13;457;624,7;17;True;5;distrito (aproximado);exato;3329,34;1900,0
 3303906;Petrópolis;RJ;NOGUEIRA;1;16;566,1;2;False;0;distrito (aproximado);exato;3937,48;1800,0
@@ -1450,18 +1450,18 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3538006;Pindamonhangaba;SP;SANTANA;1;43;559,9;1;False;0;distrito (aproximado);exato;3340,94;2000,0
 4119152;Pinhais;PR;CENTRO;2;77;591,0;2;False;1;bairro;exato;5071,09;3600,0
 4119152;Pinhais;PR;EMILIANO PERNETA;1;29;585,3;1;False;0;bairro;exato;3736,77;2523,0
-4119152;Pinhais;PR;JARDIM PINHAIS;1;114;547,6;2;False;0;bairro;sem_match;;
+4119152;Pinhais;PR;JARDIM PINHAIS;1;114;547,6;2;False;0;distrito (aproximado);exato;3727,51;2400,0
 3538709;Piracicaba;SP;CENTRO;1;14;548,8;2;False;0;bairro;exato;7281,06;4500,0
 3538709;Piracicaba;SP;SAO DIMAS;1;21;607,6;2;False;0;bairro;exato;6809,11;4000,0
 3538709;Piracicaba;SP;CIDADE ALTA;2;120;598,4;3;False;1;bairro;exato;5896,4;3600,0
 3538709;Piracicaba;SP;VILA MONTEIRO;1;69;657,6;1;False;1;bairro;exato;4968,88;3500,0
 3538709;Piracicaba;SP;JARDIM CAXAMBU;1;32;610,2;1;False;0;bairro;exato;3731,25;2950,0
+3538709;Piracicaba;SP;AGUA SECA;1;93;680,6;1;False;1;distrito (aproximado);exato;4283,46;2700,0
 3538709;Piracicaba;SP;AREAO;1;49;597,4;1;False;0;bairro;fuzzy;3621,48;2700,0
+3538709;Piracicaba;SP;LOTEAMENTO IPANEMA;1;47;592,6;1;False;0;distrito (aproximado);exato;4283,46;2700,0
+3538709;Piracicaba;SP;TERRAS DE PIRACICABA;1;21;648,5;1;False;1;distrito (aproximado);exato;4283,46;2700,0
 3538709;Piracicaba;SP;VILA REZENDE;6;130;619,2;6;True;1;bairro;fuzzy;3664,45;2680,0
 3538709;Piracicaba;SP;VILA INDUSTRIAL;1;47;588,2;1;False;0;bairro;exato;2785,82;2000,0
-3538709;Piracicaba;SP;AGUA SECA;1;93;680,6;1;False;1;bairro;sem_match;;
-3538709;Piracicaba;SP;LOTEAMENTO IPANEMA;1;47;592,6;1;False;0;bairro;sem_match;;
-3538709;Piracicaba;SP;TERRAS DE PIRACICABA;1;21;648,5;1;False;1;bairro;sem_match;;
 4119509;Piraquara;PR;JD PRIMAVERA;1;15;555,3;1;False;0;distrito (aproximado);exato;2570,93;2000,0
 5217609;Planaltina;GO;SETOR OESTE;1;16;582,3;1;False;0;distrito (aproximado);exato;1970,91;1300,0
 4119905;Ponta Grossa;PR;CENTRO;5;344;596,9;6;True;2;bairro;exato;6969,56;4600,0
@@ -1513,7 +1513,7 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3152501;Pouso Alegre;MG;JARDIM OLÍMPICO;1;13;599,1;1;False;0;distrito (aproximado);exato;3327,15;2000,0
 3152501;Pouso Alegre;MG;SÃO GERALDO;1;46;627,3;2;False;0;distrito (aproximado);exato;3327,15;2000,0
 3539806;Poá;SP;VILA JULIA;1;16;565,2;1;False;0;distrito (aproximado);exato;2691,72;2000,0
-3151800;Poços de Caldas;MG;CENTRO;6;278;650,6;9;True;3;bairro;sem_match;;
+3151800;Poços de Caldas;MG;CENTRO;6;278;650,6;9;True;3;distrito (aproximado);exato;3446,96;2200,0
 3541000;Praia Grande;SP;CANTO DO FORTE;1;30;573,8;1;False;0;bairro;exato;5717,05;4000,0
 3541000;Praia Grande;SP;GUILHERMINA;4;178;541,8;4;True;0;bairro;exato;5668,39;3700,0
 3541000;Praia Grande;SP;AVIACAO;1;13;560,7;1;False;0;bairro;exato;4754,42;3000,0
@@ -1576,33 +1576,33 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3304201;Resende;RJ;CAMPOS ELÍSEOS;1;11;517,7;1;False;0;bairro;exato;18223,09;3500,0
 3304201;Resende;RJ;CENTRO;2;94;642,1;2;False;1;bairro;exato;4324,99;2845,0
 3304201;Resende;RJ;MANEJO;1;42;658,4;1;False;1;bairro;exato;3100,33;2400,0
-3304201;Resende;RJ;JARDIM JALISCO;3;202;620,5;3;True;2;bairro;sem_match;;
+3304201;Resende;RJ;JARDIM JALISCO;3;202;620,5;3;True;2;distrito (aproximado);exato;3576,67;2000,0
 3543303;Ribeirão Pires;SP;CENTRO;3;62;578,5;3;True;0;bairro;exato;4887,01;3500,0
 3543303;Ribeirão Pires;SP;CENTRO ALTO;2;44;576,6;2;False;0;bairro;exato;4148,9;3000,0
 3543303;Ribeirão Pires;SP;SUISSA;1;22;609,8;1;False;0;bairro;exato;3755,33;2800,0
-3543303;Ribeirão Pires;SP;CENTRO NOVO;1;12;568,4;1;False;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;ALTO DA BOA VISTA;2;42;561,9;3;False;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;CAMPOS ELISEOS;4;131;581,2;5;True;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;CENTRO;3;344;658,2;3;True;2;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;IPIRANGA;1;53;563,7;1;False;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;JARDIM CALIFORNIA;2;137;653,9;2;False;1;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;JARDIM IRAJA;2;83;633,7;2;False;1;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;JARDIM PAULISTA;4;110;605,6;6;True;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;JARDIM ROBERTO BENEDETTI;1;33;557,8;1;False;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;JARDIM SUMARE;1;37;625,6;1;False;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;LOTEAMENTO SANTA LUISA;1;69;669,7;1;False;1;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;NOVA ALIANCA;1;83;621,5;1;False;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;NOVA RIBEIRANIA;1;18;609,1;1;False;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;PARQUE DOS BANDEIRANTES;1;109;563,9;1;False;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;PARQUE RESIDENCIAL LAGOINHA;1;20;623,0;1;False;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;PLANALTO VERDE;1;51;586,4;2;False;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;RESIDENCIAL FLORIDA;1;157;701,7;1;False;1;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;RIBEIRANIA;1;25;627,5;2;False;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;SUMAREZINHO;1;34;572,3;1;False;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;VILA AMELIA;1;38;596,4;1;False;0;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;VILA ANA MARIA;1;113;655,2;1;False;1;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;VILA DO GOLF;1;13;665,0;1;False;1;bairro;sem_match;;
-3543402;Ribeirão Preto;SP;VILA TIBERIO;1;52;637,4;1;False;1;bairro;sem_match;;
+3543303;Ribeirão Pires;SP;CENTRO NOVO;1;12;568,4;1;False;0;distrito (aproximado);exato;3152,21;2240,0
+3543402;Ribeirão Preto;SP;LOTEAMENTO SANTA LUISA;1;69;669,7;1;False;1;distrito (aproximado);exato;9988,83;6000,0
+3543402;Ribeirão Preto;SP;ALTO DA BOA VISTA;2;42;561,9;3;False;0;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;CAMPOS ELISEOS;4;131;581,2;5;True;0;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;CENTRO;3;344;658,2;3;True;2;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;IPIRANGA;1;53;563,7;1;False;0;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;JARDIM CALIFORNIA;2;137;653,9;2;False;1;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;JARDIM IRAJA;2;83;633,7;2;False;1;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;JARDIM PAULISTA;4;110;605,6;6;True;0;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;JARDIM ROBERTO BENEDETTI;1;33;557,8;1;False;0;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;JARDIM SUMARE;1;37;625,6;1;False;0;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;NOVA ALIANCA;1;83;621,5;1;False;0;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;NOVA RIBEIRANIA;1;18;609,1;1;False;0;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;PARQUE DOS BANDEIRANTES;1;109;563,9;1;False;0;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;PARQUE RESIDENCIAL LAGOINHA;1;20;623,0;1;False;0;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;PLANALTO VERDE;1;51;586,4;2;False;0;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;RESIDENCIAL FLORIDA;1;157;701,7;1;False;1;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;RIBEIRANIA;1;25;627,5;2;False;0;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;SUMAREZINHO;1;34;572,3;1;False;0;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;VILA AMELIA;1;38;596,4;1;False;0;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;VILA ANA MARIA;1;113;655,2;1;False;1;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;VILA DO GOLF;1;13;665,0;1;False;1;distrito (aproximado);exato;4345,58;2500,0
+3543402;Ribeirão Preto;SP;VILA TIBERIO;1;52;637,4;1;False;1;distrito (aproximado);exato;4345,58;2500,0
 3154606;Ribeirão das Neves;MG;CENTRO;1;14;613,3;1;False;0;distrito (aproximado);exato;1912,88;1300,0
 1200401;Rio Branco;AC;ABRAÃO ALAB;1;117;655,4;1;False;1;distrito (aproximado);exato;2754,43;1300,0
 1200401;Rio Branco;AC;BAIXA DA COLINA;1;35;535,0;1;False;0;distrito (aproximado);exato;2754,43;1300,0
@@ -1615,12 +1615,12 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 1200401;Rio Branco;AC;SANTA QUITRIA;1;28;556,1;1;False;0;distrito (aproximado);exato;2754,43;1300,0
 3543907;Rio Claro;SP;JARDIM SAO PAULO;1;63;628,7;1;False;1;bairro;exato;6571,35;5000,0
 3543907;Rio Claro;SP;CENTRO;1;19;513,5;1;False;0;bairro;exato;4836,03;3000,0
-3543907;Rio Claro;SP;VILA APARECIDA;1;33;570,4;1;False;0;bairro;sem_match;;
-3543907;Rio Claro;SP;VILA MARTINS;1;49;566,7;1;False;0;bairro;sem_match;;
-3543907;Rio Claro;SP;ZONA CENTRAL;3;159;627,2;3;True;1;bairro;sem_match;;
-4315602;Rio Grande;RS;CENTRO;3;76;580,2;4;True;1;bairro;sem_match;;
-4315602;Rio Grande;RS;CIDADE NOVA;2;53;580,7;2;False;0;bairro;sem_match;;
-4315602;Rio Grande;RS;PARQUE RESIDENCIAL SÃO PEDRO;1;28;568,9;1;False;0;bairro;sem_match;;
+3543907;Rio Claro;SP;VILA APARECIDA;1;33;570,4;1;False;0;distrito (aproximado);exato;3569,83;2424,0
+3543907;Rio Claro;SP;VILA MARTINS;1;49;566,7;1;False;0;distrito (aproximado);exato;3569,83;2424,0
+3543907;Rio Claro;SP;ZONA CENTRAL;3;159;627,2;3;True;1;distrito (aproximado);exato;3569,83;2424,0
+4315602;Rio Grande;RS;CENTRO;3;76;580,2;4;True;1;distrito (aproximado);exato;3227,24;2000,0
+4315602;Rio Grande;RS;CIDADE NOVA;2;53;580,7;2;False;0;distrito (aproximado);exato;3227,24;2000,0
+4315602;Rio Grande;RS;PARQUE RESIDENCIAL SÃO PEDRO;1;28;568,9;1;False;0;distrito (aproximado);exato;3227,24;2000,0
 5218805;Rio Verde;GO;CENTRO;1;16;579,1;1;False;0;distrito (aproximado);exato;3490,23;2000,0
 5218805;Rio Verde;GO;JARDIM MARCONAL;1;22;652,3;1;False;1;distrito (aproximado);exato;3490,23;2000,0
 5218805;Rio Verde;GO;PARQUE DOS BURITIS II;1;34;642,1;1;False;0;distrito (aproximado);exato;3490,23;2000,0
@@ -1628,16 +1628,16 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 5218805;Rio Verde;GO;PARQUE SOLAR DO AGRESTE B;1;24;641,0;1;False;1;distrito (aproximado);exato;3490,23;2000,0
 5218805;Rio Verde;GO;SETOR CENTRAL;1;31;652,1;2;False;1;distrito (aproximado);exato;3490,23;2000,0
 5218805;Rio Verde;GO;SETOR PAUZANES;1;27;563,5;2;False;0;distrito (aproximado);exato;3490,23;2000,0
-3304524;Rio das Ostras;RJ;CENTRO;3;119;609,2;3;True;0;bairro;sem_match;;
-3304524;Rio das Ostras;RJ;CIDADE BEIRA MAR;1;42;619,8;2;False;1;bairro;sem_match;;
-3304524;Rio das Ostras;RJ;COSTAZUL;1;46;653,0;1;False;1;bairro;sem_match;;
-3304524;Rio das Ostras;RJ;EXTENSAO NOVO RIO DAS OSTRAS;1;11;595,1;1;False;0;bairro;sem_match;;
-3304524;Rio das Ostras;RJ;JARDIM MARILEA;3;35;586,2;6;True;0;bairro;sem_match;;
-3304524;Rio das Ostras;RJ;LIBERDADE;1;35;546,1;1;False;0;bairro;sem_match;;
-3304524;Rio das Ostras;RJ;NOVO RIO DAS OSTRAS;1;22;592,1;1;False;0;bairro;sem_match;;
-3304524;Rio das Ostras;RJ;PARQUE ZABULAO;1;16;567,7;1;False;0;bairro;sem_match;;
-3304524;Rio das Ostras;RJ;RESIDENCIAL PRAIA ÂNCORA;1;20;601,9;1;False;0;bairro;sem_match;;
-3304524;Rio das Ostras;RJ;VILLAGE SOL E MAR;1;79;657,1;1;False;1;bairro;sem_match;;
+3304524;Rio das Ostras;RJ;CENTRO;3;119;609,2;3;True;0;distrito (aproximado);exato;3390,02;2000,0
+3304524;Rio das Ostras;RJ;CIDADE BEIRA MAR;1;42;619,8;2;False;1;distrito (aproximado);exato;3390,02;2000,0
+3304524;Rio das Ostras;RJ;COSTAZUL;1;46;653,0;1;False;1;distrito (aproximado);exato;3390,02;2000,0
+3304524;Rio das Ostras;RJ;EXTENSAO NOVO RIO DAS OSTRAS;1;11;595,1;1;False;0;distrito (aproximado);exato;3390,02;2000,0
+3304524;Rio das Ostras;RJ;JARDIM MARILEA;3;35;586,2;6;True;0;distrito (aproximado);exato;3390,02;2000,0
+3304524;Rio das Ostras;RJ;LIBERDADE;1;35;546,1;1;False;0;distrito (aproximado);exato;3390,02;2000,0
+3304524;Rio das Ostras;RJ;NOVO RIO DAS OSTRAS;1;22;592,1;1;False;0;distrito (aproximado);exato;3390,02;2000,0
+3304524;Rio das Ostras;RJ;PARQUE ZABULAO;1;16;567,7;1;False;0;distrito (aproximado);exato;3390,02;2000,0
+3304524;Rio das Ostras;RJ;RESIDENCIAL PRAIA ÂNCORA;1;20;601,9;1;False;0;distrito (aproximado);exato;3390,02;2000,0
+3304524;Rio das Ostras;RJ;VILLAGE SOL E MAR;1;79;657,1;1;False;1;distrito (aproximado);exato;3390,02;2000,0
 3304557;Rio de Janeiro;RJ;LEBLON;2;219;688,3;2;False;2;bairro;exato;16306,3;12000,0
 3304557;Rio de Janeiro;RJ;BARRA DA TIJUCA;19;880;664,1;29;True;13;bairro;exato;14491,31;10001,0
 3304557;Rio de Janeiro;RJ;HUMAITÁ;1;45;677,4;1;False;1;bairro;exato;11707,71;10000,0
@@ -1681,7 +1681,11 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3304557;Rio de Janeiro;RJ;BONSUCESSO;4;133;548,3;7;True;0;bairro;exato;3286,79;2200,0
 3304557;Rio de Janeiro;RJ;ENGENHO NOVO;1;43;572,5;1;False;0;bairro;exato;3339,35;2200,0
 3304557;Rio de Janeiro;RJ;RAMOS;1;50;630,2;3;False;1;bairro;exato;3213,34;2170,0
+3304557;Rio de Janeiro;RJ;BARRA OLÍMPICA;7;402;641,5;7;True;4;distrito (aproximado);exato;4479,7;2001,0
 3304557;Rio de Janeiro;RJ;BENTO RIBEIRO;3;107;519,0;4;True;0;bairro;exato;3287,78;2001,0
+3304557;Rio de Janeiro;RJ;FREGUESIA;5;259;628,1;5;True;1;distrito (aproximado);exato;4479,7;2001,0
+3304557;Rio de Janeiro;RJ;IRAJ;1;26;492,3;1;False;0;distrito (aproximado);exato;4479,7;2001,0
+3304557;Rio de Janeiro;RJ;RECREIO;1;50;603,8;1;False;0;distrito (aproximado);exato;4479,7;2001,0
 3304557;Rio de Janeiro;RJ;CAMPO GRANDE;23;809;571,2;33;True;2;bairro;exato;3277,13;2000,0
 3304557;Rio de Janeiro;RJ;CASCADURA;2;74;575,7;2;False;0;bairro;exato;2864,04;2000,0
 3304557;Rio de Janeiro;RJ;CURICICA;3;31;543,7;5;True;0;bairro;exato;2818,69;2000,0
@@ -1722,10 +1726,6 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3304557;Rio de Janeiro;RJ;BENFICA;1;178;584,9;2;False;0;bairro;exato;2020,38;1212,0
 3304557;Rio de Janeiro;RJ;MANGUINHOS;1;43;651,7;1;False;1;bairro;exato;1553,13;1212,0
 3304557;Rio de Janeiro;RJ;SEPETIBA;1;14;554,4;2;False;0;bairro;exato;2045,32;1212,0
-3304557;Rio de Janeiro;RJ;BARRA OLÍMPICA;7;402;641,5;7;True;4;bairro;sem_match;;
-3304557;Rio de Janeiro;RJ;FREGUESIA;5;259;628,1;5;True;1;bairro;sem_match;;
-3304557;Rio de Janeiro;RJ;IRAJ;1;26;492,3;1;False;0;bairro;sem_match;;
-3304557;Rio de Janeiro;RJ;RECREIO;1;50;603,8;1;False;0;bairro;sem_match;;
 5107602;Rondonópolis;MT;CENTRO;3;62;589,6;3;True;0;distrito (aproximado);exato;3653,47;2224,0
 5107602;Rondonópolis;MT;CIDADE SALMEN;1;44;617,6;1;False;0;distrito (aproximado);exato;3653,47;2224,0
 5107602;Rondonópolis;MT;PARQUE SAGRADA FAMILIA;1;37;631,4;1;False;1;distrito (aproximado);exato;3653,47;2224,0
@@ -1762,6 +1762,7 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2927408;Salvador;BA;FEDERAÇÃO;1;15;652,0;1;False;1;bairro;exato;3700,36;1600,0
 2927408;Salvador;BA;LAPINHA;1;63;598,8;1;False;0;bairro;exato;2497,21;1600,0
 2927408;Salvador;BA;CAMINHO DE AREIA;1;144;561,3;1;False;0;bairro;exato;2340,84;1500,0
+2927408;Salvador;BA;TANCREDO NEVES;1;12;546,8;1;False;0;distrito (aproximado);exato;3160,73;1230,0
 2927408;Salvador;BA;FAZENDA GRANDE II;1;15;572,6;1;False;0;bairro;exato;1897,81;1215,0
 2927408;Salvador;BA;AGUAS CLARAS;1;49;555,2;2;False;0;bairro;exato;1455,96;1212,0
 2927408;Salvador;BA;BOCA DO RIO;2;56;587,1;2;False;0;bairro;exato;2308,75;1212,0
@@ -1782,7 +1783,6 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2927408;Salvador;BA;SÃO CAETANO;3;88;545,7;3;True;0;bairro;exato;1658,21;1212,0
 2927408;Salvador;BA;SÃO MARCOS;1;12;586,6;1;False;0;bairro;exato;1311,91;1212,0
 2927408;Salvador;BA;SETE DE ABRIL;2;25;542,1;2;False;0;bairro;exato;1675,01;1212,0
-2927408;Salvador;BA;TANCREDO NEVES;1;12;546,8;1;False;0;bairro;sem_match;;
 3545803;Santa Bárbara d'Oeste;SP;CENTRO;1;32;638,0;1;False;1;distrito (aproximado);exato;3297,12;2500,0
 3545803;Santa Bárbara d'Oeste;SP;COLINA DE SANTA BARBARA;1;26;591,7;1;False;0;distrito (aproximado);exato;3297,12;2500,0
 3545803;Santa Bárbara d'Oeste;SP;JARDIM MOLLON;1;18;568,6;1;False;0;distrito (aproximado);exato;3297,12;2500,0
@@ -1830,15 +1830,15 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3547809;Santo André;SP;PARQUE DAS NACOES;2;119;571,0;3;False;0;bairro;exato;4876,08;3500,0
 3547809;Santo André;SP;VILA HOMERO THON;1;10;599,4;1;False;0;bairro;exato;4718,48;3500,0
 3547809;Santo André;SP;PARQUE NOVO ORATORIO;1;32;567,0;2;False;0;bairro;exato;4049,65;3000,0
+3547809;Santo André;SP;VILA CLARICE;1;27;569,7;1;False;0;distrito (aproximado);exato;4569,3;3000,0
 3547809;Santo André;SP;VILA GUIOMAR;1;174;717,8;1;False;1;bairro;exato;4349,36;3000,0
 3547809;Santo André;SP;VILA METALURGICA;1;182;536,7;1;False;0;bairro;exato;4248,56;3000,0
+3547809;Santo André;SP;VILA SANTA TERESA;1;36;559,8;1;False;0;distrito (aproximado);exato;4569,3;3000,0
+3547809;Santo André;SP;VILA SAO PEDRO;1;32;577,8;1;False;0;distrito (aproximado);exato;4569,3;3000,0
 3547809;Santo André;SP;JARDIM SANTO ALBERTO;1;43;556,3;1;False;0;bairro;exato;3474,48;2800,0
 3547809;Santo André;SP;VILA JUNQUEIRA;1;25;544,9;1;False;0;bairro;exato;3932,68;2600,0
 3547809;Santo André;SP;JARDIM TELLES DE MENEZES;1;11;544,0;1;False;0;bairro;exato;3057,75;2500,0
 3547809;Santo André;SP;VILA LINDA;1;24;599,2;1;False;0;bairro;exato;3255,92;2500,0
-3547809;Santo André;SP;VILA CLARICE;1;27;569,7;1;False;0;bairro;sem_match;;
-3547809;Santo André;SP;VILA SANTA TERESA;1;36;559,8;1;False;0;bairro;sem_match;;
-3547809;Santo André;SP;VILA SAO PEDRO;1;32;577,8;1;False;0;bairro;sem_match;;
 2928703;Santo Antônio de Jesus;BA;CAJUEIRO;1;50;603,4;1;False;0;bairro;exato;1750,15;1212,0
 2928703;Santo Antônio de Jesus;BA;CENTRO;4;123;622,0;5;True;2;bairro;exato;2311,35;1212,0
 2928703;Santo Antônio de Jesus;BA;SÃO BENEDITO;1;10;528,9;1;False;0;bairro;exato;1784,3;1212,0
@@ -1881,8 +1881,8 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2930709;Simões Filho;BA;PONTO DE PARADA;1;13;545,9;2;False;0;distrito (aproximado);exato;1683,34;1212,0
 5107909;Sinop;MT;JARDIM MARINGÁ;1;42;657,9;1;False;1;bairro;exato;9503,44;7000,0
 5107909;Sinop;MT;SETOR RESIDENCIAL NORTE;1;76;575,5;1;False;0;bairro;exato;5669,02;4000,0
-5107909;Sinop;MT;RESIDENCIAL FLORENÇA;1;23;600,2;1;False;0;bairro;sem_match;;
-5107909;Sinop;MT;RESIDENCIAL IPANEMA;1;63;680,9;1;False;1;bairro;sem_match;;
+5107909;Sinop;MT;RESIDENCIAL FLORENÇA;1;23;600,2;1;False;0;distrito (aproximado);exato;4044,04;2600,0
+5107909;Sinop;MT;RESIDENCIAL IPANEMA;1;63;680,9;1;False;1;distrito (aproximado);exato;4044,04;2600,0
 2312908;Sobral;CE;CAMPO DOS VELHOS;1;47;558,2;1;False;0;bairro;exato;3286,52;2200,0
 2312908;Sobral;CE;CORAÇÃO DE JESUS;1;28;550,4;1;False;0;bairro;exato;2670,61;1250,0
 2312908;Sobral;CE;CENTRO;1;103;639,0;1;False;1;bairro;exato;2370,14;1240,0
@@ -1903,12 +1903,12 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3552205;Sorocaba;SP;VILA SANTA RITA;2;28;562,8;2;False;0;distrito (aproximado);exato;4062,07;2500,0
 3552205;Sorocaba;SP;VILA TRUJILLO;1;29;614,8;2;False;0;distrito (aproximado);exato;4062,07;2500,0
 5107925;Sorriso;MT;BELA VISTA;1;38;655,1;1;False;1;bairro;exato;4478,22;3000,0
-5107925;Sorriso;MT;CENTRO-NORTE;1;33;569,7;1;False;0;bairro;sem_match;;
-5107925;Sorriso;MT;CENTRO-SUL;1;43;583,3;1;False;0;bairro;sem_match;;
-5107925;Sorriso;MT;FLOR DO CERRADO;1;10;598,1;1;False;0;bairro;sem_match;;
-3552403;Sumaré;SP;CENTRO;2;69;636,2;3;False;0;bairro;sem_match;;
-3552403;Sumaré;SP;JARDIM NOVA VENEZA (NOVA VENEZA);1;11;545,7;2;False;0;bairro;sem_match;;
-3552403;Sumaré;SP;JD NOVA VENEZA;1;28;579,4;1;False;0;bairro;sem_match;;
+5107925;Sorriso;MT;CENTRO-NORTE;1;33;569,7;1;False;0;distrito (aproximado);exato;4304,35;2800,0
+5107925;Sorriso;MT;CENTRO-SUL;1;43;583,3;1;False;0;distrito (aproximado);exato;4304,35;2800,0
+5107925;Sorriso;MT;FLOR DO CERRADO;1;10;598,1;1;False;0;distrito (aproximado);exato;4304,35;2800,0
+3552403;Sumaré;SP;CENTRO;2;69;636,2;3;False;0;distrito (aproximado);exato;3421,81;2500,0
+3552403;Sumaré;SP;JARDIM NOVA VENEZA (NOVA VENEZA);1;11;545,7;2;False;0;distrito (aproximado);exato;3421,81;2500,0
+3552403;Sumaré;SP;JD NOVA VENEZA;1;28;579,4;1;False;0;distrito (aproximado);exato;3421,81;2500,0
 3552502;Suzano;SP;JARDIM CASA BRANCA;1;15;612,2;1;False;0;distrito (aproximado);exato;3143,62;2200,0
 3552502;Suzano;SP;JARDIM DOS IPES;1;39;643,1;1;False;0;distrito (aproximado);exato;3143,62;2200,0
 3552502;Suzano;SP;JARDIM IMPERADOR;2;150;588,7;2;False;0;distrito (aproximado);exato;3143,62;2200,0
@@ -1926,9 +1926,9 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3548708;São Bernardo do Campo;SP;PAULICEIA;1;12;583,4;2;False;0;bairro;exato;4763,45;3000,0
 3548708;São Bernardo do Campo;SP;PLANALTO;1;24;610,0;1;False;0;bairro;exato;4460,49;3000,0
 3548708;São Bernardo do Campo;SP;BAETA NEVES;3;233;610,4;3;True;1;bairro;exato;3945,01;2600,0
+3548708;São Bernardo do Campo;SP;JARDIM DO MAR;1;13;639,7;1;False;0;distrito (aproximado);exato;4214,31;2500,0
+3548708;São Bernardo do Campo;SP;TERRA NOVA II;1;41;548,7;1;False;0;distrito (aproximado);exato;4214,31;2500,0
 3548708;São Bernardo do Campo;SP;DOS CASA;1;43;587,8;1;False;0;bairro;exato;2913,35;2000,0
-3548708;São Bernardo do Campo;SP;JARDIM DO MAR;1;13;639,7;1;False;0;bairro;sem_match;;
-3548708;São Bernardo do Campo;SP;TERRA NOVA II;1;41;548,7;1;False;0;bairro;sem_match;;
 3548807;São Caetano do Sul;SP;SANTA PAULA;3;164;631,5;5;True;1;bairro;exato;9535,86;6000,0
 3548807;São Caetano do Sul;SP;SANTO ANTONIO;2;161;654,3;3;False;1;bairro;exato;9235,25;6000,0
 3548807;São Caetano do Sul;SP;CERAMICA;2;62;629,8;2;False;1;bairro;exato;8603,1;4500,0
@@ -1954,6 +1954,7 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3304904;São Gonçalo;RJ;PARAÍSO;1;26;525,7;2;False;0;bairro;exato;2367,64;1600,0
 3304904;São Gonçalo;RJ;RAUL VEIGA;1;25;579,2;1;False;0;bairro;exato;2310,28;1600,0
 3304904;São Gonçalo;RJ;VILA TRES;1;17;596,0;1;False;0;bairro;exato;2176,9;1600,0
+3304904;São Gonçalo;RJ;ALCÂNTARA;5;182;597,7;6;True;0;distrito (aproximado);exato;2380,23;1500,0
 3304904;São Gonçalo;RJ;AMENDOEIRA;1;10;524,6;2;False;0;bairro;exato;2024,28;1500,0
 3304904;São Gonçalo;RJ;ARSENAL;1;12;543,2;1;False;0;bairro;exato;2398,97;1500,0
 3304904;São Gonçalo;RJ;LARANJAL;1;13;518,7;2;False;0;bairro;exato;1936,15;1500,0
@@ -1962,7 +1963,6 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3304904;São Gonçalo;RJ;JARDIM CATARINA;1;21;611,1;2;False;0;bairro;exato;1705,91;1300,0
 3304904;São Gonçalo;RJ;MUTUAGUAÇU;1;28;633,2;2;False;1;bairro;exato;1985,81;1300,0
 3304904;São Gonçalo;RJ;PATRONATO;1;43;570,0;1;False;0;bairro;exato;2226,4;1300,0
-3304904;São Gonçalo;RJ;ALCÂNTARA;5;182;597,7;6;True;0;bairro;sem_match;;
 4216602;São José;SC;CAMPINAS;1;35;610,4;2;False;0;bairro;exato;8011,96;5500,0
 4216602;São José;SC;KOBRASOL;2;77;632,0;3;False;1;bairro;exato;5806,19;4500,0
 4216602;São José;SC;BARREIROS;2;226;614,8;2;False;1;bairro;exato;5027,18;3500,0
@@ -1975,41 +1975,41 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2111201;São José de Ribamar;MA;TRIZIDELA DA MAIOBA;1;62;626,5;1;False;1;bairro;exato;2416,93;1500,0
 2111201;São José de Ribamar;MA;PARQUE VITÓRIA;1;34;561,4;1;False;0;bairro;exato;2092,01;1385,0
 2111201;São José de Ribamar;MA;VILA SARNEY FILHO I;1;23;579,0;1;False;0;bairro;exato;1697,17;1212,0
-3549805;São José do Rio Preto;SP;CENTRO;7;284;629,3;9;True;1;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;JARDIM ALTO ALEGRE;2;38;586,5;2;False;0;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;JARDIM CONCEICAO;1;67;552,4;1;False;0;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;JARDIM DOS SEIXAS;1;72;574,9;1;False;0;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;JARDIM MARACANA;1;104;648,5;1;False;0;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;JARDIM REDENTOR;1;43;646,2;1;False;0;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;JARDIM SEIXAS;1;47;626,9;1;False;0;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;JARDIM TARRAF;1;47;596,4;1;False;0;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;JARDIM VIVENDAS;1;20;620,9;1;False;0;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;JARDIM WALKIRIA;1;17;663,6;1;False;1;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;NOVA REDENTORA;1;37;578,2;2;False;0;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;PARQUE INDUSTRIAL;2;91;637,3;4;False;1;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;PARQUE RESIDENCIAL DOM LAFAYETE LIBANIO;1;35;551,8;1;False;0;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;VILA ERCILIA;1;30;669,1;1;False;1;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;VILA MOREIRA;1;22;568,9;1;False;0;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;VILA NOSSA SENHORA DA PAZ;1;17;656,8;1;False;1;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;VILA SANTA CRUZ;1;43;541,3;1;False;0;bairro;sem_match;;
-3549805;São José do Rio Preto;SP;VILA SAO JOSE;1;18;566,4;1;False;0;bairro;sem_match;;
-3549904;São José dos Campos;SP;BOSQUE DOS EUCALIPTOS;2;52;589,9;2;False;0;bairro;sem_match;;
-3549904;São José dos Campos;SP;EUGENIO DE MELLO;1;153;715,7;1;False;1;bairro;sem_match;;
-3549904;São José dos Campos;SP;JARDIM ALVORADA;1;88;705,8;1;False;1;bairro;sem_match;;
-3549904;São José dos Campos;SP;JARDIM ESPLANADA;3;503;673,3;3;True;1;bairro;sem_match;;
-3549904;São José dos Campos;SP;JARDIM ESPLANADA II;1;43;717,3;2;False;1;bairro;sem_match;;
-3549904;São José dos Campos;SP;JARDIM NOVA AMERICA;1;81;590,3;1;False;0;bairro;sem_match;;
-3549904;São José dos Campos;SP;JARDIM ORIENTE;2;65;559,5;2;False;0;bairro;sem_match;;
-3549904;São José dos Campos;SP;JARDIM PORTUGAL;1;55;583,0;1;False;0;bairro;sem_match;;
-3549904;São José dos Campos;SP;JARDIM SAO DIMAS;1;48;617,9;1;False;0;bairro;sem_match;;
-3549904;São José dos Campos;SP;JARDIM SATELITE;1;14;631,4;1;False;0;bairro;sem_match;;
-3549904;São José dos Campos;SP;JARDIM SERIMBURA;1;47;618,8;1;False;0;bairro;sem_match;;
-3549904;São José dos Campos;SP;RESIDENCIAL SOL NASCENTE;1;29;603,3;1;False;0;bairro;sem_match;;
-3549904;São José dos Campos;SP;SANTANA;1;33;539,6;2;False;0;bairro;sem_match;;
-3549904;São José dos Campos;SP;VILA ADYANA;2;92;602,7;2;False;1;bairro;sem_match;;
-3549904;São José dos Campos;SP;VILA BETANIA;1;91;624,7;1;False;0;bairro;sem_match;;
-3549904;São José dos Campos;SP;VILA INDUSTRIAL;1;49;558,5;1;False;0;bairro;sem_match;;
-3549904;São José dos Campos;SP;VILA TATETUBA;1;47;666,4;1;False;1;bairro;sem_match;;
+3549805;São José do Rio Preto;SP;CENTRO;7;284;629,3;9;True;1;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;JARDIM ALTO ALEGRE;2;38;586,5;2;False;0;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;JARDIM CONCEICAO;1;67;552,4;1;False;0;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;JARDIM DOS SEIXAS;1;72;574,9;1;False;0;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;JARDIM MARACANA;1;104;648,5;1;False;0;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;JARDIM REDENTOR;1;43;646,2;1;False;0;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;JARDIM SEIXAS;1;47;626,9;1;False;0;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;JARDIM TARRAF;1;47;596,4;1;False;0;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;JARDIM VIVENDAS;1;20;620,9;1;False;0;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;JARDIM WALKIRIA;1;17;663,6;1;False;1;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;NOVA REDENTORA;1;37;578,2;2;False;0;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;PARQUE INDUSTRIAL;2;91;637,3;4;False;1;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;PARQUE RESIDENCIAL DOM LAFAYETE LIBANIO;1;35;551,8;1;False;0;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;VILA ERCILIA;1;30;669,1;1;False;1;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;VILA MOREIRA;1;22;568,9;1;False;0;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;VILA NOSSA SENHORA DA PAZ;1;17;656,8;1;False;1;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;VILA SANTA CRUZ;1;43;541,3;1;False;0;distrito (aproximado);exato;4233,47;2500,0
+3549805;São José do Rio Preto;SP;VILA SAO JOSE;1;18;566,4;1;False;0;distrito (aproximado);exato;4233,47;2500,0
+3549904;São José dos Campos;SP;BOSQUE DOS EUCALIPTOS;2;52;589,9;2;False;0;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;EUGENIO DE MELLO;1;153;715,7;1;False;1;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;JARDIM ALVORADA;1;88;705,8;1;False;1;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;JARDIM ESPLANADA;3;503;673,3;3;True;1;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;JARDIM ESPLANADA II;1;43;717,3;2;False;1;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;JARDIM NOVA AMERICA;1;81;590,3;1;False;0;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;JARDIM ORIENTE;2;65;559,5;2;False;0;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;JARDIM PORTUGAL;1;55;583,0;1;False;0;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;JARDIM SAO DIMAS;1;48;617,9;1;False;0;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;JARDIM SATELITE;1;14;631,4;1;False;0;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;JARDIM SERIMBURA;1;47;618,8;1;False;0;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;RESIDENCIAL SOL NASCENTE;1;29;603,3;1;False;0;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;SANTANA;1;33;539,6;2;False;0;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;VILA ADYANA;2;92;602,7;2;False;1;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;VILA BETANIA;1;91;624,7;1;False;0;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;VILA INDUSTRIAL;1;49;558,5;1;False;0;distrito (aproximado);exato;4708,63;2700,0
+3549904;São José dos Campos;SP;VILA TATETUBA;1;47;666,4;1;False;1;distrito (aproximado);exato;4708,63;2700,0
 4125506;São José dos Pinhais;PR;CENTRO;3;100;617,3;3;True;1;bairro;exato;5874,73;4000,0
 4125506;São José dos Pinhais;PR;AFONSO PENA;2;183;565,2;4;False;0;bairro;exato;4301,54;3100,0
 4125506;São José dos Pinhais;PR;CIDADE JARDIM;1;74;592,0;1;False;0;bairro;exato;3880,67;3000,0
@@ -2017,8 +2017,8 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 4125506;São José dos Pinhais;PR;CRUZEIRO;1;18;554,7;1;False;0;bairro;exato;3635,25;2500,0
 3305109;São João de Meriti;RJ;CENTRO;6;264;566,7;7;True;1;bairro;exato;2089,26;1500,0
 3305109;São João de Meriti;RJ;EDEN;1;22;560,3;1;False;0;bairro;exato;1941,7;1450,0
+3305109;São João de Meriti;RJ;JARDIM JOSÉ BONIFÁCIO;1;46;538,2;1;False;0;distrito (aproximado);exato;1839,34;1300,0
 3305109;São João de Meriti;RJ;VILAR DOS TELES;2;94;547,8;3;False;0;bairro;exato;1840,97;1300,0
-3305109;São João de Meriti;RJ;JARDIM JOSÉ BONIFÁCIO;1;46;538,2;1;False;0;bairro;sem_match;;
 4318705;São Leopoldo;RS;CENTRO;3;97;607,3;5;True;1;bairro;exato;5767,39;4000,0
 4318705;São Leopoldo;RS;RIO BRANCO;1;64;574,4;1;False;0;bairro;exato;4408,43;3000,0
 2613701;São Lourenço da Mata;PE;CENTRO;1;21;520,2;2;False;0;bairro;exato;2262,51;1212,0
@@ -2340,8 +2340,8 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3551009;São Vicente;SP;ITARARE;2;121;544,6;2;False;0;bairro;exato;4499,0;3200,0
 3551009;São Vicente;SP;CENTRO;5;92;569,3;5;True;0;bairro;exato;3954,72;3000,0
 3551009;São Vicente;SP;VILA SAO JORGE;1;23;559,9;1;False;0;bairro;exato;3583,19;3000,0
+3551009;São Vicente;SP;VILA CASCATINHA;1;16;567,3;1;False;0;distrito (aproximado);exato;2783,37;2000,0
 3551009;São Vicente;SP;VILA NOSSA SENHORA DE FATIMA;1;12;551,3;3;False;0;bairro;exato;2565,69;2000,0
-3551009;São Vicente;SP;VILA CASCATINHA;1;16;567,3;1;False;0;bairro;sem_match;;
 3552809;Taboão da Serra;SP;CHACARA AGRINDUS;1;20;562,1;1;False;0;distrito (aproximado);exato;3110,3;2000,0
 3552809;Taboão da Serra;SP;CIDADE INTERCAP;2;39;563,6;2;False;0;distrito (aproximado);exato;3110,3;2000,0
 3552809;Taboão da Serra;SP;JARDIM MARIA ROSA;1;36;595,8;1;False;0;distrito (aproximado);exato;3110,3;2000,0
@@ -2360,9 +2360,9 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3554102;Taubaté;SP;CENTRO;6;355;625,0;7;True;3;bairro;exato;6121,96;4000,0
 3554102;Taubaté;SP;MONCAO;1;17;618,5;1;False;0;bairro;exato;3855,31;3000,0
 3554102;Taubaté;SP;AREAO;1;25;647,8;2;False;1;bairro;exato;3438,0;2500,0
-3554102;Taubaté;SP;CHACARA DO VISCONDE;1;34;609,4;1;False;0;bairro;sem_match;;
-3554102;Taubaté;SP;JARDIM DAS NACOES;4;187;628,0;4;True;2;bairro;sem_match;;
-3554102;Taubaté;SP;VILA SAO JOSE;2;49;620,3;2;False;0;bairro;sem_match;;
+3554102;Taubaté;SP;CHACARA DO VISCONDE;1;34;609,4;1;False;0;distrito (aproximado);exato;3758,12;2500,0
+3554102;Taubaté;SP;JARDIM DAS NACOES;4;187;628,0;4;True;2;distrito (aproximado);exato;3758,12;2500,0
+3554102;Taubaté;SP;VILA SAO JOSE;2;49;620,3;2;False;0;distrito (aproximado);exato;3758,12;2500,0
 2931350;Teixeira de Freitas;BA;BELA VISTA;1;37;603,8;2;False;0;distrito (aproximado);exato;2291,24;1212,0
 2931350;Teixeira de Freitas;BA;BOM JESUS;1;31;600,7;1;False;0;distrito (aproximado);exato;2291,24;1212,0
 2931350;Teixeira de Freitas;BA;MIRANTE DO RIO;1;16;660,1;1;False;1;distrito (aproximado);exato;2291,24;1212,0
@@ -2383,11 +2383,11 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2211001;Teresina;PI;COLORADO;1;33;584,3;1;False;0;bairro;exato;1814,76;1212,0
 2211001;Teresina;PI;DISTRITO INDUSTRIAL;1;31;587,0;1;False;0;bairro;exato;1394,42;1212,0
 2211001;Teresina;PI;ITARARE;2;43;619,3;3;False;1;bairro;exato;2000,83;1212,0
+2211001;Teresina;PI;MARQUÊS;2;53;574,3;2;False;0;distrito (aproximado);exato;2982,66;1212,0
 2211001;Teresina;PI;MEMORARE;1;21;576,9;1;False;0;bairro;exato;2540,8;1212,0
 2211001;Teresina;PI;PARQUE ALVORADA;1;23;576,7;1;False;0;bairro;exato;1940,08;1212,0
+2211001;Teresina;PI;PARQUE PIAUI;2;75;587,1;3;False;0;distrito (aproximado);exato;2982,66;1212,0
 2211001;Teresina;PI;SAMAPI;1;26;539,7;1;False;0;bairro;exato;1567,69;1212,0
-2211001;Teresina;PI;MARQUÊS;2;53;574,3;2;False;0;bairro;sem_match;;
-2211001;Teresina;PI;PARQUE PIAUI;2;75;587,1;3;False;0;bairro;sem_match;;
 3305802;Teresópolis;RJ;AGRIOES;1;17;630,3;2;False;0;bairro;exato;7231,37;5000,0
 3305802;Teresópolis;RJ;ALTO;3;75;643,5;4;True;2;bairro;exato;5827,74;4000,0
 3305802;Teresópolis;RJ;JARDIM EUROPA;1;10;641,5;1;False;1;bairro;exato;5993,84;4000,0
@@ -2396,19 +2396,19 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3168606;Teófilo Otoni;MG;DOUTOR LAERTE LAENDER;1;44;679,7;1;False;1;bairro;exato;6797,4;4000,0
 3168606;Teófilo Otoni;MG;IPIRANGA;1;40;618,4;1;False;0;bairro;exato;5838,52;3636,0
 3168606;Teófilo Otoni;MG;SÃO DIOGO;1;20;636,4;2;False;0;bairro;exato;2864,26;1500,0
-3168606;Teófilo Otoni;MG;GRAO PARA;1;10;594,2;1;False;0;bairro;sem_match;;
+3168606;Teófilo Otoni;MG;GRAO PARA;1;10;594,2;1;False;0;distrito (aproximado);exato;2528,27;1212,0
 2112209;Timon;MA;CENTRO;1;14;544,3;1;False;0;bairro;exato;3302,43;2400,0
 2112209;Timon;MA;PARQUE PIAUÍ I;2;27;579,5;3;False;1;bairro;fuzzy;2422,79;1216,0
-2112209;Timon;MA;S. FRANCISCO;1;13;566,9;1;False;0;bairro;sem_match;;
+2112209;Timon;MA;S. FRANCISCO;1;13;566,9;1;False;0;distrito (aproximado);exato;1750,41;1212,0
 4127700;Toledo;PR;JARDIM LA SALLE;1;51;604,5;2;False;0;bairro;exato;8097,29;5000,0
 4127700;Toledo;PR;VILA INDUSTRIAL;1;37;628,8;2;False;0;bairro;exato;4449,66;3000,0
 5221403;Trindade;GO;SANTUÁRIO;1;43;620,7;1;False;1;distrito (aproximado);exato;2320,93;1500,0
 5221403;Trindade;GO;VILA PADRE ETERNO;1;22;615,5;1;False;0;distrito (aproximado);exato;2320,93;1500,0
 5008305;Três Lagoas;MS;JARDIM ALVORADA;1;21;659,3;1;False;1;bairro;exato;3640,92;2600,0
+5008305;Três Lagoas;MS;JARDIM CANGALHA;1;24;574,0;1;False;0;distrito (aproximado);exato;3149,68;2000,0
+5008305;Três Lagoas;MS;JARDIM DAS OLIVEIRAS;1;21;624,5;1;False;0;distrito (aproximado);exato;3149,68;2000,0
+5008305;Três Lagoas;MS;JARDIM PROGRESSO;1;24;584,4;1;False;0;distrito (aproximado);exato;3149,68;2000,0
 5008305;Três Lagoas;MS;SANTA LUZIA;1;29;611,1;1;False;0;bairro;exato;2483,11;2000,0
-5008305;Três Lagoas;MS;JARDIM CANGALHA;1;24;574,0;1;False;0;bairro;sem_match;;
-5008305;Três Lagoas;MS;JARDIM DAS OLIVEIRAS;1;21;624,5;1;False;0;bairro;sem_match;;
-5008305;Três Lagoas;MS;JARDIM PROGRESSO;1;24;584,4;1;False;0;bairro;sem_match;;
 4218707;Tubarão;SC;CENTRO;2;68;583,7;3;False;0;bairro;exato;5798,19;4000,0
 4218707;Tubarão;SC;DEHON;2;163;634,5;2;False;1;bairro;exato;4297,42;3000,0
 4218707;Tubarão;SC;REVOREDO;1;21;620,2;1;False;0;bairro;exato;3614,7;2500,0
@@ -2416,10 +2416,10 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3170107;Uberaba;MG;FABRICIO;1;18;585,9;1;False;0;bairro;exato;4531,05;3000,0
 3170107;Uberaba;MG;SANTA MARIA;3;151;659,0;3;True;3;bairro;exato;4941,14;2900,0
 3170107;Uberaba;MG;SÃO BENEDITO;2;52;608,4;3;False;0;bairro;exato;3941,56;2500,0
-3170107;Uberaba;MG;CONJUNTO FREI EUGÊNIO;1;45;610,7;1;False;0;bairro;sem_match;;
-3170107;Uberaba;MG;NOSSA SENHORA DA ABADIA;1;83;636,7;1;False;1;bairro;sem_match;;
-3170107;Uberaba;MG;OLINDA;1;28;660,1;1;False;1;bairro;sem_match;;
-3170107;Uberaba;MG;SAO SEBASTIAO;1;41;655,0;1;False;1;bairro;sem_match;;
+3170107;Uberaba;MG;CONJUNTO FREI EUGÊNIO;1;45;610,7;1;False;0;distrito (aproximado);exato;3337,26;2000,0
+3170107;Uberaba;MG;NOSSA SENHORA DA ABADIA;1;83;636,7;1;False;1;distrito (aproximado);exato;3337,26;2000,0
+3170107;Uberaba;MG;OLINDA;1;28;660,1;1;False;1;distrito (aproximado);exato;3337,26;2000,0
+3170107;Uberaba;MG;SAO SEBASTIAO;1;41;655,0;1;False;1;distrito (aproximado);exato;3337,26;2000,0
 3170206;Uberlândia;MG;GRANJA MARILEUSA;1;28;604,0;2;False;0;bairro;exato;13024,82;10000,0
 3170206;Uberlândia;MG;JARDIM KARAÍBA;2;39;595,4;2;False;0;bairro;exato;14691,66;10000,0
 3170206;Uberlândia;MG;MORADA DA COLINA;1;26;613,8;1;False;0;bairro;exato;14468,39;10000,0
@@ -2457,9 +2457,9 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3170701;Varginha;MG;AEROPORTO;1;19;620,3;1;False;0;bairro;exato;8476,93;5000,0
 3170701;Varginha;MG;VILA PINTO;1;11;566,0;1;False;0;bairro;exato;8556,93;5000,0
 3170701;Varginha;MG;CENTRO;1;69;678,2;1;False;1;bairro;exato;5937,53;3200,0
-3170701;Varginha;MG;NOSSA SENHORA DE FÁTIMA;1;24;595,8;1;False;0;bairro;sem_match;;
-3170701;Varginha;MG;VILA NOGUEIRA;1;53;653,0;1;False;1;bairro;sem_match;;
-3170701;Varginha;MG;VILA VERDE;1;31;616,5;1;False;0;bairro;sem_match;;
+3170701;Varginha;MG;NOSSA SENHORA DE FÁTIMA;1;24;595,8;1;False;0;distrito (aproximado);exato;3295,64;2000,0
+3170701;Varginha;MG;VILA NOGUEIRA;1;53;653,0;1;False;1;distrito (aproximado);exato;3295,64;2000,0
+3170701;Varginha;MG;VILA VERDE;1;31;616,5;1;False;0;distrito (aproximado);exato;3295,64;2000,0
 3171204;Vespasiano;MG;CÉLVIA;1;44;613,6;1;False;0;distrito (aproximado);exato;2336,66;1600,0
 3171204;Vespasiano;MG;PARQUE JARDIM ITAU;1;11;661,5;1;False;1;distrito (aproximado);exato;2336,66;1600,0
 4323002;Viamão;RS;MARTINICA;1;37;596,6;1;False;0;bairro;exato;2124,95;2000,0
@@ -2467,6 +2467,7 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3205200;Vila Velha;ES;PRAIA DA COSTA;2;38;605,6;3;False;0;bairro;exato;11111,81;8000,0
 3205200;Vila Velha;ES;PRAIA DE ITAPARICA;2;34;566,7;2;False;0;bairro;exato;8555,94;6000,0
 3205200;Vila Velha;ES;ITAPUÃ;2;54;578,6;2;False;0;bairro;exato;8204,18;5000,0
+3205200;Vila Velha;ES;PÓLO EMPRESARIAL NOVO MÉXICO;1;118;585,8;1;False;0;distrito (aproximado);exato;6344,5;4000,0
 3205200;Vila Velha;ES;CENTRO DE VILA VELHA;2;118;676,4;2;False;1;bairro;exato;4479,34;3000,0
 3205200;Vila Velha;ES;COQUEIRAL DE ITAPARICA;2;119;623,8;2;False;1;bairro;exato;3972,66;3000,0
 3205200;Vila Velha;ES;OLARIA;1;13;633,6;1;False;1;bairro;exato;4610,94;3000,0
@@ -2477,7 +2478,6 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3205200;Vila Velha;ES;COBILÂNDIA;1;59;572,0;1;False;0;bairro;exato;2478,16;1895,0
 3205200;Vila Velha;ES;RIO MARINHO;1;17;556,2;1;False;0;bairro;exato;2243,58;1655,0
 3205200;Vila Velha;ES;ALVORADA;1;80;606,4;1;False;0;bairro;exato;2272,93;1500,0
-3205200;Vila Velha;ES;PÓLO EMPRESARIAL NOVO MÉXICO;1;118;585,8;1;False;0;bairro;sem_match;;
 3205309;Vitória;ES;PRAIA DO CANTO;3;94;702,2;3;True;3;bairro;exato;15145,79;11000,0
 3205309;Vitória;ES;ENSEADA DO SUÁ;1;22;634,3;1;False;1;bairro;exato;13434,98;10000,0
 3205309;Vitória;ES;MATA DA PRAIA;2;250;681,6;2;False;1;bairro;exato;12852,31;10000,0
@@ -2500,7 +2500,7 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 2616407;Vitória de Santo Antão;PE;CAJA;2;92;604,4;2;False;1;bairro;exato;1991,87;1212,0
 2616407;Vitória de Santo Antão;PE;LIVRAMENTO;2;53;580,2;2;False;0;bairro;exato;2611,47;1212,0
 2616407;Vitória de Santo Antão;PE;SÃO VICENTE DE PAULO;1;11;555,5;1;False;0;bairro;exato;1576,24;1212,0
-2616407;Vitória de Santo Antão;PE;UNIVERSITÁRIO;1;89;582,7;1;False;0;bairro;sem_match;;
+2616407;Vitória de Santo Antão;PE;UNIVERSITÁRIO;1;89;582,7;1;False;0;distrito (aproximado);exato;1677,18;1212,0
 3306305;Volta Redonda;RJ;BELA VISTA;1;64;664,3;1;False;1;bairro;exato;6393,07;5000,0
 3306305;Volta Redonda;RJ;JARDIM AMÁLIA;1;26;633,3;1;False;1;bairro;exato;7471,68;5000,0
 3306305;Volta Redonda;RJ;VILA SANTA CECÍLIA;2;51;635,8;4;False;2;bairro;exato;6370,32;5000,0
@@ -2509,7 +2509,7 @@ codigo_municipio;nome_municipio_ibge;uf;bairro;qtd_escolas_confiaveis;qtd_partic
 3306305;Volta Redonda;RJ;CASA DE PEDRA;1;10;617,9;1;False;0;bairro;exato;4037,35;3180,0
 3306305;Volta Redonda;RJ;VOLDAC;1;25;594,8;1;False;0;bairro;exato;3601,81;3000,0
 3306305;Volta Redonda;RJ;AERO CLUBE;1;66;608,7;1;False;0;bairro;exato;4069,75;2500,0
-3306305;Volta Redonda;RJ;NOSSA SENHORA DAS GRACAS;1;35;686,4;1;False;1;bairro;sem_match;;
+3306305;Volta Redonda;RJ;NOSSA SENHORA DAS GRACAS;1;35;686,4;1;False;1;distrito (aproximado);exato;3242,29;2000,0
 3557006;Votorantim;SP;CENTRO;1;18;583,1;1;False;0;distrito (aproximado);exato;3443,12;2300,0
 3557006;Votorantim;SP;JARDIM ARCHILA;1;13;560,6;1;False;0;distrito (aproximado);exato;3443,12;2300,0
 3557006;Votorantim;SP;JARDIM ICATU;2;43;595,8;2;False;0;distrito (aproximado);exato;3443,12;2300,0

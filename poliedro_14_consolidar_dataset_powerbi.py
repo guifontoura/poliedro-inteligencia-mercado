@@ -2,18 +2,31 @@
 Case Poliedro — Passo 14 (bônus, roadmap 2.0): CONSOLIDAR DATASET PARA POWER BI.
 
 Junta as Golden Leads com os dados de cidade (nome, UF, score de
-priorização) e com bairro/distrito/lat-long num único par de tabelas
-prontas para importar no Power BI — sem precisar recalcular nada, só
-carregar e relacionar.
+priorização), bairro/distrito/lat-long, renda do bairro (IBGE Censo 2022) e
+sistema de ensino já identificado (pesquisa manual, passo 19) num único par
+de tabelas prontas para importar no Power BI.
 
 Revisão 23/07 (pedido do Gui: "podemos enriquecer com os dados dos
 bairros?"): trocado `05_golden_leads_geocodificadas.csv` (bairro via ViaCEP,
 só 139 das 943 escolas, só nas 10 cidades prioritárias) pelo
-`NO_BAIRRO`/`NO_DISTRITO`/`LATITUDE`/`LONGITUDE` nativos do Censo Escolar em
-`data/raw/escolas_com_endereco.csv` — cobertura nacional de 87,4% (bairro) e
-100% (distrito) contra os ~15% de antes. Esse era o "próximo passo" já
-sinalizado no README (a descoberta de que o Censo já trazia esses campos e o
-ViaCEP virou redundante). CEP continua vindo da mesma fonte nativa.
+`NO_BAIRRO`/`NO_DISTRITO`/`LATITUDE`/`LONGITUDE` nativos do Censo Escolar.
+
+Revisão 24/07 (pedido do Gui, 3 itens):
+1. "pode aplicar os bairros" — corrige as mesmas variantes de grafia do RJ
+   já achadas no passo 15 (RECREIO, IRAJÁ, BARRA OLÍMPICA, FREGUESIA), que
+   até agora só valiam pro passo 15/17, não pra este dataset principal.
+2. "renda do bairro, tipo 'High Ticket'/'renda alta >5SM'" — reusa a mesma
+   lógica de match do passo 17 (bairro quando o IBGE tem, distrito como
+   fallback) pra trazer `renda_mediana_responsavel` + uma categoria legível
+   (`renda_categoria`). Faixas definidas a partir da distribuição REAL dos
+   dados (não um número arbitrário): quartis de renda mediana entre as
+   ~2.200 regiões nacionais já casadas no passo 17 — Q1≈1.724, mediana≈2.300,
+   Q3≈3.001, P90≈5.000. Por isso: Baixa (<1.800) / Média (1.800-2.999) /
+   Média-Alta (3.000-4.999) / Alta (≥5.000).
+3. "sistema de ensino ao lado" — junta com
+   `19_sistema_ensino_identificado.csv` (passo 19, pesquisa manual em
+   andamento); escolas ainda não pesquisadas ficam "Não pesquisado ainda"
+   (não fica em branco escondido — deixa explícito que falta pesquisar).
 
 Modelo sugerido (ver POWER_BI_GUIA.md):
 - `14_escolas_powerbi.csv` (fato): 1 linha por Golden Lead.
@@ -23,13 +36,11 @@ Relacionamento: `codigo_municipio` (N:1, escolas → cidades).
 
 Gera: data/outputs/14_escolas_powerbi.csv, data/outputs/14_cidades_powerbi.csv
 
-Formato do CSV: separador ';' e decimal ',' (padrão brasileiro), não o padrão
-internacional do pandas ('.' decimal). Isso é de propósito — o Power BI
-Desktop instalado com localidade Português (Brasil) auto-detecta esse
-formato ao importar, sem exigir o passo manual de "Alterar Tipo com
-Localidade" no Power Query pra cada coluna decimal.
+Formato do CSV: separador ';' e decimal ',' (padrão brasileiro).
 """
 
+import difflib
+import unicodedata
 from pathlib import Path
 
 import pandas as pd
@@ -37,31 +48,137 @@ import pandas as pd
 RAW_DIR = Path("data/raw")
 OUT_DIR = Path("data/outputs")
 
+LIMIAR_FUZZY = 0.90
+
+# Mesma correção de grafia do RJ já usada no passo 15/17 — ver lá pro
+# raciocínio completo (NO_BAIRRO auto-declarado, mesmo bairro grafado de
+# formas diferentes por escolas diferentes).
+CORRECOES_BAIRRO_RJ = {
+    "RECREIO": "RECREIO DOS BANDEIRANTES",
+    "IRAJA": "IRAJÁ",
+    "IRAJ": "IRAJÁ",
+    "BARRA OLIMPICA": "BARRA DA TIJUCA",
+    "BARRA OLÍMPICA": "BARRA DA TIJUCA",
+    "FREGUESIA (JACAREPAGUA)": "FREGUESIA (JACAREPAGUÁ)",
+    "FREGUESIA JACAREPAGU": "FREGUESIA (JACAREPAGUÁ)",
+    "FREGUESIA": "FREGUESIA (JACAREPAGUÁ)",
+}
+
+
+def normalizar_nome(nome) -> str:
+    if pd.isna(nome):
+        return nome
+    sem_acento = unicodedata.normalize("NFKD", str(nome)).encode("ascii", "ignore").decode("ascii")
+    return sem_acento.strip().upper()
+
+
+def categorizar_renda(valor) -> str:
+    """Faixa legível a partir da renda mediana do responsável (ver docstring pra origem dos cortes)."""
+    if pd.isna(valor):
+        return "Sem dado"
+    if valor >= 5000:
+        return "Alta (≥ R$ 5.000)"
+    if valor >= 3000:
+        return "Média-Alta (R$ 3.000-4.999)"
+    if valor >= 1800:
+        return "Média (R$ 1.800-2.999)"
+    return "Baixa (< R$ 1.800)"
+
+
+def carregar_renda_ibge() -> tuple[pd.DataFrame, pd.DataFrame, set]:
+    renda_b = pd.read_csv(RAW_DIR / "renda_bairro_2022.csv", sep=";", encoding="latin-1")
+    renda_b["CD_BAIRRO"] = renda_b["CD_BAIRRO"].astype(str)
+    renda_b["codigo_municipio"] = renda_b["CD_BAIRRO"].str[:7]
+    renda_b["nome_norm"] = renda_b["NM_BAIRRO"].apply(normalizar_nome)
+
+    renda_d = pd.read_csv(RAW_DIR / "renda_distrito_2022.csv", sep=";", encoding="latin-1")
+    renda_d["CD_DIST"] = renda_d["CD_DIST"].astype(str)
+    renda_d["codigo_municipio"] = renda_d["CD_DIST"].str[:7]
+    renda_d["nome_norm"] = renda_d["NM_DIST"].apply(normalizar_nome)
+
+    for df in (renda_b, renda_d):
+        df["V06006"] = df["V06006"].astype(str).str.replace(",", ".").astype(float)
+        df.rename(columns={"V06006": "renda_mediana_responsavel"}, inplace=True)
+
+    cidades_com_bairro_ibge = set(renda_b["codigo_municipio"].unique())
+    return renda_b, renda_d, cidades_com_bairro_ibge
+
+
+def _buscar(chave, renda_mun) -> "float | None":
+    """Match exato -> fuzzy (limiar 0.90) contra uma tabela de renda já filtrada por município."""
+    if renda_mun is None or pd.isna(chave):
+        return None
+    exato = renda_mun[renda_mun["nome_norm"] == chave]
+    if len(exato):
+        return exato.iloc[0]["renda_mediana_responsavel"]
+    candidatos = difflib.get_close_matches(chave, renda_mun["nome_norm"].tolist(), n=1, cutoff=LIMIAR_FUZZY)
+    if candidatos:
+        return renda_mun[renda_mun["nome_norm"] == candidatos[0]].iloc[0]["renda_mediana_responsavel"]
+    return None
+
+
+def casar_renda_por_escola(escolas: pd.DataFrame, renda_b, renda_d, cidades_com_bairro_ibge) -> pd.Series:
+    """Tenta bairro primeiro (mais fino); se não achar (nome não bate — ex.: Ribeirão Preto, onde o
+    IBGE cadastra 'Setor Central'/'Subsetor Norte' em vez de bairro popular), cai pra distrito. Corrigido
+    24/07 — a primeira versão só caía pra distrito quando a CIDADE inteira não tinha bairro no IBGE, não
+    quando o bairro específico da escola não batia dentro de uma cidade que tem outros bairros cadastrados."""
+    renda_b_por_mun = {cod: g for cod, g in renda_b.groupby("codigo_municipio")}
+    renda_d_por_mun = {cod: g for cod, g in renda_d.groupby("codigo_municipio")}
+
+    valores = []
+    for _, row in escolas.iterrows():
+        cod_mun = str(row["codigo_municipio"])
+        valor = None
+        if cod_mun in cidades_com_bairro_ibge:
+            valor = _buscar(row["bairro_norm"], renda_b_por_mun.get(cod_mun))
+        if valor is None:
+            valor = _buscar(row["distrito_norm"], renda_d_por_mun.get(cod_mun))
+        valores.append(valor)
+
+    return pd.Series(valores, index=escolas.index)
+
 
 def montar_tabela_escolas() -> pd.DataFrame:
-    """Golden Leads + nome/UF da cidade + bairro/distrito/lat-long nativos do Censo."""
-    golden = pd.read_csv(OUT_DIR / "04_golden_leads_segmentadas.csv")
-    cidades = pd.read_csv(OUT_DIR / "01_cidades_prioritarias.csv")[
+    """Golden Leads + cidade + bairro corrigido + renda + sistema de ensino identificado."""
+    golden = pd.read_csv(OUT_DIR / "04_golden_leads_segmentadas.csv", dtype={"codigo_escola": str, "codigo_municipio": str})
+    cidades = pd.read_csv(OUT_DIR / "01_cidades_prioritarias.csv", dtype={"codigo_municipio": str})[
         ["codigo_municipio", "nome_municipio_ibge", "uf", "score_priorizacao"]
     ]
-    geo = pd.read_csv(RAW_DIR / "escolas_com_endereco.csv")[
-        ["CO_ENTIDADE", "NO_BAIRRO", "NO_DISTRITO", "LATITUDE", "LONGITUDE", "CO_CEP"]
+    geo = pd.read_csv(RAW_DIR / "escolas_com_endereco.csv", dtype={"codigo_municipio": str, "CO_ENTIDADE": str})[
+        ["CO_ENTIDADE", "codigo_municipio", "NO_BAIRRO", "NO_DISTRITO", "LATITUDE", "LONGITUDE", "CO_CEP"]
     ].rename(columns={"CO_ENTIDADE": "codigo_escola"})
+    geo = geo.drop(columns=["codigo_municipio"])  # já vem de golden, evita duplicar/conflitar
 
     escolas = golden.merge(cidades, on="codigo_municipio", how="left")
     escolas = escolas.merge(geo, on="codigo_escola", how="left")
     escolas = escolas.rename(
-        columns={
-            "nome_municipio_ibge": "cidade",
-            "uf": "UF",
-            "score_priorizacao": "score_priorizacao_cidade",
-            "NO_BAIRRO": "bairro",
-            "NO_DISTRITO": "distrito",
-            "CO_CEP": "cep",
-        }
+        columns={"nome_municipio_ibge": "cidade", "uf": "UF", "score_priorizacao": "score_priorizacao_cidade",
+                 "NO_DISTRITO": "distrito", "CO_CEP": "cep"}
     )
-    # Int64 nullable (não float) — evita "52060460,0" no CSV pros CEPs em branco.
+
+    # 1. Corrige as variantes de grafia conhecidas do RJ (só afeta RJ; resto passa direto).
+    escolas["bairro"] = escolas["NO_BAIRRO"].replace(CORRECOES_BAIRRO_RJ)
+    escolas = escolas.drop(columns=["NO_BAIRRO"])
     escolas["cep"] = escolas["cep"].astype("Int64")
+
+    # 2. Renda por bairro/distrito (IBGE Censo 2022).
+    escolas["bairro_norm"] = escolas["bairro"].apply(normalizar_nome)
+    escolas["distrito_norm"] = escolas["distrito"].apply(normalizar_nome)
+    renda_b, renda_d, cidades_com_bairro_ibge = carregar_renda_ibge()
+    escolas["renda_mediana_responsavel"] = casar_renda_por_escola(escolas, renda_b, renda_d, cidades_com_bairro_ibge)
+    escolas["renda_categoria"] = escolas["renda_mediana_responsavel"].apply(categorizar_renda)
+    escolas = escolas.drop(columns=["bairro_norm", "distrito_norm"])
+
+    # 3. Sistema de ensino identificado (passo 19, pesquisa manual em andamento).
+    sistema_path = OUT_DIR / "19_sistema_ensino_identificado.csv"
+    if sistema_path.exists():
+        sistema = pd.read_csv(sistema_path, sep=";", decimal=",", dtype={"codigo_escola": str})[
+            ["codigo_escola", "sistema_ensino_identificado", "confianca"]
+        ]
+        escolas = escolas.merge(sistema, on="codigo_escola", how="left")
+        escolas["sistema_ensino_identificado"] = escolas["sistema_ensino_identificado"].fillna("Não pesquisado ainda")
+        escolas["confianca"] = escolas["confianca"].fillna("nao_pesquisado")
+
     return escolas
 
 
@@ -79,10 +196,13 @@ def exibir_resumo(escolas: pd.DataFrame, cidades: pd.DataFrame) -> None:
     print(f"[Sanity check] Escolas: {len(escolas):,} | Cidades: {len(cidades):,}")
     print(f"[Sanity check] Escolas com bairro: {escolas['bairro'].notna().sum():,} "
           f"({escolas['bairro'].notna().mean() * 100:.1f}%)")
-    print(f"[Sanity check] Escolas com distrito: {escolas['distrito'].notna().sum():,} "
-          f"({escolas['distrito'].notna().mean() * 100:.1f}%)")
-    print(f"[Sanity check] Escolas com lat/long: {escolas['LATITUDE'].notna().sum():,} "
-          f"({escolas['LATITUDE'].notna().mean() * 100:.1f}%)")
+    print(f"[Sanity check] Escolas com renda encontrada: {escolas['renda_mediana_responsavel'].notna().sum():,} "
+          f"({escolas['renda_mediana_responsavel'].notna().mean() * 100:.1f}%)")
+    print(f"[Sanity check] Distribuição renda_categoria:\n{escolas['renda_categoria'].value_counts()}")
+    if "sistema_ensino_identificado" in escolas.columns:
+        pesquisadas = (escolas["sistema_ensino_identificado"] != "Não pesquisado ainda").sum()
+        print(f"[Sanity check] Escolas com sistema de ensino pesquisado: {pesquisadas:,} "
+              f"({pesquisadas / len(escolas) * 100:.1f}%)")
     print(f"[Sanity check] Segmentos: {escolas['segmento_comercial'].value_counts().to_dict()}")
 
 
@@ -90,8 +210,6 @@ def main():
     escolas = montar_tabela_escolas()
     cidades = montar_tabela_cidades()
     exibir_resumo(escolas, cidades)
-    # sep=';' e decimal=',' — formato brasileiro, pro Power BI Desktop
-    # (localidade pt-BR) reconhecer os decimais automaticamente na importação.
     escolas.to_csv(OUT_DIR / "14_escolas_powerbi.csv", index=False, sep=";", decimal=",")
     cidades.to_csv(OUT_DIR / "14_cidades_powerbi.csv", index=False, sep=";", decimal=",")
     print(f"[✓] Salvo em {OUT_DIR / '14_escolas_powerbi.csv'} e {OUT_DIR / '14_cidades_powerbi.csv'}")
