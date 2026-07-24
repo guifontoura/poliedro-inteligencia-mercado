@@ -49,7 +49,7 @@ REGISTROS = {
     "33135371": ("não identificado", "provavel_proprio", "Colégio Cruzeiro (Jacarepaguá) — escola alemã (Deutsche Schule), pedagogia própria, sem menção a sistema de terceiros"),
     "35103524": ("não identificado", "provavel_proprio", "Dante Alighieri — currículo ítalo-brasileiro reconhecido pelo governo italiano, material próprio"),
     "33062633": ("não identificado", "provavel_proprio", "Colégio de São Bento (RJ) — tradição beneditina de 163 anos, sem menção a sistema de terceiros"),
-    "35399197": ("Sistema Objetivo", "confirmado", "Objetivo Colégio Integrado — usa Coleção Didática do Sistema Objetivo (concorrente direto)"),
+    "35399197": ("Sistema Objetivo (Grupo Objetivo/UNIP, independente)", "confirmado", "Objetivo Colégio Integrado — usa Coleção Didática do Sistema Objetivo (concorrente direto)"),
     "33104220": ("não identificado", "nao_identificado", "Recanto Inf. Imaculada Conceição — busca não trouxe menção a sistema de ensino"),
     "33100713": ("não identificado", "nao_identificado", "Colégio Saint John (Barra da Tijuca) — busca não trouxe menção a sistema de ensino"),
     "35143406": ("não identificado", "nao_identificado", "Augusto Laranja (Moema) — parceria Cambridge International, mas sem menção a sistema de ensino nacional"),
@@ -57,8 +57,8 @@ REGISTROS = {
     "35105314": ("não identificado", "provavel_proprio", "Colégio Franciscano Pio XII — confessional franciscano, bilíngue Cambridge, sem menção a sistema de terceiros"),
     # Segunda leva (24/07 à noite) — usando operadores de busca sugeridos pelo Gui
     # ("nome da escola" "sistema de ensino" OR "material didático").
-    "33077029": ("Sistema SAS", "confirmado", "Colégio Bahiense (Barra da Tijuca) — material \"SAS Bahiense\", confirma uso do Sistema SAS"),
-    "35107190": ("Sistema Anglo", "confirmado", "Colégio Nossa Senhora do Rosário (SP) — usa Sistema Anglo de Ensino no Ensino Médio"),
+    "33077029": ("Sistema SAS (Grupo Arco Educação)", "confirmado", "Colégio Bahiense (Barra da Tijuca) — material \"SAS Bahiense\", confirma uso do Sistema SAS"),
+    "35107190": ("Sistema Anglo (Grupo Cogna)", "confirmado", "Colégio Nossa Senhora do Rosário (SP) — usa Sistema Anglo de Ensino no Ensino Médio; Cogna lista o Anglo como marca própria no site institucional (kroton.com.br/nossas-marcas)"),
     "33160830": ("não identificado", "provavel_proprio", "Marista São José Barra — rede confessional marista, material institucional próprio da rede"),
     "33063419": ("não identificado", "provavel_proprio", "Colégio Franco Brasileiro — modelo bilíngue franco-brasileiro, currículo próprio + parceria Ontario Virtual School"),
     "33075425": ("não identificado", "nao_identificado", "Colégio Pentágono — menciona \"sistema\" conectando 210 mil alunos no Brasil, mas não nomeia a marca; precisa verificar melhor"),
@@ -67,27 +67,34 @@ REGISTROS = {
     "33065837": ("não identificado", "provavel_proprio", "Escola Parque (Gávea) — pedagogia construtivista/por projetos, tradição própria de 55 anos"),
     "33064040": ("não identificado", "provavel_proprio", "Escola Israelita Brasileira Eliezer Steinbarg Max Nordau — escola comunitária judaica, identidade própria"),
     # Terceira leva (24/07, batch nas Golden Leads de maior score_destaque ainda sem registro).
-    "53020570": ("não identificado", "nao_identificado", "Colégio Pódion (Brasília) — descrição institucional só fala de 'programa de ensino desafiador' próprio, sem citar material de terceiros"),
     "31004651": ("não identificado", "provavel_proprio", "Colégio Santo Agostinho (BH) — confessional agostiniano, Microsoft Showcase School é certificação de tecnologia, não sistema didático de terceiros"),
-    "25097539": ("não identificado", "nao_identificado", "Colégio e Curso Evolução (João Pessoa) — só cita 'material didático atualizado do mercado', sem nomear marca"),
-    "23246871": ("Sistema SAS", "confirmado", "Ari de Sá Cavalcante - Mário Mamede (Fortaleza) — usa SAS (Sistema Ari de Sá), marca criada pela PRÓPRIA rede Ari de Sá e hoje vendida a +12mil escolas via Arco Educação; concorrente, mas a rede não compraria de fora"),
-    "23245573": ("Sistema Eleva", "confirmado", "Master Colégio (Fortaleza) — usa material Eleva (Portal do Aluno, conteúdo interdisciplinar)"),
+    "23246871": ("Sistema SAS (Grupo Arco Educação)", "confirmado", "Ari de Sá Cavalcante - Mário Mamede (Fortaleza) — usa SAS (Sistema Ari de Sá), marca criada pela PRÓPRIA rede Ari de Sá e hoje operada pelo Grupo Arco Educação (junto com pH/Plataforma COC/Geekie), vendida a +1.200 escolas; concorrente, mas a rede não compraria de fora"),
+    "23245573": ("Sistema Eleva (Grupo Eleva Educação)", "confirmado", "Master Colégio (Fortaleza) — usa material Eleva (Portal do Aluno, conteúdo interdisciplinar)"),
     "27220885": ("Sistema Poliedro", "confirmado", "Colégio Contato (Maceió) — ATENÇÃO: site do próprio colégio se declara 'parceiro exclusivo em Alagoas do Sistema de Ensino Poliedro'. Já é rede Poliedro sob outra marca — não passou pelo filtro de exclusão do passo 09 (que só olha 'POLIEDRO' no nome oficial do Censo). Ver observação abaixo do dict."),
     "26189569": ("não identificado", "provavel_proprio", "Colégio Cognitivo (Recife, unidade Casa Forte) — material 'fundamentado em livros didáticos' escolhido pela própria equipe de professores, sem sistema de terceiros citado"),
     "26534711": ("não identificado", "provavel_proprio", "Colégio Cognitivo (Recife, unidade Boa Viagem) — mesma rede/material da unidade Casa Forte"),
-    "26118165": ("Sistema Equipe", "confirmado", "Colégio Equipe (Recife) — Sistema de Ensino Equipe, com editora própria (marca própria da rede, vendida a outras escolas do Norte/Nordeste)"),
-    "23272430": ("Sistema SAS", "confirmado", "Ari de Sá Cavalcante - Aldeota (Fortaleza) — mesma rede/material SAS da unidade Mário Mamede"),
-    "35805555": ("Sistema Pitágoras", "confirmado", "Colégio Embraer Juarez Wanderley (São José dos Campos) — gerido pelo Sistema Pitágoras de Ensino (Kroton) via Instituto Embraer; ATENÇÃO: escola de bolsa integral (~80% bolsistas), não é comprador comercial típico"),
-    "32041152": ("Sistema Eleva", "confirmado", "Escola São Domingos (Vitória) — material Eleva citado em contrato público (4 volumes), ao lado de Edify (bilíngue) e Escola da Inteligência; confiança média-alta, fonte é documento contratual, não o site oficial"),
-    "15168344": ("Sistema Equipe", "confirmado", "Colégio Equipe Cristal (Belém) — unidade da rede Sistema de Ensino Equipe, mesma marca própria da unidade de Recife"),
+    "26118165": ("Sistema Equipe (Grupo Equipe, independente/regional Norte-Nordeste)", "confirmado", "Colégio Equipe (Recife) — Sistema de Ensino Equipe, com editora própria (marca própria da rede, vendida a outras escolas do Norte/Nordeste)"),
+    "23272430": ("Sistema SAS (Grupo Arco Educação)", "confirmado", "Ari de Sá Cavalcante - Aldeota (Fortaleza) — mesma rede/material SAS da unidade Mário Mamede"),
+    "35805555": ("Sistema Pitágoras (Grupo Cogna)", "confirmado", "Colégio Embraer Juarez Wanderley (São José dos Campos) — gerido pelo Sistema Pitágoras de Ensino (Grupo Cogna, fundado a partir do próprio Pitágoras em 1966) via Instituto Embraer; ATENÇÃO: escola de bolsa integral (~80% bolsistas), não é comprador comercial típico"),
+    "32041152": ("Sistema Eleva (Grupo Eleva Educação)", "confirmado", "Escola São Domingos (Vitória) — material Eleva citado em contrato público (4 volumes), ao lado de Edify (bilíngue) e Escola da Inteligência; confiança média-alta, fonte é documento contratual, não o site oficial"),
+    "15168344": ("Sistema Equipe (Grupo Equipe, independente/regional Norte-Nordeste)", "confirmado", "Colégio Equipe Cristal (Belém) — unidade da rede Sistema de Ensino Equipe, mesma marca própria da unidade de Recife"),
     "31333921": ("não identificado", "provavel_proprio", "Colégio Santo Agostinho (Nova Lima) — mesma rede confessional da unidade BH, sem sistema de terceiros citado"),
-    "24057169": ("Sistema SAS", "confirmado", "FACEX (Natal) — corrigido pelo Gui (24/07), achado via busca direta no Google que a minha busca não trouxe: usa Sistema SAS de Ensino"),
-    # Correções do Gui (24/07) — casos que a minha busca via API não achou mas ele achou rápido no Google
-    # direto. Ver conversa: provável causa é que a API de busca não indexa/prioriza páginas específicas
-    # (ex. vídeo institucional "SAS Educação + Colégio Pódion", ou página de resultado que só aparece em
-    # busca normal do Google) do jeito que a busca nativa do Google faz.
-    "53020570": ("Sistema SAS", "confirmado", "Colégio Pódion (Brasília) — corrigido pelo Gui: usa Sistema SAS de Ensino (confirmado via vídeo institucional 'SAS Educação + Colégio Pódion')"),
-    "25097539": ("Sistema Bernoulli", "confirmado", "Colégio e Curso Evolução (João Pessoa) — corrigido pelo Gui: usa Sistema Bernoulli de Ensino"),
+    # Correções do Gui (24/07) — casos que a minha busca via API (WebSearch) não achou mas ele achou rápido
+    # no Google direto. Re-verifiquei via Claude in Chrome (navegador real, 24/07 à noite) e confirmei os
+    # dois — a hipótese de que a API de busca não indexa/prioriza páginas específicas (vídeo institucional,
+    # posts de Instagram) do jeito que o Google nativo faz parece correta: com o navegador de verdade,
+    # encontrei a mesma informação sem dificuldade.
+    "53020570": ("Sistema SAS (Grupo Arco Educação)", "confirmado", "Colégio Pódion (Brasília) — corrigido pelo Gui: usa Sistema SAS de Ensino (confirmado via vídeo institucional 'SAS Educação + Colégio Pódion')"),
+    "25097539": ("Sistema Bernoulli (Grupo Bernoulli Educação, independente)", "confirmado", "Colégio e Curso Evolução (João Pessoa) — corrigido pelo Gui: usa Sistema Bernoulli de Ensino"),
+    "24057169": ("Sistema SAS (Grupo Arco Educação)", "confirmado", "FACEX (Natal) — corrigido pelo Gui (24/07): usa Sistema SAS de Ensino"),
+    # Quarta leva (24/07 à noite, já usando Claude in Chrome — navegador real, não a API de busca).
+    "31006394": ("Sistema Marista (produzido pela Editora FTD, exclusivo da Rede Marista)", "confirmado", "Colégio Marista Dom Silvério (BH) — usa o Sistema Marista de Educação (SME), material produzido pela FTD só pra rede Marista, não vendido a escolas de fora"),
+    "24057134": ("Sistema Marista (produzido pela Editora FTD, exclusivo da Rede Marista)", "confirmado", "Colégio Marista de Natal — mesmo SME (Sistema Marista de Educação) da unidade de BH"),
+    "31004031": ("Sistema FTD", "confirmado", "Colégio Santa Marcelina (BH) — lista de material 2026 do próprio colégio cita \"FTD Sistema de Ensino\" para pelo menos parte do currículo (1ª série EM)"),
+    "33063729": ("Sistema FTD", "confirmado", "Colégio Santo Inácio (RJ, Rede Jesuíta) — achado PDF de lista de material citando \"Sistema de Ensino – Editora FTD\"; confiança média (o PDF veio de um domínio santoinacio.com.br genérico, pode ser de outra unidade jesuíta com o mesmo nome, não 100% certo que é a unidade do Rio especificamente)"),
+    "33057109": ("não identificado", "nao_identificado", "Colégio La Salle Abel (Santos) — a Rede La Salle em geral usa 'Itinerários Formativos' próprios + Sistema COC em pelo menos uma unidade (Botucatu), mas não achei confirmação específica pra unidade Abel/Santos"),
+    "33063656": ("não identificado", "nao_identificado", "Associação do Colégio Nossa Senhora de Sion (RJ) — usa metodologia Montessori e material próprio \"Território da Leitura\", sem sistema de terceiros nomeado; ATENÇÃO: uma unidade Sion diferente (Vila Maria, provavelmente SP) foi mencionada usando Sistema Poliedro num post — não se aplica a esta unidade específica do RJ"),
+    "22025740": ("não identificado", "nao_identificado", "Instituto Dom Barreto (Teresina, unidade Centro) — busca não trouxe o nome de um sistema de terceiros; escola tradicional grande o bastante pra ter perfil de material próprio, não confirmado"),
     # Rede própria Poliedro (achado 24/07 via nome no Censo, ver poliedro_09) — passou a ficar VISÍVEL nos
     # Golden Leads em vez de excluída (pedido do Gui). Sistema de ensino é óbvio pelo próprio nome, não
     # precisou de pesquisa: são literalmente unidades/franquia Poliedro.

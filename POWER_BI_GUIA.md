@@ -248,11 +248,13 @@ como RA no RJ, `sistema_ensino_identificado`, `rede_propria_poliedro`, ou o
    **a) No MODELO** (afeta todos os visuais que usarem a coluna, é o
    padrão): clique na aba **Modelagem** (barra superior) → no painel
    **Dados** (direita), clique na tabela `14_escolas_powerbi` pra expandir
-   e clique no campo `score_destaque` (isso muda a faixa/ribbon de cima pra
-   "Ferramentas de Coluna"). Nessa nova faixa, grupo **Formatação**, tem um
-   dropdown de tipo (deve estar em "Número" ou "Decimal Fixo") e, do lado,
-   dois ícones pequenos com `.0→.00` (aumentar/diminuir casas decimais) —
-   clique no de aumentar até chegar em 3.
+   e clique no campo **`score_destaque`** — atenção pra selecionar essa
+   coluna específica, não `renda_mediana_responsavel` por engano (isso
+   muda a faixa/ribbon de cima pra "Ferramentas de Coluna"). Nessa faixa:
+   campo **Formato** (mostra "Geral" por padrão) → troque pra **"Número
+   Decimal Fixo"** — só depois disso o controle **Casas decimais** (que
+   mostra "Auto") fica editável; clique na seta pra cima até chegar em 3,
+   ou digite 3 direto no campo.
 
    **b) No VISUAL específico** (sobrescreve o modelo SÓ nesse gráfico/
    tabela — é provavelmente o seu caso, já que você viu 2 casas numa tabela
@@ -282,7 +284,7 @@ específica de quem for usar:
 | 4 | `segmento_comercial` | A tese comercial em 1 palavra: Líder local, Desafiante, Outras posições — decide a ABORDAGEM de venda, não só o "quão boa é a escola". |
 | 5 | `score_destaque` | O número que resume tudo (ENEM+infra+seletividade+inclusão) — ordenação padrão da tabela. |
 | 6 | `bairro` | Granularidade fina pra quem já conhece a cidade (SP/RJ principalmente). |
-| 7 | `renda_categoria` | Sinaliza poder de compra da região sem precisar decorar faixa de R$ — "Alta"/"Média" já fala por si. |
+| 7 | `renda_mediana_responsavel` | **Atualizado 24/07 (concordo com o Gui)**: mais preciso que `renda_categoria` — a categoria agrupa em 4 faixas largas (ex. R$ 5.001 e R$ 10.001 caem os dois em "Alta", perdendo a diferença real). O número bruto discrimina melhor entre bairros que a categoria empata. Formate como Moeda (R$) na coluna pra ficar legível sem casas decimais desnecessárias. `renda_categoria` continua útil como filtro/slicer rápido ou cor condicional, só não como coluna fixa da tabela executiva. |
 | 8 | `sistema_ensino_identificado` | A pergunta mais prática pro time comercial: "essa escola já usa concorrente, é livre, ou já é nossa?" — literalmente decide se vale ligar. |
 | 9 | `rede_propria_poliedro` | Flag booleana rápida pra não ligar acidentalmente pra uma unidade que já é Poliedro — mais direto que ler o texto de `sistema_ensino_identificado`. |
 
