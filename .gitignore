@@ -16,3 +16,7 @@ data/raw/*.xlsx
 
 # Artefatos do exercício anterior, não relacionados a este case
 mercado_educacional_local.db
+
+# Chaves de API — NUNCA versionar (Serper, etc.)
+.env
+data/raw/.serper_key
