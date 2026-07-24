@@ -16,18 +16,19 @@ nada — é um registro (memória de projeto) que cresce a cada pesquisa,
 igual um cache manual. Sempre que uma nova escola for pesquisada, adicione
 uma linha em `REGISTROS` abaixo e rode de novo.
 
-Achado importante da primeira leva (10 escolas pesquisadas, SP/RJ, líderes
-e desafiantes de maior score): taxa de "achado" é baixa — só 1 das 10 usa um
-sistema identificável publicamente (Objetivo, um concorrente direto). As
-outras 9 são majoritariamente escolas tradicionais/confessionais antigas
-(Beneditina, alemã, italiana, franciscana) que não divulgam publicamente
-usar sistema de terceiros — provavelmente têm apostila/material próprio,
-mas isso é inferência, não confirmação. Sinal pro Gui: pesquisa via busca
-pública tem retorno baixo pra esse tipo de escola tradicional; pode valer
-mais a pena focar esse esforço manual no segmento "Desafiante" de escolas
-MENOS tradicionais (fundadas mais recentemente, sem "Colégio + sobrenome
-de família/santo" no nome) — essas tendem a divulgar mais o sistema que
-usam como diferencial de marketing.
+Achado da 1ª leva (10 escolas, busca genérica): taxa de confirmação baixa —
+só 1 de 10 (Objetivo Colégio Integrado, concorrente direto).
+
+Achado da 2ª leva (24/07 à noite, mais 8 escolas — desta vez usando os
+operadores de busca `"nome da escola" "sistema de ensino" OR "material
+didático"` sugeridos pelo Gui): taxa de confirmação melhorou bastante — 2 de
+8 (Bahiense usa SAS, Nossa Senhora do Rosário usa Anglo, ambos concorrentes
+diretos). O operador de busca importa: frases exatas entre aspas acham a
+página certa do site da escola com muito mais precisão que busca livre.
+Segue valendo o padrão: escolas tradicionais/confessionais/bilíngues com
+identidade de marca forte (Marista, Franco-Brasileiro, Alfa Cem, Escola
+Parque, Israelita) não usam sistema de terceiros — moldam a intuição
+inicial de que esse perfil de escola é prospect mais difícil.
 
 Gera: data/outputs/19_sistema_ensino_identificado.csv
 """
@@ -54,6 +55,17 @@ REGISTROS = {
     "35143406": ("não identificado", "nao_identificado", "Augusto Laranja (Moema) — parceria Cambridge International, mas sem menção a sistema de ensino nacional"),
     "35165347": ("não identificado", "nao_identificado", "Mobile Colégio — busca não retornou informação suficiente"),
     "35105314": ("não identificado", "provavel_proprio", "Colégio Franciscano Pio XII — confessional franciscano, bilíngue Cambridge, sem menção a sistema de terceiros"),
+    # Segunda leva (24/07 à noite) — usando operadores de busca sugeridos pelo Gui
+    # ("nome da escola" "sistema de ensino" OR "material didático").
+    "33077029": ("Sistema SAS", "confirmado", "Colégio Bahiense (Barra da Tijuca) — material \"SAS Bahiense\", confirma uso do Sistema SAS"),
+    "35107190": ("Sistema Anglo", "confirmado", "Colégio Nossa Senhora do Rosário (SP) — usa Sistema Anglo de Ensino no Ensino Médio"),
+    "33160830": ("não identificado", "provavel_proprio", "Marista São José Barra — rede confessional marista, material institucional próprio da rede"),
+    "33063419": ("não identificado", "provavel_proprio", "Colégio Franco Brasileiro — modelo bilíngue franco-brasileiro, currículo próprio + parceria Ontario Virtual School"),
+    "33075425": ("não identificado", "nao_identificado", "Colégio Pentágono — menciona \"sistema\" conectando 210 mil alunos no Brasil, mas não nomeia a marca; precisa verificar melhor"),
+    "33188092": ("não identificado", "provavel_proprio", "Colégio Alfa Cem Bilíngue — método fonético e material próprios, parceria Cambridge pro inglês"),
+    "33184739": ("não identificado", "provavel_proprio", "Colégio Alfa Cem Bilíngue (2ª unidade) — mesma rede, método próprio"),
+    "33065837": ("não identificado", "provavel_proprio", "Escola Parque (Gávea) — pedagogia construtivista/por projetos, tradição própria de 55 anos"),
+    "33064040": ("não identificado", "provavel_proprio", "Escola Israelita Brasileira Eliezer Steinbarg Max Nordau — escola comunitária judaica, identidade própria"),
 }
 
 
