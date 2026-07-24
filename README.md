@@ -53,6 +53,8 @@ python poliedro_14_consolidar_dataset_powerbi.py # roadmap 2.0 — consolida esc
 python poliedro_15_regioes_sp_rj.py          # bônus — detalhamento por região (distrito em SP, bairro no RJ), pedido em entrevista
 python poliedro_16_renda_bairro_distrito.py  # bônus — renda do responsável (IBGE Censo 2022) cruzada com ENEM/leads, SP e RJ
 python poliedro_17_regioes_nacional_renda.py # bônus — mesmo cruzamento, escalado pras 318 cidades (81% de match)
+python poliedro_18_risco_canibalizacao.py    # bônus — distância entre Golden Leads e unidades próprias do Poliedro
+python poliedro_19_sistema_ensino_identificado.py # bônus — registro manual (crescente) de qual sistema cada lead já usa
 
 npm install               # instala pptxgenjs (Node.js)
 node gerar_apresentacao.js  # monta Poliedro_Apresentacao_Completa.pptx a partir dos gráficos acima
