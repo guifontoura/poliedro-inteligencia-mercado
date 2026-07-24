@@ -219,6 +219,18 @@ def montar_tabela_escolas() -> pd.DataFrame:
         escolas["sistema_ensino_identificado"] = escolas["sistema_ensino_identificado"].fillna("Não pesquisado ainda")
         escolas["confianca"] = escolas["confianca"].fillna("nao_pesquisado")
 
+        # Pedido do Gui (24/07): mapear TODOS os clientes Poliedro já existentes é um dos
+        # grandes achados dessa pesquisa — mas `rede_propria_poliedro` (passo 09) só pega quem
+        # tem "POLIEDRO" no nome oficial do Censo. Casos como Contato (Maceió) e Bosque
+        # Mananciais (Curitiba) são clientes Poliedro sob OUTRA marca, só descobertos pela
+        # pesquisa manual do passo 19 — essa coluna junta as duas fontes num filtro único,
+        # fácil de usar no Power BI pra localizar todos de uma vez (nome no Censo OU achado
+        # de pesquisa).
+        escolas["ja_cliente_poliedro_qualquer_marca"] = (
+            escolas["rede_propria_poliedro"].fillna(False)
+            | escolas["sistema_ensino_identificado"].str.contains("Poliedro", na=False)
+        )
+
     return escolas
 
 
