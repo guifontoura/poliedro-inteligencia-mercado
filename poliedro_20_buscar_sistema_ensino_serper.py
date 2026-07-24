@@ -95,19 +95,29 @@ async def buscar_uma_escola(cliente: httpx.AsyncClient, chave: str, codigo: str,
 
     query = montar_query(nome, cidade if pd.notna(cidade) else "")
     async with semaforo:
-        try:
-            resposta = await cliente.post(
-                "https://google.serper.dev/search",
-                headers={"X-API-KEY": chave, "Content-Type": "application/json"},
-                json={"q": query, "gl": "br", "hl": "pt-br", "num": 5},
-                timeout=TIMEOUT_SEGUNDOS,
-            )
-            resposta.raise_for_status()
-            dados = resposta.json()
-        except httpx.HTTPStatusError as erro:
-            dados = {"erro": f"HTTP {erro.response.status_code}: {erro.response.text[:200]}"}
-        except Exception as erro:  # noqa: BLE001 — queremos capturar qualquer falha de rede/timeout aqui
-            dados = {"erro": f"{type(erro).__name__}: {erro}"}
+        dados = None
+        # Falha de rede transitória (timeout, conexão resetada) é comum em lotes grandes —
+        # tenta até 3 vezes com espera crescente antes de desistir e registrar o erro de vez.
+        for tentativa in range(3):
+            try:
+                resposta = await cliente.post(
+                    "https://google.serper.dev/search",
+                    headers={"X-API-KEY": chave, "Content-Type": "application/json"},
+                    json={"q": query, "gl": "br", "hl": "pt-br", "num": 5},
+                    timeout=TIMEOUT_SEGUNDOS,
+                )
+                resposta.raise_for_status()
+                dados = resposta.json()
+                break
+            except httpx.HTTPStatusError as erro:
+                # Erro do próprio Serper (ex.: chave inválida, cota estourada) — não adianta
+                # tentar de novo, é sempre a mesma resposta.
+                dados = {"erro": f"HTTP {erro.response.status_code}: {erro.response.text[:200]}"}
+                break
+            except Exception as erro:  # noqa: BLE001 — qualquer falha de rede/timeout entra aqui
+                dados = {"erro": f"{type(erro).__name__}: {erro}"}
+                if tentativa < 2:
+                    await asyncio.sleep(1.5 * (tentativa + 1))
 
     resultado = {"codigo_escola": codigo, "NO_ENTIDADE": nome, "cidade": cidade, "query": query, "resposta": dados}
     cache_path.write_text(json.dumps(resultado, ensure_ascii=False, indent=2), encoding="utf-8")
