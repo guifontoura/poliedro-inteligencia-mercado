@@ -1,0 +1,11 @@
+codigo_escola;NO_ENTIDADE;codigo_municipio;segmento_comercial;score_destaque;sistema_ensino_identificado;confianca;fonte_resumo
+33104220;RECANTO INF IMACULADA CONCEICAO;3304557;Desafiante (2º-5º local);0,9439;não identificado;nao_identificado;Recanto Inf. Imaculada Conceição — busca não trouxe menção a sistema de ensino
+33100713;COL SAINT JOHN;3304557;Desafiante (2º-5º local);0,9434;não identificado;nao_identificado;Colégio Saint John (Barra da Tijuca) — busca não trouxe menção a sistema de ensino
+33065403;COLEGIO SANTO AGOSTINHO;3304557;Desafiante (2º-5º local);0,9432;não identificado;provavel_proprio;Colégio Santo Agostinho (Leblon) — confessional agostiniano, tradicional, sem menção pública a sistema de terceiros
+33135371;COLEGIO CRUZEIRO - JACAREPAGUA;3304557;Desafiante (2º-5º local);0,9379;não identificado;provavel_proprio;Colégio Cruzeiro (Jacarepaguá) — escola alemã (Deutsche Schule), pedagogia própria, sem menção a sistema de terceiros
+35103524;DANTE ALIGHIERI COLEGIO;3550308;Desafiante (2º-5º local);0,9157;não identificado;provavel_proprio;Dante Alighieri — currículo ítalo-brasileiro reconhecido pelo governo italiano, material próprio
+35143406;AUGUSTO LARANJA COLEGIO UNIDADE I;3550308;Desafiante (2º-5º local);0,9155;não identificado;nao_identificado;Augusto Laranja (Moema) — parceria Cambridge International, mas sem menção a sistema de ensino nacional
+35165347;MOBILE COLEGIO;3550308;Desafiante (2º-5º local);0,9083;não identificado;nao_identificado;Mobile Colégio — busca não retornou informação suficiente
+35105314;COLEGIO FRANCISCANO PIOXII;3550308;Desafiante (2º-5º local);0,8995;não identificado;provavel_proprio;Colégio Franciscano Pio XII — confessional franciscano, bilíngue Cambridge, sem menção a sistema de terceiros
+33062633;COL DE SAO BENTO;3304557;Líder local;0,9473;não identificado;provavel_proprio;Colégio de São Bento (RJ) — tradição beneditina de 163 anos, sem menção a sistema de terceiros
+35399197;OBJETIVO COLEGIO INTEGRADO;3550308;Líder local;0,9266;Sistema Objetivo;confirmado;Objetivo Colégio Integrado — usa Coleção Didática do Sistema Objetivo (concorrente direto)
