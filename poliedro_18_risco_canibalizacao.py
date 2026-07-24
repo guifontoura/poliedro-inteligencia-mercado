@@ -68,13 +68,15 @@ UNIDADES_PROPRIAS = [
     {"nome": "São José dos Campos (Jd. Esplanada)", "codigo_municipio": "3549904", "lat": -23.203952, "lon": -45.909227, "exata": True},
 ]
 
-# Limiares diferenciados por cidade (24/07, a pedido do Gui) — ver docstring
-# pro raciocínio: São Paulo é mais apertado por causa da densidade/trânsito,
-# não mais largo por ser cidade maior.
+# Limiares diferenciados por cidade (24/07, a pedido do Gui — simplificado
+# pra binário em 24/07 à noite: "safe range" é >2km em SP e >3km em
+# Campinas/SJC, sem faixa intermediária). Ver docstring pro raciocínio: São
+# Paulo é mais apertado por causa da densidade/trânsito, não mais largo por
+# ser cidade maior.
 RAIOS_POR_MUNICIPIO_KM = {
-    "3550308": {"alto": 2.0, "moderado": 5.0},  # São Paulo
+    "3550308": 2.0,  # São Paulo
 }
-RAIO_PADRAO_KM = {"alto": 3.0, "moderado": 6.0}  # demais cidades
+RAIO_PADRAO_KM = 3.0  # Campinas, São José dos Campos e demais
 
 
 def distancia_km(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
@@ -86,12 +88,9 @@ def distancia_km(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
 
 
 def classificar_risco(km: float, codigo_municipio: str) -> str:
-    raios = RAIOS_POR_MUNICIPIO_KM.get(codigo_municipio, RAIO_PADRAO_KM)
-    if km <= raios["alto"]:
-        return f"ALTO (<={raios['alto']:.0f}km)"
-    if km <= raios["moderado"]:
-        return f"MODERADO ({raios['alto']:.0f}-{raios['moderado']:.0f}km)"
-    return "baixo"
+    """Binário (24/07): risco se dentro do raio da cidade, seguro se além dele."""
+    raio = RAIOS_POR_MUNICIPIO_KM.get(codigo_municipio, RAIO_PADRAO_KM)
+    return f"RISCO (<={raio:.0f}km)" if km <= raio else f"seguro (>{raio:.0f}km)"
 
 
 def calcular_distancias() -> pd.DataFrame:
@@ -121,8 +120,8 @@ def calcular_distancias() -> pd.DataFrame:
 def exibir_resumo(df: pd.DataFrame) -> None:
     print(f"[Sanity check] Golden Leads comparadas (nas unidades próprias com coordenada, exata ou aproximada): {len(df)}")
     print(f"\n[Sanity check] Distribuição de risco:\n{df['risco_canibalizacao'].value_counts()}")
-    print("\n--- Leads em risco ALTO ou MODERADO (revisar antes de indicar comercialmente) ---")
-    risco = df[df["risco_canibalizacao"] != "baixo"]
+    print("\n--- Leads em RISCO (revisar antes de indicar comercialmente) ---")
+    risco = df[df["risco_canibalizacao"].str.startswith("RISCO")]
     cols = ["unidade_propria", "escola_lead", "bairro", "distancia_km", "risco_canibalizacao", "segmento_comercial"]
     print(risco[cols].to_string(index=False) if len(risco) else "(nenhuma)")
     print("\n--- 10 mais próximas no geral, pra dar noção de escala das distâncias ---")
