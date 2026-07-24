@@ -56,7 +56,7 @@ TERMOS_SISTEMA = (
 def ler_chave_api() -> str:
     """Lê a chave do Serper do arquivo local (nunca do código-fonte)."""
     try:
-        return CHAVE_PATH.read_text().strip()
+        return CHAVE_PATH.read_text(encoding="utf-8").strip()
     except FileNotFoundError as erro:
         raise RuntimeError(
             f"Chave da API Serper não encontrada em {CHAVE_PATH}. "
@@ -91,7 +91,7 @@ async def buscar_uma_escola(cliente: httpx.AsyncClient, chave: str, codigo: str,
     """Busca 1 escola no Serper, com cache em disco (nunca repete a mesma chamada)."""
     cache_path = CACHE_DIR / f"{codigo}.json"
     if cache_path.exists():
-        return json.loads(cache_path.read_text())
+        return json.loads(cache_path.read_text(encoding="utf-8"))
 
     query = montar_query(nome, cidade if pd.notna(cidade) else "")
     async with semaforo:
@@ -110,7 +110,7 @@ async def buscar_uma_escola(cliente: httpx.AsyncClient, chave: str, codigo: str,
             dados = {"erro": f"{type(erro).__name__}: {erro}"}
 
     resultado = {"codigo_escola": codigo, "NO_ENTIDADE": nome, "cidade": cidade, "query": query, "resposta": dados}
-    cache_path.write_text(json.dumps(resultado, ensure_ascii=False, indent=2))
+    cache_path.write_text(json.dumps(resultado, ensure_ascii=False, indent=2), encoding="utf-8")
     return resultado
 
 
@@ -176,7 +176,7 @@ def main(limite: "int | None" = None):
         print("[Info] Rodada de teste (--limite): CSV final não sobrescrito. Amostra:")
         print(df.to_string())
     else:
-        df.to_csv(saida, index=False, sep=";", decimal=",")
+        df.to_csv(saida, index=False, sep=";", decimal=",", encoding="utf-8")
         print(f"[✓] Salvo em {saida}")
 
 
