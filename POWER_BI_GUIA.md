@@ -150,3 +150,82 @@ match de renda) — mesma estrutura de colunas, o mesmo gráfico funciona só
 trocando o CSV de origem. Ainda é uma primeira versão (ver docstring do
 `poliedro_17_regioes_nacional_renda.py` pras limitações), recomendo revisão
 amostral antes de usar em decisão comercial real.
+
+## 8. Slicer de bairro/distrito dentro de São Paulo e Rio (pedido do Gui, 24/07)
+
+Objetivo: no lugar de um slicer de cidade que só mostra "São Paulo" como uma
+linha única, ter algo tipo "São Paulo - Itaim Bibi" / "São Paulo - Vila
+Mariana", só com as combinações que realmente têm Golden Lead.
+
+**Por que o slicer atual não faz isso**: o cartão de slicer que você mostrou
+("UF, cidade, segmento_comercial") usa `nome_municipio_ibge` da tabela
+**`14_cidades_powerbi`** — a tabela de DIMENSÃO das 318 cidades do recorte
+inteiro, sem golden lead nenhuma vinculada a ela diretamente. É por isso que
+aparecem cidades como Nova Friburgo, Petrópolis etc. como linha única e
+plana: essa tabela não tem bairro/distrito, só o nome da cidade.
+
+**A tabela certa pra esse slicer é `14_escolas_powerbi`** (a tabela de FATO
+— 1 linha por Golden Lead). Como essa tabela só tem linhas de escola que
+realmente existem, um slicer feito a partir dela automaticamente só mostra
+combinações que têm pelo menos 1 Golden Lead — exatamente o que você quer.
+
+**Passo a passo:**
+
+1. **Criar uma coluna combinada** (Power Query, não DAX, pra ficar mais
+   simples): Dados/Transformar Dados → selecione a consulta
+   `14_escolas_powerbi` → Adicionar Coluna → Coluna Personalizada → nome
+   `cidade_regiao`, fórmula:
+   ```
+   if [cidade] = "São Paulo" or [cidade] = "Rio de Janeiro" then [cidade] & " - " & [distrito] else [cidade]
+   ```
+   Isso cria "São Paulo - Vila Mariana", "Rio de Janeiro - IV Botafogo" só
+   pras duas cidades que têm subdivisão; as outras 316 continuam só com o
+   nome da cidade (não faz sentido subdividir uma cidade com 1-2 leads).
+2. Feche e Aplique (botão no canto superior esquerdo do Power Query).
+3. Arraste um novo visual "Slicer" pro canvas, campo = `cidade_regiao` (da
+   tabela `14_escolas_powerbi`, não da `14_cidades_powerbi`).
+4. Esse novo slicer filtra `14_escolas_powerbi` diretamente; se seus outros
+   visuais (tabela, cartões) também vierem dessa tabela, o filtro já
+   propaga sozinho.
+
+**Nota sobre bairro vs. distrito** — o seu exemplo mencionou "Jardim
+Europa" e "Itaim Bibi": Itaim Bibi é distrito oficial de SP (aparece certo
+na coluna `distrito`), mas Jardim Europa é um **bairro** dentro do distrito
+Jardim Paulista/Pinheiros, não um distrito em si — não vai aparecer em
+`distrito`, só em `bairro`. Se você quiser a granularidade de bairro (mais
+fina, mais nomes reconhecíveis tipo "Jardim Europa") em vez de distrito
+oficial (mais estável estatisticamente, menos linhas com 1 escola só),
+troque `[distrito]` por `[bairro]` na fórmula acima — os dois campos
+existem em `14_escolas_powerbi`, é só escolher qual granularidade prefere
+pro slicer.
+
+## 9. Solução de problemas — dado não atualiza / falta coluna / decimais errados
+
+Se depois de reimportar `14_escolas_powerbi.csv` você não vê `distrito`
+como RA no RJ, `sistema_ensino_identificado`, `rede_propria_poliedro`, ou o
+`score_destaque` continua com 2 casas decimais, confira nesta ordem:
+
+1. **O dado novo chegou no modelo?** Painel **Dados** (lado direito) →
+   expanda a tabela `14_escolas_powerbi` → confira se as colunas aparecem
+   na lista de campos. Se SIM (colunas existem no modelo, só não aparecem
+   no visual): você só precisa arrastar o campo pra dentro do visual/tabela
+   que está olhando — não é problema de dado, é de que o visual não usa
+   aquela coluna ainda.
+2. **Se as colunas NÃO aparecem no painel Dados**: o modelo está lendo uma
+   versão antiga do arquivo. Excluir e recriar a conexão às vezes não basta
+   porque o Power BI guarda os PASSOS aplicados (Origem, Tipo Alterado
+   etc.) na consulta salva. Vá em **Transformar Dados** → clique na
+   consulta `14_escolas_powerbi` → confira o passo **Origem** (primeiro da
+   lista, ícone de engrenagem) → o caminho do arquivo bate com
+   `data/outputs/14_escolas_powerbi.csv` mesmo? Se sim, clique com botão
+   direito na consulta → **Atualizar Visualização Prévia** e depois
+   **Página Inicial → Fechar e Aplicar**. Se o caminho estiver errado
+   (apontando pra uma cópia antiga em outra pasta), corrija ali.
+3. **`score_destaque` com 2 casas decimais mesmo com o dado certo**: isso
+   quase sempre é FORMATAÇÃO DE EXIBIÇÃO, não o dado em si (o CSV já vem
+   com 3 casas). Vá em **Modelagem** → selecione a coluna `score_destaque`
+   na tabela `14_escolas_powerbi` → no painel **Propriedades da coluna**,
+   campo **Formato** → **Casas decimais** → mude de 2 pra 3. Isso é uma
+   configuração do MODELO (afeta todos os visuais); dá pra sobrescrever por
+   visual também em Formatar Visual → Valores → Casas decimais, se só um
+   gráfico específico precisar ser diferente.
