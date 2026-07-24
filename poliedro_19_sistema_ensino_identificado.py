@@ -105,6 +105,18 @@ REGISTROS = {
     # Cross-check com a lista de "Escolas Associadas" do próprio site institucional do Poliedro (passada
     # pelo Gui, 24/07) contra a base de escolas do Censo — achado 1 match direto num Golden Lead atual.
     "35108923": ("Sistema Poliedro", "confirmado", "Colégio Ábaco (São Bernardo do Campo) — site oficial do Poliedro lista como Escola Associada ('Outros Estados: Colégio Ábaco...')"),
+    # Quinta leva (24/07, foco redirecionado pelo Gui: parar de verificar grupo controlador e
+    # priorizar cobertura bruta de sistema_ensino_identificado, usando o segmento "Líder local"
+    # (210 Golden Leads) como alvo de curto prazo). Confirmei cidade real de cada código via
+    # codigo_municipio antes de pesquisar (2 nomes da leva anterior — "Cariacica" e "Guanhães" —
+    # eram suposições da rodada anterior que a checagem por código corrigiu: são Ipatinga e Lavras).
+    "43139108": ("Sistema Bernoulli (Grupo Bernoulli Educação, independente)", "confirmado", "Colégio Sinodal São Leopoldo (RS) — lista de material oficial 2025/2026 cita explicitamente 'a base do material didático será da Editora Bernoulli' pra 1ª série do Ensino Médio"),
+    "31193097": ("Sistema Bernoulli (Grupo Bernoulli Educação, independente)", "confirmado", "Colégio São Francisco Xavier (Ipatinga, MG — bairro Cariru, daí o nome 'CARIRU' no Censo) — parceria oficial com o Sistema Bernoulli desde 2023 pro Ensino Médio (csfx.com.br/fsfx.com.br)"),
+    "31205265": ("Sistema Fibonacci", "confirmado", "Instituto Presbiteriano Gammon (Lavras, MG — sede/unidade histórica da rede, confirmado via codigo_municipio) — Instagram oficial @ipgammon cita 'Sistema de Ensino Fibonacci' com material didático próprio da marca; ATENÇÃO: unidades satélite da mesma rede (ex.: Guanhães) usam SAS — sistemas variam por unidade dentro do próprio grupo Gammon"),
+    "15103080": ("Sistema SAS (Grupo Arco Educação)", "confirmado", "Grupo Futuro Educacional (Marabá, PA) — Instagram oficial @futuroeducacional: 'Material didático do SAS, um dos melhores sistemas de ensino do Brasil'"),
+    "31014061": ("não identificado", "provavel_proprio", "Colégio Santo Agostinho-Unidade Contagem — mesma rede confessional agostiniano das unidades BH (31004651) e Nova Lima (31333921), já registradas sem sistema de terceiros; registrado por padrão de rede (pedido do Gui), sem pesquisa nova"),
+    "43173330": ("Sistema SAS (Grupo Arco Educação)", "confirmado", "Col João Paulo I - Unidade Sul (Porto Alegre, zona sul / JPSul) — usa material SAS (Ari de Sá); confiança média-alta, fonte não é o site oficial da escola (fleye.com.br), recomendável checar lista de material oficial se possível"),
+    "35115712": ("não identificado", "nao_identificado", "Fundação Educacional Raul Bauab (Jaú, SP) — perfil institucional/técnico (PDI, produção acadêmica de docentes em Lattes/Escavador), sem sinal de sistema de ensino comercial licenciado; pode usar material próprio institucional, não confirmado"),
 }
 
 # Observação (24/07): o caso do Colégio Contato (27220885) revelou que o filtro de exclusão de
