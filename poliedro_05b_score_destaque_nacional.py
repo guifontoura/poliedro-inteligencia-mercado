@@ -41,6 +41,15 @@ Isso deixa 90% pra ENEM+infra na proporção 80/20 (=72/18) e reserva 10% pra
 dois critérios novos, cada um a 5% — peso propositalmente baixo porque ainda
 não sabemos se agregam sinal de verdade ou são ruído (ver METODOLOGIA.md):
 
+Revisão 24/07 (ainda PROVISÓRIA): ajustado de novo, de 72/18 para 75/15
+(ENEM/infra), a pedido do Gui. Proporção 75/15 = 83/17 entre ENEM e infra —
+mais perto do 85/15 que já tínhamos testado e descartado (virava a ordem de
+Carmo/Jean Piaget em Santos numa margem de 0,0003, estatisticamente
+irrelevante) do que do 80/20 originalmente escolhido. Testei de novo antes
+de aplicar (mesma disciplina de sempre — não muda peso sem checar o efeito
+num caso real): com 75/15/5/5, Carmo continua líder e Jean Piaget continua
+2º em Santos (0,8848 vs 0,8586) — a ordem NÃO inverte, o ajuste é seguro.
+
 - **Seletividade** (`IN_EXAME_SELECAO`, Censo): escola faz exame de seleção
   pra ingresso. Testamos: escolas com essa flag têm ENEM médio 614 vs 593
   sem — diferença real mas moderada (~20 pontos), não um sinal fortíssimo.
@@ -73,8 +82,8 @@ import pandas as pd
 RAW_DIR = Path("data/raw")
 OUT_DIR = Path("data/outputs")
 
-PESO_ENEM = 0.72
-PESO_INFRA = 0.18
+PESO_ENEM = 0.75
+PESO_INFRA = 0.15
 PESO_SELETIVIDADE = 0.05
 PESO_INCLUSAO = 0.05
 MIN_PARTICIPANTES_CONFIAVEL = 10
