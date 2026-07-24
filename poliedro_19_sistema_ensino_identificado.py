@@ -66,10 +66,49 @@ REGISTROS = {
     "33184739": ("não identificado", "provavel_proprio", "Colégio Alfa Cem Bilíngue (2ª unidade) — mesma rede, método próprio"),
     "33065837": ("não identificado", "provavel_proprio", "Escola Parque (Gávea) — pedagogia construtivista/por projetos, tradição própria de 55 anos"),
     "33064040": ("não identificado", "provavel_proprio", "Escola Israelita Brasileira Eliezer Steinbarg Max Nordau — escola comunitária judaica, identidade própria"),
+    # Terceira leva (24/07, batch nas Golden Leads de maior score_destaque ainda sem registro).
+    "53020570": ("não identificado", "nao_identificado", "Colégio Pódion (Brasília) — descrição institucional só fala de 'programa de ensino desafiador' próprio, sem citar material de terceiros"),
+    "31004651": ("não identificado", "provavel_proprio", "Colégio Santo Agostinho (BH) — confessional agostiniano, Microsoft Showcase School é certificação de tecnologia, não sistema didático de terceiros"),
+    "25097539": ("não identificado", "nao_identificado", "Colégio e Curso Evolução (João Pessoa) — só cita 'material didático atualizado do mercado', sem nomear marca"),
+    "23246871": ("Sistema SAS", "confirmado", "Ari de Sá Cavalcante - Mário Mamede (Fortaleza) — usa SAS (Sistema Ari de Sá), marca criada pela PRÓPRIA rede Ari de Sá e hoje vendida a +12mil escolas via Arco Educação; concorrente, mas a rede não compraria de fora"),
+    "23245573": ("Sistema Eleva", "confirmado", "Master Colégio (Fortaleza) — usa material Eleva (Portal do Aluno, conteúdo interdisciplinar)"),
+    "27220885": ("Sistema Poliedro", "confirmado", "Colégio Contato (Maceió) — ATENÇÃO: site do próprio colégio se declara 'parceiro exclusivo em Alagoas do Sistema de Ensino Poliedro'. Já é rede Poliedro sob outra marca — não passou pelo filtro de exclusão do passo 09 (que só olha 'POLIEDRO' no nome oficial do Censo). Ver observação abaixo do dict."),
+    "26189569": ("não identificado", "provavel_proprio", "Colégio Cognitivo (Recife, unidade Casa Forte) — material 'fundamentado em livros didáticos' escolhido pela própria equipe de professores, sem sistema de terceiros citado"),
+    "26534711": ("não identificado", "provavel_proprio", "Colégio Cognitivo (Recife, unidade Boa Viagem) — mesma rede/material da unidade Casa Forte"),
+    "26118165": ("Sistema Equipe", "confirmado", "Colégio Equipe (Recife) — Sistema de Ensino Equipe, com editora própria (marca própria da rede, vendida a outras escolas do Norte/Nordeste)"),
+    "23272430": ("Sistema SAS", "confirmado", "Ari de Sá Cavalcante - Aldeota (Fortaleza) — mesma rede/material SAS da unidade Mário Mamede"),
+    "35805555": ("Sistema Pitágoras", "confirmado", "Colégio Embraer Juarez Wanderley (São José dos Campos) — gerido pelo Sistema Pitágoras de Ensino (Kroton) via Instituto Embraer; ATENÇÃO: escola de bolsa integral (~80% bolsistas), não é comprador comercial típico"),
+    "32041152": ("Sistema Eleva", "confirmado", "Escola São Domingos (Vitória) — material Eleva citado em contrato público (4 volumes), ao lado de Edify (bilíngue) e Escola da Inteligência; confiança média-alta, fonte é documento contratual, não o site oficial"),
+    "15168344": ("Sistema Equipe", "confirmado", "Colégio Equipe Cristal (Belém) — unidade da rede Sistema de Ensino Equipe, mesma marca própria da unidade de Recife"),
+    "31333921": ("não identificado", "provavel_proprio", "Colégio Santo Agostinho (Nova Lima) — mesma rede confessional da unidade BH, sem sistema de terceiros citado"),
+    "24057169": ("Sistema SAS", "confirmado", "FACEX (Natal) — corrigido pelo Gui (24/07), achado via busca direta no Google que a minha busca não trouxe: usa Sistema SAS de Ensino"),
+    # Correções do Gui (24/07) — casos que a minha busca via API não achou mas ele achou rápido no Google
+    # direto. Ver conversa: provável causa é que a API de busca não indexa/prioriza páginas específicas
+    # (ex. vídeo institucional "SAS Educação + Colégio Pódion", ou página de resultado que só aparece em
+    # busca normal do Google) do jeito que a busca nativa do Google faz.
+    "53020570": ("Sistema SAS", "confirmado", "Colégio Pódion (Brasília) — corrigido pelo Gui: usa Sistema SAS de Ensino (confirmado via vídeo institucional 'SAS Educação + Colégio Pódion')"),
+    "25097539": ("Sistema Bernoulli", "confirmado", "Colégio e Curso Evolução (João Pessoa) — corrigido pelo Gui: usa Sistema Bernoulli de Ensino"),
+    # Rede própria Poliedro (achado 24/07 via nome no Censo, ver poliedro_09) — passou a ficar VISÍVEL nos
+    # Golden Leads em vez de excluída (pedido do Gui). Sistema de ensino é óbvio pelo próprio nome, não
+    # precisou de pesquisa: são literalmente unidades/franquia Poliedro.
+    "35004269": ("Sistema Poliedro", "confirmado", "Colégio Poliedro (Campinas, Taquaral) — unidade própria/franquia Poliedro, nome no Censo"),
+    "35009757": ("Sistema Poliedro", "confirmado", "Colégio Poliedro Unidade Centro (Campinas) — unidade própria/franquia Poliedro, nome no Censo"),
+    "35175572": ("Sistema Poliedro", "confirmado", "Poliedro Colégio (São José dos Campos) — unidade própria/franquia Poliedro, nome no Censo"),
+    "35134132": ("Sistema Poliedro", "confirmado", "Colégio Poliedro de Educação (São Paulo, Barra Funda) — unidade própria/franquia Poliedro, nome no Censo"),
+    # Cross-check com a lista de "Escolas Associadas" do próprio site institucional do Poliedro (passada
+    # pelo Gui, 24/07) contra a base de escolas do Censo — achado 1 match direto num Golden Lead atual.
+    "35108923": ("Sistema Poliedro", "confirmado", "Colégio Ábaco (São Bernardo do Campo) — site oficial do Poliedro lista como Escola Associada ('Outros Estados: Colégio Ábaco...')"),
 }
 
+# Observação (24/07): o caso do Colégio Contato (27220885) revelou que o filtro de exclusão de
+# "rede própria Poliedro" no passo 09 (busca "POLIEDRO" no NO_ENTIDADE do Censo) não pega parceiros/
+# franquias que vendem sob marca PRÓPRIA mas usam o material Poliedro por trás (achado só via pesquisa
+# manual de sistema de ensino, não dava pra prever isso de outro jeito). Vale revisar as escolas com
+# sistema_ensino_identificado == "Sistema Poliedro" e decidir com o Gui se elas devem ser excluídas das
+# Golden Leads (mesma lógica do poliedro_09), não só marcadas.
 
-def montar_tabela() -> pd.DataFrame:
+
+def montar_tabela() -> "tuple[pd.DataFrame, int]":
     """Junta o registro manual com os dados de score/segmento já calculados."""
     golden = pd.read_csv(OUT_DIR / "04_golden_leads_segmentadas.csv", dtype={"codigo_escola": str})
     linhas = []
@@ -77,23 +116,27 @@ def montar_tabela() -> pd.DataFrame:
         linhas.append({"codigo_escola": codigo, "sistema_ensino_identificado": sistema,
                         "confianca": confianca, "fonte_resumo": fonte})
     registro = pd.DataFrame(linhas)
-    return golden.merge(registro, on="codigo_escola", how="inner")[
-        ["codigo_escola", "NO_ENTIDADE", "codigo_municipio", "segmento_comercial", "score_destaque",
-         "sistema_ensino_identificado", "confianca", "fonte_resumo"]
+    tabela = golden.merge(registro, on="codigo_escola", how="inner")[
+        ["codigo_escola", "NO_ENTIDADE", "codigo_municipio", "segmento_comercial", "rede_propria_poliedro",
+         "score_destaque", "sistema_ensino_identificado", "confianca", "fonte_resumo"]
     ]
+    return tabela, len(golden)
 
 
-def exibir_resumo(df: pd.DataFrame) -> None:
-    print(f"[Sanity check] Escolas pesquisadas até agora: {len(df)} de {965} Golden Leads totais "
-          f"({len(df) / 965 * 100:.1f}%)")
+def exibir_resumo(df: pd.DataFrame, total_golden_leads: int) -> None:
+    print(f"[Sanity check] Escolas pesquisadas até agora: {len(df)} de {total_golden_leads} Golden Leads "
+          f"totais ({len(df) / total_golden_leads * 100:.1f}%)")
     print(f"\n[Sanity check] Distribuição de confiança:\n{df['confianca'].value_counts()}")
     print(f"\n[Sanity check] Sistemas concorrentes confirmados: "
           f"{(df['confianca'] == 'confirmado').sum()}")
+    ja_poliedro = df["rede_propria_poliedro"].sum()
+    if ja_poliedro:
+        print(f"[Sanity check] Dessas, {ja_poliedro} já são rede própria/franquia Poliedro (nome no Censo).")
 
 
 def main():
-    df = montar_tabela()
-    exibir_resumo(df)
+    df, total_golden_leads = montar_tabela()
+    exibir_resumo(df, total_golden_leads)
     df.to_csv(OUT_DIR / "19_sistema_ensino_identificado.csv", index=False, sep=";", decimal=",")
     print(f"\n[✓] Salvo em {OUT_DIR / '19_sistema_ensino_identificado.csv'}")
 

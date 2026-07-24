@@ -82,19 +82,32 @@ def carregar_escolas_confiaveis() -> pd.DataFrame:
           f"IN_MANT_ESCOLA_PRIVADA_SIST_S do Censo — sistema de ensino próprio, não são prospect comercial).")
 
     # Achado 24/07: 4 escolas da PRÓPRIA rede Poliedro (Barra Funda/Perdizes-SP,
-    # Campinas Taquaral, Campinas Centro, São José dos Campos) estavam entrando
-    # como Golden Leads — o funil estava recomendando "vender o sistema
-    # Poliedro" pra escolas que já SÃO Poliedro. Confirmado via endereço exato
-    # (ex.: "COLEGIO POLIEDRO DE EDUCACAO", Francisco Matarazzo 913, Barra
-    # Funda — bate com o endereço oficial da unidade própria no site do
-    # colégio). Filtro por nome (POLIEDRO no NO_ENTIDADE) — nacional, não é
-    # regex frágil: são só 5 escolas no Brasil todo com esse nome, e todas
-    # batem com endereço de unidade própria/franquia confirmada.
+    # Campinas Taquaral, Campinas Centro, São José dos Campos) apareciam nos
+    # Golden Leads — o funil estava recomendando "vender o sistema Poliedro"
+    # pra escolas que já SÃO Poliedro. Confirmado via endereço exato (ex.:
+    # "COLEGIO POLIEDRO DE EDUCACAO", Francisco Matarazzo 913, Barra Funda —
+    # bate com o endereço oficial da unidade própria). Filtro por nome
+    # (POLIEDRO no NO_ENTIDADE) — só 5 escolas no Brasil todo com esse nome.
+    #
+    # Revisão 24/07 à noite (pedido explícito do Gui, após achar que o Colégio
+    # Contato-Maceió é parceiro comercial declarado do Sistema Poliedro sob
+    # OUTRA marca, achado que o filtro por nome nunca pegaria): "não apagar
+    # nenhum golden lead [...] só pq já estamos defendidos naquela região [...]
+    # vamos deixar isso para o time Poliedro decidir. Quero que me traga [...]
+    # informando o sistema de ensino [...] pra mostrar aos supervisores que fiz
+    # o trabalho correto." Ou seja: já-ser-Poliedro deixou de ser critério de
+    # EXCLUSÃO automática do dado — vira só uma FLAG visível (coluna
+    # `rede_propria_poliedro`), e a decisão de remover ou não fica com o time
+    # comercial do Poliedro, não com o pipeline. O filtro de Sistema S continua
+    # sendo exclusão de verdade — motivo diferente (mantenedora sem fins
+    # lucrativos, não é prospect de sistema licenciado, independente de já
+    # usar Poliedro ou não).
     eh_poliedro = df["NO_ENTIDADE"].str.contains("POLIEDRO", case=False, na=False)
-    print(f"[Filtro Rede Própria] Removendo {eh_poliedro.sum()} escolas com 'Poliedro' no nome "
-          f"(unidades próprias/franquia — já são Poliedro, não são prospect comercial).")
+    print(f"[Flag Rede Própria] {eh_poliedro.sum()} escolas com 'Poliedro' no nome — MANTIDAS na base "
+          f"(24/07: deixou de ser filtro de exclusão), marcadas na coluna 'rede_propria_poliedro'.")
 
-    return df[~eh_sistema_s & ~eh_poliedro].copy()
+    df["rede_propria_poliedro"] = eh_poliedro
+    return df[~eh_sistema_s].copy()
 
 
 def calcular_rank_municipal(df: pd.DataFrame) -> pd.DataFrame:
@@ -129,9 +142,12 @@ def main():
     print("\n[Sanity check] Distribuição por segmento comercial:")
     print(golden_leads["segmento_comercial"].value_counts())
 
+    print(f"[Sanity check] Escolas já da rede própria Poliedro dentro dos Golden Leads: "
+          f"{golden_leads['rede_propria_poliedro'].sum()} (mantidas, flag visível pro time comercial decidir)")
+
     cols = ["codigo_escola", "NO_ENTIDADE", "codigo_municipio", "rank_municipio", "n_escolas_confiaveis_municipio",
-            "segmento_comercial", "enem_media_geral", "qtd_participantes_enem", "indice_infra",
-            "QT_MAT_MED", "score_destaque"]
+            "segmento_comercial", "rede_propria_poliedro", "enem_media_geral", "qtd_participantes_enem",
+            "indice_infra", "QT_MAT_MED", "score_destaque"]
     saida = golden_leads.sort_values(["segmento_comercial", "score_destaque"], ascending=[True, False])[cols]
     saida.to_csv(OUT_DIR / "04_golden_leads_segmentadas.csv", index=False)
     print(f"\n[✓] Salvo em {OUT_DIR / '04_golden_leads_segmentadas.csv'}")

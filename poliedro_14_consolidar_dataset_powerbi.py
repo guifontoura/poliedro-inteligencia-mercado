@@ -173,6 +173,9 @@ def montar_tabela_escolas() -> pd.DataFrame:
         columns={"nome_municipio_ibge": "cidade", "uf": "UF", "score_priorizacao": "score_priorizacao_cidade",
                  "NO_DISTRITO": "distrito", "CO_CEP": "cep"}
     )
+    # Pedido do Gui (24/07): 3 casas decimais por padrão no score_destaque (a fonte já vem com mais
+    # dígitos flutuantes de ponto que não agregam legibilidade no Power BI).
+    escolas["score_destaque"] = escolas["score_destaque"].round(3)
 
     # 1. Corrige as variantes de grafia conhecidas do RJ (só afeta RJ; resto passa direto).
     escolas["bairro"] = escolas["NO_BAIRRO"].replace(CORRECOES_BAIRRO_RJ)

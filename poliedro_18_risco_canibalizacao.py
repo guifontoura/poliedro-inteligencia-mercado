@@ -96,6 +96,16 @@ def classificar_risco(km: float, codigo_municipio: str) -> str:
 def calcular_distancias() -> pd.DataFrame:
     golden = pd.read_csv(OUT_DIR / "14_escolas_powerbi.csv", sep=";", decimal=",", dtype={"codigo_municipio": str})
     golden = golden[golden["LATITUDE"].notna()].copy()
+    # Revisão 24/07 (pós poliedro_09 deixar de excluir a rede própria Poliedro dos Golden Leads):
+    # aqui, especificamente, essas linhas não fazem sentido — dariam distância ~0km de uma unidade
+    # própria até ELA MESMA, o que não é "risco de canibalização" de verdade, é comparar a unidade
+    # com o próprio endereço. Continuam visíveis em 14_escolas_powerbi.csv (pedido do Gui), só não
+    # entram nesta comparação específica de distância.
+    antes = len(golden)
+    golden = golden[~golden["rede_propria_poliedro"]].copy()
+    if antes != len(golden):
+        print(f"[Filtro] {antes - len(golden)} escolas da própria rede Poliedro excluídas só desta "
+              f"comparação de distância (comparar uma unidade com ela mesma não é canibalização).")
 
     linhas = []
     for unidade in UNIDADES_PROPRIAS:
