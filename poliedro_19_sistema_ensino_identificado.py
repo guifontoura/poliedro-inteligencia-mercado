@@ -262,6 +262,16 @@ REGISTROS = {
     "23069864": ("Sistema SAS (Grupo Arco Educação)", "confirmado", "Ari De Sa Cavalcante - Duque De Caxias — mesma rede Ari de Sa Cavalcante ja confirmada em 2 outras unidades (SAS); registrado por padrao de rede"),
     "33184720": ("não identificado", "provavel_proprio", "Colegio Alfa Cem Bilingue — mesma rede Alfa Cem Bilingue ja confirmada em 2 outras unidades (metodo/material proprios); registrado por padrao de rede"),
     "33178879": ("não identificado", "provavel_proprio", "Colegio Alfa Cem Bilingue — mesma rede Alfa Cem Bilingue ja confirmada em 2 outras unidades (metodo/material proprios); registrado por padrao de rede"),
+    # Nona leva (24/07) — CORREÇÃO: eu tinha dado esta escola como "Sistema Fibonacci,
+    # confirmado" em conversa, baseado num snippet de Instagram que citava "Material Didático
+    # Fibonacci". O Gui conferiu a fonte primária (lista oficial de material 2026 da própria
+    # escola, PDF) e ela mostra livros AVULSOS de editoras diferentes por matéria (Moderna,
+    # Ática, SM, Saraiva, FTD só no inglês, Artmed) e várias matérias como "material a ser
+    # fornecido pelo professor" — o oposto de um sistema integrado licenciado. "Fibonacci" no
+    # snippet provavelmente era algo pontual (não o currículo inteiro). Lição: snippet de rede
+    # social que cita um nome de sistema não é confirmação forte o suficiente sozinho quando
+    # existe lista oficial de material contradizendo — fonte primária sempre pesa mais.
+    "31004812": ("não identificado", "provavel_proprio", "Colégio Santo Antônio (BH) — CORRIGIDO: lista oficial de material da 3ª série EM (2026, fonte primária) mostra livros avulsos de Moderna/Ática/SM/Saraiva/FTD por matéria, não sistema integrado; contradiz snippet anterior sobre 'Fibonacci' (provavelmente item pontual, não o currículo)"),
 }
 
 # Observação (24/07): o caso do Colégio Contato (27220885) revelou que o filtro de exclusão de
