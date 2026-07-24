@@ -35,6 +35,14 @@ acento, ex. "GAVEA"; IBGE vem em Title Case com acento, ex. "Gávea"). Chave
 de junção normalizada (maiúsculo + sem acento) nos dois lados — validamos a
 taxa de match no sanity check, não presumimos 100%.
 
+Revisão 24/07 (o passo 15 passou a agregar o RJ por Região Administrativa
+oficial, não mais por bairro cru — ver lá pro motivo): o IBGE não publica
+renda por RA diretamente, só por bairro. Então aqui agregamos a renda dos
+BAIRROS de cada RA numa média PONDERADA pela população do bairro (`V06002`,
+moradores em domicílios — mesma fonte, evita que um bairro minúsculo e rico
+distorça a RA inteira). Usa o mesmo dicionário `RA_POR_BAIRRO_RJ` do passo
+15 (importado de lá, não duplicado).
+
 Limitação que fica documentada, não escondida: V06004/V06006 medem renda do
 RESPONSÁVEL pelo domicílio, não renda per capita domiciliar (que é o que a
 Parte 1 usa no nível de município, Tabela 10296 SIDRA). É uma métrica
@@ -49,6 +57,8 @@ import unicodedata
 from pathlib import Path
 
 import pandas as pd
+
+from poliedro_15_regioes_sp_rj import RA_POR_BAIRRO_RJ
 
 RAW_DIR = Path("data/raw")
 OUT_DIR = Path("data/outputs")
@@ -77,17 +87,34 @@ def carregar_renda_distrito_sp() -> pd.DataFrame:
     ]
 
 
-def carregar_renda_bairro_rj() -> pd.DataFrame:
-    """Renda do responsável por bairro, só Rio de Janeiro capital."""
+def carregar_renda_ra_rj() -> pd.DataFrame:
+    """Renda do responsável por Região Administrativa (RJ) — bairros do IBGE agregados via
+    RA_POR_BAIRRO_RJ, ponderados pela população do bairro (V06002)."""
     df = pd.read_csv(RAW_DIR / "renda_bairro_2022.csv", sep=";", encoding="latin-1")
     df["CD_BAIRRO"] = df["CD_BAIRRO"].astype(str)
     df = df[df["CD_BAIRRO"].str.startswith(PREFIXO_MUNICIPIO["Rio de Janeiro"])].copy()
-    df["regiao_norm"] = df["NM_BAIRRO"].apply(normalizar_nome)
-    for col in ["V06004", "V06006"]:
+    for col in ["V06002", "V06004", "V06006"]:
         df[col] = df[col].astype(str).str.replace(",", ".").astype(float)
-    return df.rename(columns={"V06004": "renda_media_responsavel", "V06006": "renda_mediana_responsavel"})[
-        ["regiao_norm", "renda_media_responsavel", "renda_mediana_responsavel"]
-    ]
+
+    ra_normalizado = {normalizar_nome(k): v for k, v in RA_POR_BAIRRO_RJ.items()}
+    df["regiao"] = df["NM_BAIRRO"].apply(normalizar_nome).map(ra_normalizado)
+    sem_ra = df[df["regiao"].isna()]
+    if len(sem_ra):
+        print(f"[Sanity check] {len(sem_ra)} bairros do IBGE (RJ) sem RA mapeada, "
+              f"excluídos da agregação: {sorted(sem_ra['NM_BAIRRO'].tolist())}")
+    df = df.dropna(subset=["regiao"])
+
+    def media_ponderada_por_pop(g: pd.DataFrame, col: str) -> float:
+        return (g[col] * g["V06002"]).sum() / g["V06002"].sum()
+
+    linhas = []
+    for regiao, g in df.groupby("regiao"):
+        linhas.append({
+            "regiao_norm": normalizar_nome(regiao),
+            "renda_media_responsavel": round(media_ponderada_por_pop(g, "V06004"), 2),
+            "renda_mediana_responsavel": round(media_ponderada_por_pop(g, "V06006"), 2),
+        })
+    return pd.DataFrame(linhas)
 
 
 def enriquecer_regioes_com_renda() -> pd.DataFrame:
@@ -96,7 +123,7 @@ def enriquecer_regioes_com_renda() -> pd.DataFrame:
     regioes["regiao_norm"] = regioes["regiao"].apply(normalizar_nome)
 
     renda_sp = carregar_renda_distrito_sp()
-    renda_rj = carregar_renda_bairro_rj()
+    renda_rj = carregar_renda_ra_rj()
 
     sp = regioes[regioes["cidade"] == "São Paulo"].merge(renda_sp, on="regiao_norm", how="left")
     rj = regioes[regioes["cidade"] == "Rio de Janeiro"].merge(renda_rj, on="regiao_norm", how="left")

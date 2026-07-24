@@ -28,6 +28,22 @@ Revisão 24/07 (pedido do Gui, 3 itens):
    andamento); escolas ainda não pesquisadas ficam "Não pesquisado ainda"
    (não fica em branco escondido — deixa explícito que falta pesquisar).
 
+Revisão 24/07 à noite (pedido do Gui, com print do mapa oficial da
+Prefeitura/IPP: "no arquivo para subir ao powerbi vamos separar cidade de SP
+por distritos [...] na cidade RJ só temos a divisão por bairros. Vc acha que
+seria mais eficiente juntar zonas maiores?"): este é o arquivo que ele
+efetivamente importa no Power BI — até agora só o `distrito` de SP era real
+(`NO_DISTRITO` do Censo funciona bem em SP), o do RJ vinha com o valor
+degenerado do Censo (sempre "Rio de Janeiro", ver achado do passo 15). Ao
+invés da divisão informal de "zona" (só 4-5 zonas, sem estatuto
+administrativo — a pesquisa mostrou fontes divergindo até em quantas
+existem), usamos a Região Administrativa (RA) oficial da Prefeitura/IPP: 33
+RAs, descritas na Wikipédia como "o que equivale aos distritos de São
+Paulo" — mesmo nível de granularidade que SP, mas com validade
+administrativa oficial. `distrito` no RJ agora recebe a RA (via o mesmo
+crosswalk `RA_POR_BAIRRO_RJ` do passo 15, para não duplicar); uma coluna
+`granularidade_geo` deixa explícito que SP usa "distrito" e RJ usa "regiao_administrativa".
+
 Modelo sugerido (ver POWER_BI_GUIA.md):
 - `14_escolas_powerbi.csv` (fato): 1 linha por Golden Lead.
 - `14_cidades_powerbi.csv` (dimensão, 318 linhas): 1 linha por município do
@@ -44,6 +60,8 @@ import unicodedata
 from pathlib import Path
 
 import pandas as pd
+
+from poliedro_15_regioes_sp_rj import RA_POR_BAIRRO_RJ
 
 RAW_DIR = Path("data/raw")
 OUT_DIR = Path("data/outputs")
@@ -161,6 +179,23 @@ def montar_tabela_escolas() -> pd.DataFrame:
     escolas = escolas.drop(columns=["NO_BAIRRO"])
     escolas["cep"] = escolas["cep"].astype("Int64")
 
+    # 1b. RJ: substitui o `distrito` degenerado do Censo (sempre "Rio de
+    # Janeiro") pela Região Administrativa oficial (mesmo crosswalk do passo
+    # 15) — pedido do Gui pra separar RJ em regiões maiores no Power BI, do
+    # mesmo jeito que SP já é separado por distrito real.
+    ra_normalizado = {normalizar_nome(k): v for k, v in RA_POR_BAIRRO_RJ.items()}
+    eh_rj = escolas["cidade"] == "Rio de Janeiro"
+    ra_da_escola = escolas.loc[eh_rj, "bairro"].apply(normalizar_nome).map(ra_normalizado)
+    sem_ra = ra_da_escola.isna().sum()
+    if sem_ra:
+        bairros_sem_ra = sorted(escolas.loc[eh_rj][ra_da_escola.isna()]["bairro"].unique().tolist())
+        print(f"[Sanity check] {sem_ra} escolas do RJ sem RA mapeada (bairro não reconhecido, "
+              f"mantido o distrito original do Censo): {bairros_sem_ra}")
+    escolas.loc[eh_rj, "distrito"] = ra_da_escola.where(ra_da_escola.notna(), escolas.loc[eh_rj, "distrito"])
+    escolas["granularidade_geo"] = escolas["cidade"].map(
+        {"São Paulo": "distrito", "Rio de Janeiro": "regiao_administrativa"}
+    ).fillna("nao_aplicavel")
+
     # 2. Renda por bairro/distrito (IBGE Censo 2022).
     escolas["bairro_norm"] = escolas["bairro"].apply(normalizar_nome)
     escolas["distrito_norm"] = escolas["distrito"].apply(normalizar_nome)
@@ -198,6 +233,10 @@ def exibir_resumo(escolas: pd.DataFrame, cidades: pd.DataFrame) -> None:
           f"({escolas['bairro'].notna().mean() * 100:.1f}%)")
     print(f"[Sanity check] Escolas com renda encontrada: {escolas['renda_mediana_responsavel'].notna().sum():,} "
           f"({escolas['renda_mediana_responsavel'].notna().mean() * 100:.1f}%)")
+    rj = escolas[escolas["cidade"] == "Rio de Janeiro"]
+    if len(rj):
+        print(f"[Sanity check] RJ: {rj['distrito'].nunique()} Regiões Administrativas distintas "
+              f"em {len(rj)} escolas (era 1 valor degenerado 'Rio de Janeiro' antes da correção)")
     print(f"[Sanity check] Distribuição renda_categoria:\n{escolas['renda_categoria'].value_counts()}")
     if "sistema_ensino_identificado" in escolas.columns:
         pesquisadas = (escolas["sistema_ensino_identificado"] != "Não pesquisado ainda").sum()
