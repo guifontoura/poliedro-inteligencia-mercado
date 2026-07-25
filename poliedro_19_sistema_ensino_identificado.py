@@ -272,6 +272,23 @@ REGISTROS = {
     # social que cita um nome de sistema não é confirmação forte o suficiente sozinho quando
     # existe lista oficial de material contradizendo — fonte primária sempre pesa mais.
     "31004812": ("não identificado", "provavel_proprio", "Colégio Santo Antônio (BH) — CORRIGIDO: lista oficial de material da 3ª série EM (2026, fonte primária) mostra livros avulsos de Moderna/Ática/SM/Saraiva/FTD por matéria, não sistema integrado; contradiz snippet anterior sobre 'Fibonacci' (provavelmente item pontual, não o currículo)"),
+    # Décima leva (24/07) — as 14 escolas que o lote do Serper devolveu "sem resultado orgânico"
+    # (nome vinha com acento quebrado no Censo em alguns casos, ex. "COLGIO BOM JESUS MARINGA");
+    # pesquisadas individualmente via WebSearch com o nome corrigido.
+    "29277744": ("não identificado", "provavel_proprio", "Colégio Nossa Senhora de Fátima - Sacramentinas (Vitória da Conquista) — rede confessional própria (Irmãs Sacramentinas, desde 1956), sem sistema de terceiros citado"),
+    "31354600": ("não identificado", "provavel_proprio", "Colégio Batista Mineiro - Alphaville Nova Lima — Rede Batista de Educação, Programa de Formação Socioemocional e metodologia bilíngue próprios da rede, sem sistema de terceiros citado"),
+    "35139646": ("não identificado", "provavel_proprio", "Colégio Rio Branco - Granja Viana (Cotia) — currículo brasileiro próprio; parceria com Fieldwork Education é só pro programa internacional adicional (IEYC/IPC/IMYC), não substitui um sistema de ensino brasileiro comercial"),
+    "33195463": ("não identificado", "nao_identificado", "Colégio Sant'Anna Segmentos Finais (Araruama) — busca não trouxe sistema de terceiros"),
+    "41358899": ("não identificado", "provavel_proprio", "Centro Educacional St. James (Londrina) — ATENÇÃO: escola foi ADQUIRIDA pelo Grupo Positivo (mesmo grupo do Sistema Positivo), mas reportagem cita acordo explícito de 'não interferência na metodologia de ensino, incluindo material didático' — ou seja, dono agora é concorrente, mas o material seguiu sendo próprio (bilíngue); vale reconferir daqui uns anos, pode mudar"),
+    "33140502": ("não identificado", "provavel_proprio", "Colégio Atuação Bilíngue (Niterói) — metodologia bilíngue própria (Pronunciation, Leadership, Literature, Assignment, Speech, Business, Task Based Problem), sem sistema de terceiros citado"),
+    "41135946": ("não identificado", "provavel_proprio", "Colégio Suíço-Brasileiro de Curitiba (Pinhais) — currículo IB (Bacharelado Internacional) + método próprio (Team Teaching), reconhecido pelo governo suíço; não é sistema brasileiro comercial"),
+    "43203876": ("não identificado", "provavel_proprio", "Colégio Gabarito Zona Norte (Porto Alegre) — ATENÇÃO: rede REGIONAL DIFERENTE do 'Gabarito Educação' de Uberaba/MG já registrado (31354562) — mesmo nome genérico, mantenedoras diferentes; começou como cursinho em 1999, sem sistema de terceiros citado"),
+    "33195552": ("não identificado", "nao_identificado", "Colégio Aprovado (Rio das Ostras) — descrição só com linguagem de marketing genérica ('ambiente inovador', 'desenvolvimento socioemocional'), não dá pra confirmar nem inferir com segurança"),
+    "31170216": ("não identificado", "provavel_proprio", "Colégio Berlaar Sagrado Coração de Jesus (Araguari) — rede confessional própria (AESCOM/Rede Berlaar de Educação, desde 1919), sem sistema de terceiros citado"),
+    "53001192": ("Sistema Positivo", "confirmado", "Centro Educacional Sagrada Família (Brasília) — usa a 'metodologia da excelência e o Sistema de Ensino Positivo', citado diretamente sobre esta escola"),
+    "29486696": ("não identificado", "nao_identificado", "Centro Educacional Opção (Vitória da Conquista) — escola muito nova (fundada 2022), informação insuficiente; pode ou não ter relação com 'Colégio Opção' (1997) da mesma cidade, não confirmado"),
+    "53038002": ("não identificado", "nao_identificado", "Centro de Ensino Médio Delta (Brasília) — só achei informação de CNPJ/cadastro empresarial, nada pedagógico"),
+    "41377370": ("não identificado", "provavel_proprio", "Colégio Bom Jesus (Maringá) — Grupo Educacional Bom Jesus, tradição franciscana de 120+ anos, metodologia exclusiva própria ('Amorografia'), sem sistema de terceiros citado"),
 }
 
 # Observação (24/07): o caso do Colégio Contato (27220885) revelou que o filtro de exclusão de
