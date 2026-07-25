@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "26175240",
+  "NO_ENTIDADE": "EVOLUCAO CENTRO EDUCACIONAL LTDA",
+  "cidade": "Jaboatão dos Guararapes",
+  "query": "\"EVOLUCAO CENTRO EDUCACIONAL LTDA\" \"Jaboatão dos Guararapes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"EVOLUCAO CENTRO EDUCACIONAL LTDA\" \"Jaboatão dos Guararapes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Evolucao Centro Educacional Ltda | Bolsas de Estudo em ...",
+        "link": "https://www.melhorescola.com.br/escola/evolucao-centro-educacional-ltda",
+        "snippet": "Garanta sua bolsa de estudos em Evolucao Centro Educacional Ltda, Jaboatão dos Guararapes - PE ... Sistema de ensino. SAS. O sistema de ensino compreende o ...",
+        "position": 1
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2607901-jaboatao-dos-guararapes/busca",
+        "snippet": "AREA COLEGIO E CURSO SISTEMA DE ENSINO. AV UM, 103. CURADO. 54270090 Jaboatão dos Guararapes - Pernambuco. Rede privada / Urbana · ASSOC EDUC INST CONSTRUINDO O ...",
+        "position": 2
+      },
+      {
+        "title": "O Colégio Pontual se orgulha imensamente de ver os ...",
+        "link": "https://www.instagram.com/p/DTlc9wJkQUM/",
+        "snippet": "... JABOATÃO DOS GUARARAPES! Além disso, estamos entre as treze melhores ... Sistema de Ensino 73. 3215 0055 www.colegioieprol.com.br.",
+        "date": "há 6 meses",
+        "position": 3
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... Jaboatão dos Guararapes. Adryely Pereira dos Reis. 1º ano - Ensino Médio. 13. 8 ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 4
+      },
+      {
+        "title": "Jaboatão dos Guararapes: Confira a nota da sua escola",
+        "link": "https://blogdoenem.com.br/resultado-enem-jaboatao-guararapes/",
+        "snippet": "Dica 2 – As melhores Apostilas para o melhor Resultado Enem: https://blogdoenem.com.br/category/apostila-enem/ ; 6, EVOLUCAO CENTRO EDUCACIONAL LTDA, Privada ; 7 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

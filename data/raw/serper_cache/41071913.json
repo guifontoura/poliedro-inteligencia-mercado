@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "41071913",
+  "NO_ENTIDADE": "NOSSA SRA AUXILIADORA COL EI-EF-EM",
+  "cidade": "Cascavel",
+  "query": "\"NOSSA SRA AUXILIADORA COL EI-EF-EM\" \"Cascavel\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"NOSSA SRA AUXILIADORA COL EI-EF-EM\" \"Cascavel\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-PR.2.privada.do.htm",
+        "snippet": "NOSSA SRA AUXILIADORA COL EI-EF-EM, P, CASCAVEL, PR, ---, Sim. ISABELLE QUEIROZ ... COLEGIO MARISTA DE CASCAVEL, P, CASCAVEL, PR, ---, Sim. VITOR H ROSSI DE SOUZA ...",
+        "position": 1
+      },
+      {
+        "title": "Lista de Colégios Privados no Brasil | PDF | São Paulo",
+        "link": "https://pt.scribd.com/doc/273617459/Ranking-Brasil",
+        "snippet": "SISTEMA DE ENSINO MESON PI. PA. CASTANHAL. Privada. Urbana. 102. INSTITUTO FEDERAL ... NOSSA SRA AUXILIADORA COL EI-EF-EM. PR. CASCAVEL. Privada. Urbana. 24 ...",
+        "position": 2
+      },
+      {
+        "title": "Notas Médias do ENEM 2010 dos alunos concluintes do ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_2_MUNICIPIOS.pdf",
+        "snippet": "... CASCAVEL. NOSSA SRA AUXILIADORA COL EI-EF-EM. PRIVADA. 19. 19. 582,31. 614 ... SISTEMA DE ENSINO ENERGIA LAGES. PRIVADA. 61. 61. 559,69. 598,83.",
+        "date": "11 de set. de 2011",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "NOSSA SRA AUXILIADORA COL EI-EF-EM, P, CASCAVEL, PR, Bronze. MIGUEL PIMENTEL ... SISTEMA DE ENSINO UNO VERTICE, P, DIVINOPOLIS, MG, Bronze. HEITOR SOARES DE ...",
+        "position": 4
+      },
+      {
+        "title": "notasEnem2011",
+        "link": "https://www.yumpu.com/pt/document/view/5414668/notasenem2011",
+        "snippet": "CE CASCAVEL CENTRO EDUCACIONAL CENECISTA PADRE FRANCISCO VALDEVINO ... SISTEMA DE ENSINO SAO BENEDITO Privada 416,8375 417,3958333 468 ...",
+        "date": "22 de nov. de 2012",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

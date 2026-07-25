@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "43215688",
+  "NO_ENTIDADE": "COLEGIO FLEMING CAXIAS DO SUL",
+  "cidade": "Caxias do Sul",
+  "query": "\"COLEGIO FLEMING CAXIAS DO SUL\" \"Caxias do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO FLEMING CAXIAS DO SUL\" \"Caxias do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Fleming Ensino Médio (@flemingensinomedio) - Mentions",
+        "link": "https://www.facebook.com/flemingensinomedio/mentions/",
+        "snippet": "... material didático de ponta. FLEMING, não é só um colégio, ou cursinho Pré Med, é ... Por isso, convidamos o Diretor do Colégio Fleming Caxias do Sul/RS ...",
+        "position": 1
+      },
+      {
+        "title": "Calendário Escolar 2025 - Colégio Fleming | PDF",
+        "link": "https://pt.scribd.com/document/909638419/Calendario-Escolar-Flening-EM-Caxias-Do-Sul-10-02-Familias",
+        "snippet": "aprendizado e crescimento. Fraternalmente,. Prof.º Me. Betover Godinho. Diretor Colégio Fleming Caxias do Sul ... Apostila Catequese 2 Etapa. 42 páginas.",
+        "position": 2
+      },
+      {
+        "title": "Parabéns, Anelise! Aprovada em Medicina Veterinária na ...",
+        "link": "https://www.instagram.com/p/DDqK_WPzHxJ/",
+        "snippet": "O material didático do Fleming foi construído por quem entende de ... A Joanna e a Ilda, estudantes do Colégio Fleming Caxias do Sul ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Enem 2024: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2025/07/11/enem-2024-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado.ghtml",
+        "snippet": "Colégio Fleming - Caxias do Sul - Unidade: Exposição - Nota: 682,60 ... Farina Sistema de Ensino - Cuiabá - Unidade: Jardim Guanabara ...",
+        "date": "11 de jul. de 2025",
+        "position": 4
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 1° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DAA25DGW9E54FSE2QMDYT.pdf",
+        "snippet": "COLEGIO FLEMING CAXIAS DO SUL. RS. Caxias do Sul certificado KETHLEN DE SOUSA ... SISTEMA DE ENSINO AUTHENTICO. PA. Belém certificado CLARYSSA BARROS DE ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

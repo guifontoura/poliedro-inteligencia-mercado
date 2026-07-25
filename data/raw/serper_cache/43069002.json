@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "43069002",
+  "NO_ENTIDADE": "COLEGIO DOM FELICIANO",
+  "cidade": "Gravataí",
+  "query": "\"COLEGIO DOM FELICIANO\" \"Gravataí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DOM FELICIANO\" \"Gravataí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Dom Feliciano: Excelência reconhecida no Prêmio ...",
+        "link": "https://redeicm.org.br/blog/colegio-dom-feliciano-excelencia-reconhecida-no-premio-marcas-de-quem-decide/",
+        "snippet": "Neste ano entramos com um novo sistema de ensino e por isso queremos alavancar ainda mais conquistas. ... Colégio Dom Feliciano – Gravataí – RS · Colégio Madre ...",
+        "position": 1
+      },
+      {
+        "title": "A exposição “100 Anos do Colégio Dom Feliciano” abriu na ...",
+        "link": "https://www.instagram.com/reel/DYZ3a4mOoL2/",
+        "snippet": "PREFEITURA DE GRAVATAÍ Uma história e muitas vidas Colégio Dom Feliciano 100 anos. alphaphotosguaiba's profile picture. novafolharegional's ...",
+        "date": "há 2 meses",
+        "position": 2
+      },
+      {
+        "title": "100 anos sendo o coração da educação em Gravataí! 💙🚀 ...",
+        "link": "https://www.instagram.com/p/DUaivp1ER7s/",
+        "snippet": "PARABÉNS Colégio Dom Feliciano Há 100 anos promovendo uma educação humanizada e de excelência pedagógica em Gravataí / RS ICM REDE DE ...",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "O MESTRE QUE VIU O FUTURO ACONTECER ...",
+        "link": "https://www.instagram.com/reel/DXKAafYEb80/",
+        "snippet": "Apresentações no Colégio Dom Feliciano, em Gravataí, RS. Às vezes, o ... COLÉGIO IPIRANGA SISTEMA DE ENSINO anglo ESPAÇO DE VIDA QUE ACOLHE, CUIDA ...",
+        "date": "há 3 meses",
+        "position": 4
+      },
+      {
+        "title": "Formação de Professores e estudantes no Colégio Franciscano ...",
+        "link": "https://www.instagram.com/reel/DWRDY_hiBi6/",
+        "snippet": "... Sistema de Ensino, abordando o tema: \"Estratégias ... material didático ... Hoje(19/05), o Colégio Dom Feliciano ganhou um significado ainda mais especial.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35107049",
+  "NO_ENTIDADE": "EMILIE DE VILLENEUVE COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"EMILIE DE VILLENEUVE COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"EMILIE DE VILLENEUVE COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Premiação Estadual de Alunos - Escolas Públicas ...",
+        "link": "https://premiacao.obmep.org.br/19obmep/verRelatorioPremiadosRegionalPorNivel-SP.2.privada.do.htm",
+        "snippet": "COLEGIO MILITAR DE SAO PAULO, F, SAO PAULO, SP, Ouro. SARAH VIEIRA DE OLIVEIRA ... ANGLO SISTEMA DE ENSINO, P, TATUI, SP, Bronze. LUIS ROBERTO MALHEIROS NETO ...",
+        "position": 1
+      },
+      {
+        "title": "Seu filho merece mais do que um ensino tradicional. Ele ...",
+        "link": "https://www.instagram.com/p/DXshVkUjB6Z/",
+        "snippet": "Bom, o SAS ele é um material didático completo, atualizado, ele ... 99 ANOS COLÉGIO SANTA CATARINA SÃO PAULO O futuro nasce do nosso ...",
+        "date": "há 2 meses",
+        "position": 2
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "EMILIE DE VILLENEUVE COLEGIO 37 São Paulo SP COLEGIO CPV 27 São Paulo SP #N ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 3
+      },
+      {
+        "title": "Notas Médias do ENEM 2010 dos alunos concluintes do ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_2_MUNICIPIOS.pdf",
+        "snippet": "... SÃO PAULO. JUNDIAI. CRISTAO DE JUNDIAI CCJ COLEGIO. PRIVADA. 16. 16. 614 ... EMILIE DE VILLENEUVE COLEGIO. PRIVADA. 39. 39. 570,2. 634,02. 648,5.",
+        "date": "11 de set. de 2011",
+        "position": 4
+      },
+      {
+        "title": "João Claudio Rufino Rodrigues Silva",
+        "link": "https://www.escavador.com/sobre/494353/joao-claudio-rufino-rodrigues-silva",
+        "snippet": "... São Paulo (2014), graduação em TEOLOGIA pela Pontifícia Faculdade de ... (Desenvolvimento de material didático ou instrucional - Apostila). RUFINO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

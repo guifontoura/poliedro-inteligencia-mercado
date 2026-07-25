@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "22142622",
+  "NO_ENTIDADE": "GRUPO EDUCACIONAL CEV - UNIDADE KENNEDY",
+  "cidade": "Teresina",
+  "query": "\"GRUPO EDUCACIONAL CEV - UNIDADE KENNEDY\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"GRUPO EDUCACIONAL CEV - UNIDADE KENNEDY\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "grupo educacional cev - unidade kennedy",
+        "link": "https://culturaeduca.cc/equipamento/escola_detalhe/22142622/",
+        "snippet": "Brasil / PI / Teresina / Entorno de Escola. CAMADAS. LIMPAR. Divisões Urbanas ... EINSTEIN SISTEMA DE ENSINO - UNIDADE I AV PRESIDENTE KENNEDY - 1444 ...",
+        "position": 1
+      },
+      {
+        "title": "Colônia de Férias MAKER - 2° Edição - CEV Colégio",
+        "link": "https://beta.sympla.com.br/evento/colonia-de-ferias-maker-2-edicao-cev-colegio/747606",
+        "snippet": "Evento presencial em Grupo Educacional CEV - Unidade Kennedy, Teresina - PI. Evento encerrado. Descrição do evento. Já pensou seu filho criando os próprios ...",
+        "position": 2
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Teresina",
+        "link": "https://qedu.org.br/municipio/2211001-teresina/distorcao-idade-serie",
+        "snippet": "EINSTEIN SISTEMA DE ENSINO - UNIDADE I. 10,5%. EM ALICE PIRES DO NASCIMENTO. 2 ... GRUPO EDUCACIONAL CEV - UNIDADE KENNEDY. 3,3%. INST EDUC AFONSO MAFRENSE.",
+        "position": 3
+      },
+      {
+        "title": "Grupo de Estudos do Pré-Vest. A semana de provas também ...",
+        "link": "https://www.instagram.com/reel/DaEFWx8Kj3t/",
+        "snippet": "... Grupo Educacional Cev Unidade Kennedy asolarado a Pesquisar . Enem ... Aqui no VPS, o conteúdo estudado não fica só na apostila. Nossos ...",
+        "date": "há 4 semanas",
+        "position": 4
+      },
+      {
+        "title": "Vamos brincar um pouco? Onde está o Chaguinha? Kkkk ...",
+        "link": "https://www.instagram.com/p/Cu7I-WFr-Fr/",
+        "snippet": "... Teresina, um grande professor e a partir de hoje nós tamo iniciando ... GRUPO EDUCACIONAL CEV UNIDADE KENNEDY 93 COLÉGIO EQUAÇÃO CERTA ...",
+        "date": "há 3 anos",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

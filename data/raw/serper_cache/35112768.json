@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35112768",
+  "NO_ENTIDADE": "FRANCISCANO AVE MARIA COLEGIO",
+  "cidade": "Campinas",
+  "query": "\"FRANCISCANO AVE MARIA COLEGIO\" \"Campinas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"FRANCISCANO AVE MARIA COLEGIO\" \"Campinas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Bolsas de estudo nas escolas de Bosque em Campinas",
+        "link": "https://www.melhorescola.com.br/bolsas-de-estudo/sao-paulo/campinas/bosque",
+        "snippet": "Logo - franciscano ave maria colegio. Franciscano Ave Maria Colegio. 5.0(2) ... Material Didático Incluso. Vagas 2026. Vagas 2026. R$ 1.646,98. R$ 823,49 /mês ...",
+        "position": 1
+      },
+      {
+        "title": "Premiação Regional de Alunos - Escolas Públicas ...",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosRegionalPorNivel-SP.2.privada.do.htm",
+        "snippet": "FRANCISCANO AVE MARIA COLEGIO, P, CAMPINAS, SP, Ouro. EMERSON HIROSHI TAKEDA ... ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Bronze. ISABELLA CRISTINA ...",
+        "position": 2
+      },
+      {
+        "title": "Escolas em Bosque na cidade de Campinas",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/campinas-sp/bosque",
+        "snippet": "Logo - franciscano ave maria colegio. Franciscano Ave Maria Colegio. 5.0(2) ... Material Didático Incluso. Vagas 2026. Vagas 2026. R$ 1.553,75. R$ 776,88 /mês ...",
+        "position": 3
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "CAMPINAS COLEGIO TECNICO DE - UNICAMP. SP. 249. GRUPO GENESE DE ENSINO LTDA ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL. PB. 7312. SUELI ...",
+        "position": 4
+      },
+      {
+        "title": "UF REDE CODIGO ESCOLA UNIDADE ...",
+        "link": "https://estaticog1.globo.com/2013/11/26/Enem2012_por_escola_final.pdf",
+        "snippet": "... CAMPINAS ESCOLA. 81. 79 97,53 604,35 728,41 651,14 618,12 703,04 650 ... SISTEMA DE ENSINO. 69. 60 86,96 583,74 710,01 635,72 600,55 621,67 ...",
+        "date": "26 de nov. de 2013",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

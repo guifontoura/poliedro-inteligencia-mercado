@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33008221",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL NOSSA SENHORA AUXILIADORA",
+  "cidade": "Campos dos Goytacazes",
+  "query": "\"CENTRO EDUCACIONAL NOSSA SENHORA AUXILIADORA\" \"Campos dos Goytacazes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL NOSSA SENHORA AUXILIADORA\" \"Campos dos Goytacazes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Unidades",
+        "link": "https://www.ensanet.com.br/unidades",
+        "snippet": "... MATERIAL DIDÁTICO DE INGLÊS Guia de compra do ... Escola. Logo Salesiano. Centro Educacional Nossa Senhora Auxiliadora (CENSA) Campos dos Goytacazes - RJ.",
+        "position": 1
+      },
+      {
+        "title": "Os pequenos da Escola Infantil do turno da tarde também ...",
+        "link": "https://www.instagram.com/p/DJABO5jN69X/",
+        "snippet": "Centro Educacional Nossa Senhora AUXILIADORA 301 COM GARRA! VAI ... OLIMPÍADA MIRIM CENSA Liza Bernoulli Sistema de Ensino ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Estamos com as matrículas abertas para a Escola Infantil do ...",
+        "link": "https://www.facebook.com/censaoficial/videos/estamos-com-as-matr%C3%ADculas-abertas-para-a-escola-infantil-do-censa-a-escola-que-o/347286226842483/",
+        "snippet": "... Sistema de Ensino com melhor resultado no ... Campos dos Goytacazes. 01:36. No Núcleo de Prática Jurídica (NPJ) do ...",
+        "date": "há 5 anos",
+        "position": 3
+      },
+      {
+        "title": "Centro Educacional Nossa Senhora Auxiliadora",
+        "link": "https://www.censa.edu.br/uploads/comunicacao/42dc7fd5e9414dd3d94f237fec5f87ae.pdf",
+        "snippet": "Centro Educacional Nossa Senhora Auxiliadora. Rua Salvador Correa, 139. Centro. Campos dos Goytacazes. RJ www.censa.edu.br. ANO 23. No 02. MAIO/JUNHO/2016.",
+        "position": 4
+      },
+      {
+        "title": "Grande Festa de Maria! 100 anos de história em Campos dos ...",
+        "link": "https://www.instagram.com/reel/DKBMt69O3K8/",
+        "snippet": "... Campos dos Goytacazes ... Centro Educacional Nossa Senhora AUXILIADORA 301 COM GARRA! VAI, ETIENE TURMA 203 É A QUE ...",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

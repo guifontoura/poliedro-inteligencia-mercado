@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33031649",
+  "NO_ENTIDADE": "INSTITUTO SAO JOSE",
+  "cidade": "Resende",
+  "query": "\"INSTITUTO SAO JOSE\" \"Resende\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INSTITUTO SAO JOSE\" \"Resende\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.1.privada.do.htm",
+        "snippet": "ANGLO SISTEMA DE ENSINO, P, TATUI, SP, Sim. BENICIO ROSA CAMEJO, PITANGUEIRAS ... GIOVANNA RESENDE SILVA ARAUJO, GIBRAN KHALIL GIBRAN COLEGIO, P, TABOAO DA ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/rio-de-janeiro/",
+        "snippet": "INSTITUTO SAO JOSE, RESENDE, RJ, Privada, De 60% a 80%, Muito Alto ... SISTEMA DE ENSINO UNIVERSUS LTDA, RIO DE JANEIRO, RJ, Privada, De 40% a ...",
+        "date": "5 de ago. de 2015",
+        "position": 2
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... Resende. RJ. 640,9. 808,3. 643,0. 623,0. 594,0. 703,0. 292. COLEGIO MARISTA ...",
+        "position": 3
+      },
+      {
+        "title": "AEE consideradas no Fundeb 2022 - Portal Gov.br",
+        "link": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/financiamento/fundeb/novo-fundeb/2022/AEE2022.pdf",
+        "snippet": "... INSTITUTO SAO JOSE. ATENDIMENTO EDUCACIONAL ESPECIALIZADO - ENSINO MÉDIO. 8,00 ... RESENDE. ATENDIMENTO EDUCACIONAL ESPECIALIZADO - ENSINO FUNDAMENTAL. 17 ...",
+        "position": 4
+      },
+      {
+        "title": "Untitled Spreadsheet",
+        "link": "https://ole.uff.br/wp-content/uploads/sites/392/2021/08/OBRAC-2021CLASSIFICA%C3%87%C3%83O-IV-OBRAC-Etapa-I-fase-1.pdf",
+        "snippet": "Instituto Sao Jose. Joao Pedro Andre Portezani. 95. 10. 105. Classificada ... 1766655201A SISTEMA DE ENSINO EQUIPE - PORTO TROMBETAS. JOSE RIBAMAR BRAUN ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

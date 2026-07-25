@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "42109230",
+  "NO_ENTIDADE": "COLEGIO ENERGIA",
+  "cidade": "Florianópolis",
+  "query": "\"COLEGIO ENERGIA\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ENERGIA\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Não é só sobre o que se ensina. 👉🏻 ...",
+        "link": "https://www.instagram.com/p/DXHdbxVEbND/",
+        "snippet": "Photo by Colégio Energia | Escola em Florianópolis on April ...",
+        "date": "há 3 meses",
+        "position": 1
+      },
+      {
+        "title": "Ensino Energia | Florianópolis SC",
+        "link": "https://www.facebook.com/ensinoenergia/?locale",
+        "snippet": "... Colégio Energia. Porque toda grande conquista começa com uma boa decisão ... ✓ Material didático adquirido somente dos volumes que ainda serão utilizados em 2026.",
+        "position": 2
+      },
+      {
+        "title": "RECUPERAÇÃO JUDICIAL",
+        "link": "https://credibilita.com.br/wp-content/uploads/2025/07/1_INIC1.pdf",
+        "snippet": "n.º 36, Centro - Florianópolis/SC, CEP n.º 88.010-450; ii. SOCIEDADE. CATARINENSE ... Inclusive, o Colégio Energia possui seu próprio material didático, com.",
+        "position": 3
+      },
+      {
+        "title": "Colégio Energia | Escola em Florianópolis (@ensinoenergia)",
+        "link": "https://www.instagram.com/ensinoenergia/",
+        "snippet": "Colégio Energia | Escola em Florianópolis. 6,975 followers. 494 following. ⚡️ ... ✓ Material didático adquirido somente dos volumes que ainda serão utilizados em ...",
+        "position": 4
+      },
+      {
+        "title": "Lorena Sotopietra Nolasco",
+        "link": "https://www.escavador.com/sobre/1126934/lorena-sotopietra-nolasco",
+        "snippet": "... Sistema de Ensino Energia, assim nasceu em 1996 o Colégio Energia Córrego Grande, com sede em Florianópolis ... material didático de maternal, jardim, Pré 1996 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

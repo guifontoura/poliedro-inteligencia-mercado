@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "35104620",
+  "NO_ENTIDADE": "SANTA CRUZ COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"SANTA CRUZ COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SANTA CRUZ COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Progresso on Instagram: \"Cada apostila entregue ...",
+        "link": "https://www.instagram.com/reel/DUI7Cs3EQjQ/",
+        "snippet": "... material didático faz parte de um trabalho coletivo, pensado para ... Santa Cruz, Colégio Concórdia, Colégio Aprendendo a Aprender ...",
+        "date": "há 5 meses",
+        "position": 1
+      },
+      {
+        "title": "Memórias da EJA do Colégio Santa Cruz",
+        "link": "https://santacruz.g12.br/wp-content/uploads/2021/12/livro_eja_dupla.pdf",
+        "snippet": "Embaixo “Supletivo. Santa Cruz”, Colégio tal. ... Eu lembro que fiz um trabalho fenomenal com mapas da cidade de São Paulo, que mostrava toda a evolução urbana de ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio Equipe, Colégio Espírito Santo, ...",
+        "link": "https://www.instagram.com/p/DYQNVLeFG3a/",
+        "snippet": "... Santa Cruz, Colégio São Luis e Colégio Vera Cruz. 🗣️ O evento ... São Paulo Para mim, a relevância da O&S pode ser concretizada em um ...",
+        "date": "há 2 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Anglo São Paulo on Instagram: \"Conheça a nova ...",
+        "link": "https://www.instagram.com/reel/C1uUsfJubPA/",
+        "snippet": "apenas assistam! May 19. OCR. XVII MOSTRA DE TEATRO 2026 Colégio Santa Cruz COLÉGIO anglo SÃO PAULO Arena em: Precisamos Falar Sobre Isso...",
+        "date": "há 2 anos",
+        "position": 4
+      },
+      {
+        "title": "Colégio Santa Cruz on Instagram: \"Você conhece alguém que ...",
+        "link": "https://www.instagram.com/reel/DRCgod-ji8p/",
+        "snippet": "✓ Aulas presenciais ✓ Certificado válido em todo o Brasil ✓ Material didático incluso ✓ Professores experientes Entre em contato e garanta sua ...",
+        "date": "há 8 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "42006694",
+  "NO_ENTIDADE": "COLEGIO DEHON",
+  "cidade": "Tubarão",
+  "query": "\"COLEGIO DEHON\" \"Tubarão\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DEHON\" \"Tubarão\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Informações do Ano Letivo – Dehon",
+        "link": "https://colegiodehon.com.br/infoanoletivo/",
+        "snippet": "Informações do Ano Letivo - Colégio Dehon TUBARÃO. CALENDÁRIO E HORÁRIOS ... Sistema de Ensino COC. Estarão inclusos os materiais de Inglês e Projeto ...",
+        "position": 1
+      },
+      {
+        "title": "1ª Série – Dehon",
+        "link": "https://colegiodehon.com.br/ensino-medio/1o-ano/",
+        "snippet": "12x de R$158,13 (o material didático do Sistema de Ensino COC, terá 15% de ... Tubarão - SC, 88704-001 Telefone: (48) 3621-3700. Mantido por Fundação ...",
+        "position": 2
+      },
+      {
+        "title": "INVESTIGAÇÃO DE DUAS PROPOSTAS PEDAGÓGICAS Tubarão",
+        "link": "https://repositorio.animaeducacao.com.br/bitstreams/3bc1193e-3265-4ca6-9ac1-afe0487c17b4/download",
+        "snippet": "À Direção do Colégio Dehon – Tubarão, pelo espaço e permissão para realização da pesquisa. ... respectivo sistema de ensino ... salas, material didático, etc.) e as ...",
+        "position": 3
+      },
+      {
+        "title": "O Colégio Dehon iniciou o ano letivo de 2026 com muita ...",
+        "link": "https://www.instagram.com/reel/DWEfQ7XEp8j/",
+        "snippet": "... Tubarão ... POLIEDRO SISTEMA DE ENSINO COLÉGIO Viver Aprendendo LÍVIA, LORENZO, TIOSSO, LUA, FERREIRA, KAYLANA ...",
+        "date": "há 4 meses",
+        "position": 4
+      },
+      {
+        "title": "Colegio Dehon | Bolsas de Estudo em Tubarão - SC",
+        "link": "https://www.melhorescola.com.br/escola/colegio-dehon",
+        "snippet": "Garanta sua bolsa de estudos em Colegio Dehon, Tubarão - SC. Descontos ... Banda larga; Internet; Lixo reciclável. Sistema de ensino. COC Pearson. O sistema ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

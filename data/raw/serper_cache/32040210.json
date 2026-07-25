@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "32040210",
+  "NO_ENTIDADE": "ESCOLA CRESCER",
+  "cidade": "Vitória",
+  "query": "\"ESCOLA CRESCER\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA CRESCER\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Sistema de Ensino Crescer (@escolacrescer.jp)",
+        "link": "https://www.instagram.com/escolacrescer.jp/",
+        "snippet": "Na Escola Crescer, valorizamos cada conquista e celebramos o processo de aprender de forma lúdica, significativa e cheia de encantamento. #escolacrescer # ...",
+        "position": 1
+      },
+      {
+        "title": "O que faz uma escola crescer e continuar escolhendo a ...",
+        "link": "https://www.instagram.com/reel/DaLux9KkywO/",
+        "snippet": "... material didático atualizado Conquista solução educacional ... No depoimento do Leandro, pai da Maria Vitória, aluna do Infantil 4, alguns ...",
+        "date": "há 3 semanas",
+        "position": 2
+      },
+      {
+        "title": "Centro de Aprendizagem Crescer on Instagram: \"Escolher ...",
+        "link": "https://www.instagram.com/reel/DVYZwCnERar/",
+        "snippet": "Photo by Sistema de Ensino Educarte ❤ on July 14, 2026. May be.",
+        "date": "há 4 meses",
+        "position": 3
+      },
+      {
+        "title": "Boas Práticas SFB: Berçário e Escola Crescer Kids",
+        "link": "https://www.sistemafb.com.br/boas-praticas-sfb-bercario-e-escola-crescer-kids/",
+        "snippet": "... Vitória, Taynara, Daniela e Kamilla, responsáveis pelas turmas do ... Junte-se ao sistema de ensino que transforma e prepara vencedores ...",
+        "date": "há 4 dias",
+        "position": 4
+      },
+      {
+        "title": "Sistema Anglo on Instagram: \"Os melhores resultados de uma ...",
+        "link": "https://www.instagram.com/reel/DbEUgT6leHM/",
+        "snippet": "... material didático de excelência, o Sistema Anglo atua como um ... VITÓRIA IMPORTANTE CAMPANHA 7 MESES... RESULTADO 364 Rematrículas ...",
+        "date": "há 3 dias",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

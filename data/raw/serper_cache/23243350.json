@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "23243350",
+  "NO_ENTIDADE": "FARIAS BRITO JOVEM SEIS BOCAS COLEGIO",
+  "cidade": "Fortaleza",
+  "query": "\"FARIAS BRITO JOVEM SEIS BOCAS COLEGIO\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"FARIAS BRITO JOVEM SEIS BOCAS COLEGIO\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-CE.2.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões · Apostilas do PIC ... P, FORTALEZA, CE, ---, Sim. TOBIAS GABRIEL UTZ, FARIAS BRITO JOVEM SEIS BOCAS ...",
+        "position": 1
+      },
+      {
+        "title": "Premiados OBF/2025 da 2ª Série",
+        "link": "https://www1.fisica.org.br/olimpiada/2025/index.php/programa-obf/16-obf/388-premiados-obf-2025-da-2-serie",
+        "snippet": "FARIAS BRITO JOVEM SEIS BOCAS COLEGIO, CE, MENÇÃO HONROSA. CAUÃ ALVES PONTES ... NOVO COLÉGIO SISTEMA DE ENSINO DE FRANCA LTDA, SP, MENÇÃO HONROSA. RAFAEL ...",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2304400-fortaleza/busca",
+        "snippet": "ALTERNATIVO COLEGIO. VIRIATO RIBEIRO, 724. BELA VISTA. 60442642 Fortaleza - Ceará. Rede privada / Urbana · ALTERNATIVO SISTEMA DE ENSINO.",
+        "position": 3
+      },
+      {
+        "title": "Premiados OBF/2025 da 1ª Série",
+        "link": "https://app.graxaim.org/obf/2025/open_page/quadro_de_medalhas_1s",
+        "snippet": "COLÉGIO MILITAR DE FORTALEZA, CE, MEDALHA DE OURO. ISAAC VICTOR DE ARAUJO ... FARIAS BRITO JOVEM SEIS BOCAS COLEGIO, CE, MEDALHA DE BRONZE. MIGUEL MELO DIAS ...",
+        "position": 4
+      },
+      {
+        "title": "RESULTADO POR REGIÃO",
+        "link": "https://ceara.obquimica.org/storage/files/resultado-do-i-quimeninas-2023-9-ano-ef.pdf",
+        "snippet": "FARIAS BRITO JOVEM SEIS BOCAS COLEGIO. CEARÁ. FORTALEZA. BRONZE. 43. 1704439 LUNA ... SISTEMA DE ENSINO PHYSICS AMAPÁ LTDA. AMAPÁ. MACAPÁ. PRATA. 25. 1698188 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "52033295",
+  "NO_ENTIDADE": "COLEGIO DINAMICO",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO DINAMICO\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DINAMICO\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Dinâmico on Instagram: \"O Colégio Dinâmico é um ...",
+        "link": "https://www.instagram.com/reel/DQVA9KrjXA7/",
+        "snippet": "... GOIÂNIA Resultados que refletem propósito. Excelência que transforma ... Sistema de Ensino 7o ano 4 ensina muito além do conteúdo; 5 ...",
+        "date": "há 9 meses",
+        "position": 1
+      },
+      {
+        "title": "Goiana, que dia histórico!!! 💙🚀 A chegada da Dulino com o ...",
+        "link": "https://www.instagram.com/p/DRxsSfKkXiC/",
+        "snippet": "No Colégio Dinâmico, acreditamos que a transformação extraordinária é fruto de uma rotina intencional. ... Goiânia. Mais do que um evento ...",
+        "date": "há 7 meses",
+        "position": 2
+      },
+      {
+        "title": "Em 2026, o Colégio Metropolitano Jardins passa a utilizar o ...",
+        "link": "https://www.facebook.com/colegiometropolitanogoiania/videos/em-2026-o-col%C3%A9gio-metropolitano-jardins-passa-a-utilizar-o-sas-educa%C3%A7%C3%A3o-uma-plat/1384108283195058/",
+        "snippet": "Colégio Metropolitano -Goiânia. Nov 25, 2025 . . Em 2026, o ... Usualmente o material didático é o primeiro guia que norteia o ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio Dinâmico on Instagram: \"O futuro do seu filho começa ...",
+        "link": "https://www.instagram.com/reel/DRiJB4fEjO3/",
+        "snippet": "O futuro do seu filho começa com uma escolha: um lugar onde ele é acolhido, estimulado e preparado para ir além. O Colégio Dinâmico está com ...",
+        "date": "há 8 meses",
+        "position": 4
+      },
+      {
+        "title": "Melhores Materiais Didáticos e Sistemas de Ensino",
+        "link": "https://www.tiktok.com/@salvatore.saggio/video/7503283491606400262",
+        "snippet": "Qual material didático / sistema de ensino é melhor? (na minha ... Colégio Dinâmico, promovendo alta performance acadêmica. Últimas ...",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

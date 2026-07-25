@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35441995",
+  "NO_ENTIDADE": "FOUR C BILINGUAL ACADEMY",
+  "cidade": "Bauru",
+  "query": "\"FOUR C BILINGUAL ACADEMY\" \"Bauru\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"FOUR C BILINGUAL ACADEMY\" \"Bauru\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Angela Edilaine Lemos de Campos",
+        "link": "https://www.escavador.com/sobre/8322335/angela-edilaine-lemos-de-campos",
+        "snippet": "... material didático, Livro de Educação Infantil ... (Carga horária: 3h). , Four C Bilingual Academy, FCA, Brasil. ... JORNAL DA CIDADE DE BAURU, BAURU, 09 set. 2014 ...",
+        "position": 1
+      },
+      {
+        "title": "Grátis: listadeinscritos2016 - Material Claro e Objetivo em ...",
+        "link": "https://www.passeidireto.com/arquivo/118380696/listadeinscritos-2016",
+        "snippet": "... Bauru Colégio Dinâmico Vestibulares Ivan Prearo 1ª Bauru CTI - Colégio Técnico Industrial Prof. ... Four C Bilingual Academy Julia de Lima ...",
+        "date": "24 de fev. de 2023",
+        "position": 2
+      },
+      {
+        "title": "Premiação Regional de Alunos - Escolas Públicas ...",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosRegionalPorNivel-SP.3.privada.do.htm",
+        "snippet": "FOUR C BILINGUAL ACADEMY, P, BAURU, SP, Ouro. GABRIEL CORDEIRO CORREA SILVA ... ANGLO SISTEMA DE ENSINO, P, TATUI, SP, Bronze. ARTHUR CORREIA BONI, OBJETIVO VILA ...",
+        "position": 3
+      },
+      {
+        "title": "Sabrina Pereira Soares Basso - Professora de Ciências",
+        "subtitle": "Campinas, São Paulo, Brasil · Professora de Ciências · Prefeitura Municipal de Itatiba",
+        "link": "https://br.linkedin.com/in/sabrina-pereira-soares-basso-8b628936",
+        "snippet": "... Bauru, professora de Ciências em uma escola particular que utiliza as ... Professora do Ciclo Primário I. Four C Bilingual Academy. jan. de 2009 - dez ...",
+        "position": 4
+      },
+      {
+        "title": "Análise de compreensão de texto escrito em língua inglesa ...",
+        "link": "https://scispace.com/pdf/analise-de-compreensao-de-texto-escrito-em-lingua-inglesa-4tgl247208.pdf",
+        "snippet": "Alinne da Silva Rios is an English teacher at Four C Bilingual Academy in Bauru/SP. She holds a Specialization in Foreign Language Teaching from USC – Bauru/SP.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

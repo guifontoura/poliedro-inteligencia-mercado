@@ -1,0 +1,37 @@
+{
+  "codigo_escola": "41138430",
+  "NO_ENTIDADE": "BOM JESUS SAO JOSE DOS PINHAIS COL EDUC INFANTIL ENSINO FUNDAMENTAL E MEDIO",
+  "cidade": "São José dos Pinhais",
+  "query": "\"BOM JESUS SAO JOSE DOS PINHAIS COL EDUC INFANTIL ENSINO FUNDAMENTAL E MEDIO\" \"São José dos Pinhais\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"BOM JESUS SAO JOSE DOS PINHAIS COL EDUC INFANTIL ENSINO FUNDAMENTAL E MEDIO\" \"São José dos Pinhais\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "RESULTADO POR REGIÃO",
+        "link": "https://ceara.obquimica.org/storage/files/resultado-do-i-quimeninas-2023-9-ano-ef.pdf",
+        "snippet": "BOM JESUS SAO JOSE DOS PINHAIS COL EDUC INFANTIL ENSINO FUNDAMENTAL E MEDIO. PARANÁ. SÃO JOSÉ DOS PINHAIS. PRATA. 24. 1716099 JULIA GUIMARÃES SOUZA DE BEM.",
+        "position": 1
+      },
+      {
+        "title": "2014",
+        "link": "https://enem.cneceduca.com.br/2014?p=29",
+        "snippet": "Bom Jesus Sao Jose dos Pinhais Col Educ Infantil Ensino Fundamental E Medio, Privada, São José dos Pinhais ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line ...",
+        "position": 2
+      },
+      {
+        "title": "LISTA DE APROVADOS OBB 2018",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/arquivos/provas_gabaritos_classificacoes/OBB_2018/Lista%20Aprovados%20OBB%202018%201a%20Fase.pdf",
+        "snippet": "BOM JESUS SAO JOSE DOS PINHAIS COL EDUC INFANTIL ENSINO FUNDAMENTAL E MEDIO. 20. SÃO JOSÉ DOS PINHAIS. BRIAN CARLOS SILVA. COLEGIO SESI PARANA BANDEIRANTES. 19.",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

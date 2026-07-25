@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "50007718",
+  "NO_ENTIDADE": "COLEGIO ALMIRANTE TAMANDARE",
+  "cidade": "Campo Grande",
+  "query": "\"COLEGIO ALMIRANTE TAMANDARE\" \"Campo Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ALMIRANTE TAMANDARE\" \"Campo Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Campo Grande-EB – Conselho Estadual de Educação",
+        "link": "https://www.cee.ms.gov.br/atos-normativos-educacao-basica-campo-grande/",
+        "snippet": "CCAT – Colégio e Curso Almirante Tamandaré anteriormente COLÉGIO ALMIRANTE TAMANDARÉ ... S.E.U Sistema de Ensino Unificado · SEALP – Educação Infantil, Ensino ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio CCAT (@colegioccat) · Campo Grande, MS",
+        "link": "https://www.instagram.com/colegioccat/",
+        "snippet": "✨ Parabéns, Campo Grande! ✨ Hoje celebramos a nossa querida Cidade Morena, terra de belezas, cultura e povo acolhedor. ☀️ O Colégio Almirante Tamandaré ...",
+        "position": 2
+      },
+      {
+        "title": "Participei da Culminância das Eletivas 2026 do Colégio ...",
+        "link": "https://www.instagram.com/reel/DaQbO7qxjko/",
+        "snippet": "... Colégio Almirante Tamandaré – Paraná Integral, ao lado do vereador ... Campo Grande, em Estância Velha. Ele levou o neto Francisco Link ...",
+        "date": "há 3 semanas",
+        "position": 3
+      },
+      {
+        "title": "Enem 2024: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.bernoulli.com.br/quem-somos/acontece-no-bernoulli/enem-conheca-as-15-escolas-com-as-maiores-notas-por-estado/",
+        "snippet": "Farina Sistema de Ensino – Cuiabá – Unidade: Jardim Guanabara – Nota ... Colégio Classe A – Campo Grande – Unidade: Monte Castelo – Nota: 761,9 ...",
+        "date": "11 de jul. de 2025",
+        "position": 4
+      },
+      {
+        "title": "Alaíde Aparecida Ricardo Rodrigues - Processos",
+        "link": "https://www.jusbrasil.com.br/processos/nome/38179334/alaide-aparecida-ricardo-rodrigues",
+        "snippet": "Processo nº 0820790-88.2021.8.12.0110. Colégio Almirante Tamandaré LTDA x Veronica Duarte Takei Hamamoto. TJMS · Campo Grande, MS. Cível · Estabelecimentos de ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

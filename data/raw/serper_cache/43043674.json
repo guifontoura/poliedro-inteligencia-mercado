@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "43043674",
+  "NO_ENTIDADE": "COLEGIO LA SALLE - CARMO",
+  "cidade": "Caxias do Sul",
+  "query": "\"COLEGIO LA SALLE - CARMO\" \"Caxias do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LA SALLE - CARMO\" \"Caxias do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Material didático da Positivo já pode ser adquirido",
+        "link": "https://lasalle.edu.br/carmo/sobre-o-colegio/noticia-detalhe/12085",
+        "snippet": "O Colégio La Salle Carmo informa que está disponível para aquisição o material didático da Editora Positivo. Fazendo o pedido até 21 de ...",
+        "date": "7 de dez. de 2017",
+        "position": 1
+      },
+      {
+        "title": "Depois da chegada ao Brasil, os primeiros Irmãos Lassalistas ...",
+        "link": "https://www.instagram.com/reel/DaVwzJHjCqH/",
+        "snippet": "... Caxias do Sul. As escolas surgiam aos poucos, muitas vezes em ... O Colégio La Salle Carmo sedia hoje o Encontro de Lideranças Jovens ...",
+        "date": "há 3 semanas",
+        "position": 2
+      },
+      {
+        "title": "A Província La Salle Brasil-Chile celebrou, no dia 12 de ...",
+        "link": "https://www.instagram.com/p/DXH-0uBDeTq/",
+        "snippet": "O Colégio La Salle Carmo sedia hoje o Encontro de Lideranças Jovens, promovido pela Comissão de Cultura e Educação da Diocese de Caxias do Sul.",
+        "date": "há 3 meses",
+        "position": 3
+      },
+      {
+        "title": "⭐️ Em sintonia com a Família Lassalista no mundo todo, a ...",
+        "link": "https://www.instagram.com/reel/DUTASUrDXSv/",
+        "snippet": "O Colégio La Salle Carmo sedia hoje o Encontro de Lideranças Jovens, promovido pela Comissão de Cultura e Educação da Diocese de Caxias do Sul.",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "Rede La Salle - o conhecimento emociona - La Salle Abel",
+        "link": "https://www.soulasalle.com.br/carmo/sobre-o-colegio/noticia-detalhe/7017",
+        "snippet": "... material didático. Partindo do conto clássico da ... Como atividade de culminância da unidade do material didático ... Colégio La Salle Carmo. Rua Os 18 do Forte, ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

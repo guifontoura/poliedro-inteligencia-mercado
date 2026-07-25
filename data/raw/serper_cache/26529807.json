@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "26529807",
+  "NO_ENTIDADE": "COLEGIO E CURSO CP",
+  "cidade": "Jaboatão dos Guararapes",
+  "query": "\"COLEGIO E CURSO CP\" \"Jaboatão dos Guararapes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO E CURSO CP\" \"Jaboatão dos Guararapes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2607901-jaboatao-dos-guararapes/busca",
+        "snippet": "AREA COLEGIO E CURSO SISTEMA DE ENSINO. AV UM, 103. CURADO. 54270090 Jaboatão dos Guararapes - Pernambuco. Rede privada / Urbana · ASSOC EDUC INST CONSTRUINDO O ...",
+        "position": 1
+      },
+      {
+        "title": "Procon-jg - Jurisprudência",
+        "link": "https://www.jusbrasil.com.br/jurisprudencia/busca?q=procon-jg",
+        "snippet": "... JABOATÃO DOS GUARARAPES RECORRIDO: COLÉGIO E CURSO C P LTDA RELATOR: Des. ... material didático complementar. II. Questão em ... Jaboatão dos Guararapes Juiza ...",
+        "position": 2
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... JABOATAO DOS GUARARAPES. Privada. COLEGIO E CURSO CP. 615,90. 604,40. 645 ... SISTEMA DE ENSINO. 602,62. 569,40. 659,60. 576,29. 605,18. 589,26.",
+        "date": "22 de dez. de 2014",
+        "position": 3
+      },
+      {
+        "title": "Apesar de novo piso, salário de professor continua baixo",
+        "link": "https://exame.com/brasil/apesar-de-novo-piso-salario-de-professor-continua-baixo/",
+        "snippet": "SISTEMA DE ENSINO MESON PI, 551,33, 653,47. 30º, PARAUAPEBAS, Privada ... COLEGIO E CURSO CP, 615,90, 642,07. 16º, LIMOEIRO, Privada, 3º MILENIO ...",
+        "date": "7 de jan. de 2015",
+        "position": 4
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. AL. Maceió. Certficado LAYLA MICHELE ... COLEGIO E CURSO CP. PE. Jaboatão dos Guararapes. Certficado SARA PERRONI ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

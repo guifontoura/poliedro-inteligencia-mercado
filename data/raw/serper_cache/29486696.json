@@ -1,0 +1,18 @@
+{
+  "codigo_escola": "29486696",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL OPCAO",
+  "cidade": "Vitória da Conquista",
+  "query": "\"CENTRO EDUCACIONAL OPCAO\" \"Vitória da Conquista\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL OPCAO\" \"Vitória da Conquista\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [],
+    "credits": 1
+  }
+}

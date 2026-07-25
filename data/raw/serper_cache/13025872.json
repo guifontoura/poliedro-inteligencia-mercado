@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "13025872",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL LATO SENSU",
+  "cidade": "Manaus",
+  "query": "\"CENTRO EDUCACIONAL LATO SENSU\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL LATO SENSU\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Você já conhece o semi-integral do Lato? ✏️✨ Com foco ...",
+        "link": "https://www.instagram.com/p/DJSbYyutvNd/",
+        "snippet": "... (Manaus) 17h30 (Rio Branco) 19h30 (Belém) Participe pelo perfil ... Sistema de Ensino. colegiolatosensuriobranco's profile picture.",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Ac24horas on Instagram: \"Durante entrevista ao programa Bar ...",
+        "link": "https://www.instagram.com/reel/DUl-5g5lZEm/",
+        "snippet": "... material didático de qualidade. #bardovaz # ... O debate se amplia pelo valor das mensalidades em Manaus, semelhantes ou superiores às de ...",
+        "date": "há 5 meses",
+        "position": 2
+      },
+      {
+        "title": "Encerrando um lindo ciclo! Os alunos do 9º ano finalizam ...",
+        "link": "https://www.instagram.com/reel/DSqBKaTEZ9F/",
+        "snippet": "O Sistema de Ensino SEI Incentivo conquistou o 1º lugar entre as ... MANAUS Figue Ligado Manaus Fique Ligado @manausfiqueligado DISPUTA ...",
+        "date": "há 7 meses",
+        "position": 3
+      },
+      {
+        "title": "Viralizou um vídeo na web citando as melhores escolas do ...",
+        "link": "https://www.instagram.com/reel/DVTik0TDtl0/",
+        "snippet": "E em primeiríssimo lugar, o sistema de ensino Equipe do Pará ... Manaus) 695,51 3º Centro Educacional Lato Sensu III (Santo Agostinho ...",
+        "date": "há 4 meses",
+        "position": 4
+      },
+      {
+        "title": "Turismo e aprendizado são combinados na dose certa",
+        "link": "https://jcam.com.br/noticias/turismo-e-aprendizado-sao-combinados-na-dose-certa/",
+        "snippet": "Aliando turismo e prática da língua inglesa, a empresa, que atua há 20 anos na área de intercâmbios, realizou parceria com o Centro Educacional Lato Sensu ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "26122359",
+  "NO_ENTIDADE": "COLEGIO AUXILIADORA",
+  "cidade": "Recife",
+  "query": "\"COLEGIO AUXILIADORA\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO AUXILIADORA\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ensino Médio - salesianas auxiliadora recife",
+        "link": "https://colegioauxiliadora.com.br/segmento/medio/",
+        "snippet": "No ensino médio, adotamos uma abordagem que combina o material didático ... Recife/PE - CEP: 52171-011 (81) 3222-3912 / (81) 3222-4097 secretaria ...",
+        "position": 1
+      },
+      {
+        "title": "salesianas auxiliadora recife",
+        "link": "https://colegioauxiliadora.com.br/wp-content/uploads/2024/01/3o-ano-_Lista-de-materiais_Anos-Iniciais-1.pdf",
+        "snippet": "CAMBRIDGE. MATERIAL DIDÁTICO – ROBÓTICA. ROBÔ CIÊNCIA 3 ANO- ALBERT EINSTEIN. Page 2. Rede Salesiana de Escolas – Colégio Auxiliadora. CNPJ: 10.809.838/0002-65 ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio Completude on Instagram: \"No Colégio Completude ...",
+        "link": "https://www.instagram.com/reel/DOoyA_eDYK_/",
+        "snippet": "SOMOS A MELHOR ESCOLA NO ENEM DA ZONA OESTE DO RECIFE 8º LUGAR NO RECIFE ... Colegio Auxiliadora Recife/PE 638,6 23 7° Cfi-colegio De ...",
+        "date": "há 10 meses",
+        "position": 3
+      },
+      {
+        "title": "Estamos contando os dias para reencontrar ...",
+        "link": "https://www.instagram.com/p/DMh0Bj7S3wr/",
+        "snippet": "... apostila de férias com muito carinho. Ela ajuda a manter o ritmo dos ... Recife/PE 643,2 19 5° Colegio Logos Recife/PE 641,9 17 6 ...",
+        "date": "há 12 meses",
+        "position": 4
+      },
+      {
+        "title": "salesianas auxiliadora recife",
+        "link": "https://colegioauxiliadora.com.br/wp-content/uploads/2024/01/6o-ano-_Lista-de-materiais_Anos-Finais.pdf",
+        "snippet": "Sendo assim, haverá somente esta opção na vitrine da loja do Colégio Auxiliadora Recife. ... MATERIAL DIDÁTICO: ROBÔ CIÊNCIA ANOS FINAIS 6 ANO - ADA LOVELACE.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

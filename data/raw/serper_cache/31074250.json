@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31074250",
+  "NO_ENTIDADE": "COLEGIO NOSSA SENHORA DO CARMO",
+  "cidade": "Juiz de Fora",
+  "query": "\"COLEGIO NOSSA SENHORA DO CARMO\" \"Juiz de Fora\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NOSSA SENHORA DO CARMO\" \"Juiz de Fora\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosMencao-MG.2.privada.do.htm",
+        "snippet": "COLEGIO NOSSA SENHORA DO CARMO, P, JUIZ DE FORA, MG, Sim. LETICIA MATOS BOGADO, INST N SRA DO CARMO, P, CATAGUASES, MG, Sim. MARIA FERNANDA SILVA LAMOUNIER ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "https://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/minas-gerais/",
+        "snippet": "ATUAL SISTEMA DE ENSINO, SABINOPOLIS, MG, Privada, 80% ou mais, Alto ... COLEGIO NOSSA SENHORA DO CARMO, BORDA DA MATA, MG, Privada, De 60% a 80 ...",
+        "date": "5 de ago. de 2015",
+        "position": 2
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO DOS ... COLEGIO NOSSA SENHORA DO CARMO. MINAS GERAIS. Viçosa. Natáilia Pereira ...",
+        "position": 3
+      },
+      {
+        "title": "ENEM ESCOLA Page 1 SIGLA NO_MUNICIPIO ...",
+        "link": "http://fw.atarde.com.br/2012/11/1293042.pdf",
+        "snippet": "... SISTEMA DE ENSINO LTDA. Privada. 487,1512195 514,9707317 553,6134146 539 ... COLEGIO NOSSA SENHORA DO CARMO. Privada. 529,6461538 535,7461538 577,3923077 ...",
+        "position": 4
+      },
+      {
+        "title": "Planilha1 - Portal Gov.br",
+        "link": "https://www.gov.br/mec/pt-br/assuntos/eb/programa-educacao-e-familia/pdf/ListadeescolasqueenviaramoPlanodeAoatodia22072022_elaboradaem26jul22.xlsx/@@download/file",
+        "snippet": "... Juiz de Fora, 3136702, 31068683, EE DUARTE DE ABREU, Estadual. 819, MG, Itambé do ... SISTEMA DE ENSINO DOS COLEGIOS DA POLICIA MILITAR, Municipal. 5499, BA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35143352",
+  "NO_ENTIDADE": "CIDADE DE ITU COLEGIO",
+  "cidade": "Itu",
+  "query": "\"CIDADE DE ITU COLEGIO\" \"Itu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CIDADE DE ITU COLEGIO\" \"Itu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas no Ensino Médio em Itu Novo Centro - Itú - SP",
+        "link": "https://querobolsa.com.br/escolas/etapa-de-ensino/ensino-medio/itu-sp/itu-novo-centro",
+        "snippet": "Itu Novo Centro. Escolas no Ensino Médio em Itu Novo Centro - Itú - SP ... cidade de itu colegio · carolina de moraes macedo ... Material Didático Incluso. Infantil ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas em Vila Nova - Itú - SP",
+        "link": "https://www.melhorescola.com.br/busca/sao-paulo/itu/vila-nova",
+        "snippet": "cidade de itu colegio; carolina de moraes macedo profa eee ef; recanto do bebe ... Sistema De Ensino Colegio. Sem avaliações. Vila Nova - Itu - SP. Saiba ...",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3523909-itu/busca",
+        "snippet": "CIDADE DE ITU COLEGIO. INDEPENDENCIA, 151 - PRACA. CENTRO. 13300063 Itu - São ... SISTEMA DE ENSINO COLEGIO. SILVIO FLEMING CAPITAO, 331 - RUA. VILA NOVA ...",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.1.privada.do.htm",
+        "snippet": "ANGLO SISTEMA DE ENSINO, P, TATUI, SP, ---, Sim. IAN MAZZUCATTO PUCINELI ... CIDADE DE ITU COLEGIO, P, ITU, SP, ---, Sim. VINNY RIBEIRO DE ANDRADE, UNIDADE DE ...",
+        "position": 4
+      },
+      {
+        "title": "Escolas no Ensino Médio na cidade de Itú - SP",
+        "link": "https://querobolsa.com.br/escolas/etapa-de-ensino/ensino-medio/itu-sp",
+        "snippet": "cidade de itu colegio · carolina de moraes macedo profa eee ef · recanto do bebe ... Material Didático Incluso. Vagas 2026. Vagas 2026. R$ 2.847,94. R$ 1.993 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "52034046",
+  "NO_ENTIDADE": "COLEGIO PREVEST",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO PREVEST\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PREVEST\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Há 36 anos sendo REFERÊNCIA em Goiânia. Venha ser ...",
+        "link": "https://www.instagram.com/reel/DSYgO70jiSX/",
+        "snippet": "Além disso o Colégio Prevest tem um diferencial. ... material didático completo e atualizado, além de uma metodologia focada em resultados.",
+        "date": "há 7 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Prevest (@Prevest.Goias) - Mentions",
+        "link": "https://www.facebook.com/Prevest.Goias/mentions/",
+        "snippet": "Colégio Prevest, Goiânia. 23287 likes · 2 talking ... Colégio Prevest is at Colegio Prevest. Oct ... material didático! Venha para o Colégio Prevest ...",
+        "position": 2
+      },
+      {
+        "title": "Colegio Prevest Sistema de Ensino Modelo LTDA ...",
+        "link": "https://cnpj.biz/37022142000160",
+        "snippet": "A empresa Colegio Prevest de CNPJ 37.022.142/0001-60, fundada em 11/10/1991 e com razão social Sistema de Ensino Modelo LTDA, está localizada na cidade Goiânia ...",
+        "position": 3
+      },
+      {
+        "title": "colegioprevest",
+        "link": "https://www.instagram.com/colegioprevest/reels/",
+        "snippet": "Há 36 anos sendo REFERÊNCIA em Goiânia. Venha ser Prevest, onde os melhores se encontram! ✓ ...",
+        "position": 4
+      },
+      {
+        "title": "Centro de Referência Educacional Prevest on Instagram: \"Um ...",
+        "link": "https://www.instagram.com/reel/DZ2Z82YugIZ/",
+        "snippet": "... Goiânia we completed thirty-seven years of Colégio Prevest. OCR ... Areia Branca Centro de Eventos ARRAIÁ SEV Sistema de Ensino ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

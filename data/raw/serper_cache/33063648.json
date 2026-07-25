@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "33063648",
+  "NO_ENTIDADE": "COLEGIO SAO VICENTE DE PAULO",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO SAO VICENTE DE PAULO\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAO VICENTE DE PAULO\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Desigualdade-racial-nas-escolas-privadas-de-alto ... - gemaa",
+        "link": "https://gemaa.iesp.uerj.br/wp-content/uploads/2021/05/Desigualdade-racial-nas-escolas-privadas-de-alto-desempenho-v2-1.pdf",
+        "snippet": "de LA CAMPOS · Citado por 4 — Esse nível de segregação se repete nas duas principais capitais brasileiras: São Paulo e. Rio de Janeiro. ... AEVSLM COLEGIO SAO VICENTE DE PAULO. CE BALAO ...",
+        "position": 1
+      },
+      {
+        "title": "OBMEP 2019 - Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/2019/verRelatorioPremiadosGeral-RJ.3.privada.do.htm",
+        "snippet": "COLEGIO SAO VICENTE DE PAULO, P, RIO DE JANEIRO, RJ, ---, Sim. GABRIEL FERNANDES ... SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Bronze, ---.",
+        "position": 2
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "COLEGIO SAO VICENTE DE PAULO 112 Rio de Janeiro RJ PENTAGONO COLEGIO UNIDADE ... SEI - SISTEMA DE ENSINO INTERATIVO 26 Rio de Janeiro RJ COLEGIO ...",
+        "position": 3
+      },
+      {
+        "title": "Rio de Janeiro 4912 escolas",
+        "link": "https://qedu.org.br/municipio/3304557-rio-de-janeiro/busca",
+        "snippet": "... Rio de Janeiro - RJ. Rede privada / Urbana · COLEGIO SAO VICENTE DE PAULO. COSME VELHO, 241. COSME VELHO. 22241125 Rio de Janeiro - Rio de Janeiro. Rede privada ...",
+        "position": 4
+      },
+      {
+        "title": "Etapa I fase 2",
+        "link": "https://ole.uff.br/wp-content/uploads/sites/392/2021/09/OBRAC-2021-Etapa-I-fase-2-ETAPA-I-FASE-2-prova-te%C3%B3rica-online-notas-Divulga%C3%A7%C3%A3o-09-09.pdf",
+        "snippet": "Instituto Federal do Rio de Janeiro - Campus Pinheiral. Juliana de Oliveira ... 1766655201A SISTEMA DE ENSINO EQUIPE - PORTO TROMBETAS. JOSE RIBAMAR ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

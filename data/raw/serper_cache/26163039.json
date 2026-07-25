@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "26163039",
+  "NO_ENTIDADE": "COLEGIO GGE",
+  "cidade": "Recife",
+  "query": "\"COLEGIO GGE\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO GGE\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Lista de Material Didático para o Ensino Médio do Colégio ...",
+        "link": "https://gge.com.br/web/lista-de-material-didatico-para-o-ensino-medio-do-colegio-gge-em-2021/",
+        "snippet": "Confira a seguir a lista de material didático do Ensino Médio do Colégio GGE para 2021: ... Recife participa da Olimpíada Internacional de Matemática ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio GGE chega em João Pessoa oferecendo ensino com ...",
+        "link": "https://g1.globo.com/pb/paraiba/especial-publicitario/gge/preparacao-para-a-vida/noticia/2022/10/20/colegio-gge-chega-em-joao-pessoa-oferecendo-ensino-com-material-didatico-proprio-que-se-destaca-em-recursos-multimidia.ghtml",
+        "snippet": "Colégio GGE lança coleção Ludus, material didático voltado para crianças e que também possui recursos tecnológicos ... Recife e região.",
+        "date": "20 de out. de 2022",
+        "position": 2
+      },
+      {
+        "title": "Colégio GGE – Clube Simepe",
+        "link": "https://clubesimepe.com.br/clube/colegio-gge/",
+        "snippet": "Colégio GGE. O Colégio GGE se destaca ... Recife. 4 item(ns). Space Car - Martelinho de Ouro ... 20% mensalidade / 25% material didático / 30% matrícula.",
+        "position": 3
+      },
+      {
+        "title": "Sócios-diretores do Colégio GGE em João Pessoa",
+        "link": "https://www.rcvips.com.br/rc-vips/socios-diretores-do-colegio-gge-em-joao-pessoa/",
+        "snippet": "O Colégio GGE é uma rede educacional consolidada em Pernambuco que possui cinco unidades de ensino (quatro em Recife e uma em Caruaru), mais ...",
+        "date": "14 de mar. de 2022",
+        "position": 4
+      },
+      {
+        "title": "Colégio GGE Chega Em João Pessoa Com Ferramenta Que ...",
+        "link": "https://sindaopcpb.org.br/index.php/2022/10/19/colegio-gge-chega-em-joao-pessoa-com-ferramenta-que-mede-com-precisao-o-aprendizado-do-aluno/",
+        "snippet": "Colégio GGE chega em João Pessoa com ferramenta que ... Recife e uma em Caruaru. Para medir se o ... material didático desenvolvido pela instituição.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

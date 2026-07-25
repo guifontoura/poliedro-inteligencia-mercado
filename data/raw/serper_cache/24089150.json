@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "24089150",
+  "NO_ENTIDADE": "OVER COLEGIO E CURSO",
+  "cidade": "Mossoró",
+  "query": "\"OVER COLEGIO E CURSO\" \"Mossoró\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"OVER COLEGIO E CURSO\" \"Mossoró\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Over fará Plantão de Matrículas dia 6 de março",
+        "link": "https://colegioecursoover.com.br/over-fara-plantao-de-matriculas-dia-6-de-marco/",
+        "snippet": "Over Colégio e Curso ... Mossoró e João Pessoa. Professores irão até os ... Uma oportunidade para tirar dúvidas sobre aporte pedagógico, metodologia, monitoria, ...",
+        "position": 1
+      },
+      {
+        "title": "e pode valer uma bolsa no Over. 🚀 Estão abertas as ...",
+        "link": "https://www.instagram.com/p/DT_de2ljcBQ/",
+        "snippet": "... Mossoró Inscreva-se no link da bio e venha transformar seu futuro ... Photo by Over Colégio e Curso on January 26, 2026. 28 likes.",
+        "date": "há 5 meses",
+        "position": 2
+      },
+      {
+        "title": "Over Colégio e Curso - Valor Material Escolar",
+        "link": "https://www.reclameaqui.com.br/over-colegio-e-curso/over-colegio-e-curso-valor-material-escolar_WA0oa5oCuyaUZtIk/",
+        "snippet": "Over Colégio e Curso - Valor Material Escolar ... A escola pode te obrigar a comprar o material didático deles? ... Aguardo retorno para que possa comprar o ...",
+        "position": 3
+      },
+      {
+        "title": "Manual do Aluno - Over Colégio e Curso | PDF | Pedagogia",
+        "link": "https://pt.scribd.com/document/716135407/GUIA-DO-ALUNO-OVER-Ensino-Medio",
+        "snippet": "material didático é de responsabilidade exclusiva do aluno, não estando, ... Over Cursinho Und Lagoa Nova I Over Mossoró Av. Nasc. de Castro, Av. Lima e ...",
+        "position": 4
+      },
+      {
+        "title": "Valores dos Livros e Materiais Didáticos Adotados pela ...",
+        "link": "https://peticaopublica.com.br/pview.aspx?pi=BR127123",
+        "snippet": "... Material Didático e Livros do 3° ano do Fundamental, são mais de 30% menores e com valores muito próximos entre elas, como por exemplo: a ...",
+        "date": "19 de set. de 2022",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

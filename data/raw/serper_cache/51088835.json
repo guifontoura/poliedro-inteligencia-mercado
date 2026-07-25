@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "51088835",
+  "NO_ENTIDADE": "FARINA SISTEMA DE ENSINO",
+  "cidade": "Cuiabá",
+  "query": "\"FARINA SISTEMA DE ENSINO\" \"Cuiabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"FARINA SISTEMA DE ENSINO\" \"Cuiabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "FARINA SISTEMA DE ENSINO",
+        "link": "https://qedu.org.br/escola/51088835-farina-sistema-de-ensino",
+        "snippet": "Mato Grosso Cuiabá. Farina Sistema De Ensino. FARINA SISTEMA DE ENSINO. Escola Privada. Mato Grosso / Cuiabá. Tempo Integral. Escola com educação em tempo ...",
+        "position": 1
+      },
+      {
+        "title": "FARINA SISTEMA DE ENSINO - Alunos classificados para ...",
+        "link": "https://resultado.onciencias.org/resultado-final-onc2020/MT/Cuiab%C3%A1/Cl1qVAQHCwsEOmI5Y2Y0YjM1",
+        "snippet": "FARINA SISTEMA DE ENSINO - Alunos classificados para a 2ª FASE da ONC 2020 ... FARINA SISTEMA DE ENSINO. Município/Estado: Cuiabá/MT. MEDALHA ...",
+        "position": 2
+      },
+      {
+        "title": "Farina Sistema de Ensino 08227994000195 Cuiabá",
+        "link": "https://cnpj.biz/08227994000195",
+        "snippet": "Farina Sistema de Ensino Sidney Farina - Sistema Vip de Ensino Medio e Pre ... Farina Sistema de Ensino localizada em Cuiabá/MT. Qual a razão social da ...",
+        "position": 3
+      },
+      {
+        "title": "Olha só o que chegou pro Farina! 👇🏻 Alguns dos muitos ...",
+        "link": "https://www.instagram.com/reel/DFgbTtBuJJc/",
+        "snippet": "Cuiabá FARINA SISTEMA DE ENSINO CUIABÁ 307 Anos ESCOLA DO FARINA ... material didático e principalmente também os professores. O que mais ...",
+        "date": "há 1 ano",
+        "position": 4
+      },
+      {
+        "title": "Escola do Farina concede 30% de desconto nas ...",
+        "link": "https://www.caamt.com.br/noticia/escola-do-farina-concede-30-de-desconto-nas-mensalidades",
+        "snippet": "Com o sistema I Tiger – exclusivo do Farina Sistema de Ensino -, o estudante pode assistir às aulas das disciplinas e ter acesso aos demais ...",
+        "date": "21 de out. de 2016",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

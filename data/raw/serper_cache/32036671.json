@@ -1,0 +1,55 @@
+{
+  "codigo_escola": "32036671",
+  "NO_ENTIDADE": "ESCOLA MULTIPLA",
+  "cidade": "Serra",
+  "query": "\"ESCOLA MULTIPLA\" \"Serra\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA MULTIPLA\" \"Serra\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "2025 chegou com muitas novidades no nosso material ...",
+        "link": "https://www.instagram.com/reel/DGQ4DbhP9hs/",
+        "snippet": "ltipn Esse ano, a Escola Múltipla adotou 0 Sistema de Ensino PH, da editora SOMOS. . ... #baseforteparatodavida #serra #escolamúltipla #serra # ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Meu filho vai para o 1º ano… e agora? 🥹 É normal o ...",
+        "link": "https://www.instagram.com/p/DTxZ4DpAMwd/",
+        "snippet": "... serra # ... ESCOLA PIRLIMPIMPIM SISTEMA DE ENSINO COC VOLTA ÀS AULAS 2026 VI SEMANA DA CULTURA NORDESTINA ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Escola Múltipla on Instagram: \"Aqui, cada detalhe é pensado ...",
+        "link": "https://www.instagram.com/reel/DUVkA0UAAJ5/",
+        "snippet": "Seja bem-vindo à Escola Múltipla, a melhor de Serra! ... ✓ Sistema de ensino líder em aprovação e excelência nos conteúdos @saseducacao",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "Escolas Particulares em Serra/ES: Guia Prático para os Pais",
+        "link": "https://novacarapina2.org/escola-particular-serra-es/",
+        "snippet": "Colégio Americano Serra, Escola particular, Av. Eldes Scherrer Souza, 108 / (27) 3064-7801, Nenhuma avaliação. Escola Múltipla, Escola particular, Av. Paranavaí ...",
+        "rating": 4.9,
+        "ratingCount": 109,
+        "position": 4
+      },
+      {
+        "title": "Escola Múltipla on Instagram: \"Tem quem chegou agora ...",
+        "link": "https://www.instagram.com/reel/DUq6UQYEVJi/",
+        "snippet": "HÁ QUANTO TEMPO VOCÊ ESTUDA NA MELHOR ESCOLA DA SERRA? 9 anos 15 anos 2 semanas ESCOLA MÚLTIPLA. escolamultipla's profile picture ...",
+        "date": "há 5 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

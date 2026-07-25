@@ -1,0 +1,37 @@
+{
+  "codigo_escola": "25132598",
+  "NO_ENTIDADE": "COLEGIO BATISTA BRASIL - PRAIA - JOAO PESSOA",
+  "cidade": "João Pessoa",
+  "query": "\"COLEGIO BATISTA BRASIL - PRAIA - JOAO PESSOA\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BATISTA BRASIL - PRAIA - JOAO PESSOA\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2507507-joao-pessoa/busca",
+        "snippet": "COLEGIO BATISTA BRASIL - PRAIA - JOAO PESSOA. SENADOR RUY CARNEIRO, 1225 ... SISTEMA DE ENSINO FUNDAMENTAL E MEDIO LTDA - ME - COLEGIO DOM BOSCO JOAO ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Batista Brasil - Praia - João Pessoa",
+        "link": "https://escolas.com.br/colegio-batista-brasil-praia-joao-pessoa-25132598",
+        "snippet": "Colégio Batista Brasil - Praia - João Pessoa é uma escola particular em João ... Sistema de Ensino Conviver. Varadouro, João Pessoa-PB. Centro de ...",
+        "position": 2
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - João Pessoa",
+        "link": "https://qedu.org.br/municipio/2507507-joao-pessoa/distorcao-idade-serie",
+        "snippet": "COLEGIO BATISTA BRASIL - PRAIA - JOAO PESSOA. 1,3%. COLEGIO CEFA JR. 20 ... SISTEMA DE ENSINO PRIMEIROS PASSOS KIDS. 17,1%. SISTEMA EDUC GENIUS LTDA ...",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

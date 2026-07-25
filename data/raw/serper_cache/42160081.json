@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "42160081",
+  "NO_ENTIDADE": "GAIA CURSO E COLEGIO",
+  "cidade": "Florianópolis",
+  "query": "\"GAIA CURSO E COLEGIO\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"GAIA CURSO E COLEGIO\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Gaia",
+        "link": "https://gaiacursoecolegio.com.br/",
+        "snippet": "Material didático exclusivo. Tutoria e assistência. Proposta Pedagógica ... No dia 13 de junho, o Gaia Curso e Colégio realizou mais uma edição do Gaia ...",
+        "position": 1
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "GAIA CURSO E COLEGIO. SC. Florianópolis prata. LAURA BEZ MELO EL MESSANE ... COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. AL. Maceió. Certficado LAYLA MICHELE ...",
+        "position": 2
+      },
+      {
+        "title": "MENÇÕES HONROSAS",
+        "link": "https://obquimica.sertanustecnologia.com.br/arquivos/download/1986/RESULTADO%20-%20MEN%C3%87%C3%95ES%20HONROSAS.pdf",
+        "snippet": "FLORIANÓPOLIS. 1708821 ISYS VALENTINE ROSA DOS SANTOS. 1º ANO/EM. GAIA CURSO E COLEGIO. SANTA CATARINA. FLORIANÓPOLIS. 1653030 ISADORA PEDERSETTI. 1º ANO/EM.",
+        "position": 3
+      },
+      {
+        "title": "Menção Honrosa 9º Ano Fundamental | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/800285159/1729652725671867f5084ac-mencao-honrosa",
+        "snippet": "MARIANA VON DOKONAL MANOEL GAIA CURSO E COLEGIO SANTA CATARINA FLORIANÓPOLIS ... MAÍRA KEMIL SISTEMA DE ENSINO EQUIPE PARÁ BELÉM LETHÍCIA DAS NEVES ...",
+        "position": 4
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 1° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DAA25DGW9E54FSE2QMDYT.pdf",
+        "snippet": "GAIA CURSO E COLEGIO. SC. Florianópolis certificado CAMILLA LIMA DOS SANTOS ... SISTEMA DE ENSINO AUTHENTICO. PA. Belém certificado CLARYSSA BARROS DE ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

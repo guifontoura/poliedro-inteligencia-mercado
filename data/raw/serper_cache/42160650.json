@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "42160650",
+  "NO_ENTIDADE": "CURSO E COLEGIO CRIATIVO",
+  "cidade": "Florianópolis",
+  "query": "\"CURSO E COLEGIO CRIATIVO\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CURSO E COLEGIO CRIATIVO\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "Cada material é cuidadosamente elaborado, atualizado e alinhado com as diretrizes da BNCC, oferecendo uma base sólida para a formação integral de nossos ...",
+        "position": 1
+      },
+      {
+        "title": "Plataforma AZ | A Evolução do Sistema de Ensino",
+        "link": "https://www.plataformaaz.com.br/",
+        "snippet": "A Plataforma AZ não é só um material didático — e vai muito além de um sistema de ensino —, é um ecossistema completo de aprendizagem, feito pra quem quer ...",
+        "position": 2
+      },
+      {
+        "title": "Sucesso Sistema de Ensino",
+        "link": "https://www.sistemadeensinosucesso.com.br/",
+        "snippet": "Ensino Fundamental I · Ensino Fundamental II. Construir Notícias. Vender é bom, trocar é melhor! Só quando a última árvore for derrubada, o último peixe for ...",
+        "position": 3
+      },
+      {
+        "title": "Material Didático | Recrieacao",
+        "link": "https://www.cerecrieacao.com.br/services-9",
+        "snippet": "O material didático ajuda o aluno a alcançar um melhor entendimento da matéria que está sendo estudada, pois apresenta o tema de forma mais completa e pode ...",
+        "position": 4
+      },
+      {
+        "title": "Sistema ETAPA",
+        "link": "https://www.sistemaetapa.com.br/",
+        "snippet": "Sistema Etapa oferece soluções educacionais completas, com materiais didáticos, tecnologia educacional e apoio à escola parceira para todas as etapas de ensino.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

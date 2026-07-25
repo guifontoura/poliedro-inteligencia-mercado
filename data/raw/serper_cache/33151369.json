@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "33151369",
+  "NO_ENTIDADE": "ESCOLA BOM JESUS MENINO JESUS",
+  "cidade": "Petrópolis",
+  "query": "\"ESCOLA BOM JESUS MENINO JESUS\" \"Petrópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA BOM JESUS MENINO JESUS\" \"Petrópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3303906-petropolis/busca",
+        "snippet": "BONSUCESSO SISTEMA DE ENSINO CESTEC. UNIAO E INDUSTRIA, 7046 - 2 PAVIMENTO. NOGUEIRA. 25720113 Petrópolis - Rio de Janeiro. Rede privada / Urbana · CASA AUREA ...",
+        "position": 1
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... ESCOLA BOM JESUS MENINO JESUS. 33151369 RJ. Petrópolis. Alice Vieira da Silva ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 2
+      },
+      {
+        "title": "Resultados da 1ª Fase - Nível 3 | PDF",
+        "link": "https://pt.scribd.com/document/758365821/Nivel-3-Resultado-Oficial-docx",
+        "snippet": "Giacomina Magliano de Morais Souto Paraíba (PB) Sistema de Ensino Conviver ... Rio de Janeiro (RJ) Escola Bom Jesus Menino Jesus ( Petrópolis). Geovanna ...",
+        "position": 3
+      },
+      {
+        "title": "E M Aguas Lindas - Petrópolis - RJ",
+        "link": "https://www.escol.as/178225-e-m-aguas-lindas",
+        "snippet": "O material didático é rico em jogos educativos, brinquedos pedagógicos e ... Escola Bom Jesus Menino Jesus. Itaipava, Petrópolis - RJ · Educação Infantil ...",
+        "position": 4
+      },
+      {
+        "title": "Nivel 3 Resultado Oficial | PDF",
+        "link": "https://www.scribd.com/document/766863825/Nivel-3-Resultado-Oficial",
+        "snippet": "Lucca Rocha Leal Sistema de Ensino Conviver Paraíba (PB) Eric Bruno Guedes ... Pietro Silveira Cordeiro Escola Bom Jesus Menino Jesus Rio de Janeiro (RJ)",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

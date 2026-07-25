@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "50030590",
+  "NO_ENTIDADE": "COLEGIO LUMIERE ENSINO FUNDAMENTAL",
+  "cidade": "Dourados",
+  "query": "\"COLEGIO LUMIERE ENSINO FUNDAMENTAL\" \"Dourados\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LUMIERE ENSINO FUNDAMENTAL\" \"Dourados\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "🚀 O IFMT Campus Octayde está na etapa final da 1ª ...",
+        "link": "https://www.instagram.com/p/DZptBFkFcQc/",
+        "snippet": "2° COLEGIO LUMIERE ENSINO FUNDAMENTAL 717,23. 3° COLEGIO BIONATUS ... Sistema de Ensino Poliedro de todo o Brasil Total de estudantes ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 19ª OBMEP 2024",
+        "link": "https://premiacao.obmep.org.br/19obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "ANGLO SISTEMA DE ENSINO, P, TATUI, SP, Bronze. 15, ALEX BERENSTEIN BARTFELD ... COLEGIO LUMIERE - ENSINO FUNDAMENTAL, P, DOURADOS, MS, Bronze. GUSTAVO JUNQUEIRA ...",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92 ... Colegio Lumiere Ensino Fundamental - Dourados - Porto Madero - Nota: 717.33.",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Estamos no Top 5 no Ranking ENEM 2025 em Goiás! ...",
+        "link": "https://www.instagram.com/p/DZ-kbykxI2n/",
+        "snippet": "1º LUGAR NO ENEM EM DOURADOS entre as escolas com mais de 30 participantes na prova. ... Outro dado curioso envolve o Colégio Lumiere Ensino ...",
+        "position": 4
+      },
+      {
+        "title": "A Universidade Federal de Jataí tem a ...",
+        "link": "https://www.instagram.com/p/DXgxA2ulmzm/",
+        "snippet": "... Dourados por bom desempenho na OBMEP em 2025 A semana começou com um ... Outro dado curioso envolve o Colégio Lumiere Ensino Fundamental, vice- ...",
+        "date": "há 3 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

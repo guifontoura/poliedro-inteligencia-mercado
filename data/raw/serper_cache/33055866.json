@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "33055866",
+  "NO_ENTIDADE": "COLEGIO MARILIA MATTOSO",
+  "cidade": "Niterói",
+  "query": "\"COLEGIO MARILIA MATTOSO\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MARILIA MATTOSO\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Home - Colégio Marília Mattoso | Formamos Vencedores ...",
+        "link": "https://www.mariliamattoso.com.br/",
+        "snippet": "O sistema de ensino forte e a integração com a família são feitos com ... Sejam Bem-vindos! Rua José Bonifácio, 39 - São Domingos, Niterói (21) 2719 ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Marília Mattoso (@mariliamattosocolegio)",
+        "link": "https://www.instagram.com/mariliamattosocolegio/",
+        "snippet": "Começaram os Jogos Escolares de Niterói (JEN) e, claro, o Colégio Marília Mattoso está presente! ... Material Didático — automação e informatização ...",
+        "position": 2
+      },
+      {
+        "title": "Controlado por fundo do BTG, grupo Inspira entra no Rio ...",
+        "link": "https://blogs.oglobo.globo.com/capital/post/controlado-por-fundo-do-btg-grupo-inspira-entra-no-rio-comprando-escola-de-niteroi.html",
+        "snippet": "A Inspira Rede de Educadores está comprando o Colégio Marília Mattoso, de Niterói, na 15ª aquisição do grupo desde o início do ano passado e ...",
+        "date": "30 de mar. de 2021",
+        "position": 3
+      },
+      {
+        "title": "Transformamos desafios em aprendizado todos os dias. E é ...",
+        "link": "https://www.instagram.com/reel/DWW0_bhgebT/",
+        "snippet": "O Colégio Estadual Professor Alcina Rodrigues Lima conquistou o 8º lugar entre as escolas públicas de Niterói ... O Colégio Marília Mattoso ...",
+        "date": "há 4 meses",
+        "position": 4
+      },
+      {
+        "title": "Liana Faganello Suzuki - Mestre em História Moderna e ...",
+        "link": "https://br.linkedin.com/in/liana-faganello-suzuki-3a9a353b",
+        "snippet": "... material didático; elaboração e aplicação de ... Colégio Marília Mattoso · Formação acadêmica: Universidade Federal Fluminense · Localidade: Niterói ... Colégio ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

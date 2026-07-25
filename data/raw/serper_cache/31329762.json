@@ -1,0 +1,37 @@
+{
+  "codigo_escola": "31329762",
+  "NO_ENTIDADE": "COL GENOMA II",
+  "cidade": "Governador Valadares",
+  "query": "\"COL GENOMA II\" \"Governador Valadares\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL GENOMA II\" \"Governador Valadares\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Sucesso Sistema de Ensino",
+        "link": "https://www.sistemadeensinosucesso.com.br/",
+        "snippet": "Nosso catálogo · Educação Infantil · Ensino Fundamental I · Ensino Fundamental II ...",
+        "position": 1
+      },
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "Apoio na gestão escolar, eventos de formação presenciais e a distância, além de materiais e recursos na Plataforma ConX, que ajudam na gestão escolar. Para as ...",
+        "position": 2
+      },
+      {
+        "title": "Genoma Sistema de Ensino - Para quem gosta de estudar",
+        "link": "https://colegiogenoma.com.br/",
+        "snippet": "Fundado em 2004, na cidade de Gov. Valadares/MG, o Genoma Sistema de Ensino se torna referência em educação nas cidades onde chega. Através do ensino, ...",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

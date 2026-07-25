@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "26152630",
+  "NO_ENTIDADE": "GGE VESTIBULARES",
+  "cidade": "Recife",
+  "query": "\"GGE VESTIBULARES\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"GGE VESTIBULARES\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2024: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.bernoulli.com.br/quem-somos/acontece-no-bernoulli/enem-conheca-as-15-escolas-com-as-maiores-notas-por-estado/",
+        "snippet": "GGE Vestibulares – Recife – Unidade: Madalena – Nota: 670,10; Plenus ... Farina Sistema de Ensino – Cuiabá – Unidade: Jardim Guanabara ...",
+        "date": "11 de jul. de 2025",
+        "position": 1
+      },
+      {
+        "title": "🏆📝 Parabéns aos nossos craques da redação ...",
+        "link": "https://www.instagram.com/p/DTlmfXbj4yC/",
+        "snippet": "SISTEMA DE ENSINO SEI INCENTIVO ORGULHO QUE NOS INSPIRA! 1º LUGAR EM ... Recife, Colegio de Aplicacao do CE da UFPE, Colegio GGE ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Enem 2024: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2025/07/11/enem-2024-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado.ghtml",
+        "snippet": "GGE Vestibulares - Recife - Unidade: Madalena - Nota: 670,10; Plenus ... Farina Sistema de Ensino - Cuiabá - Unidade: Jardim Guanabara ...",
+        "date": "11 de jul. de 2025",
+        "position": 3
+      },
+      {
+        "title": "Colégio Cognitivo on Instagram: \"Nas unidades Boa Viagem e ...",
+        "link": "https://www.instagram.com/reel/DNT3FT3OkQG/",
+        "snippet": "SOMOS A MELHOR ESCOLA NO ENEM DA ZONA OESTE DO RECIFE 8º LUGAR NO RECIFE ... Sistema de Ensino contato maceió Poliedro Sistema de Ensino ...",
+        "date": "há 11 meses",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "GGE VESTIBULARES, P, RECIFE, PE, Bronze. BENJAMIN DAS NEVES MACHADO, COLEGIO ... SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Bronze. JOÃO LUCAS ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

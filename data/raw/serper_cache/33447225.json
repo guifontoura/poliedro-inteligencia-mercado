@@ -1,0 +1,37 @@
+{
+  "codigo_escola": "33447225",
+  "NO_ENTIDADE": "COLEGIO E CURSO AZ - UNIDADE BARRA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO E CURSO AZ - UNIDADE BARRA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO E CURSO AZ - UNIDADE BARRA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas em Rio de Janeiro - RJ - BuscaEscola",
+        "link": "https://buscaescola.com.br/cidades/rio-de-janeiro-rj.html",
+        "snippet": "COLEGIO E CURSO AZ - UNIDADE BARRA. Cód INEP: 33447225 · COLEGIO E CURSO AZ ... JGFLORENCIO SISTEMA DE ENSINO EIRELI - CENTRO EDUCACIONAL SILVA FLORENCIO.",
+        "position": 1
+      },
+      {
+        "title": "Rio de Janeiro 4912 escolas",
+        "link": "https://qedu.org.br/municipio/3304557-rio-de-janeiro/busca",
+        "snippet": "... COLEGIO E CURSO AZ - UNIDADE BARRA. DAS AMERICAS, 4201. BARRA DA TIJUCA ... SISTEMA DE ENSINO FILTELMAM. RUA LUIS SA, 205. ILHA DO GOVERNADOR. 21931580 ...",
+        "position": 2
+      },
+      {
+        "title": "Escolas em Rio de Janeiro/RJ — 3000 instituições",
+        "link": "https://www.mensalidadejusta.com.br/escolas/rj/rio-de-janeiro",
+        "snippet": "Escolas em Rio de Janeiro, RJ. 3000 escolas encontradas • 1104 privadas • 1896 ... CHAMPIGNON SISTEMA DE ENSINO LTDA. Privada · CHF - CENTRO EDUCACIONAL E ...",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

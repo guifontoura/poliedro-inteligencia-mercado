@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33145237",
+  "NO_ENTIDADE": "COLEGIO SAO JOAO BATISTA NOVA FRIBURGO",
+  "cidade": "Nova Friburgo",
+  "query": "\"COLEGIO SAO JOAO BATISTA NOVA FRIBURGO\" \"Nova Friburgo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAO JOAO BATISTA NOVA FRIBURGO\" \"Nova Friburgo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colegio Sao Joao Batista Nova Friburgo",
+        "link": "https://querobolsa.com.br/escolas/colegio-sao-joao-batista-nova-friburgo",
+        "snippet": "Colegio Sao Joao Batista Nova Friburgo. Encontre bolsas de estudo para ... material didático diferenciado e de alta qualidade. Atividades ...",
+        "position": 1
+      },
+      {
+        "title": "Colegio Sao Joao Batista Nova Friburgo",
+        "link": "https://www.escol.as/323370-colegio-sao-joao-batista-nova-friburgo",
+        "snippet": "... Nova Friburgo - RJ; ›; Centro; ›; Colegio Sao Joao Batista Nova Friburgo ... material didático ... Material Didático. com base no Censo Escolar/2024.",
+        "position": 2
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/rio-de-janeiro/",
+        "snippet": "COLEGIO SAO JOAO BATISTA NOVA FRIBURGO, NOVA FRIBURGO, RJ, Privada, De ... SISTEMA DE ENSINO UNIVERSUS LTDA, RIO DE JANEIRO, RJ, Privada, De 40 ...",
+        "date": "5 de ago. de 2015",
+        "position": 3
+      },
+      {
+        "title": "Edições Anteriores",
+        "link": "https://microdados.evolucional.com.br/microdados/edicoes-anteriores/2016?redacao=sim",
+        "snippet": "SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP. 15167275, BelémPará ... COLEGIO SAO JOAO BATISTA NOVA FRIBURGO. 33145237, Nova FriburgoRio de Janeiro ...",
+        "position": 4
+      },
+      {
+        "title": "2016",
+        "link": "https://enem.cneceduca.com.br/2016",
+        "snippet": "Colegio Sao Joao Batista Nova Friburgo, Privada, Nova Friburgo, RJ, 20, 676,11 ... CNEC - Sistema de Ensino. ©2011-2026 Sistema de Ensino CNEC.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

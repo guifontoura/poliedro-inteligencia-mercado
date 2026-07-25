@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35197440",
+  "NO_ENTIDADE": "COLEGIO AZ INTERNACIONAL",
+  "cidade": "Bragança Paulista",
+  "query": "\"COLEGIO AZ INTERNACIONAL\" \"Bragança Paulista\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO AZ INTERNACIONAL\" \"Bragança Paulista\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "AZ | Colégio AZ Internacional",
+        "link": "https://azinternacional.com.br/az.php",
+        "snippet": "Essa proposta inspira e direciona todas as ações de nosso universo escolar, como a seleção de projetos, o material didático ... Bragança Paulista - SP ...",
+        "position": 1
+      },
+      {
+        "title": "Rosália Pozza Silva",
+        "link": "https://www.escavador.com/sobre/6965969/rosalia-pozza-silva",
+        "snippet": "... Bragança Paulista e Coordenadora Pedagógica do Colégio AZ Internacional ... Programa de Cursos do Sistema de Ensino. 2011 ... (Desenvolvimento de material didático ...",
+        "position": 2
+      },
+      {
+        "title": "Fundamental | Colégio AZ Internacional",
+        "link": "https://azinternacional.com.br/fundamental.php",
+        "snippet": "Os ensinos Fundamental I e II. No Ensino Fundamental I do AZ, trabalhamos com uma abordagem interativa, material didático ... Bragança Paulista - SP. Unidade II e ...",
+        "position": 3
+      },
+      {
+        "title": "Geekie One para anos iniciais do Ensino Fundamental",
+        "link": "https://www.geekie.com.br/educacao-infantil-e-fund-1-proposta-pedagogica-ativa/",
+        "snippet": "... material didático dos anos iniciais do Ensino Fundamental apresentam ... Colégio AZ Internacional, em Bragança Paulista (SP): “Por que ...",
+        "date": "17 de jun. de 2021",
+        "position": 4
+      },
+      {
+        "title": "Este é o material Geekie One para o Ensino Fundamental ...",
+        "link": "https://www.colegiomeninojesus.com.br/wp-content/uploads/2025/09/Geekie-Ensino-Fundamental-Anos-Inciais-2024_compressed.pdf",
+        "snippet": "O Geekie One é uma plataforma de educação baseada em dados que representa a evolução do material didático. ... Anos Iniciais - Colégio AZ Internacional (Bragança ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

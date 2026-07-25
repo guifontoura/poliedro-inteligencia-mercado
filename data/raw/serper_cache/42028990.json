@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "42028990",
+  "NO_ENTIDADE": "COLEGIO BOM JESUS DIOCESANO",
+  "cidade": "Lages",
+  "query": "\"COLEGIO BOM JESUS DIOCESANO\" \"Lages\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BOM JESUS DIOCESANO\" \"Lages\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Procurando por uma educação tradicional e de referência em ...",
+        "link": "https://www.instagram.com/reel/DUWH1mDkWJt/",
+        "snippet": "Vamos conhecer o Colégio Bom Jesus DIOCESANO Lages - SC Do Infantil ... sistema de ensino que nós temos no Brasil a nível de aprovação ...",
+        "date": "há 5 meses",
+        "position": 1
+      },
+      {
+        "title": "Colegio Bom Jesus Diocesano - Descontos, Preço das ...",
+        "link": "https://querobolsa.com.br/escolas/colegio-bom-jesus-diocesano",
+        "snippet": "CEC - Centro de Educação Cristã de Lages. A partir de. R$ 449,00R$ 359,20 · Ver ... \"Excelente material didático.\" Giovanna ramos delduque. Aluno 07/02/2019.",
+        "rating": 5,
+        "ratingCount": 3,
+        "position": 2
+      },
+      {
+        "title": "Colégio Bom Jesus Un. Divina Providência - Jaraguá do Sul",
+        "link": "https://www2.bomjesus.br/unidades/?santa-catarina/divina-providencia/=BJGASC",
+        "snippet": "Colégio Bom Jesus Diocesano - Lages. Palhoça. Colégio Bom Jesus Pedra Branca ... - Material Didático Próprio · - Proximidade com a Família · - Preparação que ...",
+        "position": 3
+      },
+      {
+        "title": "Bolsas de estudo nas escolas de Bom Jesus em Lages",
+        "link": "https://www.melhorescola.com.br/bolsas-de-estudo/santa-catarina/lages/bom-jesus",
+        "snippet": "colegio bom jesus diocesano; colegio santa rosa de lima; esc de excep raio de sol apae; senai sc lages; sistema de ensino energia lages; pre santo antonio ...",
+        "position": 4
+      },
+      {
+        "title": "Agende uma visita | Colégio Bom Jesus: Uma lição de vida",
+        "link": "https://www2.bomjesus.br/contato/agende-uma-visita.vm?unidade=bjn_saojoserionegro",
+        "snippet": "Colégio Bom Jesus Diocesano - Lages · Colégio Bom ... Material Didático Próprio · Proximidade com a ... Material Didático Próprio · Proximidade com a ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "26162016",
+  "NO_ENTIDADE": "COLEGIO PONTUAL CENTRO EDUCACIONAL LTDA",
+  "cidade": "Recife",
+  "query": "\"COLEGIO PONTUAL CENTRO EDUCACIONAL LTDA\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PONTUAL CENTRO EDUCACIONAL LTDA\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Completude on Instagram: \"No Colégio Completude ...",
+        "link": "https://www.instagram.com/reel/DOoyA_eDYK_/",
+        "snippet": "SOMOS A MELHOR ESCOLA NO ENEM DA ZONA OESTE DO RECIFE 8º LUGAR NO RECIFE ... Colegio Pontual Centro Educacional Ltda Recife/PE 643,2 19 5 ...",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "Os microdados oficiais do ENEM foram divulgados pelo ...",
+        "link": "https://www.instagram.com/p/DZ8SVTPAA7v/",
+        "snippet": "... Sistema de Ensino contato maceió Poliedro Sistema de Ensino ... SOMOS A MELHOR ESCOLA NO ENEM DA ZONA OESTE DO RECIFE 8º LUGAR NO RECIFE ...",
+        "position": 2
+      },
+      {
+        "title": "TABELA-PARA-O-PROFESSOR-LOCALIZAR-A-TURMA- ...",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/TABELA-PARA-O-PROFESSOR-LOCALIZAR-A-TURMA-DA-QUAL-DEVE-IMPRIMIR-A-CARTA-CONVITE.pdf",
+        "snippet": "... Recife. CBV Jaqueira. 26187604. 86807. Turma. 5. PE. Recife. Centro de Atividades ... COLEGIO PONTUAL CENTRO EDUCACIONAL LTDA. 26162016. 100713. Turma. 5. PE.",
+        "position": 3
+      },
+      {
+        "title": "Estamos contando os dias para reencontrar ...",
+        "link": "https://www.instagram.com/p/DMh0Bj7S3wr/",
+        "snippet": "... apostila de férias com muito carinho. Ela ajuda a manter o ritmo dos ... Colegio Pontual Centro Educacional Ltda Recife/PE 643,2 19 5 ...",
+        "date": "há 12 meses",
+        "position": 4
+      },
+      {
+        "title": "Lista Geral de números de inscrição Modalidade A",
+        "link": "https://www.obquimica.sertanustecnologia.com.br/arquivos/download/2322/Lista%20geral%20de%20inscri%C3%A7%C3%A3o%20Mod%20A%20OBQ%202024.pdf",
+        "snippet": "ESCOLA DE APLICACAO DO RECIFE - FCAP UPE. PERNAMBUCO. 1157 CARLOS ... SEI - SISTEMA DE ENSINO INTERATIVO. RIO DE JANEIRO. 1265 ENZO HANS ...",
+        "date": "22 de out. de 2024",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

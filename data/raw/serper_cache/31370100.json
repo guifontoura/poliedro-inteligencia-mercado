@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31370100",
+  "NO_ENTIDADE": "SISTEMA DE ENSINO FOCO",
+  "cidade": "Montes Claros",
+  "query": "\"SISTEMA DE ENSINO FOCO\" \"Montes Claros\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SISTEMA DE ENSINO FOCO\" \"Montes Claros\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "SISTEMA DE ENSINO FOCO",
+        "link": "https://qedu.org.br/escola/31370100-sistema-de-ensino-foco",
+        "snippet": "Minas Gerais Montes Claros. Sistema De Ensino Foco. SISTEMA DE ENSINO FOCO. Escola Privada. Minas Gerais / Montes Claros. Publicidade. Informações. VER TUDO.",
+        "position": 1
+      },
+      {
+        "title": "Sistema De Ensino Foco - Montes Claros",
+        "link": "https://querobolsa.com.br/escolas/sistema-de-ensino-foco",
+        "snippet": "Sistema De Ensino Foco. Encontre bolsas de estudo para Berçários ... Planalto - Montes Claros - MG. Bolsas a partir de: R$ 192,00 · Logo - Colégio ...",
+        "position": 2
+      },
+      {
+        "title": "A sua chance de estudar no Colégio Foco é agora! O bolsão ...",
+        "link": "https://www.instagram.com/reel/C9hw_LcumDq/",
+        "snippet": "... SISTEMA DE ENSINO foco SISTEMA DE ENSINO. colegiofoco.moc's profile ... foco SISTEMA DE ENSINO 169 ANOS parabéns MONTES CLAROS! Nossa ...",
+        "date": "há 2 anos",
+        "position": 3
+      },
+      {
+        "title": "Não acreditamos que exista um único caminho para ...",
+        "link": "https://www.facebook.com/colegiofoco.moc/videos/n%C3%A3o-acreditamos-que-exista-um-%C3%BAnico-caminho-para-aprendercada-aluno-tem-sua-pr%C3%B3p/1597200608669722/",
+        "snippet": "Video. . FOCO Sistema De Ensino. 13h ... O que faz o Colégio Focus ser líder em aprovações em Montes Claros, é a precisão do olhar.",
+        "position": 4
+      },
+      {
+        "title": "Sistema De Ensino Foco - Montes Claros",
+        "link": "https://www.melhorescola.com.br/escola/sistema-de-ensino-foco-montes-claros-mg",
+        "snippet": "Garanta sua bolsa de estudos em Sistema De Ensino Foco, Montes Claros - MG. Descontos exclusivos para garantir a melhor educação para seus filhos!",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

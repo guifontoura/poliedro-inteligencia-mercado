@@ -1,0 +1,25 @@
+{
+  "codigo_escola": "31127965",
+  "NO_ENTIDADE": "COL JESUS MARIA JOSE",
+  "cidade": "Poços de Caldas",
+  "query": "\"COL JESUS MARIA JOSE\" \"Poços de Caldas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL JESUS MARIA JOSE\" \"Poços de Caldas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Tratamento da Semana por Pai Benedito | Um benzimento ...",
+        "link": "https://www.instagram.com/reel/DZcJYYABTa6/",
+        "snippet": "Com Deus eu me deito, com Deus me levanto, com Jesus, Maria, José e o Divino Espírito Santo. ... Então tem muitas rezas, tem uma apostila aonde as ...",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

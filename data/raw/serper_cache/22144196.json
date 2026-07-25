@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "22144196",
+  "NO_ENTIDADE": "COLEGIO EQUACAO CERTA LESTE",
+  "cidade": "Teresina",
+  "query": "\"COLEGIO EQUACAO CERTA LESTE\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO EQUACAO CERTA LESTE\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Vamos brincar um pouco? Onde está o Chaguinha? Kkkk ...",
+        "link": "https://www.instagram.com/p/Cu7I-WFr-Fr/",
+        "snippet": "... Teresina, um grande professor e a partir de hoje nós tamo iniciando ... COLÉGIO EQUAÇÃO CERTA LESTE 88 647,59 COLÉGIO EQUAÇÃO CERTA ...",
+        "date": "há 3 anos",
+        "position": 1
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2211001-teresina/busca",
+        "snippet": "CENTRO MUNICIPAL DE EDUCACAO INFANTIL LIMOEIRO. RURAL, S/N. AREA RURAL DE TERESINA. 64099899 Teresina - Piauí. Rede municipal / Rural ... CPI SISTEMA DE ENSINO.",
+        "position": 2
+      },
+      {
+        "title": "DESTAQUE Colégio Diocesano Padre Anchieta é destaque ...",
+        "link": "https://www.instagram.com/reel/DaGKwq8OkMy/",
+        "snippet": "... COLÉGIO EQUAÇÃO CERTA - LESTE 93 5 656,93 COLÉGIO SÃO FRANCISCO DE ... Teresina Instituto São José 773,83 O ranking considera a média ...",
+        "date": "há 3 semanas",
+        "position": 3
+      },
+      {
+        "title": "chegaram ao ranking estadual, colocando essas escolas ...",
+        "link": "https://www.instagram.com/p/DanJGmqFWjt/",
+        "snippet": "1º lugar em Teresina e no Brasil entre as escolas com mais de 100 alunos. ... COLÉGIO EQUAÇÃO CERTA - LESTE 93 5 656,93 COLÉGIO SÃO ...",
+        "date": "há 2 semanas",
+        "position": 4
+      },
+      {
+        "title": "PIAUÍ - Alunos classificados para a 2ª FASE da ONC 2021",
+        "link": "https://site.onciencias.org/classificados/estado/para-2-fase-onc-2021/PI/cidade/Teresina",
+        "snippet": "EINSTEIN SISTEMA DE ENSINO - UNIDADE I. 305, 22023798, ESC CONSELHEIRO SARAIVA ... UFPI - COLEGIO AGRICOLA DE TERESINA DA UFPI. 626, 22028153, UNID ESC ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

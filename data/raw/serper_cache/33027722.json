@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33027722",
+  "NO_ENTIDADE": "COLEGIO FRANCISCANO SAGRADO CORACAO DE JESUS",
+  "cidade": "Cabo Frio",
+  "query": "\"COLEGIO FRANCISCANO SAGRADO CORACAO DE JESUS\" \"Cabo Frio\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO FRANCISCANO SAGRADO CORACAO DE JESUS\" \"Cabo Frio\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colegio Franciscano Sagrado Coracao De Jesus",
+        "link": "https://querobolsa.com.br/escolas/colegio-franciscano-sagrado-coracao-de-jesus",
+        "snippet": "Onde fica o Colegio Franciscano Sagrado Coracao De Jesus? Av Nilo Pecanha, 140 - centro, Cabo Frio - RJ.",
+        "rating": 4.6,
+        "ratingCount": 5,
+        "position": 1
+      },
+      {
+        "title": "Colegio Franciscano Sagrado Coracao De Jesus",
+        "link": "https://www.melhorescola.com.br/escola/colegio-franciscano-sagrado-coracao-de-jesus",
+        "snippet": "Garanta sua bolsa de estudos em Colegio Franciscano Sagrado Coracao De Jesus, Cabo Frio - RJ ... Sistema de ensino. SM Educação. O sistema de ensino ...",
+        "position": 2
+      },
+      {
+        "title": "Conheçam o Colégio Ame Mais! Um colégio católico que tem ...",
+        "link": "https://www.instagram.com/reel/DUnN2MzkYfh/",
+        "snippet": "Colégio Franciscano Sagrado Coração de Jesus Há 100 anos educando gerações! ... Cabo Frio. DISCIPLINA DENTRO E FORA DE CAMPO FOCO NA ...",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "Robótica começa com lógica, criatividade e programação ...",
+        "link": "https://www.instagram.com/p/DSfS1aGESAI/",
+        "snippet": "... Colégio Franciscano Sagrado Coração de Jesus – Cabo Frio. ... material didático e ainda concorra a 2 sorteios incríveis! ... material didático E aí, vai ...",
+        "position": 4
+      },
+      {
+        "title": "André Luiz Garrido Barbosa",
+        "link": "https://www.escavador.com/sobre/922187/andre-luiz-garrido-barbosa",
+        "snippet": "... Colégio Franciscano Sagrado Coração de Jesus; CIEP 357 - José de Dome e Escola ... material didático, história de Cabo Frio e educação a distância.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

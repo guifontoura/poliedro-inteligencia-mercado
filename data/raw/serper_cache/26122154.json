@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "26122154",
+  "NO_ENTIDADE": "COLEGIO DE SANTA CATARINA",
+  "cidade": "Recife",
+  "query": "\"COLEGIO DE SANTA CATARINA\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DE SANTA CATARINA\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "História - Colégio Santa Catarina",
+        "link": "https://www.colegiosantacatarina.com.br/historia/",
+        "snippet": "HISTÓRIAO Colégio de Santa Catarina foi fundado em 03 de fevereiro ... sistema de ensino. Sua proposta pedagógica tem como pilares ...",
+        "date": "9 de out. de 2025",
+        "position": 1
+      },
+      {
+        "title": "Colégio de Saint Germain on Instagram: \"Vocês viram ...",
+        "link": "https://www.instagram.com/reel/DTalR9_DrFA/",
+        "snippet": "Tradição e excelência em Boa Viagem: o Colégio Santa Maria é referência em educação em Recife. ... material didático 2026, uma condição ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "As inscrições para 2026 já estão abertas no Colégio das ...",
+        "link": "https://www.instagram.com/p/DOjUV4ECcGx/",
+        "snippet": "... Colégio de Santa Catarina | Rede Saviniana | Recife | protagonismo estudantil | cidadania | transformação social. View 1 comment.",
+        "date": "há 10 meses",
+        "position": 3
+      },
+      {
+        "title": "As crianças do 5º ano do Colégio Santa Chiara embarcaram ...",
+        "link": "https://www.instagram.com/reel/DV3ZVGWkbzm/",
+        "snippet": "... Colégio de Santa Catarina | escola em Recife | Rede Saviniana | educação transformadora | passeio escolar divertido. 6 days ago. OCR. ATIVA ...",
+        "date": "há 4 meses",
+        "position": 4
+      },
+      {
+        "title": "Centro Educacional Menino Jesus",
+        "link": "https://redesaviniana.org.br/centro-educacional-menino-jesus/",
+        "snippet": "... material didático e alimentação, contribuindo significativamente para a ... – Colégio de Santa Catarina (Recife – PE). – Escola Lar Santa Catarina de ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

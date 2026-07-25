@@ -1,0 +1,25 @@
+{
+  "codigo_escola": "31346314",
+  "NO_ENTIDADE": "COLEGIO IMP LTDA",
+  "cidade": "Lavras",
+  "query": "\"COLEGIO IMP LTDA\" \"Lavras\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO IMP LTDA\" \"Lavras\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Relação das Concedentes Ativas - 2026",
+        "link": "https://www.unip.br/estagiosecarreiras/assets/download/estagio_concedentes_ativas.pdf",
+        "snippet": "... SISTEMA DE ENSINO RENASCER LTDA. OBRIGATORIO - ADM, CONTABEIS, SERV SOCIAL ... Lavras. CNPJ. 00.577.773/0001-35 ECOMED SERVICOS MEDICOS LTDA. OBRIGATORIO ...",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

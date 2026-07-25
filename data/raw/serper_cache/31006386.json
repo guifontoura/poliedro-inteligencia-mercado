@@ -1,0 +1,43 @@
+{
+  "codigo_escola": "31006386",
+  "NO_ENTIDADE": "COLEGUIUM - UNIDADE JARAGUA",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGUIUM - UNIDADE JARAGUA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGUIUM - UNIDADE JARAGUA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGUIUM - UNIDADE JARAGUA. 0,9%. COLEGUIUM - UNIDADE MANACAS. 1%. COLEGUIUM ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA - UNIDADE ...",
+        "position": 1
+      },
+      {
+        "title": "ESCOLAS DE ENSINO BÁSICO - Prefeitura de Belo Horizonte",
+        "link": "https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/saude/2021/escolas_ensino_basico_vsite.pdf",
+        "snippet": "COLEGUIUM- UNIDADE JARAGUÁ. CADASTRO ESCOLAR - SEC. DA EDUCACAO ... SISTEMA DE ENSINO IPE AMARELO - EIRELI - ME. SECRETARIA MUNICIPAL DE EDUCAÇÃO.",
+        "position": 2
+      },
+      {
+        "title": "Escolas em Belo Horizonte/MG — 2016 instituições",
+        "link": "https://www.mensalidadejusta.com.br/escolas/mg/belo-horizonte",
+        "snippet": "COLEGIO SISTEMA DE ENSINO - UNIDADE II. Privada · COLEGIO TANCREDO NEVES ... COLEGUIUM - UNIDADE JARAGUA. Privada · COLEGUIUM - UNIDADE MANACAS. Privada ...",
+        "position": 3
+      },
+      {
+        "title": "Belo Horizonte 2231 escolas",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/busca",
+        "snippet": "COLEGUIUM - UNIDADE JARAGUA. CORONEL MARCELINO, 182. SANTA ROSA. 31255690 ... Belo Horizonte - Minas Gerais. Rede privada / Urbana · SISTEMA DE ENSINO RENASCER.",
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

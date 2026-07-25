@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33009783",
+  "NO_ENTIDADE": "INST DOM BOSCO",
+  "cidade": "Campos dos Goytacazes",
+  "query": "\"INST DOM BOSCO\" \"Campos dos Goytacazes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INST DOM BOSCO\" \"Campos dos Goytacazes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Salesiano Campos",
+        "link": "https://www.salesianos.br/unidade/colegio-salesiano-campos?1cf1bb45_page=2",
+        "snippet": "O material didático, a Coleção Nautas, promove diversos pilares de aprendizagem, como a linguagem de programação, a metodologia STEAM, a sustentabilidade e a ...",
+        "position": 1
+      },
+      {
+        "title": "Professores do Colégio Salesiano Jardim Camburi ...",
+        "link": "https://rsb.org.br/escolas/noticias/professores-do-colegio-salesiano-jardim-camburi-avaliam-novo-material-didatico-da-edebe",
+        "snippet": "Professores do Colégio Salesiano Jardim Camburi avaliam novo material didático da Edebê ... Instituto Dom Bosco - Campos dos Goytacazes · Colégio ...",
+        "date": "18 de fev. de 2025",
+        "position": 2
+      },
+      {
+        "title": "Hoje recebemos Nicolau, presidente do Sistema Poliedro, no ...",
+        "link": "https://www.instagram.com/reel/DVYwcN4gA8S/",
+        "snippet": "... material didático, com tecnologia, ajudando a escola, alunos ... sistema de ensino e metodologias diferentes mas desejamos o mesmo que ...",
+        "date": "há 4 meses",
+        "position": 3
+      },
+      {
+        "title": "✨ 7 princípios. 7 escolas. 1 movimento que transforma. ...",
+        "link": "https://www.instagram.com/p/DVwPOT_DtLP/",
+        "snippet": "... Instituto Dom Bosco — Campos dos Goytacazes/RJ @ ... Colégio Gênesis Escola parceira COC SISTEMA DE ENSINO 22 ANOS DE HISTÓRIAS DE FAMÍLIAS QUE ...",
+        "date": "há 4 meses",
+        "position": 4
+      },
+      {
+        "title": "Juventude",
+        "link": "https://boletimsalesiano.org.br/materias/nacionais.html?start=3042",
+        "snippet": "Grande talento no piano, o aluno Anderson Martins, do Instituto Dom Bosco de Campos dos Goytacazes, RJ, conquistou uma das primeiras posições do Concurso ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

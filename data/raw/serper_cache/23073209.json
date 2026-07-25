@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "23073209",
+  "NO_ENTIDADE": "COLEGIO LOURENCO FILHO CENTRAL",
+  "cidade": "Fortaleza",
+  "query": "\"COLEGIO LOURENCO FILHO CENTRAL\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LOURENCO FILHO CENTRAL\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Recredencia as instituições privada",
+        "link": "https://www.ce.gov.br/cge/wp-content/uploads/sites/85/2021/03/PAR.0443.2021.Escolas-pertencentes-ao-Sistema-de-Ensino-do-Estado-do-Ceara-mesclado.pdf",
+        "snippet": "ao Sistema de Ensino do Estado do Ceará, sejam o marco ... Fortaleza. 23330414 VITORIA SANTOS ESCOLA. 896. SEFOR 3. Fortaleza. 23317019 ZURIEL COLÉGIO.",
+        "position": 1
+      },
+      {
+        "title": "https://www.cearatransparente.ce.gov.br/attachment...",
+        "link": "https://www.cearatransparente.ce.gov.br/attachments/2dc045f21981672545b4eb43920a25b3ed9c02c8/store/81a43a4b40707d0f843e17d0a75c9666af787c7a466666c1d05501588ab8/atendimento_14168637-1.csv",
+        "snippet": "... Fortaleza\";23064641;\"21 DE ABRIL COLEGIO\";\"Privada\";2;0;0;0;0;0;0;2 21 ... COLEGIO LOURENCO FILHO CENTRAL\";\"Privada\";13;0;1;1;1;1;0;16 22;\"SEFOR 2 ...",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2304400-fortaleza/busca",
+        "snippet": "60442642 Fortaleza - Ceará. Rede privada / Urbana · ALTERNATIVO SISTEMA DE ENSINO. RUA DOUTOR RIBAMAR LOBO, 363 PAPICU. 60176-145 Fortaleza - CE. Rede privada ...",
+        "position": 3
+      },
+      {
+        "title": "RESULTADO DA XV OLIMPÍADA BRASILEIRA DE ...",
+        "link": "https://www.obquimica.sertanustecnologia.com.br/arquivos/download/1667/Resultado%20da%20OBQJr%202022%20Fase%20I%20-%20Classificados%20para%20a%20Fase%20II.pdf",
+        "snippet": "COLEGIO LOURENCO FILHO CENTRAL. ALICE DOMICIA DA COSTA FEITOSA. CE ... SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP. BÁRBARA PINHEIRO PUGET CRUZ.",
+        "position": 4
+      },
+      {
+        "title": "Recredenciamento de Escolas no Ceará | PDF",
+        "link": "https://pt.scribd.com/document/682269706/PAR-0443-2021-Escolas-pertencentes-ao-Sistema-de-Ensino-do-Estado-do-Ceara-mesclado",
+        "snippet": "599. SEFOR 2 Fortaleza 23204540 ALTERNATIVO SISTEMA DE ENSINO 600 ... 650. SEFOR 2 Fortaleza 23073209 COLÉGIO LOURENÇO FILHO CENTRAL 651. SEFOR 2 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

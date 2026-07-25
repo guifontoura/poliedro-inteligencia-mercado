@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "50034197",
+  "NO_ENTIDADE": "COLEGIO MASTER LTDA",
+  "cidade": "Campo Grande",
+  "query": "\"COLEGIO MASTER LTDA\" \"Campo Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MASTER LTDA\" \"Campo Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Top 3 no Brasil no Enem 🏆 1º lugar em Campo Grande e ...",
+        "link": "https://www.instagram.com/p/DNxnfte2uWV/",
+        "snippet": "... Campo Grande e no Mato Grosso do Sul O colégio que mais aprova no ... SISTEMA DE ENSINO anglo LEÃO DE OURO 2019 • 2020 • 2021 • 2022 ...",
+        "date": "há 11 meses",
+        "position": 1
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Colégio Classe A - 718,05 - Campo Grande (Mato Grosso do Sul) - Particular - Sem informação ... Colégio Master Ltda - 662,64 - Campo Grande ...",
+        "date": "23 de jun. de 2026",
+        "position": 2
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. AL. Maceió. Certficado LAYLA MICHELE ... COLEGIO MASTER LTDA. MS. Campo Grande. Certficado Daniella Branchini Lopes ...",
+        "position": 3
+      },
+      {
+        "title": "🏆 1º lugar no ENEM em Foz do Iguaçu! O Colégio Anglo ...",
+        "link": "https://www.instagram.com/p/DXp0AmPDvgj/",
+        "snippet": "COLÉGIO EXCELÊNCIA SISTEMA DE ENSINO anglo QUEM ESTÁ À FRENTE ENTREGA RESULTADO. ... 10° COLEGIO MASTER LTDA 662,59. Ranking Geral. Escola ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Aprovadas - 9º Ano - Fundamental | PDF",
+        "link": "https://www.scribd.com/document/767847965/Aprovadas-9%C2%BA-Ano-Fundamental",
+        "snippet": "Beatriz Machado Rodrigues Colegio Master Ltda Campo Grande MS Bianca Castro ... Apostila - Teoria Dos Números - 04 PDF. 121 pages. Perfis de Candidatos ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "53015010",
+  "NO_ENTIDADE": "ESCOLA CANADENSE DE BRASILIA",
+  "cidade": "Brasília",
+  "query": "\"ESCOLA CANADENSE DE BRASILIA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA CANADENSE DE BRASILIA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Elementary – Ensino Fundamental Anos Iniciais",
+        "link": "https://www.escolacanadensedebrasilia.com.br/elementary-ensino-fundamental-i/",
+        "snippet": "Nosso currículo e material didático estão alinhados ao programa ... A Escola Canadense de Brasília surgiu em 2005 com o intuito de oferecer uma ...",
+        "position": 1
+      },
+      {
+        "title": "High School – Ensino Médio",
+        "link": "https://www.escolacanadensedebrasilia.com.br/high-school-ensino-medio/",
+        "snippet": "Estudos independentes e material didático com preparação específica para ENEM e PAS; ... A Escola Canadense de Brasília surgiu em 2005 com o intuito de oferecer ...",
+        "position": 2
+      },
+      {
+        "title": "governo do distrito federal secretaria de estado de educação",
+        "link": "https://www.educacao.df.gov.br/documents/d/seedf/083-2017-cedf-escola-canadense-de-brasilia-pdf",
+        "snippet": "Escola Canadense de Brasília, mantida por AMS Financial Strategy Ltda-ME e ... Supervisão, Normas e Informações do Sistema de Ensino - Cosie/Suplav/SEDF, de ...",
+        "position": 3
+      },
+      {
+        "title": "Aprender inglês também pode ser divertido e cheio de ...",
+        "link": "https://www.instagram.com/p/DYF5XMMHUpR/?img_index",
+        "snippet": "... Sistema de Ensino Bilingue na Educação Infantil. Será um momento ... ESCOLA CANADENSE DE BRASÍLIA ন ห 10 ATRIBUTOS baseada em dez ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Reembolso devido - 5 meses de enrolação - Escola Canadense ...",
+        "link": "https://www.reclameaqui.com.br/escola-canadense-de-brasilia/reembolso-devido-5-meses-de-enrolacao_c6s_vauidZCAU83V/",
+        "snippet": "Fiz o pagamento da primeira mensalidade do meu filho, antes mesmo de conhecer a escola, porque estávamos nos mudando do exterior e era necessário para ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

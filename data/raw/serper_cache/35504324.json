@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35504324",
+  "NO_ENTIDADE": "ESCOLA SEB UNIDADE DE RIO PRETO",
+  "cidade": "São José do Rio Preto",
+  "query": "\"ESCOLA SEB UNIDADE DE RIO PRETO\" \"São José do Rio Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA SEB UNIDADE DE RIO PRETO\" \"São José do Rio Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola SEB Rio Preto: conheça quais são os diferenciais ...",
+        "link": "https://www.escolaseb.com.br/blog/seb-rio-preto-diferenciais",
+        "snippet": "Proporcionamos um processo de ensino-aprendizagem o mais personalizado possível, sobretudo nas atividades avaliativas, focadas no ...",
+        "date": "6 de ago. de 2021",
+        "position": 1
+      },
+      {
+        "title": "SEB Rio Preto (@sebriopreto)",
+        "link": "https://www.instagram.com/sebriopreto/",
+        "snippet": "No Pré-Vestibular da Escola SEB Rio Preto, unimos: ✓ Excelência acadêmica: os melhores professores e material didático. ✓ Estrutura completa ...",
+        "position": 2
+      },
+      {
+        "title": "Conexia Educação - Desenvolvendo agora a educação do ...",
+        "link": "https://www.conexia.com.br/",
+        "snippet": "Materiais didáticos e plataformas atualizados e ricos em orientações, além de capacitações frequentes para que os educadores estejam sempre atualizados e ...",
+        "position": 3
+      },
+      {
+        "title": "Grupo SEB",
+        "link": "https://www.seb.com.br/",
+        "snippet": "Centro Universitário modelo em ensino superior de qualidade, focado na formação integral de indivíduos críticos, éticos e responsáveis, por meio de uma educação ...",
+        "position": 4
+      },
+      {
+        "title": "SEB Rio Preto | São José do Rio Prêto SP",
+        "link": "https://www.facebook.com/sebriopreto/?locale=pt_BR",
+        "snippet": "Ensino de qualidade, material referência nacional, tecnologia, inovação e professores especialistas em aprovações. Esse é o SEB COC Rio Preto. Escola ...",
+        "rating": 4.9,
+        "ratingCount": 153,
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

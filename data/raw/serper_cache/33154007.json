@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "33154007",
+  "NO_ENTIDADE": "COLEGIO CAROLINNA RUSSO LTDA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO CAROLINNA RUSSO LTDA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO CAROLINNA RUSSO LTDA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: saiba as escolas com as maiores notas da ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/25/enem-2025-saiba-as-escolas-com-as-maiores-notas-da-zona-norte-do-rio.ghtml",
+        "snippet": "Colégio Carolinna Russo Ltda - 660,44 - Maracanã - Particular - 225% ... SEI - Sistema de Ensino Interativo - 627,53 - Tijuca - Particular - 316% ...",
+        "date": "25 de jun. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Enem 2025: veja as escolas com maiores notas na Zona ...",
+        "link": "https://www.tribunadosertao.com.br/conhecimento/2026/06/25/928225-enem-2025-veja-as-escolas-com-maiores-notas-na-zona-norte-do-rio",
+        "snippet": "Colégio Carolinna Russo Ltda - 660,44 - Maracanã - Particular - 225% ... SEI - Sistema de Ensino Interativo - 627,53 - Tijuca - Particular - 316%.",
+        "date": "25 de jun. de 2026",
+        "position": 2
+      },
+      {
+        "title": "Escolas em Rio de Janeiro - RJ - BuscaEscola",
+        "link": "https://buscaescola.com.br/cidades/rio-de-janeiro-rj.html",
+        "snippet": "COLEGIO CAROLINNA RUSSO LTDA. Cód INEP: 33154007 · COLEGIO CARVALHO FONTES. Cód ... JGFLORENCIO SISTEMA DE ENSINO EIRELI - CENTRO EDUCACIONAL SILVA FLORENCIO.",
+        "position": 3
+      },
+      {
+        "title": "Rio de Janeiro 4912 escolas",
+        "link": "https://qedu.org.br/municipio/3304557-rio-de-janeiro/busca",
+        "snippet": "... Rio de Janeiro - RJ. Rede privada / Urbana · COLEGIO CAROLINNA RUSSO LTDA. ISIDRO DE FIGUEIREDO, 47. MARACANÃ. 20271100 Rio de Janeiro - Rio de Janeiro. Rede ...",
+        "position": 4
+      },
+      {
+        "title": "Escolas em Rio de Janeiro/RJ — 3000 instituições",
+        "link": "https://www.mensalidadejusta.com.br/escolas/rj/rio-de-janeiro",
+        "snippet": "Escolas em Rio de Janeiro, RJ. 3000 escolas encontradas • 1104 privadas ... COLEGIO CAROLINNA RUSSO LTDA. Privada · COLEGIO CARVALHO FONTES. Privada · COLEGIO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

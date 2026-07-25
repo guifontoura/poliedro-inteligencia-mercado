@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "24001260",
+  "NO_ENTIDADE": "COLEGIO DIOCESANO SANTA LUZIA",
+  "cidade": "Mossoró",
+  "query": "\"COLEGIO DIOCESANO SANTA LUZIA\" \"Mossoró\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DIOCESANO SANTA LUZIA\" \"Mossoró\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Diocesano Santa Luzia on Instagram: \"Para 2026, o ...",
+        "link": "https://www.instagram.com/reel/DSnikMoDzAD/",
+        "snippet": "DE MOSSORÓ PARA O MUNDO FUNCITERN UERN MOSSORÓ CIDADE EDUCAÇÃO MOSSORÓ ... Minha maior expectativa pro ensino médio nosso sistema de ensino ...",
+        "date": "há 7 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Diocesano Santa Luzia on ...",
+        "link": "https://www.instagram.com/p/DY2z2bzj9EX/?img_index=10",
+        "snippet": "... COLÉGIO DIOCESANO SANTA LUZIA CÂMARA MUNICIPAL DE MOSSORÓ DIOCESANO CDSL ... sistema de ensino. Nós trabalhamos atualmente com o sae ...",
+        "position": 2
+      },
+      {
+        "title": "Robótica",
+        "link": "https://www.diocesanosantaluzia.com.br/robotica",
+        "snippet": "Conheça a Robótica no Colégio Diocesano Santa Luzia em Mossoró. ... material didático, a capacidade de aprofundar seus conhecimentos e curiosidades.",
+        "position": 3
+      },
+      {
+        "title": "O Colégio Diocesano Santa Luzia construiu, ao longo de 125 ...",
+        "link": "https://www.instagram.com/reel/DVZfiVPjmiu/",
+        "snippet": "... material didático e salário dos professores e demais servidores ... Mossoró-RN HOJE MOSSORÓ PREFEITURA. fala_capela's profile picture ...",
+        "date": "há 4 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Diocesano Santa Luzia on Instagram: \"O Colégio ...",
+        "link": "https://www.instagram.com/reel/DS51eQajmuf/",
+        "snippet": "... Mossoró. A área de Linguagens é referência em nossa escola ... Bernoulli Sistema de Ensino. colegiosantaluciaoficial's profile picture ...",
+        "date": "há 6 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

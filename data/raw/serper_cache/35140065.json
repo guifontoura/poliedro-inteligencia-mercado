@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35140065",
+  "NO_ENTIDADE": "INSTITUTO EDUCACIONAL IGUATEMY ESCOLA DE EI EF E EM",
+  "cidade": "São José dos Campos",
+  "query": "\"INSTITUTO EDUCACIONAL IGUATEMY ESCOLA DE EI EF E EM\" \"São José dos Campos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INSTITUTO EDUCACIONAL IGUATEMY ESCOLA DE EI EF E EM\" \"São José dos Campos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Sim. MARIA EDUARDA ... INSTITUTO EDUCACIONAL IGUATEMY ESCOLA DE EI EF E EM, P, SÃO JOSÉ DOS CAMPOS, SP ...",
+        "position": 1
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola e Estado | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536523912/Premiacao-9%C2%BA-Ano-Ef-Nivel-a-2019-2",
+        "snippet": "RODRIGO MIYATA MEIRELLES INSTITUTO EDUCACIONAL IGUATEMY ESCOLA DE EI EF E EM SÃO PAULO São José dos Campos ... JULIA DANTAS CASSIN ZETA SISTEMA DE ENSINO DE ...",
+        "position": 2
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "INSTITUTO EDUCACIONAL IGUATEMY ESCOLA DE EI EF E EM. SÃO PAULO. São José dos Campos. MATHEUS EIJI FARIA KOMATSU. SANTO AGOSTINHO COLEGIO. SÃO PAULO. São Paulo.",
+        "position": 3
+      },
+      {
+        "title": "exercicios de biologia | Exercícios Biologia",
+        "link": "https://www.docsity.com/pt/docs/exercicios-de-biologia-10/5870529/",
+        "snippet": "... São José dos Campos WANDERELEY DE SOUZA NETO PHOTON COLEGIO SÃO PAULO ... INSTITUTO EDUCACIONAL IGUATEMY ESCOLA DE EI EF E EM SÃO PAULO São José dos ...",
+        "position": 4
+      },
+      {
+        "title": "Sol Azul Escola de Educação Infantil - São José dos Campos - SP",
+        "link": "https://www.escol.as/275466-sol-azul-escola-de-educacao-infantil",
+        "snippet": "... São José dos Campos no bairro Jardim Nova ... material didático e brinquedos pedagógicos. O ... Instituto Educacional Iguatemy Escola de Ei Ef e Em.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

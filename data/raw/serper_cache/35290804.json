@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35290804",
+  "NO_ENTIDADE": "ESCOLA SEB UNIDADE ALVARES CABRAL",
+  "cidade": "Ribeirão Preto",
+  "query": "\"ESCOLA SEB UNIDADE ALVARES CABRAL\" \"Ribeirão Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA SEB UNIDADE ALVARES CABRAL\" \"Ribeirão Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "CIE ESCOLA MUNICÍPIO",
+        "link": "https://midiasstoragesec.blob.core.windows.net/001/2024/03/escolas_privadas_2024_derpt_22-03-2024.pdf",
+        "snippet": "CAPELLA KIDS SISTEMA DE ENSINO EIRELI- ME. RIBEIRAO PRETO. 262985. CARLA ... COC RIBEIRÃO PRETO - REDE ÚNICA DE EDUCAÇÃO UNIDADE. 02. RIBEIRAO PRETO. 7840.",
+        "position": 1
+      },
+      {
+        "title": "Ribeirão Preto 499 escolas",
+        "link": "https://qedu.org.br/municipio/3543402-ribeirao-preto/busca",
+        "snippet": "ESCOLA REINO DOS SONHOS. SANTA LUZIA, 763. JARDIM SUMARE. 14025090 Ribeirão Preto - São Paulo. Rede privada / Urbana · ESCOLA SEB UNIDADE ALVARES CABRAL.",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Escola SEB Unidade Álvares Cabral - 725,50 - Ribeirão Preto (São Paulo) - Particular - 92%; Mobile Colégio - 724,04 - São Paulo (São Paulo) ...",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "CNEC Educação - ENEM",
+        "link": "https://enem.cneceduca.com.br/",
+        "snippet": "Escola Seb Unidade Alvares Cabral, Privada, Ribeirão Preto, SP, 54, 650,23, 621,79 ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line Alexandria CNEC ...",
+        "position": 4
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Escola SEB Unidade Álvares Cabral - Ribeirão Preto - Nota: 725,50 ... Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ...",
+        "date": "23 de jun. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

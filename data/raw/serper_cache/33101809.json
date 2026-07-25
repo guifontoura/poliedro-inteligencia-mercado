@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "33101809",
+  "NO_ENTIDADE": "COLEGIO EME",
+  "cidade": "Nova Iguaçu",
+  "query": "\"COLEGIO EME\" \"Nova Iguaçu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO EME\" \"Nova Iguaçu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O Colégio EME se destaca com diferenciais que garantem ...",
+        "link": "https://www.instagram.com/reel/DTazJhFkSvj/",
+        "snippet": "o COLÉGIO EME E 10 LUGAR NO ENEM EM NOVA IGUAÇU COLÉGIO EME . EME ... SISTEMA DE ENSINO DESCOBERTAS ONDE TUDO COMEÇA Os primeiros anos ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio EME on Instagram: \"Chegou a hora de escolher o ...",
+        "link": "https://www.instagram.com/reel/DOOcRfmDa99/",
+        "snippet": "... Nova Iguaçu! Mantemos o 1º lugar no ENEM em Nova Iguaçu e ... Colégio EME! As reservas de vagas já foram iniciadas! Não perca essa ...",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "👉🏼 Você conhece o Colégio EME? Arraste para o lado e ...",
+        "link": "https://www.instagram.com/p/DRkGzlxjWer/",
+        "snippet": "O Colégio EME é 1º lugar de Nova Iguaçu no ENEM E existe um motivo ... @cemararuama Sistema de Ensino pH. A parceria com um dos ...",
+        "date": "há 7 meses",
+        "position": 3
+      },
+      {
+        "title": "Antes de revelar os números, resolvemos fazer uma pergunta ...",
+        "link": "https://www.instagram.com/reel/DaiEooMs7nY/",
+        "snippet": "... Sistema de Ensino • DESDE 2005 • 9ª POSIÇÃO entre as 138 escolas ... O Colégio EME é 1º lugar de Nova Iguaçu no ENEM E existe um motivo ...",
+        "date": "há 2 semanas",
+        "position": 4
+      },
+      {
+        "title": "Conheça as 19 melhores escolas em Nova Iguaçu",
+        "link": "https://www.quintoandar.com.br/guias/cidades/escolas-em-nova-iguacu/",
+        "snippet": "O Colégio EME é uma das escolas mais tradicionais de Nova Iguaçu, com mais de 50 anos de história. Inicialmente reconhecido pela preparação de ...",
+        "date": "29 de out. de 2024",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

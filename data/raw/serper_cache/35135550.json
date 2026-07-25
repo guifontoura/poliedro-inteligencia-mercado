@@ -1,0 +1,25 @@
+{
+  "codigo_escola": "35135550",
+  "NO_ENTIDADE": "COLEGIO SANTA VIRGINIA",
+  "cidade": "São Paulo",
+  "query": "\"COLEGIO SANTA VIRGINIA\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA VIRGINIA\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas no município de São Paulo - SP",
+        "link": "https://www.cidadesdomeubrasil.com.br/sp/sao_paulo/escolas",
+        "snippet": "Escolas em São Paulo - São Paulo. Relação de Estabelecimentos Educacionais ... COLEGIO SANTA VIRGINIA, RUA HIROVO KAMINOBO, 1061A RUA. JARDIM BONIFACIO ...",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

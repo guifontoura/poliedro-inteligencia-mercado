@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33201927",
+  "NO_ENTIDADE": "PB COLEGIO E CURSO",
+  "cidade": "Niterói",
+  "query": "\"PB COLEGIO E CURSO\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PB COLEGIO E CURSO\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "PB COLÉGIO E CURSO (@pbcolegiocurso) · Niterói, RJ",
+        "link": "https://www.instagram.com/pbcolegiocurso/",
+        "snippet": "1º lugar em Niterói - RJ 2º lugar no Estado do Rio de Janeiro Esse resultado representa dedicação, acompanhamento e uma jornada de aprendizado construída ...",
+        "position": 1
+      },
+      {
+        "title": "PB Paulo Gustavo",
+        "link": "https://www.pbcolegioecurso.com.br/pb-paulo-gustavo/",
+        "snippet": "Professores experientes do Rio de Janeiro, especializados em preparação ITA/IME. Carga horária diferenciada, apostila otimizada e resolução de centenas de ...",
+        "position": 2
+      },
+      {
+        "title": "PB Colégio e Curso amplia atuação e lança Fundamental ...",
+        "link": "https://revistakdea360.com.br/noticia/39889/pb-colegio-e-curso-amplia-atuacao-e-lanca-fundamental-anos-finais-em-niteroi",
+        "snippet": "PB Colégio e Curso amplia atuação e lança Fundamental Anos Finais em Niterói ... Com professores especialistas e material didático de ...",
+        "date": "19 de dez. de 2025",
+        "position": 3
+      },
+      {
+        "title": "PB Colégio e Curso amplia atuação e passa a oferecer ...",
+        "link": "https://www.juventudebm.com/2025/11/pb-colegio-e-curso-amplia-atuacao-e.html",
+        "snippet": "PB Colégio e Curso amplia atuação e passa a oferecer Ensino Fundamental Anos Finais em Niterói ... Reconhecido pelos altos índices de aprovação ...",
+        "date": "30 de nov. de 2025",
+        "position": 4
+      },
+      {
+        "title": "PB COLÉGIO E CURSO on Instagram: \"Nossos alunos ...",
+        "link": "https://www.instagram.com/reel/DGEBMLiSsUK/",
+        "snippet": "... Niterói reforça o compromisso com a qualidade da educação e o ... Material didático físico entregue em sua casa, porque o alto ...",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

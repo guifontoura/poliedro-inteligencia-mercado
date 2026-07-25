@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31260541",
+  "NO_ENTIDADE": "COLLEGIUM PRISMA",
+  "cidade": "Montes Claros",
+  "query": "\"COLLEGIUM PRISMA\" \"Montes Claros\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLLEGIUM PRISMA\" \"Montes Claros\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "1⃣ Antecipe-se Garanta já o material didático do seu filho ...",
+        "link": "https://www.instagram.com/p/DDITjAJNCnX/",
+        "snippet": "Montes Claros 169 anos 03 DE JULHO PARABÉNS À CAPITAL DO NORTE DE MINAS! ... Collegium Prisma. Photo by Rede Educacional Prisma on May 15 ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Valéria Regina de Carvalho e Fagundes",
+        "link": "https://www.escavador.com/sobre/4549100/valeria-regina-de-carvalho-e-fagundes",
+        "snippet": "... Montes Claros. Especialista em Psicopedagogia (2001-2002) pela Universidade ... (Desenvolvimento de material didático ou instrucional - Projeto Pedagógico).",
+        "position": 2
+      },
+      {
+        "title": "Chaveamento e Emparceiramento Regional Norte Sede - JEMG",
+        "link": "http://jogosescolares.esportes.mg.gov.br/wp-content/uploads/2013/01/Chaveamento-e-Emparceiramento-Regional-Norte14.pdf",
+        "snippet": "Montes Claros. Sistema de Ensino Foco. Nova Porteirinha. E.E. Inspetor Luiz Pedro. Pirapora. Escola Técnica Alto Médio São Francisco. Rio Pardo de Minas. E.E. ...",
+        "position": 3
+      },
+      {
+        "title": "Ranking ENEM Escolas por Cidade",
+        "link": "https://www.aio.com.br/ranking-enem-escolas-por-cidade/montes-claros",
+        "snippet": "Montes Claros 2025 ; 1, Sistema de Ensino Foco, Montes Claros ; 2, Col Marista São Jose, Montes Claros ; 3, Collegium Prisma, Montes Claros ; 4 ...",
+        "date": "Ranking Completo",
+        "position": 4
+      },
+      {
+        "title": "Montes Claros - Escolas",
+        "link": "https://qedu.org.br/municipio/3143302-montes-claros/busca",
+        "snippet": "COLLEGIUM PRISMA. IRMA BEATA, 67. CENTRO. 39400110 Montes Claros - Minas Gerais. Rede privada / Urbana · COLLEGIUM SOLIDOS. AVENIDA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

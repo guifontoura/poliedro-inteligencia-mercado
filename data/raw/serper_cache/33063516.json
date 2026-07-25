@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33063516",
+  "NO_ENTIDADE": "COLEGIO NOSSA SENHORA DE LOURDES",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO NOSSA SENHORA DE LOURDES\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NOSSA SENHORA DE LOURDES\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Vila Isabel, há 103 anos educando com valores, excelência e ...",
+        "link": "https://www.instagram.com/reel/DRExviEjXEh/",
+        "snippet": "... Colégio Nossa Senhora de Lourdes - Vila Isabel, há 103 anos educando ... SISTEMA DE ENSINO Cambridge Assessment English pes English ...",
+        "date": "há 8 meses",
+        "position": 1
+      },
+      {
+        "title": "Escolher o Colégio vai além do material didático. ...",
+        "link": "https://www.instagram.com/p/Da2stI5jfGs/",
+        "snippet": "CONQUISTA SOLUÇÃO EDUCACIONAL. Nossa parceria com a Conquista ... Rio de Janeiro e que atualmente funciona o Centro Cultural Banco do Brasil.",
+        "date": "há 1 semana",
+        "position": 2
+      },
+      {
+        "title": "O Colégio Nossa Senhora da Penha oferece ensino de ...",
+        "link": "https://www.instagram.com/reel/DThtqyVgGNe/",
+        "snippet": "Rio de Janeiro, Rio de Janeiro. 70 likes ... SISTEMA DE ENSINO Cambridge Assessment English pes English ClassApp COLÉGIO INTERNACIONAL ...",
+        "date": "há 6 meses",
+        "position": 3
+      },
+      {
+        "title": "Representações acerca das práticas escolares no Colégio ...",
+        "link": "https://www.researchgate.net/publication/335166789_Representacoes_acerca_das_praticas_escolares_no_Colegio_Nossa_Senhora_de_Lourdes_FarroupilhaRS_1922-1954_Representations_on_school_practices_in_Nossa_Senhora_de_Lourdes_School_FarroupilhaRS_1922-1954",
+        "snippet": "O Colégio Nossa Senhora de Lourdes, instituição centenária, localizada em ... sistema de ensino, a. escola foi adequando-se às exigências de ensinar a ...",
+        "position": 4
+      },
+      {
+        "title": "INSP Unidade Flamengo",
+        "link": "https://insp1.com.br/",
+        "snippet": "Colégio Nossa Senhora de Lourdes · Colégio Nossa Senhora da Piedade – BH/MG ... Flamengo – Rio de Janeiro – RJ CEP: 22230-040. (21) 2552-3348 / (21) 2552 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

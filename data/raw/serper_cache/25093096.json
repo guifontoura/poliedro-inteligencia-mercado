@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "25093096",
+  "NO_ENTIDADE": "COLEGIO PIO XI",
+  "cidade": "João Pessoa",
+  "query": "\"COLEGIO PIO XI\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PIO XI\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "PIO XI Colégio e Cursos",
+        "link": "https://pioxi.com.br/",
+        "snippet": "Há mais de quarenta anos, o Colégio Pio XI oferece educação de excelência ... JOÃO PESSOA - PB CEP: 58036-391. secretaria@pioxi.com.br. (83) 3246-1245 ...",
+        "position": 1
+      },
+      {
+        "title": "Pio XI Bessa on Instagram: \"O Colégio Pio XI comemora ...",
+        "link": "https://www.instagram.com/reel/DN7wt8TAPkA/",
+        "snippet": "... João Pessoa 2° Lugar de Linguagens na Paraíba 2° Lugar de Ciências ... parceria com o material didático deles. Foi um período de muito ...",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "O Colégio Propósito é Top 2 no ENEM entre as escolas de ...",
+        "link": "https://www.instagram.com/p/Daf8aNyFuRh/",
+        "snippet": "... João Pessoa 2° Lugar de Linguagens na Paraíba 2° Lugar de Ciências ... Poliedro Sistema de Ensino. 1º lugar em Timon e entre as 15 ...",
+        "date": "há 2 semanas",
+        "position": 3
+      },
+      {
+        "title": "Colegio Pio Xi - Descontos, Preço das Mensalidades e ...",
+        "link": "https://querobolsa.com.br/escolas/colegio-pio-xi",
+        "snippet": "Onde fica o Colegio Pio Xi? rua philadelfo pinto de carvalho, 135 - bessa, João Pessoa - PB.",
+        "rating": 5,
+        "ratingCount": 2,
+        "position": 4
+      },
+      {
+        "title": "Colegio Pio Xi | Bolsas de Estudo em João Pessoa - PB",
+        "link": "https://www.melhorescola.com.br/escola/colegio-pio-xi",
+        "snippet": "Garanta sua bolsa de estudos em Colegio Pio Xi, João Pessoa - PB. Descontos ... Logo - Mecenas Sistema De Ensino. Mecenas Sistema De Ensino. Sem ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

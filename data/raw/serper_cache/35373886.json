@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35373886",
+  "NO_ENTIDADE": "D INCAO INSTITUTO DE ENSINO",
+  "cidade": "Bauru",
+  "query": "\"D INCAO INSTITUTO DE ENSINO\" \"Bauru\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"D INCAO INSTITUTO DE ENSINO\" \"Bauru\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "D'incao Instituto de Ensino (@dincaobrasil) · Bauru, SP",
+        "link": "https://www.instagram.com/dincaobrasil/?hl=pt",
+        "snippet": "... Bauru. O mais forte e completo material didático No D'Incao ...",
+        "position": 1
+      },
+      {
+        "title": "D'incao Instituto de Ensino on Instagram: \" Conheça a Super ...",
+        "link": "https://www.instagram.com/reel/DTS0qNHDKMd/",
+        "snippet": "... Bauru ... O FUTURO É AGORA ENSINO FUNDAMENTAL ANOS INICIAIS EDUCAÇÃO INFANTIL D'Incao instituto de ensino ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "🚀 O futuro pertence a quem aprende a pensar. No D'Incao ...",
+        "link": "https://www.facebook.com/dincaobrasil/videos/ofuturoe%CC%81agoravideomp4/1548972613406251/",
+        "snippet": "... D'Incao Instituto de Ensino – Bauru/SP #BackToMac ... No photo description available. Rogerinho Tattoo Bauru sp ... apostila de algum sistema de ensino, uma ...",
+        "position": 3
+      },
+      {
+        "title": "Estela Almagro entrega moção de aplauso ao D'Incao Instituto ...",
+        "link": "https://www.bauru.sp.leg.br/imprensa/noticias/estela-almagro-entrega-mocao-de-aplauso-ao-dincao-instituto-de-ensino/",
+        "snippet": "... D'Incao Instituto de Ensino pelo trabalho de excelência na formação ... material didático e acompanhamento integral oferecidos pela ...",
+        "date": "28 de ago. de 2025",
+        "position": 4
+      },
+      {
+        "title": "D'Incao Triumph: TOEFL Success & Learning Horizons",
+        "link": "https://socialbauru.com.br/dincao-triumph-toefl-success-learning-horizons/",
+        "snippet": "Como centro aplicador da certificação TOEFL, o D'Incao consegue oferecer uma metodologia no ensino de língua inglesa, que inclui material didático internacional ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

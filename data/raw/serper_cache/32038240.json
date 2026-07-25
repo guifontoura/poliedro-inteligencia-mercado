@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "32038240",
+  "NO_ENTIDADE": "COLEGIO SAO JOSE",
+  "cidade": "Vila Velha",
+  "query": "\"COLEGIO SAO JOSE\" \"Vila Velha\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAO JOSE\" \"Vila Velha\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "em atividade",
+        "link": "https://sedu.es.gov.br/Media/sedu/pdf%20e%20Arquivos/ENDERE%C3%87O%20E%20CONTATO%20DAS%20ESCOLAS%20-%20REDE%20PRIVADA.xlsx",
+        "snippet": "SRE VILA VELHA, Vila Velha, 32081405, SISTEMA DE ENSINO FERREIRA CORDEIRO, URBANA, EM ATIVIDADE, PRIVADA, AVENIDA SANTA LEOPOLDINA, 2269, PRAIA DE ITAPARICA ...",
+        "position": 1
+      },
+      {
+        "title": "Vila Velha - Escolas",
+        "link": "https://qedu.org.br/municipio/3205200-vila-velha/busca",
+        "snippet": "COLEGIO SAO JOSE. LUCIANO DAS NEVES, 510. CENTRO DE VILA VELHA. 29100201 Vila Velha - Espírito Santo. Rede privada / Urbana · CRECHE CARINHO CIA LTDA -ME. SANTA ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio Santa Maria | JOIN 7⁰ ANO - 2025 #JOIN #CSM ...",
+        "link": "https://www.instagram.com/reel/DRA-sB9kdxF/",
+        "snippet": "... Vila Velha. Agradecemos o apoio do coordenador do ginásio da da qual ... colégio São José todas as. Nós agradecemos também a. Desejamos ...",
+        "date": "há 8 meses",
+        "position": 3
+      },
+      {
+        "title": "3ª SÉRIE",
+        "link": "https://colegiosaojose.com.br/wp-content/uploads/2024/11/Lista-de-Livros-e-Materiais-2025_3a-serie.pdf",
+        "snippet": "de E MÉDIO · Citado por 2 — A aquisição do material didático é realizada diretamente na Loja Online ... Vila Velha - TEL: 3204-2255 (ramal - 2282). HORÁRIO: 8h30 às 13h30/14h30 às ...",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO UNO VERTICE, P, DIVINOPOLIS, MG, Bronze. HEITOR SOARES DE ... COLEGIO SAO JOSE SION IPIRANGA, P, SAO PAULO, SP, Bronze. BRUNO EMANUEL PEREIRA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

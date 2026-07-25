@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "26095882",
+  "NO_ENTIDADE": "INSTITUTO SANTO INACIO DE LOIOLA",
+  "cidade": "Vitória de Santo Antão",
+  "query": "\"INSTITUTO SANTO INACIO DE LOIOLA\" \"Vitória de Santo Antão\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INSTITUTO SANTO INACIO DE LOIOLA\" \"Vitória de Santo Antão\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Instituto Santo Inácio De Loiola | Bolsas de Estudo em ...",
+        "link": "https://www.melhorescola.com.br/escola/instituto-santo-inacio-de-loiola",
+        "snippet": "Garanta sua bolsa de estudos em Instituto Santo Inácio De Loiola, Vitória de Santo Antão - PE ... Sistema de ensino. Rede Pitágoras (Somos). O sistema de ...",
+        "position": 1
+      },
+      {
+        "title": "🎓 Quer garantir que seu filho esteja pronto para conquistar ...",
+        "link": "https://www.instagram.com/p/DPg7LEmEkvy/",
+        "snippet": "Sistema de ensino COC. Um sistema de ensino consolidado, com ... Vitória de Santo Antão e o 10º lugar no estado de Pernambuco entre as ...",
+        "date": "há 9 meses",
+        "position": 2
+      },
+      {
+        "title": "O Ensino Médio da Educação Vicentina prepara o estudante ...",
+        "link": "https://www.instagram.com/reel/DVOX_TACQ36/",
+        "snippet": "... Vitória de Santo Antão e o 10º lugar no estado de Pernambuco entre ... CURSO CONQUISTA SISTEMA DE ENSINO PREPARAÇÃO PARA INGRESSO NO 1º ...",
+        "date": "há 4 meses",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO UNO VERTICE, P, DIVINOPOLIS, MG, Bronze. HEITOR SOARES DE ... INSTITUTO SANTO INACIO DE LOIOLA, P, VITORIA DE SANTO ANTAO, PE, Bronze. HELENA ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio Montessoriano on Instagram: \"No Colégio ...",
+        "link": "https://www.instagram.com/reel/DQ6n51xDYlJ/",
+        "snippet": "... material didático está incluso no valor da mensalidade. Se ... Vitória de Santo Antão e o 10º lugar no estado de Pernambuco entre as ...",
+        "date": "há 8 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

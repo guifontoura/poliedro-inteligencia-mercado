@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "23498994",
+  "NO_ENTIDADE": "COLEGIO CHRISTUS UNIDADE PARQUELANDIA",
+  "cidade": "Fortaleza",
+  "query": "\"COLEGIO CHRISTUS UNIDADE PARQUELANDIA\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO CHRISTUS UNIDADE PARQUELANDIA\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-CE.3.privada.do.htm",
+        "snippet": "COLEGIO CHRISTUS UNIDADE PARQUELANDIA, P, FORTALEZA, CE, Sim. LUCIANO ARAUJO LOBO CALAZANS, ANTARES COLEGIO PRE VESTIBULAR, P, FORTALEZA, CE, Sim. PABLO CID ...",
+        "position": 1
+      },
+      {
+        "title": "Joaquim Moreira De Sousa, Esc 1 Gr - Fortaleza - CE",
+        "link": "https://www.studocu.com/pt-br/high-school/joaquim-moreira-de-sousa-esc-1-gr/466062",
+        "snippet": "Estudando em Joaquim Moreira De Sousa, Esc 1 Gr - Fortaleza - CE? Experimente nossa ampla variedade de anotações de aula, resumos e guias de estudo para ...",
+        "position": 2
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... Fortaleza. Privada. Urbana. 35. De 31 a. 60 alunos. 35. 100.00. 0. Menos de 20%. Sem ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos.",
+        "position": 3
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2304400-fortaleza/busca",
+        "snippet": "60442642 Fortaleza - Ceará. Rede privada / Urbana · ALTERNATIVO SISTEMA DE ENSINO. RUA DOUTOR RIBAMAR LOBO, 363 PAPICU. 60176-145 Fortaleza - CE. Rede privada ...",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/",
+        "snippet": "FORTALEZA, CE, Privada, Menos de 20%, Sem informação, 737.88, 655.11 ... ZETA SISTEMA DE ENSINO DE PROMISSAO, PROMISSAO, SP, Privada, 80% ou mais ...",
+        "date": "5 de ago. de 2015",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

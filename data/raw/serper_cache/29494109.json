@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "29494109",
+  "NO_ENTIDADE": "ESCOLA REMBRANDT",
+  "cidade": "Salvador",
+  "query": "\"ESCOLA REMBRANDT\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA REMBRANDT\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "A Escola Rembrandt está situada em uma região estratégica ...",
+        "link": "https://www.instagram.com/reel/DRu7xeSj216/",
+        "snippet": "A Escola Rembrandt está situada em uma região estratégica de Salvador ... sistema de ensino, entre mais de 30 mil estudantes de todo o Brasil.",
+        "date": "há 7 meses",
+        "position": 1
+      },
+      {
+        "title": "Escola Rembrandt (@escolarembrandt) · Salvador, BA",
+        "link": "https://www.instagram.com/escolarembrandt/",
+        "snippet": "Na Escola Rembrandt, a escolha do material didático é estratégica e ...",
+        "position": 2
+      },
+      {
+        "title": "Alunos podem receber nota zero se pais recusarem ...",
+        "link": "https://www.metro1.com.br/noticias/educacao/161609,alunos-podem-receber-nota-zero-se-pais-recusarem-comprar-kit-didatico-de-rdollar-3-mil-em-escola-de-salvador",
+        "snippet": "Estudantes da Escola Rembrandt, localizada na Avenida Luís Viana Filho, em Salvador ... solução educacional adotada. Permanecemos à ...",
+        "date": "19 de fev. de 2025",
+        "position": 3
+      },
+      {
+        "title": "Matriculas 2027 abertas na Escola Rembrandt",
+        "link": "https://www.facebook.com/escolarembrandt/videos/converse-conosco/2166214007508486/",
+        "snippet": "Matriculas 2027 abertas na Escola Rembrandt. ... No photo description available. Odontoface Salvador. Dentist & Dental Office ... material didático. Os nossos ...",
+        "position": 4
+      },
+      {
+        "title": "Escola Rembrandt",
+        "link": "https://www.youtube.com/@EscolaRembrandt/shorts",
+        "snippet": "Bem-vindo ao canal da Escola Rembrandt, o epicentro da educação contemporânea em Salvador. ... Material Didático. 15 views · Musicalização. 16 views ... Neila ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

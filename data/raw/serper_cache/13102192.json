@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "13102192",
+  "NO_ENTIDADE": "LATO SENSU IV",
+  "cidade": "Manaus",
+  "query": "\"LATO SENSU IV\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LATO SENSU IV\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ac24horas on Instagram: \"Durante entrevista ao programa Bar ...",
+        "link": "https://www.instagram.com/reel/DUl-5g5lZEm/",
+        "snippet": "... material didático de qualidade. #bardovaz # ... O debate se amplia pelo valor das mensalidades em Manaus, semelhantes ou superiores às de ...",
+        "date": "há 5 meses",
+        "position": 1
+      },
+      {
+        "title": "semedmanaus on Instagram: \" Educação que atravessa ...",
+        "link": "https://www.instagram.com/reel/DVb1ngpEc1w/",
+        "snippet": "Lato Sensu IV (Cidade Nova) – 668,91 6. Curso Regular de Educação a ... O Sistema de Ensino SEI Incentivo conquistou o 1º lugar entre ...",
+        "date": "há 4 meses",
+        "position": 2
+      },
+      {
+        "title": "A Prefeitura de Manaus premiou os destaques da 19ª ...",
+        "link": "https://www.instagram.com/p/DZdXLH2FmFC/",
+        "snippet": "... Lato Sensu IV (Cidade Nova, Manaus) 668,91 6º Curso Regular de ... O Sistema de Ensino SEI Incentivo conquistou o 1º lugar entre as ...",
+        "position": 3
+      },
+      {
+        "title": "Encerrando um lindo ciclo! Os alunos do 9º ano finalizam ...",
+        "link": "https://www.instagram.com/reel/DSqBKaTEZ9F/",
+        "snippet": "O Sistema de Ensino SEI Incentivo conquistou o 1º lugar entre as ... MANAUS Figue Ligado Manaus Fique Ligado @manausfiqueligado DISPUTA ...",
+        "date": "há 7 meses",
+        "position": 4
+      },
+      {
+        "title": "10 melhores escolas particulares em Manaus - Revista ME",
+        "link": "https://www.melhorescola.com.br/artigos/as-10-melhores-escolas-particulares-de-manaus-segundo-pais-alunos-e-professores",
+        "snippet": "Quais são as melhores escolas particulares de Manaus pelo Enem? ; 7. Centro Educacional Lato Sensu IV. Manaus ; 8. Fundação Matias Machline.",
+        "date": "2 de mai. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

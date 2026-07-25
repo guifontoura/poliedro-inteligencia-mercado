@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "43105068",
+  "NO_ENTIDADE": "COLEGIO SANTA INES",
+  "cidade": "Porto Alegre",
+  "query": "\"COLEGIO SANTA INES\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA INES\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "LISTA DE MATERIAL ESCOLAR 2026",
+        "link": "https://csi.santainesrs.com.br/load/pasta/37/6942a5d19739f.pdf",
+        "snippet": "Protásio Alves, 2493 - Petrópolis - Porto Alegre - RS - ( Ao lado do Colégio Santa Inês) ... o material didático de English Language será utilizado de forma ...",
+        "position": 1
+      },
+      {
+        "title": "Recebemos a equipe gestora do Colégio Santa Terezinha ...",
+        "link": "https://www.instagram.com/p/DZqJr9aCOk3/",
+        "snippet": "... material didático e a plataforma bilíngue, nossos visitantes puderam ... Porto Alegre (RS), dos eventos ENARSE e ENEL Regional 2026 ...",
+        "position": 2
+      },
+      {
+        "title": "Já está no ar o RJE Informa do mês de maio! Nesta edição ...",
+        "link": "https://www.instagram.com/reel/DY63L3ER7jj/",
+        "snippet": "... Porto Alegre (RS), nos convida a refletir sobre o papel do ... Colégio Santa Inês, em Porto Alegre, reafirmando o compromisso da Rede ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio Santa Úrsula on Instagram: \"O Colégio Santa Úrsula ...",
+        "link": "https://www.instagram.com/reel/DX7nZUVjgFj/",
+        "snippet": "O Sistema de Ensino Bom Jesus, assim como o Educandário, é ... COLÉGIO SANTA INÊS CONVIDA UM MOMENTO PARA FAMÍLIAS E CRIANÇAS ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Quem Somos - AESA",
+        "link": "https://aesaonline.org.br/quem-somos/",
+        "snippet": "... sistema de ensino e programas de Educação. E, para o atendimento de suas finalidades ... No Município de Porto Alegre tem as Mantidas: Colégio Santa Inês ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

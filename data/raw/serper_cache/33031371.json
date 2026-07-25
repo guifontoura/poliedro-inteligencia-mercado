@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "33031371",
+  "NO_ENTIDADE": "COL DOM BOSCO",
+  "cidade": "Resende",
+  "query": "\"COL DOM BOSCO\" \"Resende\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL DOM BOSCO\" \"Resende\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "No CDB, a escola também é lugar de abraço apertado, riso solto e ...",
+        "link": "https://www.instagram.com/reel/DJ6caLYNiFL/",
+        "snippet": "Painel de Desempenho: Col Dom Bosco... #1 em Resende #82 em RJ #681 no ... Sistema de Ensino 87 ANOS COLÉGIO DOM BOSCO RESENDE - RJ 2GO.",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Seu filho merece a educação que o levará ao topo. 🏆 ...",
+        "link": "https://www.instagram.com/p/DRhY93HDGGC/?hl=ms",
+        "snippet": "... RESENDE Enem por Escola 2025... Painel de Desempenho: Col Dom Bosco ... MATERIAL DIDÁTICO MAXI INCLUSO Tire suas dúvidas: 18 99638-4161 ...",
+        "date": "há 8 meses",
+        "position": 2
+      },
+      {
+        "title": "Escolas Particulares",
+        "link": "https://www.coseacuff.net.br/vest99/escpart.htm",
+        "snippet": "RESENDE 2211 - CENTRO EDUC E INFORMATICA XV DE NOVEMBRO 2212 - COL AGULHAS NEGRAS 2213 - COL DOM BOSCO 2214 - COL STA ANGELA 2215 - INST SÃO JOSÉ RIO BONITO",
+        "position": 3
+      },
+      {
+        "title": "ALUNO DESTAQUE Aqui, a gente valoriza o esforço, ...",
+        "link": "https://www.instagram.com/p/DaWOKZcibao/",
+        "snippet": "... MATERIAL DIDÁTICO MAXI INCLUSO Tire suas dúvidas: 18 99638-4161 ... COC Sistema de Ensino COC com acesso facilitado. AGENDE UMA VISITA ...",
+        "date": "há 3 semanas",
+        "position": 4
+      },
+      {
+        "title": "O Colégio Estadual Dr. João Maia é parte viva da história de ...",
+        "link": "https://www.instagram.com/reel/DQjcqtGDiBd/",
+        "snippet": "Meu início escolar foi no Grupo Escolar Dr. João Maia. brunnapaulino0308. Colégio que me acolheu em Resende quando ...",
+        "date": "há 8 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

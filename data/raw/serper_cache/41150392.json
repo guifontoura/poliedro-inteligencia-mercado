@@ -1,0 +1,25 @@
+{
+  "codigo_escola": "41150392",
+  "NO_ENTIDADE": "COLEGIO PASSO CERTO GROWING BILINGUE - EDUCACAO INFANTIL ENSINO FUNDAMENTAL E MEDIO",
+  "cidade": "Cascavel",
+  "query": "\"COLEGIO PASSO CERTO GROWING BILINGUE - EDUCACAO INFANTIL ENSINO FUNDAMENTAL E MEDIO\" \"Cascavel\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PASSO CERTO GROWING BILINGUE - EDUCACAO INFANTIL ENSINO FUNDAMENTAL E MEDIO\" \"Cascavel\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ranking de Escolas - Redação ENEM 2024",
+        "link": "https://enemranking-sdx7pmwy.manus.space/campeas",
+        "snippet": "PRCascavel. COLEGIO PASSO CERTO GROWING BILINGUE - EDUCACAO INFANTIL ENSINO FUNDAMENTAL E MEDIO. Privada. 19 alunos. Média Geral. 877.9. Competências. C1. 156.",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

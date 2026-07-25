@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "22023658",
+  "NO_ENTIDADE": "EDUCANDARIO SANTA MARIA GORETTI",
+  "cidade": "Teresina",
+  "query": "\"EDUCANDARIO SANTA MARIA GORETTI\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"EDUCANDARIO SANTA MARIA GORETTI\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Turmas de Alemão",
+        "link": "https://www.esmg.com.br/turmas-de-alemao/",
+        "snippet": "O Curso de Alemão, REALIZADO SEM NENHUM CUSTO PARA AS FAMÍLIAS DOS ALUNOS, inclui aulas semanais, material didático ... Teresina (PI) 64001-360. Telefone ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/2017/verRelatorioPremiadosMencao-PI.1.privada.do.htm",
+        "snippet": "Alunos Premiados de Escolas Privadas - OBMEP 2017 ; PABLO C BRANCO AMORIM, EDUCANDARIO SANTA MARIA GORETTI, P · TERESINA ...",
+        "position": 2
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Teresina",
+        "link": "https://qedu.org.br/municipio/2211001-teresina/distorcao-idade-serie",
+        "snippet": "Teresina. Nordeste. / Piauí. Publicidade. Elos Educacional Editora Moderna ... EDUCANDARIO SANTA MARIA GORETTI. 6,8%. EINSTEIN SISTEMA DE ENSINO - UNIDADE I.",
+        "position": 3
+      },
+      {
+        "title": "UNIDADE DA FEDERAÇÃO MUNICÍPIO ESCOLA ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_1_MUNICIPIOS.pdf",
+        "snippet": "... TERESINA. EDUCANDARIO SANTA MARIA GORETTI. PRIVADA. 49. 49. 646,25. 709,96 ... SISTEMA DE ENSINO EQUIPE. PRIVADA. 174. 173. 587,85. 655,31. 637,97.",
+        "date": "11 de set. de 2011",
+        "position": 4
+      },
+      {
+        "title": "Atividades Extras – Educandario Santa Maria Goretti",
+        "link": "https://www.esmg.com.br/atividades-extras/",
+        "snippet": "O Curso de Alemão, realizado sem nenhum custo para as familias dos alunos, inclui aulas semanais, material didático ... Teresina (PI) 64001-360. Telefone ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "23077549",
+  "NO_ENTIDADE": "COLEGIO 7 DE SETEMBRO",
+  "cidade": "Fortaleza",
+  "query": "\"COLEGIO 7 DE SETEMBRO\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO 7 DE SETEMBRO\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio 7 de Setembro (@7desetembro) - Mentions",
+        "link": "https://www.facebook.com/7desetembro/mentions/",
+        "snippet": "#tononinho O Erick é de Fortaleza e aluno do nosso parceiro Colégio 7 de Setembro e essa semana foi trocar livros no nosso Ninho na Avenida Senador Virgílio ...",
+        "rating": 4.8,
+        "ratingCount": 423,
+        "position": 1
+      },
+      {
+        "title": "Colégio 7 de Setembro on Instagram: \"Turma IB no Colégio 7 ...",
+        "link": "https://www.instagram.com/reel/DSnG2WsDm7c/",
+        "snippet": "... sistema de ensino, entre mais de 30 mil estudantes de todo o Brasil. ... Fortaleza, conquistou a medalha de ouro e o primeiro lugar geral na ...",
+        "date": "há 7 meses",
+        "position": 2
+      },
+      {
+        "title": "Há 90 anos, o Colégio 7 de Setembro forma incríveis ...",
+        "link": "https://www.instagram.com/p/DO9ZhY8gb6e/",
+        "snippet": "... SOLUÇÃO EDUCACIONAL Av. Guaianazes, 556 Vila Homero Thon | Santo ... Sistema de Ensino Anglo Av: Rua ...",
+        "date": "há 10 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio 7 de Setembro on Instagram: \"No Extensivo C7S, a ...",
+        "link": "https://www.instagram.com/reel/DTOU4S8kZUe/",
+        "snippet": "... Colégio 7 de Setembro, o aluno encontra ... FORTALEZA PERNAMBUCO E AGORA É DE FORTALEZA PARA PERNAMBUCO A MATEMÁTICA DE FORTALEZA ...",
+        "date": "há 6 meses",
+        "position": 4
+      },
+      {
+        "title": "Sistema Farias Brito",
+        "link": "https://za.linkedin.com/company/sistema-farias-brito",
+        "snippet": "Privately Held. Specialties: Educação Básica, Material Didático ... Fortaleza, Ceará · Colégio 7 de Setembro. Primary and Secondary Education. Fortaleza, Ceará ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

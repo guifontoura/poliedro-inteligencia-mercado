@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "29542618",
+  "NO_ENTIDADE": "COLEGIO OFICINA DE VITORIA DA CONQUISTA",
+  "cidade": "Vitória da Conquista",
+  "query": "\"COLEGIO OFICINA DE VITORIA DA CONQUISTA\" \"Vitória da Conquista\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO OFICINA DE VITORIA DA CONQUISTA\" \"Vitória da Conquista\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Oficina De Vitória Da Conquista - Ribeira do Pombal - BA",
+        "link": "https://www.studocu.com/pt-br/high-school/colegio-oficina-de-vitoria-da-conquista/470165",
+        "snippet": "Colégio Oficina De Vitória Da Conquista - Ribeira do Pombal - BA. Colégio ... Apostila de ...",
+        "position": 1
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536524033/Premiacao-3%C2%BA-Ano-Em-Nivel-d-2019-1",
+        "snippet": "LADEIA COLEGIO OFICINA DE VITORIA DA CONQUISTA BAHIA Vitória da Conquista ... LUCA DE FREITAS GARCIA SEI - SISTEMA DE ENSINO INTERATIVO RIO DE JANEIRO Rio de ...",
+        "position": 2
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/31/PREMIA%C3%87%C3%83O%209%C2%BA%20ANO%20EF%20NIVEL%20A%202019.pdf",
+        "snippet": "COLEGIO OFICINA DE VITORIA DA CONQUISTA. BAHIA. Vitória da Conquista. Miriene ... ZETA SISTEMA DE ENSINO DE BIRIGUI. SÃO PAULO. Birigui. HUANG PO CHIANG. NIPO ...",
+        "position": 3
+      },
+      {
+        "title": "Eseba conquista seis medalhas na Olimpíada Brasileira de ...",
+        "link": "http://comunica.ufu.br/noticias/2017/11/eseba-conquista-seis-medalhas-na-olimpiada-brasileira-de-matematica",
+        "snippet": "COLEGIO OFICINA DE VITORIA DA CONQUISTA. COLEGIO OLIMPO. COLEGIO PADRE CORREA ... SISTEMA DE ENSINO COLEGIO. SISTEMA DE ENSINO INTEGRADO MENDES AZEVEDO.",
+        "position": 4
+      },
+      {
+        "title": "Apostila de Alfabetização 3: Atividades Interativas e Ditados",
+        "link": "https://www.studocu.com/pt-br/document/colegio-oficina-de-vitoria-da-conquista/redacao/1-alfabetizacao-apostila-alfabetizacao-3/93027506",
+        "snippet": "Apostila de Alfabetização 3: Atividades Interativas e Ditados. Tema ... Colégio Oficina De Vitória Da Conquista. Enviado por. Student · Telma Rodrigues ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

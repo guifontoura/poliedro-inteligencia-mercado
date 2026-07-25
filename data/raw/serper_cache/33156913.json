@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33156913",
+  "NO_ENTIDADE": "COOPERATIVA DE TRABALHO EDUCACIONAL CESAR ALMEIDA",
+  "cidade": "Angra dos Reis",
+  "query": "\"COOPERATIVA DE TRABALHO EDUCACIONAL CESAR ALMEIDA\" \"Angra dos Reis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COOPERATIVA DE TRABALHO EDUCACIONAL CESAR ALMEIDA\" \"Angra dos Reis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola ACEC - Cooperativa de Trabalho Educacional Cesar ...",
+        "link": "https://escolaacec.com.br/",
+        "snippet": "ACEC é uma escola cooperativa com duas décadas de história, onde a formação acadêmica anda lado a lado com o desenvolvimento humano. Nossa missão vai além de ...",
+        "position": 1
+      },
+      {
+        "title": "Sistema de Ensino - CESC",
+        "link": "https://cescsjc.com.br/sistema-de-ensino/",
+        "snippet": "Conheça nossa abordagem pedagógica, métodos e recursos para garantir uma educação de qualidade e desenvolvimento integral dos alunos.",
+        "position": 2
+      },
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "Nossa proposta articula os desenvolvimentos cognitivo, socioemocional, físico, cultural e social como a CHAVE para tornar nossos estudantes competentes em um ...",
+        "position": 3
+      },
+      {
+        "title": "Sistema de ensino: O que é, e como escolher",
+        "link": "https://www.sistemapositivo.com.br/o-que-e-um-sistema-de-ensino/",
+        "snippet": "Sistema de ensino: é uma solução completa que inclui a metodologia, estratégias, avaliação plataformas digitais, formação de professores e ...",
+        "date": "3 de jun. de 2025",
+        "position": 4
+      },
+      {
+        "title": "Sucesso Sistema de Ensino",
+        "link": "https://www.sistemadeensinosucesso.com.br/",
+        "snippet": "Nosso catálogo · Educação Infantil · Ensino Fundamental I · Ensino Fundamental II ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

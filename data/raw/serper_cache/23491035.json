@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "23491035",
+  "NO_ENTIDADE": "COLEGIO CHRISTUS DIONISIO TORRES",
+  "cidade": "Fortaleza",
+  "query": "\"COLEGIO CHRISTUS DIONISIO TORRES\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO CHRISTUS DIONISIO TORRES\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Recredencia as instituições privada",
+        "link": "https://www.ce.gov.br/cge/wp-content/uploads/sites/85/2021/03/PAR.0443.2021.Escolas-pertencentes-ao-Sistema-de-Ensino-do-Estado-do-Ceara-mesclado.pdf",
+        "snippet": "ao Sistema de Ensino do Estado do Ceará, sejam o marco ... Fortaleza. 23330414 VITORIA SANTOS ESCOLA. 896. SEFOR 3. Fortaleza. 23317019 ZURIEL COLÉGIO.",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-CE.2.privada.do.htm",
+        "snippet": "FORTALEZA, CE, Bronze, ---. ARTUR TIN LUN DAI LIMA, ODILON BRAVEZA COL, P ... COLEGIO CHRISTUS DIONISIO TORRES, P, FORTALEZA, CE, ---, Sim. GUILHERME GONÇALVES DE ...",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2304400-fortaleza/busca",
+        "snippet": "60442642 Fortaleza - Ceará. Rede privada / Urbana · ALTERNATIVO SISTEMA DE ENSINO. RUA DOUTOR RIBAMAR LOBO, 363 PAPICU. 60176-145 Fortaleza - CE. Rede privada ...",
+        "position": 3
+      },
+      {
+        "title": "COLÉGIO CAD on Instagram: \"Do Colégio CAD para as ...",
+        "link": "https://www.instagram.com/reel/DZkVh-hBQA4/",
+        "snippet": "... Fortaleza e conquistamos vaga para representar nossa amada Escola ... COLÉGIO CHRISTUS DIONÍSIO TORRES COLÉGIO CHRISTUS SUL Vs COLÉGIO ...",
+        "position": 4
+      },
+      {
+        "title": "Recredenciamento de Escolas no Ceará | PDF",
+        "link": "https://pt.scribd.com/document/682269706/PAR-0443-2021-Escolas-pertencentes-ao-Sistema-de-Ensino-do-Estado-do-Ceara-mesclado",
+        "snippet": "599. SEFOR 2 Fortaleza 23204540 ALTERNATIVO SISTEMA DE ENSINO 600 ... 641. SEFOR 2 Fortaleza 23491035 COLÉGIO CHRISTUS DIONÍSIO TORRES 642. SEFOR ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "51094061",
+  "NO_ENTIDADE": "COLEGIO MAXI",
+  "cidade": "Cuiabá",
+  "query": "\"COLEGIO MAXI\" \"Cuiabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MAXI\" \"Cuiabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O Maxi Plus para o Ensino Fundamental está ainda mais ...",
+        "link": "https://www.instagram.com/p/DZnctN0ETqA/",
+        "snippet": "Photo by Colégio Maxi Cuiabá on June 15 ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Maxi",
+        "link": "https://colegiomaxi.gupy.io/",
+        "snippet": "No Ensino Fundamental 2 e 1ª e 2ª séries do Ensino Médio utilizamos o material didático ... Cuiabá - MT. Efetivo. 1. Não encontrou a vaga que procurava ...",
+        "position": 2
+      },
+      {
+        "title": "Há quase duas décadas como referência em Cuiabá, o ...",
+        "link": "https://www.facebook.com/MaxiCuiaba/videos/garanta-sua-vaga/854635180666647/",
+        "snippet": "Há quase duas décadas como referência em Cuiabá, o Colégio Maxi transforma potencial em resultados reais. ... Material didático robusto ...",
+        "position": 3
+      },
+      {
+        "title": "A importância ter uma orientação pedagógica no ambiente ...",
+        "link": "https://maxicuiaba.com.br/a-importancia-ter-uma-orientacao-pedagogica-no-ambiente-escolar/",
+        "snippet": "O Colégio Maxi em Cuiabá já possui todo o sistema, a metodologia de ensino e ... O Colégio em Cuiabá utiliza a metodologia de ensino e o material didático ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio Maxi Dracena | O 8º ano é uma etapa importante na ...",
+        "link": "https://www.instagram.com/p/DXwv3u5Op3M/?hl",
+        "snippet": "... material didático Maxi, os estudantes ... No Colégio Maxi Dracena, o aluno conta com material didático ... Photo by Colégio Maxi Cuiabá on April 15, 2026.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

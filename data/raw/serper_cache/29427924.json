@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "29427924",
+  "NO_ENTIDADE": "ESCOLA MONTEIRO LOBATO -UNIDADE 2",
+  "cidade": "Luís Eduardo Magalhães",
+  "query": "\"ESCOLA MONTEIRO LOBATO -UNIDADE 2\" \"Luís Eduardo Magalhães\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA MONTEIRO LOBATO -UNIDADE 2\" \"Luís Eduardo Magalhães\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas Particulares em Luís Eduardo Magalhães (BA)",
+        "link": "https://www.blog.schooladvisor.com.br/escolas-luiseduardomagalh%C3%A3es",
+        "snippet": "... material didático e metodologias que fazem sentido pra você. Avalie ... A Escola Monteiro Lobato – Unidade 2, em Luís Eduardo Magalhães, desenvolve ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM ESCOLA SIGLA NO_MUNICIPIO NO_ENTIDADE ...",
+        "link": "https://estaticog1.globo.com/2012/11/22/notasEnem2011.pdf",
+        "snippet": "... LUIS EDUARDO MAGALHAES. Estadual. 449,037799. 468,854067 517,9856459 ... ESCOLA MONTEIRO LOBATO -UNIDADE 2. Privada. 557,4142857 574,6214286 ...",
+        "date": "22 de nov. de 2012",
+        "position": 2
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL. PB. 7312. SUELI ... EE - COLEGIO ESTADUAL LUIS EDUARDO MAGALHAES - TEMPO INTEGRAL. BA. 11148 ...",
+        "position": 3
+      },
+      {
+        "title": "notasEnem2011",
+        "link": "https://www.yumpu.com/pt/document/view/5414668/notasenem2011",
+        "snippet": "BA LUIS EDUARDO MAGALHAES ESCOLA MONTEIRO LOBATO -UNIDADE 2 Privada ... SISTEMA DE ENSINO SAO BENEDITO Privada 416,8375 417,3958333 468 ...",
+        "date": "22 de nov. de 2012",
+        "position": 4
+      },
+      {
+        "title": "UF REDE CODIGO ESCOLA UNIDADE ...",
+        "link": "https://estaticog1.globo.com/2013/11/26/Enem2012_por_escola_final.pdf",
+        "snippet": "... SISTEMA DE ENSINO. 69. 60 86,96 583,74 710,01 635,72 600,55 621,67 632 ... ESCOLA MONTEIRO LOBATO -UNIDADE 2. 33. 24 72,73 552,98 646,27 ...",
+        "date": "26 de nov. de 2013",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

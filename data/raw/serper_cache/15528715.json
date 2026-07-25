@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "15528715",
+  "NO_ENTIDADE": "SOC DE EDUC INTEG HUMANA DO BRASIL",
+  "cidade": "Santarém",
+  "query": "\"SOC DE EDUC INTEG HUMANA DO BRASIL\" \"Santarém\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SOC DE EDUC INTEG HUMANA DO BRASIL\" \"Santarém\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "OBMEP 2019 - Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/2019/verRelatorioPremiadosMencao-PA.3.privada.do.htm",
+        "snippet": "SOC DE EDUC INTEG HUMANA DO BRASIL, P, SANTARÉM, PA, Sim. RAFAEL BENTES DE SALES ... SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP, P, BELÉM, PA, Sim. 15, IGOR ...",
+        "position": 1
+      },
+      {
+        "title": "Ranking ENEM Escolas por Estado | Melhores Colégios do ...",
+        "link": "https://www.aio.com.br/ranking-enem-escolas-por-estado/pa",
+        "snippet": "8, Soc de Educ Integ Humana Do Brasil, Santarém, Privada, 611.9 ; 9, Col Sta Catarina de Sena, Belém, Privada, 603.6 ...",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Soc de Educ Integ Humana do Brasil - 662,47 - Santarém (Pará) - Particular - 120%; Colégio Sta Catarina de Sena - 662,43 - Belém (Pará) ...",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - OBMEP 2017",
+        "link": "https://premiacao.obmep.org.br/2017/verRelatorioPremiadosMencao-PA.1.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP, P, BELÉM, PA, Sim. 6, ARTHUR ... SOC DE EDUC INTEG HUMANA DO BRASIL, P, SANTARÉM, PA, Sim. 8, GABRIEL JUNICHIRO ...",
+        "position": 4
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ... Soc de Educ Integ Humana do Brasil - Santarém - Santissimo - Nota: 662.47.",
+        "date": "23 de jun. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

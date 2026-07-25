@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35161861",
+  "NO_ENTIDADE": "PROGRESSAO COLEGIO",
+  "cidade": "Taubaté",
+  "query": "\"PROGRESSAO COLEGIO\" \"Taubaté\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PROGRESSAO COLEGIO\" \"Taubaté\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Progressao Colegio - Taubaté - SP",
+        "link": "https://www.escol.as/282666-progressao-colegio",
+        "snippet": "... Taubaté - SP; ›; Centro; ›; Progressao Colegio ... Com a disponibilização de desktops e material didático moderno, o Progressão Colégio ... Material Didático. com ...",
+        "position": 1
+      },
+      {
+        "title": "Expectativa e oportunidade: Simulado Enem no Progressão",
+        "link": "https://www.progressao.com/expectativa-e-oportunidade-simulado-enem-no-progressao,1397,20100515",
+        "snippet": "Colégio parceiro do Sistema de Ensino Poliedro com unidades em Caçapava, Pindamonhangaba e Taubaté, no Vale do Paraíba.",
+        "date": "15 de mai. de 2010",
+        "position": 2
+      },
+      {
+        "title": "Meon GUIA DO ESTUDANTE Setembro PG Simples ...",
+        "link": "https://www.scribd.com/document/764159971/Meon-GUIA-DO-ESTUDANTE-Setembro-Pg-Simples-Compressed-165087",
+        "snippet": "... material didático físico e digital ... Sebastião leite, 288, 12070-330 - Taubaté/ SP Anglo Taubaté ... +55 11 97121-0809 [Link]/graduacao. Meon Essencial | 13",
+        "position": 3
+      },
+      {
+        "title": "Plano Municipal de Educação 2015-2025 Taubaté, SP",
+        "link": "https://www.taubate.sp.gov.br/wp-content/uploads/2015/03/PLANO-MUNICIPAL-DE-EDUCA%C3%87%C3%83O.final_.pdf",
+        "snippet": "e legais do sistema de ensino, os propósitos e as expectativas da comunidade escolar. ... aquisição de material didático e formação. Já os ...",
+        "date": "6 de mar. de 2015",
+        "position": 4
+      },
+      {
+        "title": "✨ 2º Momento Cultural ✨ Nossa escola viveu mais um ...",
+        "link": "https://www.instagram.com/p/Da5zcGQkd_s/",
+        "snippet": "ENSINO FUNDAMENTAL II SEA SISTEMA DE ENSINO ... Apresenta Apresentação 6º Ano - 601 ARRAIÁ PROGRESSÃO Colégio e curso PROGRESSÃO Sequência de ...",
+        "date": "há 1 semana",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

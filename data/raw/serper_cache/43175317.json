@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "43175317",
+  "NO_ENTIDADE": "SOCIEDADE EDUCACIONAL MARIO QUINTANA LTDA",
+  "cidade": "Pelotas",
+  "query": "\"SOCIEDADE EDUCACIONAL MARIO QUINTANA LTDA\" \"Pelotas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SOCIEDADE EDUCACIONAL MARIO QUINTANA LTDA\" \"Pelotas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ensino Médio completo na Escola Mario Quintana",
+        "link": "https://marioquintana.com.br/ensino-medio-completo-na-escola-mario-quintana",
+        "snippet": "Planos de estudos individualizados realizados pela coordenação pedagógica; Material didático ... Pelotas/RS. Trabalhe conosco. Contato. (53) 3321.6777.",
+        "position": 1
+      },
+      {
+        "title": "Sem título",
+        "link": "https://sisdia.abmes.org.br/menu/buscacnpj",
+        "snippet": "SOCIEDADE EDUCACIONAL MARIO QUINTANA LTDA. 1743, Fundo de Apoio à ... SISTEMA DE ENSINO SUPERIOR RIPAM S/C LTDA. 2179, INSTITUTO SAVONITTI DE ENSINO ...",
+        "position": 2
+      },
+      {
+        "title": "rs 2017 - Secretaria da Educação",
+        "link": "https://servicos.educacao.rs.gov.br/dados/estatisticas_cad_par_2017.pdf",
+        "snippet": "43175317 SOCIEDADE EDUCACIONAL MARIO QUINTANA LTDA. Urbana. -52,34558394 ... 30270276 PELOTAS@INSTITUTOLARDEJESUS.ORG.BR. 5. Pelotas. 43086276 EEI PEQUENO ...",
+        "position": 3
+      },
+      {
+        "title": "Nome empresa",
+        "link": "https://portalpos2.vteximg.com.br/arquivos/Base%20Empresas_Antigo%202019.pdf",
+        "snippet": "SOCIEDADE EDUCACIONAL MARIO QUINTANA LTDA - EPP. DROGARIA DOSESI LTDA. SIND ... EXITO SISTEMA DE ENSINO LTDA - ME. SORVETERIA BERTOLI. BAHIA HOME CARE ...",
+        "position": 4
+      },
+      {
+        "title": "Empresas de Ensino médio em Rio Grande do Sul (RS)",
+        "link": "https://cnpjgo.com.br/empresas/rs/8520100",
+        "snippet": "KYRIOS SISTEMA DE ENSINO LTDA ... As principais cidades com empresas de Ensino médio em RS são: PORTO ALEGRE, CAXIAS DO SUL, CANOAS, PELOTAS, SANTA MARIA.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

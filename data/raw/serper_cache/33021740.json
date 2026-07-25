@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "33021740",
+  "NO_ENTIDADE": "ABMSA COL NS DAS MERCES",
+  "cidade": "Nova Friburgo",
+  "query": "\"ABMSA COL NS DAS MERCES\" \"Nova Friburgo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ABMSA COL NS DAS MERCES\" \"Nova Friburgo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Lançamento do Pré-Técnico em Nova Friburgo! + 120 vagas ...",
+        "link": "https://www.instagram.com/reel/DWburXjAiec/",
+        "snippet": "... Abmsa Col Ns Das Merces Nova Friburgo - RJ Centro 678,24 FONTE: O ... material didático impresso (livros físicos) é fornecido sem ...",
+        "date": "há 3 meses",
+        "position": 1
+      },
+      {
+        "title": "Foram divulgados os microdados do ENEM ...",
+        "link": "https://www.instagram.com/p/Da5ReFJkciE/",
+        "snippet": "Material didático impresso integrado com a Plataforma digital com as aulas online e treinamento de questões. Mais preparação, mais confiança ...",
+        "date": "há 1 semana",
+        "position": 2
+      },
+      {
+        "title": "Escola CEC | ✨ DOMINGO É DIA DE ENEM! ✨ A cada ...",
+        "link": "https://www.instagram.com/reel/DQxQYReCYGC/",
+        "snippet": "COLÉGIO NOSSA SENHORA DAS MERCÊS 2º NOVA FRIBURGO Veja o desempenho do colégio no Enem de 2025: 318 Abmsa Col Ns Das Merces Nova Friburgo - RJ ...",
+        "date": "há 8 meses",
+        "position": 3
+      },
+      {
+        "title": "Arthur Aredes, aprovado! Com muita alegria, celebramos a ...",
+        "link": "https://www.instagram.com/reel/DURPmEXETa6/",
+        "snippet": "... material didático completo e atualizado, além de uma metodologia focada em resultados. ... Abmsa Col Ns Das Merces Nova Friburgo - RJ ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "Renato Ribeiro | Mais um ano do Projeto SER começando ...",
+        "link": "https://www.instagram.com/reel/DY2M6WOu2Eq/",
+        "snippet": "COLÉGIO NOSSA SENHORA DAS MERCÊS 2º NOVA FRIBURGO Veja o desempenho do colégio no Enem de 2025: 318 Abmsa Col Ns Das Merces Nova Friburgo - RJ ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "33159637",
+  "NO_ENTIDADE": "GRUPO EDUCACIONAL MOPI LTDA - UNIDADE ITANHANGA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"GRUPO EDUCACIONAL MOPI LTDA - UNIDADE ITANHANGA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"GRUPO EDUCACIONAL MOPI LTDA - UNIDADE ITANHANGA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - OBMEP 2017",
+        "link": "https://premiacao.obmep.org.br/2017/verRelatorioPremiadosGeral-RJ.3.privada.do.htm",
+        "snippet": "SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, ---, Sim ... ESCOLA BRITANICA THE BRITISH SCHOOL RIO DE JANEIRO BARRA, P, RIO DE JANEIRO, RJ, ---, Sim.",
+        "position": 1
+      },
+      {
+        "title": "Veja a lista das 20 escolas com maior pontuação no Ideb ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/veja-lista-das-20-escolas-com-maior-pontuacao-no-ideb-no-ensino-medio-23040002",
+        "snippet": "Colégio Unidade Jockey Coleguium Sistema de Ensino Equipe Integrado ... Niterói Rio de Janeiro Rio de Janeiro Rio de Janeiro Rio de Janeiro ...",
+        "date": "5 de set. de 2018",
+        "position": 2
+      },
+      {
+        "title": "Rio de Janeiro 4912 escolas",
+        "link": "https://qedu.org.br/municipio/3304557-rio-de-janeiro/busca",
+        "snippet": "... Rio de Janeiro - Rio de Janeiro. Rede privada / Urbana · GRUPO EDUCACIONAL MOPI LTDA - UNIDADE ITANHANGA. DOM ROSALVO COSTA REGO, 542. ITANHANGÁ. 22641040 Rio ...",
+        "position": 3
+      },
+      {
+        "title": "Resultado Enem Rio de Janeiro: Colégios com melhores e ...",
+        "link": "https://blogdoenem.com.br/resultado-enem-rio-janeiro/",
+        "snippet": "SISTEMA DE ENSINO UNIVERSUS LTDA, 542.97. 190, COL 1º DE MAIO, 542.43 ... GRUPO EDUCACIONAL MOPI LTDA – UNIDADE ITANHANGA, Privada, 612. SANTA ...",
+        "date": "22 de jun. de 2019",
+        "position": 4
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "GRUPO EDUCACIONAL MOPI LTDA - UNIDADE ITANHANGA 12 Rio de Janeiro RJ IFSP ... SEI - SISTEMA DE ENSINO INTERATIVO 26 Rio de Janeiro RJ COLEGIO CASTELO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

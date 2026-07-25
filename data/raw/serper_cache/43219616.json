@@ -1,0 +1,43 @@
+{
+  "codigo_escola": "43219616",
+  "NO_ENTIDADE": "COLEGIO FLEMING CANOAS",
+  "cidade": "Canoas",
+  "query": "\"COLEGIO FLEMING CANOAS\" \"Canoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO FLEMING CANOAS\" \"Canoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Sucesso Sistema de Ensino",
+        "link": "https://www.sistemadeensinosucesso.com.br/",
+        "snippet": "Nosso catálogo · Educação Infantil · Ensino Fundamental I · Ensino Fundamental II ...",
+        "position": 1
+      },
+      {
+        "title": "SAS Educação: Plataforma Educacional Completa",
+        "link": "https://www.saseducacao.com.br/",
+        "snippet": "Plataforma educacional com tecnologia, material didático integrado e soluções que impulsionam resultados e aprovações no ENEM. Conheça SAS Educação.",
+        "position": 2
+      },
+      {
+        "title": "Material didático com foco total no aluno",
+        "link": "https://www.ampliaplataforma.com.br/materiais-didaticos/",
+        "snippet": "O material didático Amplia é alinhado à BNCC e oferece conteúdo atualizado para todas as fases escolares, da Educação Infantil ao Ensino Médio.",
+        "position": 3
+      },
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "Apoio na gestão escolar, eventos de formação presenciais e a distância, além de materiais e recursos na Plataforma ConX, que ajudam na gestão escolar. Para as ...",
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33063311",
+  "NO_ENTIDADE": "COL ANDREWS",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COL ANDREWS\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL ANDREWS\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas Particulares",
+        "link": "https://www.coseacuff.net.br/vest99/escpart.htm",
+        "snippet": "RIO DE JANEIRO (CONTINUAÇÃO) 2263 - COL BARROS NASCIMENTO 2264 - COL BATISTA ... 2500 - SISTEMA DE ENSINO INTEGRADO SEIS LTDA 2501 - SOC EDUC BOTAFOGO ...",
+        "position": 1
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... Rio de Janeiro. RJ. 701,1. 843,4. 693,0. 683,0. 637,0. 792,0. 16. COLEGIO ...",
+        "position": 2
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/rio-de-janeiro/",
+        "snippet": "SISTEMA DE ENSINO UNIVERSUS LTDA, RIO DE JANEIRO, RJ, Privada, De 40% a 60%, Alto, 520.69, 541.89, 493.57, 498.92, 548.38, 497.60. 638, 6016, CE ...",
+        "date": "5 de ago. de 2015",
+        "position": 3
+      },
+      {
+        "title": "Em um ano, nota média no Enem cai em 68% das escolas ...",
+        "link": "http://www.columbia.edu/~aag2179/enem.pdf",
+        "snippet": "O Rio tem outras três universidades que também adotam o exame – a mais tradicional delas, a Federal do Rio de Janeiro (UFRJ), usa o. Enem para preencher de 20% ...",
+        "position": 4
+      },
+      {
+        "title": "Desigualdade-racial-nas-escolas-privadas-de-alto ... - gemaa",
+        "link": "https://gemaa.iesp.uerj.br/wp-content/uploads/2021/05/Desigualdade-racial-nas-escolas-privadas-de-alto-desempenho-v2-1.pdf",
+        "snippet": "de LA CAMPOS · Citado por 4 — ... Rio de Janeiro (segundo o ENEM-2019) de acordo com sua composição racial ... SISTEMA DE ENSINO EQUIPE. COLEGIO DOM AMANDO. COLEGIO GENTIL BITTENCOURT.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

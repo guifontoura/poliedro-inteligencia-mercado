@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "33100977",
+  "NO_ENTIDADE": "LICEU MOLIERE",
+  "cidade": "Rio de Janeiro",
+  "query": "\"LICEU MOLIERE\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LICEU MOLIERE\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "http://premiacao.obmep.org.br/2017/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "LICEU MOLIERE, P, RIO DE JANEIRO, RJ, Bronze. JULIA SALIM CRIMA, SANTO ANTONIO EDUCANDARIO, P, SANTO ANDRE, SP, Bronze. LUIZ HENRIQUE RECH ITO, ESCOLA BERTONI - ...",
+        "position": 1
+      },
+      {
+        "title": "Desigualdade-racial-nas-escolas-privadas-de-alto ... - gemaa",
+        "link": "https://gemaa.iesp.uerj.br/wp-content/uploads/2021/05/Desigualdade-racial-nas-escolas-privadas-de-alto-desempenho-v2-1.pdf",
+        "snippet": "de LA CAMPOS · Citado por 4 — ... Rio de Janeiro (segundo o ENEM-2019) de acordo com sua composição racial ... SISTEMA DE ENSINO EQUIPE. COLEGIO DOM AMANDO. COLEGIO GENTIL BITTENCOURT.",
+        "position": 2
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... Rio de Janeiro. RJ. 701,1. 843,4. 693,0. 683,0. 637,0. 792,0. 16. COLEGIO ...",
+        "position": 3
+      },
+      {
+        "title": "Grátis: METRO VI - Material Claro e Objetivo em PDF para ...",
+        "link": "https://www.passeidireto.com/arquivo/87515521/metro-vi",
+        "snippet": "LICEU MOLIERE Rio de Janeiro LARANJEIRAS RUA PEREIRA DA SILVA 728 ... SEI - SISTEMA DE ENSINO INTERATIVO Rio de Janeiro TIJUCA RUA ...",
+        "date": "2 de dez. de 2021",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... RIO DE JANEIRO. Privada. COLEGIO E CURSO PONTO DE ENSINO. 720,02. 626,55 ... SISTEMA DE ENSINO EQUIPE. 628,66. 596,47. 652,65. 612,81. 652,72.",
+        "date": "22 de dez. de 2014",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

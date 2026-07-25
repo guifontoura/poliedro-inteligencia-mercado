@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31358428",
+  "NO_ENTIDADE": "COLEGUIUM - UNIDADE ALIPIO DE MELO",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGUIUM - UNIDADE ALIPIO DE MELO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGUIUM - UNIDADE ALIPIO DE MELO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ENEM 2014",
+        "link": "https://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/minas-gerais/",
+        "snippet": "COLEGUIUM - UNIDADE ALIPIO DE MELO, BELO HORIZONTE, MG, Privada, Menos ... ATUAL SISTEMA DE ENSINO, SABINOPOLIS, MG, Privada, 80% ou mais, Alto ...",
+        "date": "5 de ago. de 2015",
+        "position": 1
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGUIUM - UNIDADE ALIPIO DE MELO. 0,9%. COLEGUIUM - UNIDADE CARLOS PRATES. 0 ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA ...",
+        "position": 2
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-HORIZONTAL.pdf",
+        "snippet": "... Belo Horizonte. Privada. Urbana. 25. De 1 a 30 alunos. 25. 100.00. 0. De 60% a 80 ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos. 25.",
+        "position": 3
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536524033/Premiacao-3%C2%BA-Ano-Em-Nivel-d-2019-1",
+        "snippet": "GUILHERME CORRÊA DE FREITAS COLEGUIUM - UNIDADE ALIPIO DE MELO MINAS GERAIS Belo Horizonte ... LUCA DE FREITAS GARCIA SEI - SISTEMA DE ENSINO INTERATIVO RIO DE ...",
+        "position": 4
+      },
+      {
+        "title": "sitemap1.txt",
+        "link": "https://www.remind.com/sitemap1.txt",
+        "snippet": "... belo-horizonte https://www.remind.com/school/test-school-1-69fe00be-2fa1 ... sistema-de-ensino-alphonsus-de-guimaraens https://www.remind.com/school ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

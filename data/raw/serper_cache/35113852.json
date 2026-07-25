@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35113852",
+  "NO_ENTIDADE": "LUIZ DE QUEIROZ COLEGIO",
+  "cidade": "Piracicaba",
+  "query": "\"LUIZ DE QUEIROZ COLEGIO\" \"Piracicaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LUIZ DE QUEIROZ COLEGIO\" \"Piracicaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.1.privada.do.htm",
+        "snippet": "ANGLO SISTEMA DE ENSINO, P, TATUI, SP, Sim. BENICIO ROSA CAMEJO, PITANGUEIRAS ... LUIZ DE QUEIROZ COLEGIO, P, PIRACICABA, SP, Sim. ENZO GARCIA MENDES, CLARETIANO ...",
+        "position": 1
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... Piracicaba. Adriana Rodrigues de Araújo. 3º ano - Ensino Médio. 21. 18 ESCOLA ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 2
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "LUIZ DE QUEIROZ COLEGIO. SP. 429. FUNDAMENTUM COLEGIO. SP. 430. CENTRO ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL. PB. 7312. SUELI ...",
+        "position": 3
+      },
+      {
+        "title": "Nome Série Cidade Escola",
+        "link": "https://abqsp.org.br/wp-content/uploads/2026/02/Habilitados-1a-Prova-Seletiva-OQSP-2026.pdf",
+        "snippet": "... Piracicaba. SELETIVO COLEGIO alice flauzino gobbo garcia. 2ª Série ou ... SISTEMA DE ENSINO. Ana Luiza Bueno Cardoso. 2ª Série ou. Inferior.",
+        "date": "25 de fev. de 2026",
+        "position": 4
+      },
+      {
+        "title": "UNIDADE DA FEDERAÇÃO MUNICÍPIO ESCOLA ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_1_MUNICIPIOS.pdf",
+        "snippet": "... SISTEMA DE ENSINO. PRIVADA. 25. 25. 572,92. 645,39. 655,47. 592,14. 616,48 ... PIRACICABA. PORTAL DO ENGENHO COLEGIO. PRIVADA. 34. 33. 588,93. 642 ...",
+        "date": "11 de set. de 2011",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31006513",
+  "NO_ENTIDADE": "COLEGIO NOSSA SENHORA DA PIEDADE",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO NOSSA SENHORA DA PIEDADE\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NOSSA SENHORA DA PIEDADE\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Piedade | Rede Piedade de Educação",
+        "link": "https://www.colegiopiedade.com.br/",
+        "snippet": "Colégio Nossa Senhora da Piedade – BH/MG · Instituto Nossa Senhora da ... Calafate, Belo Horizonte – MG CEP 30411-315. (31) 3334-6913 (31) 99482-1509 ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Nossa Senhora da Piedade - Belo Horizonte",
+        "link": "https://www.facebook.com/colegiopiedadebh/photos/d41d8cd9/1096923972426753/",
+        "snippet": "Colégio Nossa Senhora da Piedade - Belo Horizonte added a new photo ... Mais do que adotar um material didático de ... Mais do que adotar um material didático ...",
+        "position": 2
+      },
+      {
+        "title": "Nossa formação de colaboradores é pensada com cuidado ...",
+        "link": "https://www.instagram.com/reel/DU0fYmBEaRX/",
+        "snippet": "... Sistema de Ensino Poliedro, para um momento de troca de conhecimento ... We are here in Belo Horizonte for the last Open Day of the graduation ...",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Piedade BH (@colegiopiedadebh)",
+        "link": "https://www.instagram.com/colegiopiedadebh/",
+        "snippet": "... Colégio Nossa Senhora da Piedade como referência em redação no ENEM em Belo Horizonte. ... Mais do que adotar um material didático de excelência, o que ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio Piedade on Instagram: \"O octacampeonato no ENEM ...",
+        "link": "https://www.instagram.com/reel/DaA3e_VRF0Y/",
+        "snippet": "1º LUGAR EM REDAÇÃO DE BELO HORIZONTE piedade COLÉGIO NOSSA SENHORA DA PIEDADE Primeiro lugar pelo SEGUNDO ANO CONSECUTIVO! Universitários ...",
+        "date": "há 4 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35100473",
+  "NO_ENTIDADE": "SANTA TERESINHA COLEGIO SALESIANO",
+  "cidade": "São Paulo",
+  "query": "\"SANTA TERESINHA COLEGIO SALESIANO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SANTA TERESINHA COLEGIO SALESIANO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "SAO PAULO DA CRUZ COLEGIO PASSIONISTA, P, SÃO PAULO, SP, Sim. JOÃO PEDRO ALVES DA ... ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Sim. MARIA EDUARDA ...",
+        "position": 1
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... São Paulo. Privada. Urbana. 41. De 31 a. 60 alunos. 41. 100.00. 0. De 60% a 80%. Muito ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos.",
+        "position": 2
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... São Paulo. ADEMAR CARLOS NUNES NETO. 2º ano - Ensino Médio. 15. 18 COLEGIO ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ano ...",
+        "position": 3
+      },
+      {
+        "title": "Notas Médias do ENEM 2010 dos alunos concluintes do ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_2_MUNICIPIOS.pdf",
+        "snippet": "... SÃO PAULO. JUNDIAI. CRISTAO DE JUNDIAI CCJ COLEGIO. PRIVADA. 16. 16. 614 ... SANTA TERESINHA COLEGIO SALESIANO. PRIVADA. 114. 113. 556,86. 606,57.",
+        "date": "11 de set. de 2011",
+        "position": 4
+      },
+      {
+        "title": "Lista de Colégios Privados no Brasil | PDF | São Paulo",
+        "link": "https://pt.scribd.com/doc/273617459/Ranking-Brasil",
+        "snippet": "SANTA TERESINHA COLEGIO SALESIANO. SP. SAO PAULO. Privada. Urbana. 142 ... SISTEMA DE ENSINO MESON PI. PA. CASTANHAL. Privada. Urbana. 102. INSTITUTO FEDERAL ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

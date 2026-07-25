@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "53009940",
+  "NO_ENTIDADE": "COL PRESBITERIANO MACKENZIE - BRASILIA",
+  "cidade": "Brasília",
+  "query": "\"COL PRESBITERIANO MACKENZIE - BRASILIA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL PRESBITERIANO MACKENZIE - BRASILIA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Materiais de estudo de Mont Blanc Ced - Brasília - DF",
+        "link": "https://www.studocu.com/pt-br/high-school/mont-blanc-ced/490569",
+        "snippet": "Estudando em Mont Blanc Ced - Brasília - DF? Experimente nossa ampla variedade de anotações de aula, resumos e guias de estudo para incrementar seu jogo de ...",
+        "position": 1
+      },
+      {
+        "title": "RESULTADO POR REGIÃO",
+        "link": "https://ceara.obquimica.org/storage/files/resultado-do-i-quimeninas-2023-9-ano-ef.pdf",
+        "snippet": "COL PRESBITERIANO MACKENZIE - BRASILIA. DISTRITO FEDERAL. BRASÍLIA. BRONZE ... SISTEMA DE ENSINO PHYSICS AMAPÁ LTDA. AMAPÁ. MACAPÁ. AMAZONAS (AM). 1710837 ...",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-DF.2.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões · Apostilas do PIC ... COL PRESBITERIANO MACKENZIE - BRASILIA, P, BRASILIA, DF, ---, Sim. BÁRBARA DE ...",
+        "position": 3
+      },
+      {
+        "title": "Quadro de Medalhas Ensino Médio 2023 | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/783331933/1729577721671742f954fcb-medalhas-2-ano-quimeninas-2024",
+        "snippet": "ISABELLA BAIMA DE SOUSA RÊGO COL PRESBITERIANO MACKENZIE - BRASILIA DISTRITO FEDERAL BRASÍLIA ... GIULIA MARDOCK SISTEMA DE ENSINO EQUIPE PARÁ BELÉM HELLEN ...",
+        "position": 4
+      },
+      {
+        "title": "Grátis: Resultado da OBQJr 2022 - Material Claro e ...",
+        "link": "https://www.passeidireto.com/arquivo/147977834/resultado-da-obq-jr-2022",
+        "snippet": "... BRASÍLIA COL MILITAR DE BRASILIA OURO ANA CAROLINA DE OLIVEIRA ... SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP PRATA ANA BEATRIZ ...",
+        "date": "16 de ago. de 2024",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

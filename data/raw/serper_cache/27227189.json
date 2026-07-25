@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "27227189",
+  "NO_ENTIDADE": "COLEGIO DE EDUCACAO BASICA SANTA ESMERALDA",
+  "cidade": "Arapiraca",
+  "query": "\"COLEGIO DE EDUCACAO BASICA SANTA ESMERALDA\" \"Arapiraca\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DE EDUCACAO BASICA SANTA ESMERALDA\" \"Arapiraca\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "modalidade a – 9ª série do ensino fundamental ouro",
+        "link": "https://alagoas.obquimica.org/storage/files/01K8Q0BDGC3K667GE9E0968DGY.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. MACEIÓ. LARA BEATRIZ SOBRAL DA SILVA TRAJANO. COLEGIO DE EDUCACAO BASICA SANTA ESMERALDA. ARAPIRACA. MARIA LUISA COSTA ...",
+        "position": 1
+      },
+      {
+        "title": "OBQJr - chamada para Fase II.xlsx",
+        "link": "https://www.obquimica.sertanustecnologia.com.br/arquivos/download/2266/ALAGOAS_OBQJr_2024.pdf",
+        "snippet": "Arapiraca. COLEGIO DE EDUCACAO BASICA SANTA ESMERALDA. 9° ano EF ANA BEATRIZ DE ALMEIDA LUCENA. ALAGOAS. Arapiraca. COLEGIO DE EDUCACAO BASICA SANTA ESMERALDA.",
+        "position": 2
+      },
+      {
+        "title": "Escola Estadual Manoel Lucio Da Silva - Arapiraca - AL",
+        "link": "https://www.studocu.com/pt-br/high-school/escola-estadual-manoel-lucio-da-silva/468417",
+        "snippet": "Estudando em Escola Estadual Manoel Lucio Da Silva - Arapiraca - AL? Experimente nossa ampla variedade de anotações de aula, resumos e guias de estudo para ...",
+        "position": 3
+      },
+      {
+        "title": "Alex Raniére da Silva",
+        "link": "https://www.escavador.com/sobre/4937793/alex-raniere-da-silva",
+        "snippet": "... Arapiraca. Tem grande interesse em Linguística Aplicada, Pragmática ... (Desenvolvimento de material didático ou instrucional - Apostila). RANIÉRE ...",
+        "position": 4
+      },
+      {
+        "title": "40+ \"Lethícia Nascimento\" profiles",
+        "link": "https://www.linkedin.com/pub/dir/Leth%C3%ADcia/Nascimento/br-0-Brasil",
+        "snippet": "Técnico de enfermagem na Sistema de Ensino Invictus. Rio de Janeiro ... Aluno na Colegio de Educação Básica Santa Esmeralda. Arapiraca, AL. Colegio de ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

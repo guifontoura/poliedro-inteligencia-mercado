@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "51069431",
+  "NO_ENTIDADE": "COLEGIO LEIBNIZ",
+  "cidade": "Rondonópolis",
+  "query": "\"COLEGIO LEIBNIZ\" \"Rondonópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LEIBNIZ\" \"Rondonópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Uma Nova Realidade Educacional para Rondonópolis",
+        "link": "https://www.colegioleibniz.com.br/colegio",
+        "snippet": "O Colégio Leibniz (2019), surgiu em Rondonópolis a partir de propostas ... Sistema de Ensino. Assim, nesse contexto, apresentamos um verdadeiro ...",
+        "position": 1
+      },
+      {
+        "title": "Uma nova realidade educacional para Rondonópolis",
+        "link": "https://www.atribunamt.com.br/especiais/mercado_imobiliario_construcao/2019/09/uma-nova-realidade-educacional-para-rondonopolis/",
+        "snippet": "O Colégio Leibniz (2019), em Rondonópolis, surgiu a partir de ... Nesta fusão, destaca-se a parceira do melhor material didático do ...",
+        "date": "18 de set. de 2019",
+        "position": 2
+      },
+      {
+        "title": "Cada fase da vida é um novo começo. E no Colégio Leibniz ...",
+        "link": "https://www.instagram.com/reel/DVRjbUgDt69/",
+        "snippet": "... Rondonópolis e, todos os dias, transformamos histórias por meio da ... Poliedro Sistema de Ensino. 1º lugar em Anápolis e 2ª melhor ...",
+        "date": "há 4 meses",
+        "position": 3
+      },
+      {
+        "title": "Damos as boas-vindas aos alunos e famílias para o ano letivo ...",
+        "link": "https://www.instagram.com/reel/DT_StBPAl6Y/",
+        "snippet": "VOLTA ÀS AULAS 2026 Colégio Leibniz APRENDER É O PRIMEIRO PASSO PARA TRANSFORMAR O MUNDO Av. ... Clique Agora RONDONÓPOLIS Rondonópolis celebra a ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "Santos Braga (@colegio.leibniz)",
+        "link": "https://www.instagram.com/colegio.leibniz/reels/",
+        "snippet": "Rondonópolis - MT #VoltaAsAulas2026 #Educação #Futuro #Rondonópolis #EnsinoDeExcelência ... material didático, além da apresentação do novo material ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

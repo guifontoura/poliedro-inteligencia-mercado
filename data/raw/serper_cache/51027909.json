@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "51027909",
+  "NO_ENTIDADE": "COLEGIO LA SALLE ATEC",
+  "cidade": "Tangará da Serra",
+  "query": "\"COLEGIO LA SALLE ATEC\" \"Tangará da Serra\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LA SALLE ATEC\" \"Tangará da Serra\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: conheça as escolas com as maiores notas de ...",
+        "link": "https://ehfonte.com.br/ehnoticia/enem-2025-conheca-as-escolas-com-as-maiores-notas-de-mato-grosso/",
+        "snippet": "Farina Sistema de Ensino – Cuiabá – Areão – Nota: 668.92; Inst ... Colégio La Salle Atec – Tangará da Serra – Parque Mansões – Nota: 649.2 ...",
+        "date": "23 de jun. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Aulas na rede estadual são retomadas nesta segunda-feira",
+        "link": "https://diariodaserra.com.br/Noticia/Detalhes/MTk5NTA0",
+        "snippet": "... material didático diferenciado, plataforma digital, avaliação ... Em Tangará da Serra praticamente todas as escolas seguem com vagas ...",
+        "date": "6 de fev. de 2023",
+        "position": 2
+      },
+      {
+        "title": "Juliana Stascovian",
+        "link": "https://www.escavador.com/sobre/7242767/juliana-stascovian",
+        "snippet": "... Colégio La Salle ATEC ... TANGARÁ DA SERRA EM MATO GROSSO. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - UNIC Tangará Sul ...",
+        "position": 3
+      },
+      {
+        "title": "Escola de Sorriso está entre as 10 melhores ...",
+        "link": "https://r9news.com.br/escola-de-sorriso-esta-entre-as-10-melhores-escolas-de-mato-grosso-no-enem-2025/",
+        "snippet": "Farina Sistema de Ensino (Cuiabá) – 668,92; Instituto Presbiteriano ... Colégio La Salle Atec (Tangará da Serra) – 649,20; Escola Avance ...",
+        "date": "25 de jun. de 2026",
+        "position": 4
+      },
+      {
+        "title": "Confira lista das 50 melhores escolas de MT, segundo o ...",
+        "link": "https://noticiaexata.com.br/educacao/confira-lista-das-50-melhores-escolas-de-mt-segundo-o-enem-duas-de-alta-floresta/",
+        "snippet": "19º Colégio La Salle Atec Tangará da Serra Privada 628,85 2003º 20º Colégio Coração de Jesus Cuiabá Privada 628,47 2024º 21º Instituto Madre ...",
+        "date": "16 de jul. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

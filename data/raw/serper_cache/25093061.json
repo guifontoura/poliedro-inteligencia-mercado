@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "25093061",
+  "NO_ENTIDADE": "COLEGIO NOSSA SENHORA DE LOURDES",
+  "cidade": "João Pessoa",
+  "query": "\"COLEGIO NOSSA SENHORA DE LOURDES\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NOSSA SENHORA DE LOURDES\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "No vídeo de hoje, Janduí Jorge, Head de Produto do Edify ...",
+        "link": "https://www.instagram.com/reel/DY25-VxPDTM/",
+        "snippet": "Edify lourdes COLEGIO NOSSA SENHORA DE LOURDES Espaço MAKER ... O material didático contém uma mochila, um livro de sala de aula e ...",
+        "position": 1
+      },
+      {
+        "title": "Colegio Nossa Senhora De Lourdes",
+        "link": "https://querobolsa.com.br/escolas/43728-colegio-nossa-senhora-de-lourdes",
+        "snippet": "Onde fica o Colegio Nossa Senhora De Lourdes? av presidente epitacio pessoa, 208 - centro, João Pessoa - PB.",
+        "rating": 5,
+        "ratingCount": 2,
+        "position": 2
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - João Pessoa",
+        "link": "https://qedu.org.br/municipio/2507507-joao-pessoa/distorcao-idade-serie",
+        "snippet": "COLEGIO NOSSA SENHORA DE LOURDES. 2,7%. COLEGIO NOVO TEMPO. 11,9%. COLEGIO OLIMPO JOAO PESSOA. 3,8%. COLEGIO PIO XI. 1,6%. COLEGIO POLIGONO EDUCACIONAL LTDA.",
+        "position": 3
+      },
+      {
+        "title": "Ministério da Educação",
+        "link": "https://www.ampb.org.br/anexos/show/130",
+        "snippet": "COLEGIO NOSSA SENHORA DE LOURDES. Privada. 58. 638,42. PB. João Pessoa. COLEGIO ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD. Privada. 6. PB. João ...",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - OBMEP 2017",
+        "link": "https://premiacao.obmep.org.br/2017/verRelatorioPremiadosMencao-PB.2.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL, P, JOÃO PESSOA ... COLEGIO NOSSA SENHORA DE LOURDES, P, JOÃO PESSOA, PB, Sim. 14, YURI MONTEIRO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "codigo_escola": "33124418",
+  "NO_ENTIDADE": "COLEGIO QI - TIJUCA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO QI - TIJUCA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO QI - TIJUCA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola não fornece material didático. Falta de respeito com o ...",
+        "link": "https://www.reclameaqui.com.br/colegio-qi/escola-nao-fornece-material-didatico-falta-de-respeito-com-o-aluno_lei1DkvUojwzrcb3/",
+        "snippet": "Minha filha está estudando neste colégio Qi Tijuca, a 4 anos e a cada ano tenho um problema. O problema agora é que o financeiro do colégio não enviou ...",
+        "sitelinks": [
+          {
+            "title": "1 resposta",
+            "link": "https://www.reclameaqui.com.br//colegio-qi/escola-nao-fornece-material-didatico-falta-de-respeito-com-o-aluno_lei1DkvUojwzrcb3/"
+          }
+        ],
+        "position": 1
+      },
+      {
+        "title": "Ciência, Conhecimento e Protagonismo Acadêmico",
+        "link": "https://cdnc.heyzine.com/files/uploaded/cb6c9cfde7ab22d494029b379d213431d3beb975.pdf",
+        "snippet": "Kelvin Jian Yang Chan Mai Chan – Colégio Qi Tijuca. Matheus ... Rio de Janeiro: Pro Raiz Sistema de Ensino Ltda., 2023. 49. Page 52. A ...",
+        "date": "3 de mai. de 2025",
+        "position": 2
+      },
+      {
+        "title": "Guia de Escolas da Tijuca - Rio de Janeiro",
+        "link": "https://www.blog.schooladvisor.com.br/escolas-tijuca",
+        "snippet": "Colégio Qi - Tijuca R. Ibituruna, 37 - Maracanã, Rio de Janeiro​ ​ ​Fundado em 1994 por um grupo de educadores com ampla experiência na rede tradicional do ...",
+        "position": 3
+      },
+      {
+        "title": "Confira a lista das escolas bilíngues do Rio",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/07/24/confira-a-lista-das-escolas-bilingues-do-rio.ghtml",
+        "snippet": "... sistema de ensino. Há ainda o detalhamento sobre quais atividades ... Guia de Escolas: encontre a melhor escola no Rio de Janeiro ou em São Paulo:.",
+        "date": "há 16 horas",
+        "position": 4
+      },
+      {
+        "title": "10 melhores escolas da Zona Norte do Rio de Janeiro",
+        "link": "https://www.melhorescola.com.br/artigos/melhores-escolas-da-zona-norte-do-rio-de-janeiro",
+        "snippet": "... Colégio Qi - Tijuca (656,05). A Zona Norte do Rio de Janeiro é conhecida por ... Sistema de Ensino Mackenzie. Institucional; Sobre o Melhor Escola ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

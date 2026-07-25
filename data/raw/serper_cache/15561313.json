@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "15561313",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL COLEGIO MONTE CASTELO",
+  "cidade": "Marabá",
+  "query": "\"CENTRO EDUCACIONAL COLEGIO MONTE CASTELO\" \"Marabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL COLEGIO MONTE CASTELO\" \"Marabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-PA.3.privada.do.htm",
+        "snippet": "CENTRO EDUCACIONAL COLEGIO MONTE CASTELO, P, MARABÁ, PA, ---, Sim. ALLAN GARCIA ... SISTEMA DE ENSINO EQUIPE CRISTAL, P, BELÉM, PA, ---, Sim. MARIA CLARA FERREIRA ...",
+        "position": 1
+      },
+      {
+        "title": "Ensino Médio na cidade de Marabá - PA",
+        "link": "https://www.escol.as/cidades/217-maraba/categories/26-ensino-medio",
+        "snippet": "Ensino Médio na cidade de Marabá - PA ; Centro Educacional Colegio Monte Castelo · Rua Dois Mil, 01 10, Qd 25 Belo Horizonte, Marabá - PA ; Centro de Educação ...",
+        "position": 2
+      },
+      {
+        "title": "Mayra Barbosa Sindeaux Lima",
+        "link": "https://www.escavador.com/sobre/1748201/mayra-barbosa-sindeaux-lima",
+        "snippet": "... Marabá no biênio 20222023.Exerceu a função de Secretária de Apoio ... (Desenvolvimento de material didático ou instrucional - Colaborador). Histórico ...",
+        "position": 3
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "CENTRO EDUCACIONAL COLEGIO MONTE CASTELO 61 Marabá PA #N/A 19 Itapetininga ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-PA.2.privada.do.htm",
+        "snippet": "Alunos Premiados de Escolas Privadas - 16ª OBMEP ; MAXYMUS GABRIEL DE CARVALHO GOMES, CENTRO EDUCACIONAL COLEGIO MONTE CASTELO, P · MARABÁ, PA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

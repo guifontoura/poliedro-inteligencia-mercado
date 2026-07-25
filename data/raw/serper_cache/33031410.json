@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33031410",
+  "NO_ENTIDADE": "COL STA ANGELA",
+  "cidade": "Resende",
+  "query": "\"COL STA ANGELA\" \"Resende\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL STA ANGELA\" \"Resende\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas Particulares",
+        "link": "https://www.coseacuff.net.br/vest99/escpart.htm",
+        "snippet": "RESENDE 2211 - CENTRO EDUC E INFORMATICA XV DE NOVEMBRO 2212 - COL AGULHAS NEGRAS 2213 - COL DOM BOSCO 2214 - COL STA ANGELA 2215 - INST SÃO JOSÉ RIO BONITO",
+        "position": 1
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/rio-de-janeiro/",
+        "snippet": "COL STA ANGELA, RESENDE, RJ, Privada, 80% ou mais, Muito Alto ... SOMEC SISTEMA DE ENSINO, RIO DE JANEIRO, RJ, Privada, De 20% a 40%, Médio ...",
+        "date": "5 de ago. de 2015",
+        "position": 2
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... Resende. RJ. 640,9. 808,3. 643,0. 623,0. 594,0. 703,0. 292. COLEGIO MARISTA ...",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Bronze. JOÃO ... GUILHERME RESENDE SCARPELLI CABRAL, COLEGIO SANTO ANTONIO, P, BELO HORIZONTE, MG ...",
+        "position": 4
+      },
+      {
+        "title": "Ranking das escolas brasileiras no Enem 2013",
+        "link": "https://complemento.veja.abril.com.br/educacao/ranking-escolas-brasil-2013/ranking-escolas-brasil-2013.pdf",
+        "snippet": "... RESENDE. 33031371 COL DOM BOSCO. 35. De 31 a 60 alunos. 34. 97.14. Muito Alto ... SISTEMA DE ENSINO. EQUIPE. 310. Maior que 90 alunos. 305. 98.39. Alto. 747.74.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

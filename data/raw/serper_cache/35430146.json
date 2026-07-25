@@ -1,0 +1,56 @@
+{
+  "codigo_escola": "35430146",
+  "NO_ENTIDADE": "MAPLE BEAR CANADIAN SCHOOL MOGI DAS CRUZES",
+  "cidade": "Mogi das Cruzes",
+  "query": "\"MAPLE BEAR CANADIAN SCHOOL MOGI DAS CRUZES\" \"Mogi das Cruzes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"MAPLE BEAR CANADIAN SCHOOL MOGI DAS CRUZES\" \"Mogi das Cruzes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O que torna a Maple Bear Mogi diferente vai muito além do ...",
+        "link": "https://www.instagram.com/p/DVeVLq1FVxL/",
+        "snippet": "Photo by Maple Bear Canadian School Mogi das Cruzes on March 04, 2026 ...",
+        "date": "há 4 meses",
+        "position": 1
+      },
+      {
+        "title": "Nosso Bear apresenta, de forma leve e especial, o que torna ...",
+        "link": "https://www.instagram.com/reel/DXDI0m5kftd/",
+        "snippet": "Metodologia e material didático primorosos... ... FAÇA SUA INSCRIÇÃO E GARANTA A VAGA PARA 2027! Join Maple Bear Canadian School Mogi das Cruzes ...",
+        "date": "há 3 meses",
+        "position": 2
+      },
+      {
+        "title": "Afinal… nossos alunos são bilíngues? Fluentes em inglês e ...",
+        "link": "https://www.instagram.com/reel/DN9PfhCjor7/",
+        "snippet": "Metodologia e material didático primorosos... sou fã ❤️. July ... Join Maple Bear Canadian School Mogi das Cruzes on Instagram. Sign up ...",
+        "date": "há 10 meses",
+        "position": 3
+      },
+      {
+        "title": "Você já imaginou seu filho conduzindo a própria ...",
+        "link": "https://www.instagram.com/reel/DYZ1IY8u-zf/",
+        "snippet": "Metodologia e material didático primorosos... sou fã ❤️. July ... Join Maple Bear Canadian School Mogi das Cruzes on Instagram. Sign up ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Grátis: MB PPP Modelo - MOGI - Material Claro e Objetivo ...",
+        "link": "https://www.passeidireto.com/arquivo/89108823/mb-ppp-modelo-mogi",
+        "snippet": "... sistema de ensino o aprendizado do aluno acontece em ... Maple Bear Canadian School Mogi das Cruzes: lúdico, prazeroso e significativo.",
+        "date": "27 de mar. de 2021",
+        "rating": 5,
+        "ratingCount": 2,
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

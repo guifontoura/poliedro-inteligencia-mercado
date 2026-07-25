@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35367734",
+  "NO_ENTIDADE": "DOM BOSCO COLEGIO UNID III",
+  "cidade": "São Paulo",
+  "query": "\"DOM BOSCO COLEGIO UNID III\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"DOM BOSCO COLEGIO UNID III\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - OBMEP 2017",
+        "link": "https://premiacao.obmep.org.br/2017/verRelatorioPremiadosBronze-SP.privada.do.htm",
+        "snippet": "DOM BOSCO COLEGIO UNID III, P, SÃO PAULO, SP, Bronze. EMILIE CHEN, PIONEIRO CENTRO EDUCACIONAL, P, SÃO PAULO ... ZETA SISTEMA DE ENSINO DE PROMISSAO, P, PROMISSAO ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Dom Bosco – Sede Santa Inês | Bolsas de Estudo ...",
+        "link": "https://www.melhorescola.com.br/escola/dom-bosco-colegio-unid-iii",
+        "snippet": "Garanta sua bolsa de estudos em Colégio Dom Bosco – Sede Santa Inês, São Paulo - SP ... Banda larga; Internet. Sistema de ensino. SAS. O sistema de ensino ...",
+        "position": 2
+      },
+      {
+        "title": "Helena Xavier da Silveira Nigro SISTEMA DE VOUCHER",
+        "link": "https://repositorio.insper.edu.br/bitstreams/ee28b2bb-395d-47ee-8a65-4539fb513d59/download",
+        "snippet": "de São Paulo foi de R$ 6.212.091.758,84, valor este destinado a 5.619 ... para cursar o sistema de ensino privado é de R$ 8.350,00. 4.4. Comparativo. A ...",
+        "position": 3
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO DOS ... LEONARDO DA VINCI COLEGIO DE ENSINO FUNDAMENTAL E MEDIO SÃO PAULO. Jundiaí.",
+        "position": 4
+      },
+      {
+        "title": "dbo_TS_ESCOLA",
+        "link": "https://www.al.sp.gov.br/spl/2015/09/Acessorio/1278971_50269504_Acessorio.xlsx",
+        "snippet": "... São Paulo. 2, Fonte: Censo Escolar - 2014. 4, ANO_CENSO, COD_ESCOLA, NOME_ESCOLA ... SISTEMA DE ENSINO, SP, 1, 1, 0, 1, 0, 0, 0, 1. 1273, 2014, 35394142 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

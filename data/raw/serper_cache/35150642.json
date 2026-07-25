@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35150642",
+  "NO_ENTIDADE": "IDEAL COLEGIO",
+  "cidade": "Santa Bárbara d'Oeste",
+  "query": "\"IDEAL COLEGIO\" \"Santa Bárbara d'Oeste\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"IDEAL COLEGIO\" \"Santa Bárbara d'Oeste\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Os alunos do Nível 5 A / B tiveram uma aula de Libras com ...",
+        "link": "https://www.instagram.com/p/DHqaTcQxOtX/",
+        "snippet": "IDEAL COLÉGIO . PLÉGIOIDEAL COLECICIDSAL πα . EGIRIDEAL DEAL . COLEG ... Poliedro Sistema de Ensino COMUNICADO EM VIRTUDE DO JOGO DO ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Colégio Luiz Fidelis on Instagram: \"Hoje foi o primeiro dia de ...",
+        "link": "https://www.instagram.com/reel/DTseVQKAIU2/",
+        "snippet": "Rafael Piovezan Prefeito POLIEDRO SISTEMA DE ENSINO Colégio Ideal ... Ideal Colégio Ideal 25 ANOS DE HISTÓRIA. escolasesi.brusque's profile ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "No Colégio Status, esse cuidado acompanha o estudante da ...",
+        "link": "https://www.instagram.com/colegiostatussaj/p/DTaVqKIlwk7/?hl=es",
+        "snippet": "... Sistema de Ensino Bernoulli, referência nacional ... MATERIAL DIDÁTICO. 目 Conteúdo de excelência ... Photo by Objetivo Santa Bárbara d'Oeste on May 01, 2026.",
+        "position": 3
+      },
+      {
+        "title": "#SérieLegado >>> 🌷 No quarto episódio da Série ...",
+        "link": "https://www.instagram.com/p/DXtiHZ2BvJ2/",
+        "snippet": "... Santa Bárbara d'Oeste, divisa com Americana. Caso tenha interesse ... SISTEMA DE ENSINO anglo AQUI VOCÊ PODE SONHAR PORQUE NÓS CONHECEMOS O ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Premiação Estadual de Alunos - Escolas Públicas ...",
+        "link": "https://premiacao.obmep.org.br/19obmep/verRelatorioPremiadosRegionalPorNivel-SP.2.privada.do.htm",
+        "snippet": "SANTA BARBARA D'OESTE, SP, Bronze. GUSTAVO VIEIRA PINCINATO, SAO VICENTE DE PAULO ... ANGLO SISTEMA DE ENSINO, P, TATUI, SP, Bronze. LUIS ROBERTO MALHEIROS NETO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

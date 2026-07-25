@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "35139178",
+  "NO_ENTIDADE": "COLEGIO ARBOS",
+  "cidade": "Santo André",
+  "query": "\"COLEGIO ARBOS\" \"Santo André\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ARBOS\" \"Santo André\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio ARBOS on Instagram: \"No Colégio ARBOS, educar é ...",
+        "link": "https://www.instagram.com/reel/DRu-gIbipI2/",
+        "snippet": "... SANTO ANDRÉ Descubra na prática por que somos a escolha certa. ... Escola CHÁCARA SISTEMA DE ENSINO anglo grupo rabbit. colegiozaccaria's ...",
+        "date": "há 7 meses",
+        "position": 1
+      },
+      {
+        "title": "Conquista desbloqueada 🔓💚 Os alunos da Rede ARBOS ...",
+        "link": "https://www.instagram.com/p/DXIFrW6iQd5/",
+        "snippet": "COLÉGIO O BOSQUE EDUCAÇÃO INFANTIL, ENSINO FUNDAMENTAL E MÉDIO SANTO ANDRÉ ... Sistema de Ensino Bilíngue”, com o prêmio TOP Educação nos anos de ...",
+        "date": "há 3 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio ARBOS on Instagram: \"Quatro décadas depois ...",
+        "link": "https://www.instagram.com/reel/DR5N3gFALAp/",
+        "snippet": "... Colégio ARBOS - Raiz e inovação na educação ... SANTO ANDRÉ Descubra na prática por que somos a escolha certa.",
+        "date": "há 7 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio ARBOS on Instagram: \"O Oráculus, árvore da ...",
+        "link": "https://www.instagram.com/reel/DU8_U-bDbqS/",
+        "snippet": "... Colégio ARBOS Tá liberado sonhar com uma animação de nossos ... apostila do Sistema COC! Esse momento lindo não é um caso isolado ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio ARBOS on Instagram: \"#POV Não precisa de áudio ...",
+        "link": "https://www.instagram.com/reel/DUjW2GZCffb/",
+        "snippet": "... SANTO ANDRÉ ESTUDAR NO BOSQUE É MARAVILHOSO VOCÊ TEM UM ACOLHIMENTO ... Nós trouxemos o sistema de ensino de excelência, um programa ...",
+        "date": "há 5 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

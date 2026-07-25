@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35008727",
+  "NO_ENTIDADE": "ESCOLA NOVA LOURENCO CASTANHO",
+  "cidade": "São Paulo",
+  "query": "\"ESCOLA NOVA LOURENCO CASTANHO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA NOVA LOURENCO CASTANHO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "REGIMENTO ESCOLAR",
+        "link": "https://www.lourencocastanho.com.br/arquivos/regimento_escolar_escola_lourenco_castanho.pdf",
+        "snippet": "Artigo 1º - A Escola Nova Lourenço Castanho tem sua sede administrativa na capital do Estado de São Paulo, à Rua Bueno Brandão, 283, Vila Nova.",
+        "date": "20 de set. de 1980",
+        "position": 1
+      },
+      {
+        "title": "Em um ano, nota média no Enem cai em 68% das escolas ...",
+        "link": "http://www.columbia.edu/~aag2179/enem.pdf",
+        "snippet": "São Paulo – unid. Tremembé. Col. Palmares. Col. Santa Maria. Esc. Técnica Liceu ... Escola Nova Lourenço Castanho unid. IV. Col. Saint John unidade II. Inst ...",
+        "position": 2
+      },
+      {
+        "title": "@dommagri @dommagripsicanalista (Psicanalista Mestre em ...",
+        "link": "https://www.instagram.com/p/DNzKTLoWl3c/",
+        "snippet": "... São Paulo, de Salvador, Porto Alegre. Eu quero ... Escola Nova Lourenço Castanho, nós comentamos sobre isso. ... material didático que vai ser utilizado ...",
+        "position": 3
+      },
+      {
+        "title": "Proposta Pedagógica e Sucesso Escolar | PDF | Pedagogia",
+        "link": "https://pt.scribd.com/document/640822194/proposta-pedagogica-e-planejamento-as-bases-do-sucesso-escolar",
+        "snippet": "Escola Nova Lourenço Castanho, R. Lourenço Castanho, 273, 04507-. 110, São Paulo, SP, tel. ... Apostila Pós Projeto Político Pedagógico Na Educação Básica 1.",
+        "position": 4
+      },
+      {
+        "title": "MARINA SALLES BIELLA",
+        "link": "https://www.escavador.com/sobre/10768523/marina-salles-biella",
+        "snippet": "... São Paulo (2016), pelo Programa de Formação de Professores (PFP - Pró ... material didático para a Educação Básica. Trabalha na Prefeitura Municipal de ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

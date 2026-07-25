@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "29342872",
+  "NO_ENTIDADE": "COLEGIO GENESIS",
+  "cidade": "Feira de Santana",
+  "query": "\"COLEGIO GENESIS\" \"Feira de Santana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO GENESIS\" \"Feira de Santana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Guia do Estudante e da Família 2026",
+        "link": "https://colegiogenesis.com/uploads/2026/02/guia-do-estudante-e-da-familia.pdf",
+        "snippet": "Nascia em Feira de Santana, uma Escola movida pela ... conforme o disposto no seu regimento e nas normas do respectivo sistema de ensino,.",
+        "date": "2 de fev. de 2026",
+        "position": 1
+      },
+      {
+        "title": "De ex-aluno a professor. De professor a pai. O Gênesis faz ...",
+        "link": "https://www.instagram.com/reel/DQJnzzaDVhs/",
+        "snippet": "Colégio Gênesis Escola parceira COC SISTEMA DE ENSINO 22 ANOS DE HISTÓRIAS DE FAMÍLIAS QUE CONFIARAM NO COLÉGIO GÊNESIS. TRADIÇÃO ...",
+        "date": "há 9 meses",
+        "position": 2
+      },
+      {
+        "title": "Existe um *cheat code* para a educação. E nós temos acesso a ...",
+        "link": "https://www.instagram.com/p/DQIDi5tk1OR/",
+        "snippet": "... material didático às escolas, hoje está aqui no Colégio Gênesis. Por quê? Nós implantamos o sistema Mackenzie de ensino há quatro anos em nosso colégio. E ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio Gregor Mendel on Instagram: \"Há mais de 30 anos, o ...",
+        "link": "https://www.instagram.com/reel/DSXeT7NDWC1/",
+        "snippet": "... Feira de Santana ... Colégio Gênesis Escola parceira COC SISTEMA DE ENSINO 22 ANOS DE HISTÓRIAS DE FAMÍLIAS QUE CONFIARAM NO COLÉGIO GÊNESIS.",
+        "date": "há 7 meses",
+        "position": 4
+      },
+      {
+        "title": "Escolas parceiras do Sistema Mackenzie de Ensino",
+        "link": "https://sistemasdeensino.mackenzie.br/localizar-escola",
+        "snippet": "Digite a sua Cidade ou Estado e encontre o Sistema de Ensino Mackenzie perto de você! ... COLÉGIO GENESIS SS LTDA. Av. José Benedito Braga, 25, Vila Mogilar ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

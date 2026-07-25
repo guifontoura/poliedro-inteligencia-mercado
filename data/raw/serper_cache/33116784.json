@@ -1,0 +1,59 @@
+{
+  "codigo_escola": "33116784",
+  "NO_ENTIDADE": "COLEGIO IGLESIAS",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO IGLESIAS\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO IGLESIAS\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Que conquista maravilhosa!  Parabéns, João Vitor ...",
+        "link": "https://www.instagram.com/reel/DU_bRoskeJb/",
+        "snippet": "VALADARES E TEÓFILO OTONI GENOMA SISTEMA DE ENSINO 1° LUGAR NO ENEM CARATINGA, GOV. ... RIO DE JANEIRO, 8º LUGAR NO ESTADO DO RIO DE JANEIRO. Rank ...",
+        "date": "há 5 meses",
+        "position": 1
+      },
+      {
+        "title": "Se você é aluno do 9° ano do Ensino Fundamental ...",
+        "link": "https://www.instagram.com/p/DRKtBBYFGf4/",
+        "snippet": "Rio de Janeiro, esta é a sua chance de concorrer a uma bolsa ... material didático, reforço escolar online, mentoria e uma rede de ...",
+        "date": "há 8 meses",
+        "position": 2
+      },
+      {
+        "title": "10 anos transformando sonhos em conquistas. Aqui, cada ...",
+        "link": "https://www.instagram.com/reel/DNQ4-soN-rj/",
+        "snippet": "COLÉGIO IGLESIAS ENEM 2025 2º LUGAR MELHOR ESCOLA DA ILHA DO GOVERNADOR 16º NA CIDADE DO RIO DE JANEIRO ... Sistema de Ensino Anglo ...",
+        "date": "há 11 meses",
+        "position": 3
+      },
+      {
+        "title": "SISTEMA UNO INTERNACIONAL DE ENSINO - UNOi Educação",
+        "link": "https://www.reclameaqui.com.br/sistema-uno-de-ensino/sistema-uno-internacional-de-ensino_11968927/",
+        "snippet": "Minha filha foi matriculada no COLÉGIO IGLESIAS / ILHA DO GOVERNADOR / RIO DE JANEIRO, e fomos obrigados a comprar o material didático do Sistema ...",
+        "sitelinks": [
+          {
+            "title": "3 respostas",
+            "link": "https://www.reclameaqui.com.br//sistema-uno-de-ensino/sistema-uno-internacional-de-ensino_11968927/"
+          }
+        ],
+        "position": 4
+      },
+      {
+        "title": "Juliana Morais - English teacher and pedagogue",
+        "subtitle": "Belford Roxo, Rio de Janeiro, Brasil · English Teacher · Colégio Iglesias (Ilha do Governador)",
+        "link": "https://br.linkedin.com/in/professorajulianamorais",
+        "snippet": "... material didático / 2021 °Yes ... English teacher and pedagogue. Colégio Iglesias (Ilha do Governador) UFRJ - Universidade Federal do Rio de Janeiro ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

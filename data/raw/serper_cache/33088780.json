@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "33088780",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL PEREIRA ROCHA",
+  "cidade": "São Gonçalo",
+  "query": "\"CENTRO EDUCACIONAL PEREIRA ROCHA\" \"São Gonçalo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL PEREIRA ROCHA\" \"São Gonçalo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Centro Educacional Pereira Rocha (@pereirarochaoficial)",
+        "link": "https://www.instagram.com/pereirarochaoficial/",
+        "snippet": "ATENÇÃO AOS FERIADOS! Prezados responsáveis e alunos, Na próxima semana, o funcionamento do Centro Educacional Pereira Rocha passará por algumas alterações.",
+        "position": 1
+      },
+      {
+        "title": "Centro Educacional Pereira Rocha",
+        "link": "https://www.pereirarocha.com.br/ensino/2",
+        "snippet": "Sabemos que o material didático constituiuma importante ferramenta de ... São Gonçalo - RJ. 21 3716-0303 / 21 3119-2701 / 21 96490-8087 · pereirarocha ...",
+        "position": 2
+      },
+      {
+        "title": "Escolher um sistema de ensino vai além do material didático. ...",
+        "link": "https://www.instagram.com/reel/DYfipBsPu7-/",
+        "snippet": "Escolher um sistema de ensino vai além do material didático ... Nós na escola, o Centro Educacional Pereira Rocha ... We at the school, Centro Educacional Pereira ...",
+        "position": 3
+      },
+      {
+        "title": "Centro Educacional Pereira Rocha",
+        "link": "https://www.pereirarocha.com.br/",
+        "snippet": "Para nós, uma educação de excelência se faz com ótimos professores, com um material didático ... Sistema de Ensino · Logo diferencial 02. Ambiente Virtual de ...",
+        "position": 4
+      },
+      {
+        "title": "Sistema de Ensino pH: O Sistema que Mais Cresce no Brasil",
+        "link": "https://www.sistemadeensinoph.com.br/",
+        "snippet": "Material didático. Conteúdos alinhados com as últimas tendências ... Mantenedora do Centro Educacional Pereira Rocha, São Gonçalo - Rio de Janeiro.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

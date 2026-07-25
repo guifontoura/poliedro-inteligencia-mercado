@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35105648",
+  "NO_ENTIDADE": "COLEGIO VISCONDE DE PORTO SEGURO CAMPUS MORUMBI",
+  "cidade": "São Paulo",
+  "query": "\"COLEGIO VISCONDE DE PORTO SEGURO CAMPUS MORUMBI\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO VISCONDE DE PORTO SEGURO CAMPUS MORUMBI\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "pontifícia universidade católica de são paulo",
+        "link": "https://repositorio.pucsp.br/jspui/bitstream/handle/39281/1/MARIA%20LUCIA%20Z%20MASTROPASQUA.pdf",
+        "snippet": "de MLZ Mastropasqua · 2023 — escola particular de origem germânica, Colégio Visconde de Porto Seguro – Campus Morumbi, ... em Educação: Currículo) – Pontifícia Universidade Católica de São ...",
+        "position": 1
+      },
+      {
+        "title": "Lista de Alunos por Escola e Estado | PDF | Brasil",
+        "link": "https://pt.scribd.com/document/591654718/nivel-3-obef",
+        "snippet": "... COLÉGIO VISCONDE DE PORTO SEGURO - CAMPUS MORUMBI São Paulo (SP) Nível 3 BENTO UTRABO TUBINO COLÉGIO VISCONDE DE PORTO SEGURO - CAMPUS MORUMBI São Paulo (SP)",
+        "position": 2
+      },
+      {
+        "title": "Cultura – Página 3",
+        "link": "https://centroaustriaco.com/category/cultura/page/3/",
+        "snippet": "... São Paulo, apresenta 154 gravuras provenientes da instituição austríaca. ... Colégio Visconde de Porto Seguro campus Morumbi – SP. O evento ...",
+        "date": "30 de set. de 2022",
+        "position": 3
+      },
+      {
+        "title": "Plan1",
+        "link": "https://midiasstoragesec.blob.core.windows.net/001/2023/05/anexo-iv_rede191.xlsx",
+        "snippet": "COLEGIO VISCONDE DE PORTO SEGURO CAMPUS MORUMBI, BT, CENTRO OESTE, PRIVADA. 1965 ... IDEAL SAO PAULO COLEGIO UNIDADE I E II, IP, CENTRO SUL, PRIVADA. 2300, N ...",
+        "position": 4
+      },
+      {
+        "title": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
+        "link": "https://repositorio.pucsp.br/bitstream/handle/22279/2/Maria%20L%C3%BAcia%20Zecchinato%20Mastropasqua.pdf",
+        "snippet": "reuniões pedagógicas com professores, socialização do material didático com a equipe docente, ... São Paulo ... Apostila do Curso. Formación em Actuaciones ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

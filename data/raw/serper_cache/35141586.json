@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35141586",
+  "NO_ENTIDADE": "UIRAPURU COLEGIO",
+  "cidade": "Sorocaba",
+  "query": "\"UIRAPURU COLEGIO\" \"Sorocaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"UIRAPURU COLEGIO\" \"Sorocaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Uirapuru | Bolsas de Estudo em Sorocaba - SP",
+        "link": "https://www.melhorescola.com.br/escola/uirapuru-colegio",
+        "snippet": "Garanta sua bolsa de estudos em Colégio Uirapuru, Sorocaba - SP. Descontos exclusivos para garantir a melhor educação para seus filhos!",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.1.privada.do.htm",
+        "snippet": "RIO CLARO SISTEMA DE ENSINO, P, RIO CLARO, SP, Sim. ANDRE HENRIQUE ALMEIDA ... COLEGIO POLITECNICO DE SOROCABA, P, SOROCABA, SP, Sim. ANA CLARA CRUZ NEVES, SAO ...",
+        "position": 2
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... UIRAPURU COLEGIO. Sorocaba. SP. 665,2. 807,7. 655,0. 653,0. 629,0. 724,0. 99 ... SISTEMA DE ENSINO. EQUIPE. Belém. PA. 630,1. 816,5. 651,0. 613,0. 587,0. 669,0.",
+        "position": 3
+      },
+      {
+        "title": "UF REDE CODIGO ESCOLA UNIDADE ...",
+        "link": "https://estaticog1.globo.com/2013/11/26/Enem2012_por_escola_final.pdf",
+        "snippet": "... SISTEMA DE ENSINO. 69. 60 86,96 583,74 710,01 635,72 600,55 621,67 632 ... SOROCABA. 183. 169 92,35 571,12 675,21 613,68 597,06 626,86 614 ...",
+        "date": "26 de nov. de 2013",
+        "position": 4
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... UIRAPURU COLEGIO. SP. Sorocaba. Privada. Urbana. 77. De 61 a. 90 alunos. 70. 90.91. 0 ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

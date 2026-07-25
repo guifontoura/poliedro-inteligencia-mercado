@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "21092761",
+  "NO_ENTIDADE": "COMPLEXO EDUCACIONAL DOM BOSCO",
+  "cidade": "Imperatriz",
+  "query": "\"COMPLEXO EDUCACIONAL DOM BOSCO\" \"Imperatriz\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COMPLEXO EDUCACIONAL DOM BOSCO\" \"Imperatriz\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Dom Bosco Imperatriz (@escoladomboscoitz)",
+        "link": "https://www.instagram.com/escoladomboscoitz/",
+        "snippet": "No dia 7 de fevereiro, das 8h às 11h, o Complexo Educacional Dom Bosco, em Imperatriz – MA, abrirá suas portas para um momento especial de encontro, cuidado e ...",
+        "position": 1
+      },
+      {
+        "title": "Dom Bosco Imperatriz on Instagram: \"Há 45 anos, o ...",
+        "link": "https://www.instagram.com/reel/C8eowJMuk5d/",
+        "snippet": "... Complexo Educacional Dom Bosco ... God bless you. OCR. Dom Bosco Imperatriz Poliedro Sistema de Ensino Assine aqui e faça parte desse time!",
+        "date": "há 2 anos",
+        "position": 2
+      },
+      {
+        "title": "Dom Bosco é Sistema de Ensino Poliedro❤️💛💙 Aqui no ...",
+        "link": "https://www.instagram.com/reel/DB86cMTuBbf/",
+        "snippet": "... Complexo Educacional Dom Bosco prezamos pela ... Dom Bosco Imperatriz Poliedro Sistema de Ensino Assine aqui e faça parte desse time!",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "A tecnologia Dom Bosco chegou para facilitar, acelerar e ...",
+        "link": "https://www.instagram.com/reel/DY5B-iYOiQE/",
+        "snippet": "... material didático, reforço escolar online, mentoria e uma rede de ... O Complexo Educacional Dom Bosco celebra com muita alegria a ...",
+        "position": 4
+      },
+      {
+        "title": "VEM AÍ O SIMULADOM 2026! A contagem regressiva ...",
+        "link": "https://www.instagram.com/reel/DaL1pBupIFI/",
+        "snippet": "... material didático, reforço escolar online, mentoria e uma rede de ... Apostila de 2027 e 50% de desconto nas mensalidades de 2027 e nos ...",
+        "date": "há 3 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

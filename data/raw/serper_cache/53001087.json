@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "53001087",
+  "NO_ENTIDADE": "C EDUCACIONAL LEONARDO DA VINCI",
+  "cidade": "Brasília",
+  "query": "\"C EDUCACIONAL LEONARDO DA VINCI\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"C EDUCACIONAL LEONARDO DA VINCI\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 9° ANO",
+        "link": "https://obquimica.org/storage/files/01K92D8X8J0CBEC6S5CFDQXAWT.pdf",
+        "snippet": "C EDUCACIONAL LEONARDO DA VINCI. DF. Brasília. PRATA. LARISSA OLIVEIRA REIS DE ... SISTEMA DE ENSINO AUTHENTICO. PA. Belém. OURO. Echilly Gonçalves Marques.",
+        "position": 1
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Colégio Podion Ens Fund e Médio - 746,36 - Brasília (Distrito Federal) - Particular - Sem informação ... C Educacional Leonardo da Vinci ...",
+        "date": "23 de jun. de 2026",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ... C Educacional Leonardo da Vinci - Brasília - Asa Sul - Nota: 692.92.",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Premiados OBF 2022 - 2ª Série",
+        "link": "https://www.sbfisica.org.br/v1/olimpiada/2022/index.php/328-premiados-obf-2022-2-serie.html",
+        "snippet": "C EDUCACIONAL LEONARDO DA VINCI - U, DF, MEDALHA DE PRATA. ELIZEU FELIX DE ... COLÉGIO MILITAR DE BRASÍLIA, DF, MEDALHA DE BRONZE. LUCAS HINSCHING MOSTAFÁ ...",
+        "position": 4
+      },
+      {
+        "title": "Medalhistas Quimeninas 2025 - Série 1º Ano",
+        "link": "https://pt.scribd.com/document/942349372/RESULTADO-FINAL-QUIMENINAS-1-ANO",
+        "snippet": "bronze LARA DE OLIVEIRA TUON C EDUCACIONAL LEONARDO DA VINCI DF Brasília ... certificado GRAZIELA ELEUTÉRIO VICENTE SISTEMA DE ENSINO FOCO MG Montes Claros",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

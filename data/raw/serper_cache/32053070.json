@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "32053070",
+  "NO_ENTIDADE": "ESCOLA GUIMARAES ROSA LTDA",
+  "cidade": "Cachoeiro de Itapemirim",
+  "query": "\"ESCOLA GUIMARAES ROSA LTDA\" \"Cachoeiro de Itapemirim\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA GUIMARAES ROSA LTDA\" \"Cachoeiro de Itapemirim\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Proposta Pedagógica",
+        "link": "https://www.escolaguimaraesrosa.com.br/view/assets/documents/PROPOSTA_PEDAGOGICA.pdf",
+        "snippet": "desenvolvimento da cidade de Cachoeiro de Itapemirim. E com imensa ... Exerce a função de controle e reposição de material didático, de higiene e ...",
+        "date": "21 de nov. de 1978",
+        "position": 1
+      },
+      {
+        "title": "em atividade",
+        "link": "https://sedu.es.gov.br/Media/sedu/pdf%20e%20Arquivos/ENDERE%C3%87O%20E%20CONTATO%20DAS%20ESCOLAS%20-%20REDE%20PRIVADA.xlsx",
+        "snippet": "ESCOLA GUIMARAES ROSA LTDA, URBANA, EM ATIVIDADE, PRIVADA, RUA 25 DE MARCO, 110 ... ESCOLA FAMILIA AGRICOLA DE CACHOEIRO DE ITAPEMIRIM - MEPES, RURAL, EM ...",
+        "position": 2
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... ESCOLA GUIMARAES ROSA LTDA. 32053070 ES. Cachoeiro de Itapemirim. Amanda ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ano ...",
+        "position": 3
+      },
+      {
+        "title": "ENEM ESCOLA SIGLA NO_MUNICIPIO NO_ENTIDADE ...",
+        "link": "https://estaticog1.globo.com/2012/11/22/notasEnem2011.pdf",
+        "snippet": "... SISTEMA DE ENSINO LTDA. Privada. 487,1512195 514,9707317 553,6134146 ... CACHOEIRO DE ITAPEMIRIM. CE CACHOEIRENSE DARWIN. Privada. 575,6825.",
+        "date": "22 de nov. de 2012",
+        "position": 4
+      },
+      {
+        "title": "Apesar de novo piso, salário de professor continua baixo",
+        "link": "https://exame.com/brasil/apesar-de-novo-piso-salario-de-professor-continua-baixo/",
+        "snippet": "ESCOLA GUIMARAES ROSA LTDA, 590,27, 724,04. 37º, SANTA TERESA, Privada ... SISTEMA DE ENSINO MESON PI, 551,33, 653,47. 30º, PARAUAPEBAS, Privada ...",
+        "date": "7 de jan. de 2015",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

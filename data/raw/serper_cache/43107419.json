@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "43107419",
+  "NO_ENTIDADE": "COLEGIO MAE DE DEUS",
+  "cidade": "Porto Alegre",
+  "query": "\"COLEGIO MAE DE DEUS\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MAE DE DEUS\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Mãe de Deus - Rede ICM (@colegio_maededeus)",
+        "link": "https://www.instagram.com/colegio_maededeus/",
+        "snippet": "Colégio Mãe de Deus – Zona Sul de Porto Alegre ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Mãe de Deus - Rede ICM | Você sabia que a ...",
+        "link": "https://www.instagram.com/reel/DCWMk8uqJ4N/",
+        "snippet": "... Colégio Mãe de Deus é referência em Porto Alegre? Desde os primeiros passos nossos ... Sistema de Ensino Colégio Mãe de Deus REDE ICM DE EDUCAÇÃO ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Encontro do Sistema de Ensino Poliedro",
+        "link": "https://redeicm.org.br/maededeus/encontro-do-sistema-de-ensino-poliedro/",
+        "snippet": "... Sistema de Ensino Poliedro. Durante esse evento, foram abordados ... Colégio Mãe de Deus – Porto Alegre – RS · Colégio Nª Senhora da Glória – Porto ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio Mãe de Deus - Rede ICM | 🇬🇧❤️Oxford e Colégio ...",
+        "link": "https://www.instagram.com/reel/DZae8wihat-/",
+        "snippet": "... Sistema de Ensino Colégio Mãe de Deus REDE ICM DE EDUCAÇÃO. oxford ... Colégio Mãe de Deus – Zona Sul de Porto Alegre. 5 days ago. OCR.",
+        "position": 4
+      },
+      {
+        "title": "A história do Colégio Mãe de Deus, no bairro Tristeza, em ...",
+        "link": "https://www.instagram.com/p/DTVFP05gIRt/",
+        "snippet": "A história do Colégio Mãe de Deus, no bairro Tristeza, em Porto Alegre ... Venha visitar o Colégio, conhecer nosso Sistema de Ensino e os ...",
+        "date": "há 6 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

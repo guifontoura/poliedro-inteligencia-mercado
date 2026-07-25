@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "24097004",
+  "NO_ENTIDADE": "COLEGIO CIENCIAS APLICADAS",
+  "cidade": "Natal",
+  "query": "\"COLEGIO CIENCIAS APLICADAS\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO CIENCIAS APLICADAS\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Ciências Aplicadas",
+        "link": "http://cienciasaplicadas.com.br/",
+        "snippet": "... Colégio Ciências Aplicadas - Unidade I. Rua Nossa Senhora de Lourdes, 59 - Tirol - Natal/RN. (84) 3611 1736. contato@cienciasaplicadas.com.br. Colégio Ciências ...",
+        "position": 1
+      },
+      {
+        "title": "Com ensino de excelência, material didático inovador e ...",
+        "link": "https://98fmnatal.com.br/ultimas/com-ensino-de-excelencia-material-didatico-inovador-ensino-trilingue-ciencias-aplicadas-abre-sondagem-para-novos-alunos/145955/",
+        "snippet": "... colégio Ciências Aplicadas abre sondagem para os novos alunos do ... sistema de aprendizagem baseada em projetos e que estimula a ...",
+        "date": "13 de set. de 2022",
+        "position": 2
+      },
+      {
+        "title": "Por que o Colégio Ciências Aplicadas? Te damos 7 razões ...",
+        "link": "https://www.instagram.com/reel/DPUPa2xD_eB/",
+        "snippet": "... Natal ... sistema de ensino que nós teremos aqui, focando nos dez principais temas do ENEM. Venha fazer como nosso ...",
+        "date": "há 9 meses",
+        "position": 3
+      },
+      {
+        "title": "Ciências Aplicadas | Enem",
+        "link": "http://cienciasaplicadas.com.br/enem/",
+        "snippet": "Confira algumas estratégias de estudos e sugestões de material didático. ... Colégio Ciências Aplicadas - Unidade I. Rua Nossa Senhora de Lourdes, 59 - Tirol - ...",
+        "position": 4
+      },
+      {
+        "title": "Pela 17ª vez, somos 1º lugar do RN no ENEM. Uma conquista ...",
+        "link": "https://www.instagram.com/reel/DaA7WHwOync/",
+        "snippet": "... Colégio Ciências Aplicadas Excelência acadêmica ... Natal efetivamente... Meu nome é Carlos, eu sou professor de ...",
+        "date": "há 4 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

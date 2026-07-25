@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "35004304",
+  "NO_ENTIDADE": "ESCOLA CONCEPT",
+  "cidade": "Ribeirão Preto",
+  "query": "\"ESCOLA CONCEPT\" \"Ribeirão Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA CONCEPT\" \"Ribeirão Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "a espera acabou! O High School Challenge 2025 ...",
+        "link": "https://www.instagram.com/p/DMqhQTgRW0_/",
+        "snippet": "É oficial: a espera acabou! O High School Challenge 2025 da Escola Concept Ribeirão Preto já tem data marcada: Sábado, 16 de agosto.",
+        "date": "há 12 meses",
+        "position": 1
+      },
+      {
+        "title": "Novas escolas focam estudo no exterior e classe A",
+        "link": "https://epocanegocios.globo.com/Brasil/noticia/2017/04/epoca-negocios-novas-escolas-focam-estudo-no-exterior-e-classe-a.html",
+        "snippet": "É o caso da escola Concept, do Grupo SEB, que iniciou suas atividades neste ano em Ribeirão Preto (SP) e em Salvador (BA). Os 350 alunos das ...",
+        "date": "3 de abr. de 2017",
+        "position": 2
+      },
+      {
+        "title": "Free Force Brasil on Instagram: \"Um dia diferente por aqui ...",
+        "link": "https://www.instagram.com/reel/DXfI0RlDpmE/",
+        "snippet": "Partiu Ribeirão Preto Escola CONCEPT SPORTS CAMPS - Treine, Viaje ... Doe Rivotril para o diretor FEDERAL SISTEMA DE ENSINO Feira do ...",
+        "date": "há 3 meses",
+        "position": 3
+      },
+      {
+        "title": "Em Ribeirão Preto, secretária finlandesa fala sobre ...",
+        "link": "https://www.revide.com.br/noticias/educacao/em-ribeirao-preto-secretaria-finlandesa-fala-sobre-mudancas-da-educacao/",
+        "snippet": "Ela viajou a convite de Chaim Zaher, presidente do Grupo SEB, para conhecer a Escola Concept. ... sistema de ensino, considerado um dos mais eficientes do mundo.",
+        "position": 4
+      },
+      {
+        "title": "Carlos Nascimento Júnior - Middle School l High School",
+        "subtitle": "São Paulo, São Paulo, Brasil · Diretor do Ensino Fundamental II / Middle School Principal · Escola Alef Peretz",
+        "link": "https://br.linkedin.com/in/carlos-nascimento-j%C3%BAnior-51309623",
+        "snippet": "Gráfico Escola Concept. Head of School. Escola Concept. mar. de 2022 - jul. de 2024 2 anos 5 meses. Ribeirão Preto, São Paulo, Brazil. Defining academic goals ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

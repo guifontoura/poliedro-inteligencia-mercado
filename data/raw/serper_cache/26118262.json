@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "26118262",
+  "NO_ENTIDADE": "COLEGIO VISAO",
+  "cidade": "Recife",
+  "query": "\"COLEGIO VISAO\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO VISAO\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Nossos alunos da 3ª série do Ensino Médio encararam ...",
+        "link": "https://www.instagram.com/reel/DJxAB94OGWV/",
+        "snippet": "Os simulados do Colégio Visão, realizados em parceria com o Sistema de Ensino ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-PE.3.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões · Apostilas ... COLEGIO VISAO, P, RECIFE, PE, Sim. 63, ARTHUR BEZERRA MELO, COLEGIO SANTA MARIA, P ...",
+        "position": 2
+      },
+      {
+        "title": "Conquistar a excelência em matemática é resultado de ...",
+        "link": "https://www.instagram.com/reel/DE7krYeuW9G/",
+        "snippet": "COLEGIO VISAO Felipe Augusto Aluno Visão MEU APREÇO POR MATEMÁTICA E TUDO MAIS . ... apostila COC. Na parte teórica, aprendemos a ... Colégio Salesiano Recife.",
+        "position": 3
+      },
+      {
+        "title": "Karys Lacerda - - Acadêmica em Ciências Sociais | Licenciatura",
+        "link": "https://br.linkedin.com/in/karys-lacerda-60b5392b5",
+        "snippet": "Também atuei em momentos de crise como período pandêmico e enchentes no Recife distribuindo doações e realizando cadastramento social. Gráfico Colégio Visão ...",
+        "position": 4
+      },
+      {
+        "title": "Seja - Visite o ranking das escolas no ENEM 2017 ...",
+        "link": "https://www.facebook.com/sejalguem/photos/visite-o-ranking-das-escolas-no-enem-2017-emwwwsejalguemcomalguem-publicoescola-/2050328728561062/",
+        "snippet": "... COLEGIO VISAO MARANHÃO Pública: melhor aluno: 762.12 – IMPERATRIZ ... SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI – EPP PARAÍBA Pública ...",
+        "date": "há 7 anos",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

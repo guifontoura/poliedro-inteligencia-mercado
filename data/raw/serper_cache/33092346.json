@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33092346",
+  "NO_ENTIDADE": "COLEGIO SANTA MARIA",
+  "cidade": "São João de Meriti",
+  "query": "\"COLEGIO SANTA MARIA\" \"São João de Meriti\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA MARIA\" \"São João de Meriti\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "São João de Meriti - Escolas",
+        "link": "https://qedu.org.br/municipio/3305109-sao-joao-de-meriti/busca",
+        "snippet": "COLEGIO SANTA MARIA. AUTOMOVEL CLUBE, 269. CENTRO. 25515125 São João de ... SISTEMA DE ENSINO INVICTUS JOAO DE MERITI. GENI, 40 - LOTE 4 QUADRA 4. VILAR ...",
+        "position": 1
+      },
+      {
+        "title": "É no brincar e no experienciar que o aprendizado acontece! ✨ ...",
+        "link": "https://www.instagram.com/p/DYm6cYjAPEw/",
+        "snippet": "Na atividade do Infantil 4, os alunos iniciaram a apostila 2 mergulhando no universo dos dinossauros e dos primeiros seres vivos. Por meio de experiências ...",
+        "position": 2
+      },
+      {
+        "title": "Espaço Aberto - Colégio Santa Maria",
+        "link": "https://www.yumpu.com/pt/document/view/12644609/espaco-aberto-colegio-santa-maria",
+        "snippet": "a São João de Meriti com a<br />. missão de educar e evangelizar. Os ... material didático, e a metodologia<br />. aborda temas diversos ...",
+        "date": "14 de abr. de 2013",
+        "position": 3
+      },
+      {
+        "title": "2º ano 2017 - Colégio Santa Maria",
+        "link": "https://colegiosantamariarj.com.br/wp-content/uploads/2017/07/RECESSO-2%C2%B0-ANO.pdf",
+        "snippet": "➃ Consulte todo seu material didático: livros, cadernos, avaliações e anotações também. ... No início, o Colégio Santa Maria era uma casa de família não ...",
+        "position": 4
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... COLEGIO SANTA MARIA BETIM. 31353906 MG. Betim. Alice Oliveira Lacerda. 2º ano ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

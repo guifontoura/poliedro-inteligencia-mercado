@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31371742",
+  "NO_ENTIDADE": "COLEGIO M2 - VESPASIANO",
+  "cidade": "Vespasiano",
+  "query": "\"COLEGIO M2 - VESPASIANO\" \"Vespasiano\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO M2 - VESPASIANO\" \"Vespasiano\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio M2 Vespasiano",
+        "link": "https://colegiom2.com.br/unidades/colegio-m2-vespasiano/",
+        "snippet": "Colégio M2 Vespasiano. Material didático. Selecione abaixo a série desejada para acessar a lista de materiais didáticos. Conheça Nosso corpo Profissional ...",
+        "position": 1
+      },
+      {
+        "title": "Maratona de Matemática da Conquista já é tradição no ...",
+        "link": "https://www.instagram.com/reel/DPCj__NgUnt/",
+        "snippet": "Colégio M2 - Vespasiano.",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio M2",
+        "link": "https://www.instagram.com/p/DZaUM_NEZig/",
+        "snippet": "Photo by Colégio M2 - Vespasiano on June 10, 2026. May be a cartoon ... Bernoulli Sistema de Ensino O Fim do 'Cálculo por Cálculo ...",
+        "position": 3
+      },
+      {
+        "title": "Festa Country M2 Vespasiano 2026 A nossa festança está ...",
+        "link": "https://www.instagram.com/reel/DZ8qZAWQHRd/",
+        "snippet": "... Colégio M2 Vespasiano 🎟️ Garanta seu convite pelo Sympla: https ... Sistema de Ensino. colegiovillasboaslondrina's profile picture.",
+        "position": 4
+      },
+      {
+        "title": "Colégio M2 Lagoa Santa",
+        "link": "https://colegiom2.com.br/unidades/lagoa-santa/",
+        "snippet": "Material didático. Selecione abaixo a série desejada para acessar a lista de ... Colégio M2 Vespasiano · Colégio M2 Pedro Leopoldo · BH Fernão Dias. Nossa ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

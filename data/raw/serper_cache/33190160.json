@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33190160",
+  "NO_ENTIDADE": "COLEGIO SILVA SERPA",
+  "cidade": "São Pedro da Aldeia",
+  "query": "\"COLEGIO SILVA SERPA\" \"São Pedro da Aldeia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SILVA SERPA\" \"São Pedro da Aldeia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola Disneylândia & Colégio Silva Serpa | São Pedro da ...",
+        "link": "https://www.facebook.com/colegiosilvaserpa/?locale=pt_BR",
+        "snippet": "Escola Disneylândia & Colégio Silva Serpa, São Pedro da Aldeia. 6.181 ... A Taxa de Inscrição tem o valor de R$ 200,00 e nesse valor está incluso o material ...",
+        "rating": 4.7,
+        "ratingCount": 77,
+        "position": 1
+      },
+      {
+        "title": "Escola Disneylândia (@colegiosilvaserpa)",
+        "link": "https://www.instagram.com/colegiosilvaserpa/reels/",
+        "snippet": "... K+ followers · 1.6K+ posts · Escola Disneylândia & Colégio Silva Serpa Ed ... São Pedro da Aldeia. O museu, localizado na Base Aérea Naval de São ...",
+        "position": 2
+      },
+      {
+        "title": "Ensino Fundamental Anos Finais - 6º ao 9º ano",
+        "link": "https://www.silvaserpa.com.br/ensino-fundamental-ii/",
+        "snippet": "Escola Disneylândia & Colégio Silva Serpa, em São Pedro da Aldeia, desde 1969 educando para a vida. Da Educação Infantil ao Ensino Médio. Toggle navigation.",
+        "position": 3
+      },
+      {
+        "title": "Escola Disneylândia on Instagram: \"No Colégio Silva Serpa, a ...",
+        "link": "https://www.instagram.com/reel/C6hKlQVRqLU/",
+        "snippet": "... Colégio Silva Serpa, recebeu uma linda homenagem na Câmara Municipal de São Pedro da Aldeia pelas mãos do Vereador Moisés de Oliveira Batista.",
+        "date": "há 2 anos",
+        "position": 4
+      },
+      {
+        "title": "Escola Disneylândia & Colégio Silva Serpa | Colégio ...",
+        "link": "https://www.silvaserpa.com.br/",
+        "snippet": "Escola Disneylândia & Colégio Silva Serpa | Colégio Particular em São Pedro da Aldeia – RJ ... Uma equipe de professores experiente e um material didático ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35132007",
+  "NO_ENTIDADE": "ANTARES COLEGIO",
+  "cidade": "Americana",
+  "query": "\"ANTARES COLEGIO\" \"Americana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ANTARES COLEGIO\" \"Americana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Mais um grande resultado do Colégio Antares! Confira o vídeo.",
+        "link": "https://www.instagram.com/reel/DRQF1g2jVdj/",
+        "snippet": "... ANTARES COLEGIO 549,1 Minha Posição Clique para ver na tabela ... MATERIAL DIDÁTICO AMPLIA ONDE O ALUNO VAI PODER ESCOLHER A SUA ÁREA ...",
+        "date": "há 8 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Antares :: Oficial :: | Um ciclo cheio de aprendizados e ...",
+        "link": "https://www.instagram.com/reel/DPO0cH_EU2L/",
+        "snippet": "... MATERIAL DIDÁTICO AMPLIA ONDE O ALUNO VAI PODER ESCOLHER A SUA ÁREA ... There's going to be a holiday course at Colégio Antares. Colégio Antares ...",
+        "date": "há 9 meses",
+        "position": 2
+      },
+      {
+        "title": "Confira a lista de aprovados 2026 do Colégio Antares ...",
+        "link": "https://www.instagram.com/p/DUVcxtRjP2-/",
+        "snippet": "... Material Didático FTD 50% Descontos ... Fatec Americana Ministro Ralph Biasi Olá sou o professor Fernando Rinaldi 40 anos Fatec Americana ...",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Antares :: Oficial :: | Conte com uma equipe de ...",
+        "link": "https://www.instagram.com/reel/DZ-0Jk_Jd5h/",
+        "snippet": "There's going to be a holiday course at Colégio Antares. Colégio Antares has prepared the best holiday course for you. ... Material didático ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio Antares on Instagram: \"Mais uma vez o Antares figura ...",
+        "link": "https://www.instagram.com/reel/DZ7rRQrjdDA/",
+        "snippet": "There's going to be a holiday course at Colégio Antares. Colégio Antares has prepared the best holiday course for you. ... MATERIAL DIDÁTICO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "51036169",
+  "NO_ENTIDADE": "COLEGIO IBERO AMERICANO",
+  "cidade": "Cuiabá",
+  "query": "\"COLEGIO IBERO AMERICANO\" \"Cuiabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO IBERO AMERICANO\" \"Cuiabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Ibero Americano, de Cuiabá, adota o sistema de ...",
+        "link": "https://salaimprensa.com.br/imprensa/colegio-ibero-americano-de-cuiaba-adota-o-sistema-de-ensino-do-pueri-domus/",
+        "snippet": "Colégio Ibero Americano, de Cuiabá, adota o sistema de ensino do Pueri Domus · Alunos do Colégio Ibero Americano São Paulo, 2 de fevereiro de ...",
+        "date": "2 de fev. de 2007",
+        "position": 1
+      },
+      {
+        "title": "Sistema Bilingue",
+        "link": "http://ciamt.com.br/novosite/pedagogia.php?id=11",
+        "snippet": "O colégio Ibero Americano deu mais um passo à frente para a oferta de uma ... No sistema de ensino americano, alunos dessa etapa (9º ano) já são ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio ICE",
+        "link": "https://www.instagram.com/reel/DW2lyl2jT1n/",
+        "snippet": "... material didático da ... Aumente o volume Facepass Pessoal Festa Junina do Colégio Ibero Americano 2026 Arraiá CIA Cuiabá - Mato Grosso ...",
+        "date": "há 3 meses",
+        "position": 3
+      },
+      {
+        "title": "Júnia Paula Naves - Professora de História",
+        "link": "https://br.linkedin.com/in/junianaves",
+        "snippet": "Professora de História | Coordenadora Editorial de material didático · Como ... Colegio Ibero Americano · Formação acadêmica: UNIASSELVI · Localidade: Cuiabá ...",
+        "position": 4
+      },
+      {
+        "title": "Confira lista das 50 melhores escolas de MT, segundo o ...",
+        "link": "https://noticiaexata.com.br/educacao/confira-lista-das-50-melhores-escolas-de-mt-segundo-o-enem-duas-de-alta-floresta/",
+        "snippet": "1º Colégio Ibero Americano Cuiabá Privada 685,41 220º 2º PPE ... 3º Farina Sistema de Ensino Cuiabá Privada 668,78 472º 4º Colégio ...",
+        "date": "16 de jul. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

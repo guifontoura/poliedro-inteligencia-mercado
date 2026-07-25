@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "31006424",
+  "NO_ENTIDADE": "COLEGIO FRANCISCANO SAGRADA FAMILIA",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO FRANCISCANO SAGRADA FAMILIA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO FRANCISCANO SAGRADA FAMILIA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Fundamental I – Anos Iniciais",
+        "link": "https://www.redecf.com.br/colegio-franciscano-sagrada-familia/fundamental-i-anos-iniciais/",
+        "snippet": "Aqui no Colégio Franciscano Sagrada Família as crianças do Ensino ... Sistema de Ensino. O Bernoulli é uma plataforma de ensino e aprendizagem completa ...",
+        "position": 1
+      },
+      {
+        "title": "O Colégio Franciscano Sagrada Família se alegra em ...",
+        "link": "https://www.instagram.com/reel/DJhaHlIOkaz/",
+        "snippet": "... material didático, os estudantes confeccionaram uma corrente de ... BELO HORIZONTE UM LUGAR ONDE VOCÊ PODE SENTIR UMA ATMOSFERA ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Colégio Franciscano Sagrada Família cria salas de aulas ...",
+        "link": "https://www.pqn.com.br/portal/colegio-franciscano-sagrada-familia-cria-salas-de-aulas-virtuais/",
+        "snippet": "... Colégio Franciscano Sagrada Família na cidade de Belo Horizonte, Colégio Franciscano Imaculada Conceição em Governador Valadares, Colégio ...",
+        "date": "14 de abr. de 2020",
+        "position": 3
+      },
+      {
+        "title": "EDITAL GRATUIDADE EDUCACIONAL 2024",
+        "link": "https://www.redecf.com.br/wp-content/uploads/2023/10/EDITAL-GRATUIDADE-EDUCACIONAL-CFSF-2024.pdf",
+        "snippet": "Bairro Caiçara, Belo Horizonte, e inscrita no CNPJ 21.158.241/0001-33, mantenedora do Colégio Franciscano Sagrada Família, torna público edital.",
+        "date": "2 de out. de 2023",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "https://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/minas-gerais/",
+        "snippet": "ATUAL SISTEMA DE ENSINO, SABINOPOLIS, MG, Privada, 80% ou mais, Alto ... COLEGIO FRANCISCANO SAGRADA FAMILIA, BELO HORIZONTE, MG, Privada, 80 ...",
+        "date": "5 de ago. de 2015",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

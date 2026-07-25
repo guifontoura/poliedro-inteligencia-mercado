@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35125659",
+  "NO_ENTIDADE": "AMERICANA INSTITUTO EDUCACIONAL DE",
+  "cidade": "Americana",
+  "query": "\"AMERICANA INSTITUTO EDUCACIONAL DE\" \"Americana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"AMERICANA INSTITUTO EDUCACIONAL DE\" \"Americana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Instituto Educacional de Americana on Instagram: \"O Instituto ...",
+        "link": "https://www.instagram.com/reel/C_d9yC-MaWM/",
+        "snippet": "INSTITU EDUCACIONAL AMERICANA Bernouli Sistema de Ensino ... Instituto Educacional de Americana . Instituto Educacional de Americana .",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "O intervalo da última quarta-feira foi diferente por aqui. O ...",
+        "link": "https://www.instagram.com/reel/DYxVT7Ep9m5/",
+        "snippet": "Instituto Educacional de Americana . Instituto Educacional de Americana . ... EXCELÊNCIA ACADÊMICA Metodologias ativas, material didático de ...",
+        "date": "há 2 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Adventista Americana Cantata de Natal Dia ...",
+        "link": "https://www.instagram.com/p/DRx2abSDdm5/",
+        "snippet": "Instituto Educacional de Americana . Instituto Educacional de Americana . ... SISTEMA DE ENSINO anglo. colegioadventistadelondrina's profile ...",
+        "date": "há 7 meses",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "ESCOLA AMERICANA DE SANTOS, P, SANTOS, SP, Sim. IURY BURIGO MIRANDA RODRIGUES DE ... ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Sim. MARIA EDUARDA ...",
+        "position": 4
+      },
+      {
+        "title": "dbo_TS_ESCOLA",
+        "link": "https://www.al.sp.gov.br/spl/2015/09/Acessorio/1278971_50269504_Acessorio.xlsx",
+        "snippet": "... AMERICANA ESCOLA, SP, 1, 0, 0, 1, 0, 0, 1, 1. 308, 2014, 35123468, ADVENTISTA DE ASSIS ... AMERICANA INSTITUTO EDUCACIONAL DE, SP, 1, 1, 0, 1, 0, 0, 0, 1. 992 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

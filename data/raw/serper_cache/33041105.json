@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33041105",
+  "NO_ENTIDADE": "COLEGIO BOM JESUS CANARINHOS",
+  "cidade": "Petrópolis",
+  "query": "\"COLEGIO BOM JESUS CANARINHOS\" \"Petrópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BOM JESUS CANARINHOS\" \"Petrópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3303906-petropolis/busca",
+        "snippet": "COLEGIO BOM JESUS CANARINHOS. SANTOS DUMONT, 355. CENTRO. 25625090 Petrópolis - Rio de Janeiro. Rede privada / Urbana · COLEGIO BOM JESUS SAO JOSE.",
+        "position": 1
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... Petrópolis. Alice Vieira da Silva Soares. 2º ano - Ensino Médio. 15. 1 UNID ESC ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 2
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "COLEGIO BOM JESUS CANARINHOS 77 Petrópolis RJ COLEGIO LITERATO 301907 83 São ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 3
+      },
+      {
+        "title": "Enem revela abismo no ensino; confira o ranking no ...",
+        "link": "https://extra.globo.com/noticias/educacao/enem-revela-abismo-no-ensino-confira-ranking-no-estado-do-rio-20237876.html",
+        "snippet": "O melhor colocado, o Colégio Ipiranga, em Petrópolis, aparece na 12ª colocação nacional, com 706,9 pontos. ... SEI - SISTEMA DE ENSINO INTERATIVO.",
+        "date": "5 de out. de 2016",
+        "position": 4
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-HORIZONTAL.pdf",
+        "snippet": "... Petrópolis. Privada. Urbana. 44. De 31 a. 60 alunos. 41. 93.18. 0. De 60% a 80%. Muito ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

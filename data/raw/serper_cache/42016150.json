@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "42016150",
+  "NO_ENTIDADE": "COLEGIO SAGRADA FAMILIA",
+  "cidade": "Blumenau",
+  "query": "\"COLEGIO SAGRADA FAMILIA\" \"Blumenau\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAGRADA FAMILIA\" \"Blumenau\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Convite especial ✨ O Colégio Sagrada Família convida você ...",
+        "link": "https://www.instagram.com/p/DPXLFKADmw5/",
+        "snippet": "O Colégio Sagrada Família convida você para o ... (Blumenau) CDL ACIFES . COLEGIO Sagrada Familia ... apostila Além de exercitar o vocabulário, a ...",
+        "position": 1
+      },
+      {
+        "title": "Copa Norte Shopping de Xadrez | Etapa 01 | SUB-13",
+        "link": "https://chess-results.com/tnr1427983.aspx?lan=1",
+        "snippet": "1812, U13, Navegantes, Sinergia Sistema de Ensino. 2, Eduardo ... 0, 0, w, F13, Blumenau, Colegio Sagrada Familia. 37, Mario Cezar Molon, 0, 0 ...",
+        "date": "31 de mai. de 2026",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO UNO VERTICE, P, DIVINOPOLIS, MG, Bronze. HEITOR SOARES DE ... COLEGIO SAGRADA FAMILIA, P, PONTA GROSSA, PR, Bronze. SAMIRA YOSHITOME KONDO ...",
+        "position": 3
+      },
+      {
+        "title": "Francisco Sallas Louzada da Silva",
+        "link": "https://www.escavador.com/sobre/4536634/francisco-sallas-louzada-da-silva",
+        "snippet": "Atualmente é professor - Uniasselvi SC, professor - Colégio Sagrada Família e professor - Colégio Bom Jesus Santo Antônio Blumenau. Tem experiência na área ...",
+        "position": 4
+      },
+      {
+        "title": "Escola Sagrada Familia Machava Sede",
+        "link": "https://www.tiktok.com/discover/escola-sagrada-familia-machava-sede",
+        "snippet": "... Colégio Sagrada Família, em Blumenau, usando inteligência artificial. ... Venha nos conhecer e permita que seu educando seja educado sobre um ...",
+        "date": "há 5 dias",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

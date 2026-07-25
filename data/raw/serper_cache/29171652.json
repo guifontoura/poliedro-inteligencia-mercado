@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "29171652",
+  "NO_ENTIDADE": "COLEGIO SANTO ANTONIO DE JESUS",
+  "cidade": "Santo Antônio de Jesus",
+  "query": "\"COLEGIO SANTO ANTONIO DE JESUS\" \"Santo Antônio de Jesus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTO ANTONIO DE JESUS\" \"Santo Antônio de Jesus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Marconi José Souza de Brito",
+        "link": "https://www.escavador.com/sobre/5131403/marconi-jose-souza-de-brito",
+        "snippet": "PROFESSOR DA OLIMPÍADA NO COLÉGIO SANTO ANTÔNIO DE JESUS. 2013. (Olimpíada) ... (Desenvolvimento de material didático ou instrucional - CD ROM).",
+        "position": 1
+      },
+      {
+        "title": "contrato de prestação de serviços educacionais - 2026",
+        "link": "https://www.csaj.com.br/wp-content/uploads/2025/12/contrato_educacional_2026.pdf",
+        "snippet": "A Contratada, Colégio Santo Antônio de Jesus, cuja mantenedora é a ASEM - Associação Socioeducativa ... edital, bem como a adquirir o material didático ...",
+        "position": 2
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 1° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DAA25DGW9E54FSE2QMDYT.pdf",
+        "snippet": "COLEGIO SANTO ANTONIO DE JESUS. BA. Santo Antônio de Jesus bronze. LARA BEATRIZ ... SISTEMA DE ENSINO AUTHENTICO. PA. Belém certificado CLARYSSA BARROS DE ...",
+        "position": 3
+      },
+      {
+        "title": "Menção Honrosa 9º Ano Fundamental | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/800285159/1729652725671867f5084ac-mencao-honrosa",
+        "snippet": "LARA SANTANA BARBOSA DE JESUS COLEGIO SANTO ANTONIO DE JESUS BAHIA SANTO ANTÔNIO DE JESUS ... MAÍRA KEMIL SISTEMA DE ENSINO EQUIPE PARÁ BELÉM LETHÍCIA DAS ...",
+        "position": 4
+      },
+      {
+        "title": "RESULTADO DA XV OLIMPÍADA BRASILEIRA DE ...",
+        "link": "https://www.obquimica.sertanustecnologia.com.br/arquivos/download/1667/Resultado%20da%20OBQJr%202022%20Fase%20I%20-%20Classificados%20para%20a%20Fase%20II.pdf",
+        "snippet": "BA SANTO ANTÔNIO DE JESUS. COLEGIO SANTO ANTONIO DE JESUS. BEATRIZ BRAGA C ... SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP. LÍDIA EMANUELLE DOS SANTOS ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

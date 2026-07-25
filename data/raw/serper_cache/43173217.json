@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "43173217",
+  "NO_ENTIDADE": "ESCOLA DE ENSINO FUNDAMENTAL E MEDIO SANTA MONICA",
+  "cidade": "Pelotas",
+  "query": "\"ESCOLA DE ENSINO FUNDAMENTAL E MEDIO SANTA MONICA\" \"Pelotas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA DE ENSINO FUNDAMENTAL E MEDIO SANTA MONICA\" \"Pelotas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Matrícula Inicial por etapa e/ou modalidade de ensino - 2014",
+        "link": "https://servicos.educacao.rs.gov.br/dados/estatisticas_mi_par_2014.pdf",
+        "snippet": "PELOTAS. 43102085 ESC LUTERANA DE ENS FUN DA REDENCAO. Urbana. 0. 15. 75. 0. 0. 0. 0. 90. 5. PELOTAS. 43173217 ESCOLA DE ENSINO FUNDAMENTAL E MEDIO SANTA MONICA.",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "http://premiacao.obmep.org.br/2017/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "LIMOEIRO ESC NORMAL RURAL DE, P, LIMOEIRO DO NORTE, CE, Bronze. VITOR ARRIADA OLIVEIRA, ESCOLA DE ENSINO FUNDAMENTAL E MEDIO SANTA MONICA, P, PELOTAS, RS ...",
+        "position": 2
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/",
+        "snippet": "ESCOLA DE ENSINO FUNDAMENTAL E MEDIO SANTA MONICA, PELOTAS, RS, Privada, 80% ou mais, Muito Alto, 586.60, 570.96, 595.86, 560.14, 619.46, 678.89.",
+        "date": "5 de ago. de 2015",
+        "position": 3
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "ESCOLA DE ENSINO FUNDAMENTAL E MEDIO SANTA MONICA. RS. 1034. COLEGIO SER E ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL. PB. 7312. SUELI ...",
+        "position": 4
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/29/PREMIA%C3%87%C3%83O%203%C2%BA%20ANO%20EM%20NIVEL%20D%202019.pdf",
+        "snippet": "SISTEMA DE ENSINO LOGOS LTDA. PARÁ. Ananindeua. Matheus Lucas Tavares de ... ESCOLA DE ENSINO FUNDAMENTAL E MEDIO SANTA MONICA. RIO GRANDE DO SUL Pelotas.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

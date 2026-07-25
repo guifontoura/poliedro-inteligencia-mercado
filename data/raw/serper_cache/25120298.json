@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "25120298",
+  "NO_ENTIDADE": "CENTRO PESSOENSE DE EDUCACAO - COLEGIO MOTIVA",
+  "cidade": "João Pessoa",
+  "query": "\"CENTRO PESSOENSE DE EDUCACAO - COLEGIO MOTIVA\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO PESSOENSE DE EDUCACAO - COLEGIO MOTIVA\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Centro Pessoense De Educacao - Colegio Motiva",
+        "link": "https://www.melhorescola.com.br/escola/centro-pessoense-de-educacaocolegio-motiva",
+        "snippet": "Garanta sua bolsa de estudos em Centro Pessoense De Educacao - Colegio Motiva, João Pessoa - PB ... Além da estrutura excelente, seu sistema de ensino conta com ...",
+        "position": 1
+      },
+      {
+        "title": "Centro Pessoense De Educacao - Colegio Motiva",
+        "link": "https://querobolsa.com.br/escolas/colegio-centro-pessoense-de-educacao-motiva",
+        "snippet": "Rua Antonio Rabelo Junior, 270 - Miramar, João Pessoa - PB ... Além da estrutura excelente, seu sistema de ensino conta com tecnologia e profissionais de alto ...",
+        "rating": 4.4,
+        "ratingCount": 2,
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2507507-joao-pessoa/busca",
+        "snippet": "CENTRO PESSOENSE DE EDUCACAO - COLEGIO MOTIVA. ANTONIO RABELO JUNIOR, 270 ... SISTEMA DE ENSINO FUNDAMENTAL E MEDIO LTDA - ME - COLEGIO DOM BOSCO JOAO ...",
+        "position": 3
+      },
+      {
+        "title": "Ministério da Educação",
+        "link": "https://www.ampb.org.br/anexos/show/130",
+        "snippet": "CENTRO PESSOENSE DE EDUCACAO - COLEGIO MOTIVA Privada. 119. 685,51. PB. João ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD. Privada. 6. PB. João ...",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-PB.3.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões · Apostilas do PIC ... CENTRO PESSOENSE DE EDUCACAO - COLEGIO MOTIVA, P, JOÃO PESSOA, PB, Sim. 5, CLAUDIO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

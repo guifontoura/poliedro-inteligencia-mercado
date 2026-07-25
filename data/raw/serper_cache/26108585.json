@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "26108585",
+  "NO_ENTIDADE": "COLEGIO DIVINO MESTRE",
+  "cidade": "Jaboatão dos Guararapes",
+  "query": "\"COLEGIO DIVINO MESTRE\" \"Jaboatão dos Guararapes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DIVINO MESTRE\" \"Jaboatão dos Guararapes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Divino Mestre | Nossa estudante Maria Luiza Paiva ...",
+        "link": "https://www.instagram.com/reel/DMi-YYuMeRU/",
+        "snippet": "O Colégio Divino Mestre alcançou o 1º lugar em Jaboatão dos Guararapes no Ranking ENEM 2025 Destaque também em nível estadual! conquistando ...",
+        "date": "há 12 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Divino Mestre | Jaboatão dos Guararapes PE",
+        "link": "https://www.facebook.com/colegiodivinomestreoficial/",
+        "snippet": "Colégio Divino Mestre, Jaboatão dos Guararapes. 7776 likes · 31 talking ... Sistema de Ensino pH, com ampla experiência na preparação para o ENEM e os ...",
+        "rating": 4.8,
+        "ratingCount": 197,
+        "position": 2
+      },
+      {
+        "title": "Colégio Divino Mestre | ✨ Já imaginou viver uma experiência ...",
+        "link": "https://www.instagram.com/reel/DMDUxMgvW18/",
+        "snippet": "... Sistema de Ensino PH, parceiro do Colégio Divino Mestre. Nós estamos aqui pra fazer um evento muito importante pra história da escola e pra ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Colégio Divino Mestre (@colegiodivinomestre)",
+        "link": "https://www.instagram.com/colegiodivinomestre/reels/",
+        "snippet": "Colégio Divino Mestre. 12.8K followers. 3,520 following. Sem Limites Para Ensinar Piedade - Jaboatão dos Guararapes - PE (81) 3468-2411 ou (81) 98802 ...",
+        "position": 4
+      },
+      {
+        "title": "Fundado sobre princípios da fé, serviço e formação integral, o ...",
+        "link": "https://www.instagram.com/reel/DRzsj0CD6Hm/",
+        "snippet": "... Colégio Divino Mestre, localizado no bairro de Piedade, em Jaboatão dos Guararapes, completa ... sistema de ensino Geek e do Nave à Vela.",
+        "date": "há 7 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

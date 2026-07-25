@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "43057152",
+  "NO_ENTIDADE": "ESCOLA DE EDUCACAO BASICA DA URI - ERECHIM",
+  "cidade": "Erechim",
+  "query": "\"ESCOLA DE EDUCACAO BASICA DA URI - ERECHIM\" \"Erechim\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA DE EDUCACAO BASICA DA URI - ERECHIM\" \"Erechim\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola | Educação Básica | Ensino Fundamental",
+        "link": "https://www.uricer.edu.br/site/informacao?uri=000000000000000000000000000000000000000000000003000000",
+        "snippet": "Na Escola de Educação Básica da URI Erechim, o trabalho pedagógico do ... O material didático utilizado é o do Sistema Positivo de Ensino, por meio de ...",
+        "position": 1
+      },
+      {
+        "title": "Estão abertas até o dia 29 de janeiro deste ano ...",
+        "link": "https://www.instagram.com/p/DTlUmWOkzP_/",
+        "snippet": "... Escola de Educação Básica da URI Erechim, localizada na Rua Carlos Irineu ... sistema de ensino de Erechim. Além de avaliar aspectos ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Escola | Setores de Atendimento | URI Câmpus de Erechim",
+        "link": "https://www.uricer.edu.br/site/informacao?uri=000066000000000000000000000",
+        "snippet": "Material Didático · Proposta Pedagógica · Setores de Atendimento · Notícias da ... Escola de Educação Básica da URI Erechim apresenta os seguintes setores: ...",
+        "position": 3
+      },
+      {
+        "title": "A Escola de Educação Básica da URI realizou, entre os dias ...",
+        "link": "https://www.instagram.com/reel/DaQmOfbRSCk/",
+        "snippet": "... Escola de Educação Básica da URI Erechim com a formação integral de ... ESCOLA 13 DE JUNHO Poliedro Sistema de Ensino VIDEO-2026-06-10 ...",
+        "date": "há 3 semanas",
+        "position": 4
+      },
+      {
+        "title": "Teve início nesta quarta-feira, 19, o período letivo para os ...",
+        "link": "https://www.instagram.com/p/DGQ-2hnBfM9/",
+        "snippet": "... Escola de Educação Básica da URI Erechim. As aulas, a partir deste ano ... sistema de ensino de Erechim. Além de avaliar aspectos ...",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "43172423",
+  "NO_ENTIDADE": "COLEGIO LEONARDO DA VINCI-ALFA",
+  "cidade": "Porto Alegre",
+  "query": "\"COLEGIO LEONARDO DA VINCI-ALFA\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LEONARDO DA VINCI-ALFA\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Cobrança duplicada e não estorno de material didático no ...",
+        "link": "https://www.reclameaqui.com.br/raiz-educacao/cobranca-duplicada-e-nao-estorno-de-material-didatico-no-colegio-leonardo-da-vinci-alfa_pXEyX8XqZjO7P9eJ/",
+        "snippet": "Na data de 28/01 comprei material didático para meus dois filhos que estudam no Colegio Leonardo da Vinci Alfa (que pertence ao Grupo Raiz) em Porto Alegre.",
+        "position": 1
+      },
+      {
+        "title": "Colégio Leonardo da Vinci on Instagram: \"Do acolhimento à ...",
+        "link": "https://www.instagram.com/reel/DQE0o-yDqyQ/",
+        "snippet": "... Porto Alegre e Canoas. Além disso temos centenas de aprovações em ... Material Didático Atualizado: Alinhado com as exigências e tendências atuais ...",
+        "date": "há 9 meses",
+        "position": 2
+      },
+      {
+        "title": "Liberato é destaque no Enem Confira na matéria ...",
+        "link": "https://www.instagram.com/p/DakfVm0FkjP/",
+        "snippet": "... COLEGIO LEONARDO DA VINCI-ALFA 43172423 198 5 COLEGIO MILITAR DE ... SISTEMA DE ENSINO COM MAIS ESCOLAS PARCEIRAS NO TOP 10* NACIONAL.",
+        "date": "há 2 semanas",
+        "position": 3
+      },
+      {
+        "title": "Colégio Leonardo da Vinci on Instagram: \"Quando ...",
+        "link": "https://www.instagram.com/reel/DaijlY-uNp2/",
+        "snippet": "Sistema de Ensino Anglo Colégio Anglo Parabeniza a aluna Helena que ... Porto Alegre, para conhecer de perto todo o caminho percorrido ...",
+        "date": "há 2 semanas",
+        "position": 4
+      },
+      {
+        "title": "Cristina Pires Corso",
+        "link": "https://www.escavador.com/sobre/3789700/cristina-pires-corso",
+        "snippet": "... Colégio Leonardo Da Vinci Alfa e professora do Ensino Fundamental- Anos Finais do Colégio Leonardo Da Vinci Beta, ambos em Porto Alegre-RS . ... Sistema de Ensino ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "29433002",
+  "NO_ENTIDADE": "COOPERATIVA EDUCACIONAL DE BARREIRAS",
+  "cidade": "Barreiras",
+  "query": "\"COOPERATIVA EDUCACIONAL DE BARREIRAS\" \"Barreiras\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COOPERATIVA EDUCACIONAL DE BARREIRAS\" \"Barreiras\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Cooperativas baianas bem ranqueadas no ENEM",
+        "link": "https://www.somoscooperativismo-ba.coop.br/noticias/cooperativas-baianas-bem-ranqueadas-no-enem",
+        "snippet": "Cooperativa Educacional de Barreiras - Coopeb (Barreiras) ... Sistema de Ensino, com base no padrão da prova oficial, favorecendo a ...",
+        "date": "31 de jul. de 2025",
+        "position": 1
+      },
+      {
+        "title": "Nilza da Silva Martins",
+        "link": "https://www.escavador.com/sobre/6999699/nilza-da-silva-martins",
+        "snippet": "(Desenvolvimento de material didático ou instrucional - Texto Didático). MARTINS ... Cooperativa Educacional de Barreiras. Vínculo: Celetista formal ...",
+        "position": 2
+      },
+      {
+        "title": "Prática Curricular em Pedagogia 2023 | PDF",
+        "link": "https://pt.scribd.com/document/964126325/Trabalho-de-Pratica-Curricular-Vanusa",
+        "snippet": "Recanto dos Pássaros, na cidade de Barreiras na Bahia. A Cooperativa Educacional de Barreiras (COOPEB) foi fundada em outubro ... Apostila Trigonometria ENEM. PDF.",
+        "position": 3
+      },
+      {
+        "title": "Para celebrar o Dia da Poesia, desenvolvemos uma atividade ...",
+        "link": "https://www.instagram.com/p/DWJYRpuJdxp/?__d=1openAi%E8%B4%A6%E5%8F%B7%E6%89%B9%E5%8F%91%E7%BD%91%2B-%2B%E5%9C%A8%E7%BA%BF%E8%B4%AD%E4%B9%B0%E8%87%AA%E5%8A%A8%E5%8F%91%E8%B4%A7%2Bueiue.com-%E5%BE%AE%E4%BF%A1%E5%B7%B2%E5%AE%9E%E5%90%8D3%E5%B9%B4%E7%A7%81%E4%BA%BA%E5%8F%B7%E5%9C%A8%E7%BA%BF%E8%B4%AD%E4%B9%B0%E6%89%B9%E5%8F%91",
+        "snippet": "Eu sou a professora Laislane Fernandes, também sou professora de literatura aqui na Cooperativa Educacional de Barreiras... English Transcript. Hi everyone ...",
+        "position": 4
+      },
+      {
+        "title": "Ufob - Jurisprudência",
+        "link": "https://www.jusbrasil.com.br/jurisprudencia/busca?q=ufob",
+        "snippet": "... Cooperativa Educacional de Barreiras ... 4. Além disso, durante a tramitação do presente feito, o impetrante juntou aos autos o termo de apostila ... Barreiras, da ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

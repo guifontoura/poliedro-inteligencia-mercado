@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "41129148",
+  "NO_ENTIDADE": "COLEGIO ERASTO GAERTNER",
+  "cidade": "Curitiba",
+  "query": "\"COLEGIO ERASTO GAERTNER\" \"Curitiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ERASTO GAERTNER\" \"Curitiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Erasto Gaertner – Saber, Amar e Transformar",
+        "link": "https://erasto.com.br/",
+        "snippet": "O Colégio Erasto é parceiro do Sistema de Ensino Bernoulli, Cambridge University Press, Mind Makers e Microsoft. ... O melhor colégio de Curitiba!",
+        "position": 1
+      },
+      {
+        "title": "No Colégio Erasto Gaertner, acreditamos que educar vai além ...",
+        "link": "https://www.instagram.com/reel/DV5-5Q_jpbq/",
+        "snippet": "Se você procura uma escola cristã em Curitiba que une excelência ... ESPAÇO DE SER TURMAS 1301 E 1303 GERALDO Apostila lanche saída ...",
+        "date": "há 4 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Erasto Gaertner | Guia de Matrículas",
+        "link": "https://especiais.gazetadopovo.com.br/guia-escolas-e-matriculas/escolas/colegio-erasto-gaertner/",
+        "snippet": "... material didático da geração Z. Ferramentas tecnológicas se transformam em ... Curitiba · Educação InfantilEnsino FundamentalEnsino MédioPré-vestibular ...",
+        "position": 3
+      },
+      {
+        "title": "Ensino Fundamental I",
+        "link": "https://erasto.com.br/ensinofundamental1/",
+        "snippet": "O material didático utilizado na escola é do sistema de ensino da Bernoulli. ... 81670-340 - Curitiba/PR. Facebook Instagram Youtube · PÁGINA INICIAL · NOSSA ...",
+        "position": 4
+      },
+      {
+        "title": "O Erasto está entre os 25 colégios de Curitiba com as ...",
+        "link": "https://www.instagram.com/p/DNBokKiPGil/",
+        "snippet": "COLÉGIO ERASTO GAERTNER está entre os 25 Colégios de Curitiba com melhores notas no ENEM COLÉGIO ERASTO GAERTNER DESDE 1936 BeeGo Cooltiva ...",
+        "date": "há 11 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

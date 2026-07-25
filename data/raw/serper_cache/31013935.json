@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31013935",
+  "NO_ENTIDADE": "COLEGIO BATISTA MINEIRO - UNIDADE BETIM",
+  "cidade": "Betim",
+  "query": "\"COLEGIO BATISTA MINEIRO - UNIDADE BETIM\" \"Betim\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BATISTA MINEIRO - UNIDADE BETIM\" \"Betim\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Batista Mineiro | ➕🟰Matemática além do quadro: ...",
+        "link": "https://www.instagram.com/reel/DYpYd-EFlCY/",
+        "snippet": "Colégio Batista Mineiro - Unidade Betim (Privada) IFMG - Campus ... ✔️ Material didático atualizado (Sistema Fibonacci) ✔️ ...",
+        "date": "há 2 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Batista Mineiro | 🖥️Jovens prontos para o futuro. Os ...",
+        "link": "https://www.instagram.com/reel/DZVjOUaMW0Q/",
+        "snippet": "Colégio Batista Mineiro - Unidade Betim (Privada) IFMG - Campus ... ✔️ Material didático atualizado (Sistema Fibonacci) ✔️ ...",
+        "position": 2
+      },
+      {
+        "title": "Tradição, afeto e princípios. Escolhi o @colegiobatista.mineiro ...",
+        "link": "https://www.instagram.com/reel/DQnChZWCSqg/",
+        "snippet": "Colégio Batista Mineiro - Unidade Betim (Privada) IFMG - Campus ... MATERIAL DIDÁTICO COM SISTEMA pitágoras 34 99145-0117 No ...",
+        "date": "há 8 meses",
+        "position": 3
+      },
+      {
+        "title": "AVSI Brasil on Instagram: \"As possibilidades de aprender com ...",
+        "link": "https://www.instagram.com/reel/DUTVyBpiqTb/",
+        "snippet": "Colégio Batista Mineiro - Unidade Betim (Privada) IFMG - Campus ... Nós o ano passado trouxemos o material didático do SESI que é o material mais ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "2026",
+        "link": "https://cee.educacao.mg.gov.br/index.php/legislacao/pareceres/category/97-2026?start=120",
+        "snippet": "Recredenciamento da entidade Sistema de Ensino Rocha Ferreira Ltda. - ... Colégio Batista Mineiro - Unidade Betim, de Ensino Fundamental e Ensino Médio, no.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "25115260",
+  "NO_ENTIDADE": "SECULO COLEGIO E CURSO",
+  "cidade": "João Pessoa",
+  "query": "\"SECULO COLEGIO E CURSO\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SECULO COLEGIO E CURSO\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas na Educação Infantil no Estados - João Pessoa",
+        "link": "https://querobolsa.com.br/escolas/etapa-de-ensino/educacao-infantil/joao-pessoa-pb/estados",
+        "snippet": "Seculo Colégio E Curso. 5.0(1). Bairro dos Estados - João Pessoa - PB. Bolsas a ... Sistema De Ensino Conviver. Sem avaliações. Bairro dos Estados - João ...",
+        "position": 1
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2507507-joao-pessoa/busca",
+        "snippet": "SISTEMA DE ENSINO EL SHADDAI. RUA RANGEL TRAVASSOS, 1151 - CASA. VARJAO. 58070120 João Pessoa - Paraíba. Rede privada / Urbana · SISTEMA DE ENSINO FUNDAMENTAL E ...",
+        "position": 2
+      },
+      {
+        "title": "Preço de mensalidades escolares tem variação de até 362 ...",
+        "link": "http://antigo.joaopessoa.pb.gov.br/preco-de-mensalidades-escolares-tem-variacao-de-ate-362-na-capital/",
+        "snippet": "... João Pessoa (Procon-JP) realizou, entre os dias 2 e 10 de dezembro ... Século Colégio e Curso (Bancários), Lourdinas (Avenida Epitácio ...",
+        "date": "12 de dez. de 2013",
+        "position": 3
+      },
+      {
+        "title": "Premiação Estadual de Alunos - Escolas Públicas ...",
+        "link": "https://premiacao.obmep.org.br/19obmep/verRelatorioPremiadosRegionalPorNivel-PB.2.privada.do.htm",
+        "snippet": "Nível 2. Nome, Escola, Tipo, Município, UF, Medalha Estadual. 1, DIEGO SILVEIRA RODRIGUES, CENTRO PESSOENSE DE EDUCACAO LTDA FILIAL, P, JOAO PESSOA, PB ...",
+        "position": 4
+      },
+      {
+        "title": "LISTA DAS ESCOLAS CONVIDADAS DA TURMA 11",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/ESCOLAS-TURMA-11.pdf",
+        "snippet": "Sistema de Ensino Physics. 15163830. 92511. Turma. 11. PA. Canaã dos Carajás ... Século Colegio e Curso. 25115260. 51003. Turma. 11. PB. João Pessoa. Sesc ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

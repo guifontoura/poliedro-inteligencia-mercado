@@ -1,0 +1,25 @@
+{
+  "codigo_escola": "35125490",
+  "NO_ENTIDADE": "LICEU TERRAS DO ENGENHO EDUCACAO INFANTIL ENSINO FUNDAMENTAL E MEDIO",
+  "cidade": "Piracicaba",
+  "query": "\"LICEU TERRAS DO ENGENHO EDUCACAO INFANTIL ENSINO FUNDAMENTAL E MEDIO\" \"Piracicaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LICEU TERRAS DO ENGENHO EDUCACAO INFANTIL ENSINO FUNDAMENTAL E MEDIO\" \"Piracicaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Formulário de interesse",
+        "link": "https://cad-fund1.colband.net.br/",
+        "snippet": "ANGLO SISTEMA DE ENSINO, ANGLOSCHOOL, ANGUELOS MONTESSORI ESCOLA, ANHANGUERA ... LICEU TERRAS DO ENGENHO - EDUCACAO INFANTIL ENSINO FUNDAMENTAL E MEDIO ...",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

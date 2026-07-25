@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "24089214",
+  "NO_ENTIDADE": "CENTRO DE EDUCACAO INTEGRADA S A - ROBERTO FREIRE",
+  "cidade": "Natal",
+  "query": "\"CENTRO DE EDUCACAO INTEGRADA S A - ROBERTO FREIRE\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO DE EDUCACAO INTEGRADA S A - ROBERTO FREIRE\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. AL. Maceió ouro. Ana Alexandra Brandão ... CENTRO DE EDUCACAO INTEGRADA S A - ROBERTO FREIRE. RN. Natal. OURO. SUANY ...",
+        "position": 1
+      },
+      {
+        "title": "oimsf 2025 premiação nacional - ouro",
+        "link": "https://www.matematicasemfronteiras.org/OIMSF_2025_Nacional_Ouro.pdf",
+        "snippet": "NATAL. CENTRO DE EDUCACAO INTEGRADA - CEI. 3 CEI² - POTÊNCIA MÁXIMA. RN. NATAL. CENTRO DE EDUCACAO INTEGRADA S A - ROBERTO FREIRE. 7. REBOUÇAS. RN. NATAL.",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Centro de Educacao Integrada S A - Roberto Freire - Natal - Capim Macio - Nota: 690.72. Colegio Simples - Mossoró - Doze Anos - Nota: 684.79.",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Medalhistas Quimeninas 2025 - 9º Ano | PDF",
+        "link": "https://pt.scribd.com/document/942349375/RESULTADO-FINAL-QUIMENINAS-9-ANO-2025",
+        "snippet": "ouro ANA VITORIA DOS SANTOS ACIOLI SISTEMA DE ENSINO ... certificado JULIANA RIBEIRO ORSI CENTRO DE EDUCACAO INTEGRADA S A - ROBERTO FREIRE RN Natal",
+        "position": 4
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 1° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DAA25DGW9E54FSE2QMDYT.pdf",
+        "snippet": "CENTRO DE EDUCACAO INTEGRADA S A - ROBERTO FREIRE. RN. Natal certificado ... SISTEMA DE ENSINO AUTHENTICO. PA. Belém certificado CLARYSSA BARROS DE FARIAS.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "51068931",
+  "NO_ENTIDADE": "ESCOLA AVANCE",
+  "cidade": "Tangará da Serra",
+  "query": "\"ESCOLA AVANCE\" \"Tangará da Serra\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA AVANCE\" \"Tangará da Serra\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Avance Colégio e Cursos (@avancecolegioecursos)",
+        "link": "https://www.instagram.com/avancecolegioecursos/",
+        "snippet": "NOVIDADE de 2026! O Colégio Avance tem um novo Sistema de Ensino, agora, somos COC! Parceria que fortalece sonhos, amplia aprendizados e constrói futuros! COC + ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-MT.1.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões · Apostilas do PIC ... ESCOLA AVANCE, P, TANGARA DA SERRA, MT, Sim. RAFAELA GNOATTO MULINARI, CENTRO DE ...",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as escolas com as maiores notas de ...",
+        "link": "https://ehfonte.com.br/ehnoticia/enem-2025-conheca-as-escolas-com-as-maiores-notas-de-mato-grosso/",
+        "snippet": "Farina Sistema de Ensino – Cuiabá – Areão – Nota: 668.92; Inst ... Escola Avance – Tangará da Serra – Jardim Cidade Alta – Nota: 648.85 ...",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "estoura-balões com brindes para novas matrículas! Venha ...",
+        "link": "https://www.instagram.com/p/DQppML6jtHW/",
+        "snippet": "... material didático do segundo semestre. E também o kit uniforme ... Com o sistema de ensino Sas, referência em aprovação nos maiores vestibulares ...",
+        "date": "há 8 meses",
+        "position": 4
+      },
+      {
+        "title": "Confira lista das 50 melhores escolas de MT, segundo o ...",
+        "link": "https://noticiaexata.com.br/educacao/confira-lista-das-50-melhores-escolas-de-mt-segundo-o-enem-duas-de-alta-floresta/",
+        "snippet": "Em seguida aparecem a Prina Pitt Escola (PPE), de Sinop, e o Farina Sistema de Ensino, também de Cuiabá. ... 47º Escola Avance Tangará da Serra ...",
+        "date": "16 de jul. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31128031",
+  "NO_ENTIDADE": "COLEGIO SETE DE SETEMBRO",
+  "cidade": "Poços de Caldas",
+  "query": "\"COLEGIO SETE DE SETEMBRO\" \"Poços de Caldas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SETE DE SETEMBRO\" \"Poços de Caldas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ensino-fundamental - Colégio Sete de Setembro",
+        "link": "https://www.colegiosetedesetembro.net.br/ensino/fundamental",
+        "snippet": "O material didático oferece suporte para todo o processo de aprendizagem ... Poços de Caldas-MG. Segunda a sexta-feira das 7h às 18:30h. (35) 3721-2000.",
+        "position": 1
+      },
+      {
+        "title": "Redação on Instagram: \"Ranking escolas Enem 2024 . Ps: o ...",
+        "link": "https://www.instagram.com/reel/DMAoC3ksfVh/",
+        "snippet": "... Poços de Caldas tão todas as escolas aqui, independente de ser ... Colégio Sete de Setembro que é o Coc, o Centro Educacional Poços ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Colégio Sete de Setembro é protagonista em Educação Financeira",
+        "link": "https://www.jornalmantiqueira.com.br/2025/02/06/colegio-sete-de-setembro-e-protagonista-em-educacao-financeira/",
+        "snippet": "A professora explica que a solução educacional ... apostila, jogos e reflexões. Em dois anos (2023 e ... Poços de Caldas, MG – A Fundação Jardim Botânico de Poços ...",
+        "position": 3
+      },
+      {
+        "title": "proposta-pedagogica - Colégio Sete de Setembro",
+        "link": "https://colegiosetedesetembro.net.br/pedagogico/proposta",
+        "snippet": "Colégio, Sete de Setembro, Poços da Caldas, Instituto, Educacional, São João da ... SISTEMA DE ENSINO. Somos uma plataforma de educação que, há 60 anos ...",
+        "position": 4
+      },
+      {
+        "title": "Nome do(a) aluno(a) Escola Modalidade Polo de aplicação",
+        "link": "https://omq.qui.ufmg.br/wp-content/uploads/2025/07/Participantes_OMQ_2025.pdf",
+        "snippet": "COLEGIO SETE DE SETEMBRO. A. Poços de Caldas. Amanda de Cassia. COLEGIO SETE DE ... SISTEMA DE ENSINO FOCO. B. Montes Claros. Página 95. Page 96. Nome do(a) ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

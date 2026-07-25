@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "29093627",
+  "NO_ENTIDADE": "COLEGIO PADRE OVIDIO",
+  "cidade": "Feira de Santana",
+  "query": "\"COLEGIO PADRE OVIDIO\" \"Feira de Santana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PADRE OVIDIO\" \"Feira de Santana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Manual do Estudante 2026.cdr",
+        "link": "https://padreovidio.com.br/pdf/manualdoestudante/manual_do_estudante_2026.pdf",
+        "snippet": "O aprendizado é um ato dinâmico e contínuo; e, para contribuir com esse processo, adotamos material didático pedagógico que serve de suporte para a ...",
+        "position": 1
+      },
+      {
+        "title": "FTD Sistema de Ensino em Feira de Santana",
+        "link": "https://www.facebook.com/media/set/?set=a.395628687166777.96348.379020445494268&type=3",
+        "snippet": "No dia 21 de julho, o FTD Sistema de Ensino marcou presença na II Feira das Profissões do Colégio Padre Ovídio, em Feira de Santana, na Bahia.",
+        "position": 2
+      },
+      {
+        "title": "Colégio Padre Ovídio (@colegiopadreovidio)",
+        "link": "https://www.instagram.com/colegiopadreovidio/",
+        "snippet": "Em mais uma ação do Projeto Didático \"Feira de Santana e seus Encantos\" que ...",
+        "position": 3
+      },
+      {
+        "title": "O Projeto Literário do CATINHO foi um sucesso! Unimos ...",
+        "link": "https://www.instagram.com/reel/DZFL8ZDhP7K/",
+        "snippet": "Olá gente, eu sou Cezinha dos Olhos d'Água, cantor, compositor aqui de Feira de Santana. ... No Sistema de Ensino Integral (SEI), cada ...",
+        "position": 4
+      },
+      {
+        "title": "edital de matrícula / 2026",
+        "link": "https://www.padreovidio.com.br/informes/2026/edital_de_matricula_2026_com_contrato.pdf",
+        "snippet": "Sistema de Ensino FTD: módulos – Gramática, Programa Bilíngue, Projeto de ... Feira de Santana, 04 de dezembro de 2025. Ana Marta Medeiros de ...",
+        "date": "6 de dez. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

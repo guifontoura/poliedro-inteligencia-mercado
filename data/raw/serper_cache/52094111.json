@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "52094111",
+  "NO_ENTIDADE": "COLEGIO DELOS LTDA",
+  "cidade": "Aparecida de Goiânia",
+  "query": "\"COLEGIO DELOS LTDA\" \"Aparecida de Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DELOS LTDA\" \"Aparecida de Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "escola e bercario caminho das letras ltda - SINTEGRA Brasil",
+        "link": "https://www.sintegrabrasil.com.br/cnpj/03412943000110",
+        "snippet": "RUA RECIFE, nº S/N, QUADRA28 LOTE 14, PARQUE DAS NACOES, Aparecida de Goiânia / GO, 74938-030 ... COLEGIO DELOS LTDA, —. ESCOLA CANTINHO DOS SONHOS LTDA ...",
+        "position": 1
+      },
+      {
+        "title": "Baixar",
+        "link": "https://dadosabertos.go.gov.br/dataset/773b17ff-757c-4e71-bc3b-7f1c8cd4dbeb/resource/f649807d-b91e-44b0-bab6-573833e6c9d3/download/7.matriculas_por_etapa_seduc_2025.csv",
+        "snippet": "... Aparecida de Goiânia;Aparecida de Goiânia;52030555;CENTRO EDUCACIONAL MUNDO ... SISTEMA DE ENSINO MILENIO;Privada;Urbana;183;0;0;70;113;0;0;; 2013;CRE ...",
+        "position": 2
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... COLEGIO DELOS LTDA. 52094111 GO. Aparecida de Goiânia. ALVARO PIETRO OLIVEIRA ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 3
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/27/PREMIA%C3%87%C3%83O%201%C2%BA%20ANO%20EM%20NIVEL%20B%202019.pdf",
+        "snippet": "COLEGIO DELOS LTDA. GOIÁS. Aparecida de Goiânia. Page 2. PEDRO VÍTOR SARTORI ... ZETA SISTEMA DE ENSINO DE BIRIGUI. SÃO PAULO. Birigui. Luã do Carmo Ribeiro.",
+        "position": 4
+      },
+      {
+        "title": "Desempenho de Alunos do Ensino Médio | PDF | Faculdade",
+        "link": "https://pt.scribd.com/document/897959944/OBB-Alunos-Fase-2-Geral",
+        "snippet": "... COLEGIO DELOS LTDA 52094111 GO Aparecida de Goiânia ALVARO PIETRO OLIVEIRA ... SISTEMA DE ENSINO 35159013 SP Rio Claro ANA CLARA ALVES DE OLIVEIRA 3º ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

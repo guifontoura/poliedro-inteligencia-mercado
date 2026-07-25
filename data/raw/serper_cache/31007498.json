@@ -1,0 +1,55 @@
+{
+  "codigo_escola": "31007498",
+  "NO_ENTIDADE": "COLEGIO FRANCISCANO CORACAO DE MARIA",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO FRANCISCANO CORACAO DE MARIA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO FRANCISCANO CORACAO DE MARIA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Franciscano Coração de Maria",
+        "link": "https://www.instagram.com/p/DQMWCxzjZX6/",
+        "snippet": "de Belo Horizonte é integral, preparando para a vida com propósito ... Sistema de Ensino. Join Colégio Franciscano Coração de Maria ...",
+        "date": "há 9 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Franciscano Coração De Maria - - Unidade ...",
+        "link": "https://querobolsa.com.br/escolas/colegio-franciscano-coracao-de-maria-698a01b7-d2cd-4549-8047-607fb7f4475e",
+        "snippet": "Desde 1967, o Colégio Franciscano Coração de Maria tem construído uma trajetória de educação marcada pela fé e pela ciência em Belo Horizonte, ...",
+        "date": "30 de jul. de 2024",
+        "rating": 4.3,
+        "ratingCount": 11,
+        "position": 2
+      },
+      {
+        "title": "Colégio Franciscano Coração De Maria - - Unidade ...",
+        "link": "https://www.melhorescola.com.br/escola/colegio-franciscano-coracao-de-maria-belo-horizonte",
+        "snippet": "Garanta sua bolsa de estudos em Colégio Franciscano Coração De Maria - - Unidade Candelária, Belo Horizonte - MG ... Sistema de ensino. SM Educação. O ...",
+        "position": 3
+      },
+      {
+        "title": "CERM on Instagram: \"Na ONU Experience CERM, os alunos ...",
+        "link": "https://www.instagram.com/reel/DXWyLkhjRHm/",
+        "snippet": "... material didático de EXCELÊNCIA ... Belo Horizonte - 17 de junho de 2026 - CFCM Verdália - Prosperidade com justiça e sustentabilidade ...",
+        "date": "há 3 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Franciscano Coração de Maria",
+        "link": "https://www.instagram.com/p/DT-YvEOmLpi/",
+        "snippet": "No Colégio São Luís Gonzaga, no bairro Sagrada Família, em Belo Horizonte ... SISTEMA DE ENSINO VENHA ESTUDAR NO RESSU UBERLÂNDIA! (34) 3236-8978 ...",
+        "date": "há 5 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

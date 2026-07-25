@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "22310762",
+  "NO_ENTIDADE": "CEV COLEGIO",
+  "cidade": "Teresina",
+  "query": "\"CEV COLEGIO\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CEV COLEGIO\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "20 anos de uma educação que transforma | G1 - Globo.com",
+        "link": "https://g1.globo.com/pi/piaui/especial-publicitario/cev-colegio/noticia/2023/05/08/20-anos-de-uma-educacao-que-transforma.ghtml",
+        "snippet": "... sistema de ensino. Para contar ... Já em 2019, houve a fundação da terceira unidade do CEV Colégio, localizada na zona Sul de Teresina.",
+        "date": "8 de mai. de 2023",
+        "position": 1
+      },
+      {
+        "title": "CEV Colégio Unidade 01 em Teresina | PDF | Business",
+        "link": "https://pt.scribd.com/document/840246698/1",
+        "snippet": "CEV Colégio Unidade 01 em Teresina. O CEV Colégio - Unidade 01 é uma ... Apostila CPA-20 Sicoob. PDF. 100% (2). Apostila CPA-20 Sicoob. 98 páginas.",
+        "position": 2
+      },
+      {
+        "title": "Nossos alunos marcaram presença no ENEM ON FIRE em ...",
+        "link": "https://www.instagram.com/reel/DQ-p8T2EWiY/",
+        "snippet": "... Teresina, no ENEM. Mais que uma posição no ranking, é uma conquista ... CEV Colégio conquistou a 3ª colocação estadual no ENEM ...",
+        "date": "há 8 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Inove divulga nota oficial após repercussão do ...",
+        "link": "https://www.instagram.com/p/DT6BwP1DzAN/",
+        "snippet": "... Teresina. O Colégio Inove, localizado em Teresina, divulgou neste ... CEV Colégio conquistou a 3ª colocação estadual no ENEM ...",
+        "date": "há 6 meses",
+        "position": 4
+      },
+      {
+        "title": "Colônia de Férias MAKER - 2° Edição - CEV Colégio",
+        "link": "https://beta.sympla.com.br/evento/colonia-de-ferias-maker-2-edicao-cev-colegio/747606",
+        "snippet": "Compre ingressos para Colônia de Férias MAKER - 2° Edição - CEV Colégio em Teresina dia 13 ... material didático grátis e ainda certificado de aprendiz maker.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

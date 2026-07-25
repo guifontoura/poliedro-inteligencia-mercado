@@ -1,0 +1,25 @@
+{
+  "codigo_escola": "35172625",
+  "NO_ENTIDADE": "CEI - COLEGIO DE EDUCACAO INTEGRAL",
+  "cidade": "Franca",
+  "query": "\"CEI - COLEGIO DE EDUCACAO INTEGRAL\" \"Franca\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CEI - COLEGIO DE EDUCACAO INTEGRAL\" \"Franca\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Franca",
+        "link": "https://qedu.org.br/municipio/3516200-franca/busca",
+        "snippet": "CEI - COLEGIO DE EDUCACAO INTEGRAL. CAMPOS SALLES, 1289 - RUA. CENTRO ... NOVO COLEGIO SISTEMA DE ENSINO DE FRANCA LTDA. FRANCISCO PESCE, 310 - RUA ...",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

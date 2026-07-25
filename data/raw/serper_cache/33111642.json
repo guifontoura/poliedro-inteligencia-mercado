@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "33111642",
+  "NO_ENTIDADE": "COLEGIO SANTA MONICA - TAQUARA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO SANTA MONICA - TAQUARA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA MONICA - TAQUARA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Santa Mônica - Taquara on Instagram: \"A excelência ...",
+        "link": "https://www.instagram.com/reel/DaQdlciAYmU/",
+        "snippet": "Ilha do Governador – Rio de Janeiro Informações e Matrículas ... Nosso material didático passará a incorporar conteúdos de IA em ...",
+        "date": "há 3 semanas",
+        "position": 1
+      },
+      {
+        "title": "📢 Atenção, pais e alunos! Os livros didáticos já chegaram ...",
+        "link": "https://www.instagram.com/p/DTk5l47jCV-/",
+        "snippet": "... apostila exclusiva, desenvolvida para ser utilizada durante todo o semestre. Como funcionará? A apostila será adquirida pelos pais e ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Santa Mônica - Jacarepaguá | Rio de Janeiro RJ",
+        "link": "https://www.facebook.com/colsantamonica1937/?locale=sv_SE",
+        "snippet": "Essa atividade faz parte do conteúdo de instrumentos ópticos do material didático. ✅️ Com uma caixa de papelão, cartolina e uma lente de lupa, foi ...",
+        "position": 3
+      },
+      {
+        "title": "Sonhos que se tornaram conquistas! Nossos resultados são a ...",
+        "link": "https://www.instagram.com/reel/DYmpOBeClOX/",
+        "snippet": "... Sistema de Ensino que é referência em aprovação @sistemadeensinoph",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "As escolas com ensino integral no Rio; veja lista",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/07/24/as-escolas-com-ensino-integral-no-rio-veja-lista.ghtml",
+        "snippet": "Colégio Santa Mônica (Taquara); Colégio Sagrado Coração de Maria ... sistema de ensino. Há ainda o detalhamento sobre quais atividades ...",
+        "date": "há 16 horas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

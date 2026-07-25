@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35125726",
+  "NO_ENTIDADE": "PERSPECTIVA ESCOLA",
+  "cidade": "São Paulo",
+  "query": "\"PERSPECTIVA ESCOLA\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PERSPECTIVA ESCOLA\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Excelência no ENEM (@escolaperspectiva) · São Paulo, SP",
+        "link": "https://www.instagram.com/escolaperspectiva/",
+        "snippet": "43º lugar na cidade de São Paulo. 1º lugar em toda a nossa região! Mais um ano, a ...",
+        "position": 1
+      },
+      {
+        "title": "Educação: Políticas, Estrutura e Organização - Portal eduCapes",
+        "link": "https://educapes.capes.gov.br/bitstream/capes/432787/1/E-book-Educacao-Politicas-Estrutura-e-Organizacao-1.pdf",
+        "snippet": "realizado na cidade de São Paulo, de 21 a 27 de abril, no ano de 1941. Nosso ... no sistema de ensino, quanto respeitadas em suas particularidades.",
+        "position": 2
+      },
+      {
+        "title": "Aulas de Arte do Professor Luciano com os temas",
+        "link": "https://www.instagram.com/reel/DWUnLgwEalO/",
+        "snippet": "São Paulo, Brazil ... #TurmaL #Artes #Perspectiva #Escola #ArteComAProfFranciane ... #professoradeartes #pegagogia #preescola #artesvisuais · View all 273 comments.",
+        "position": 3
+      },
+      {
+        "title": "Documento Norteador Educação e Ação Pedagógica",
+        "link": "https://media.apaebrasil.org.br/Documento-Norteador-Educac-a-o-e-Ac-a-o-Pedago-gica.pdf",
+        "snippet": "A Rede Apae defende a escola especial para acolher a diversidade, inserida no sistema de ensino. ... Universidade de São Paulo, São Paulo. AMERICAN ASSOCIATION ON ...",
+        "position": 4
+      },
+      {
+        "title": "o lugar dos pais-professores Participação das famílias na ...",
+        "link": "https://www.scielo.br/j/er/a/H6xhvcxMxdsYFPL7wPjQkmF/",
+        "snippet": "de G Alcantara · 2025 · Citado por 4 — ... sistema de ensino, mas para a sociedade como um todo, contribuindo para ... Nessa perspectiva, escola e família não podem ser tomadas em abstrato ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

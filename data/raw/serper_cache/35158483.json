@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35158483",
+  "NO_ENTIDADE": "STOCKLER COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"STOCKLER COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"STOCKLER COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Stockler | Bolsas de Estudo em São Paulo - SP",
+        "link": "https://www.melhorescola.com.br/escola/stockler-colegio",
+        "snippet": "Início: 19.08.2013 Horário: Das 16h às 19h10 Duração: 12 semanas Carga horária total: 200 aulas Material didático: 2 apostilas contendo teoria e exercícios de ...",
+        "position": 1
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... São Paulo. SP. 743,2. 803,2. 713,0. 733,0. 675,0. 852,0. 3 COLEGIO BERNOULLI Belo ... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9.",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.1.privada.do.htm",
+        "snippet": "RIO CLARO SISTEMA DE ENSINO, P, RIO CLARO, SP, Sim. ANDRE HENRIQUE ALMEIDA GIANETTI DE SOUZA, ARQUIDIOCESANO DE SAO PAULO COLEGIO MARISTA ... STOCKLER COLEGIO, P ...",
+        "position": 3
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "STOCKLER COLEGIO 69 São Paulo SP ESCOLA DA VILA UNIDADE MORUMBI 58 São Paulo ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 4
+      },
+      {
+        "title": "Ivan Paganotti",
+        "link": "https://www.escavador.com/sobre/427507/ivan-paganotti",
+        "snippet": "Problemas Brasileiros (São Paulo), São Paulo, p. 34 - 37, 01 set. 2005 ... (Desenvolvimento de material didático ou instrucional - Material didático para curso ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "42000238",
+  "NO_ENTIDADE": "COLEGIO BOM JESUS CORACAO DE JESUS",
+  "cidade": "Florianópolis",
+  "query": "\"COLEGIO BOM JESUS CORACAO DE JESUS\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BOM JESUS CORACAO DE JESUS\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Bom Jesus Coração De Jesus",
+        "link": "https://querobolsa.com.br/escolas/colegio-bom-jesus-coracao-de-jesus",
+        "snippet": "4.0 Muito bom. Ótima estrutura. Material didático de alta qualidade. Fique ... Santo Antnio de Lisboa - Florianópolis - SC. Bolsas a partir de: R$ 603,55.",
+        "rating": 4.1,
+        "ratingCount": 3,
+        "position": 1
+      },
+      {
+        "title": "Colégio Bom Jesus Coração De Jesus | Bolsas de Estudo ...",
+        "link": "https://www.melhorescola.com.br/escola/colegio-bom-jesus-coracao-de-jesus",
+        "snippet": "Garanta sua bolsa de estudos em Colégio Bom Jesus Coração De Jesus, Florianópolis - SC ... 4.0 Muito bom. Ótima estrutura. Material didático de alta qualidade.",
+        "position": 2
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... Florianópolis. Aline Leite de Moraes Pilotto. 2º ano - Ensino Médio. 13. 22 ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ano ...",
+        "position": 3
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. AL. Maceió ouro. Ana Alexandra ... COLEGIO BOM JESUS CORACAO DE JESUS. SC. Florianópolis. Certficado MARIA EDUARDA ...",
+        "position": 4
+      },
+      {
+        "title": "Petição inicial infantil | PDF",
+        "link": "https://pt.slideshare.net/slideshow/petio-inicial-infantil/234604521",
+        "snippet": "... Florianópolis/SC - Telefone: (48) 3330-2129 Capital29PJ@mpsc.mp.br 1-47 ... SISTEMA DE ENSINO ENERGIA LTDA (CENTRO DE EDUCAÇÃO INFANTIL ENERGIA) ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "42133114",
+  "NO_ENTIDADE": "COLEGIO DA LAGOA",
+  "cidade": "Florianópolis",
+  "query": "\"COLEGIO DA LAGOA\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DA LAGOA\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio da Lagoa – O Colegio da Lagoa é uma escola ...",
+        "link": "https://colegiodalagoa.com.br/",
+        "snippet": "Material Didático Colegio da Lagoa Florianopolis Sistema Anglo de Ensino Sala de Aula Virtual ... Rua Hyppólito do Valle Pereira 121, Lagoa da Conceição – ...",
+        "position": 1
+      },
+      {
+        "title": "No próximo sábado, dia 08 de novembro, das 9h às 12h, a ...",
+        "link": "https://www.instagram.com/reel/DQuzvjmidPW/",
+        "snippet": "... Florianópolis # ... Livro: Moby Dick Colégio Educare SISTEMA DE ENSINO anglo Trabalho do livro Moby Dick assustadora LEO 7A.",
+        "date": "há 8 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Da Lagoa Florianópolis",
+        "link": "https://www.instagram.com/popular/col%C3%A9gio-da-lagoa-florian%C3%B3polis/",
+        "snippet": "Colégio Da Lagoa Florianópolis · Aula de Artes com a turma do 5º ano: Releitura artística recriando imagens por meio · A turma do 3º ano está desenvolvendo o ...",
+        "position": 3
+      },
+      {
+        "title": "Honan Esteves - Professor de Matemática / Autor de ...",
+        "subtitle": "Ribeirão Preto, São Paulo, Brasil · Professor de matemática · Liceu Contemporâneo",
+        "link": "https://br.linkedin.com/in/honan-esteves-514a5a43",
+        "snippet": "Professor e autor de material didático de Matemática para o Ensino ... Gráfico Colegio Da Lagoa. Professor de matemática. Colegio Da Lagoa. nov. de ...",
+        "position": 4
+      },
+      {
+        "title": "Nosso espaço é lindo, com vocês alunos ele se torna incrível ...",
+        "link": "https://www.instagram.com/reel/DRNofoqgf-O/",
+        "snippet": "Os alunos do 2º ano do Ensino Médio participaram de uma viagem de estudos a Florianópolis como parte do projeto “Valorização da história e ...",
+        "date": "há 8 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

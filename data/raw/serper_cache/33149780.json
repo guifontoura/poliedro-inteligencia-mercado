@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "33149780",
+  "NO_ENTIDADE": "SISTEMA ELITE DE ENSINO",
+  "cidade": "Rio de Janeiro",
+  "query": "\"SISTEMA ELITE DE ENSINO\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SISTEMA ELITE DE ENSINO\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Sistema Elite de Ensino S.A.",
+        "link": "https://docs.publicnow.com/viewDoc.aspx?filename=188131%5CEXT%5C293B3DE38595927A293245DEA5B50543A2034CBD_A683A83F7D294A65DE776667ADD7211C42F78674.PDF",
+        "snippet": "com sede na cidade do Rio de Janeiro, Rio de Janeiro, Brasil. A ... (1) Valores a receber decorrentes das vendas de material didático ...",
+        "date": "31 de dez. de 2024",
+        "position": 1
+      },
+      {
+        "title": "Caso Sistema Elite de Ensino \"Não há caminh",
+        "link": "https://arquivo.anpad.org.br/diversos/down_zips/45/EPQ3215.pdf",
+        "snippet": "como Recife, Rio de Janeiro e Belém. O intuito era compartilhar procedimentos ... material didático elaborado em conjunto, para ser adotado por toda a ...",
+        "position": 2
+      },
+      {
+        "title": "Imagina colocar no mesmo palco gente que faz escola ...",
+        "link": "https://www.instagram.com/reel/DSABYIujuyh/",
+        "snippet": "... Sistema Elite de Ensino, do ProEnem, do ProMedicina e do ProMilitares, além de atuação importante no ProRaiz Sistema de Ensino ... RIO DE JANEIRO ...",
+        "date": "há 7 meses",
+        "position": 3
+      },
+      {
+        "title": "apostila de provas colégio militar elite",
+        "link": "https://www.enjoei.com.br/p/apostila-de-provas-colegio-militar-elite-145725636?rsid=3d49f271-db3d-42d5-a041-e969027e250f-1782950400317&rsp=1&rspix=4&srsltid=AfmBOoqv0FH9xJ2Zc0j8UINzpL2w_I8Q6mmRBT0KD4uV3FouMsvQYsW1",
+        "snippet": "Compre Sistema Elite De Ensino Usado no enjoei apostila de provas do colégio militar, sistema elite de ... Código: 145725636.",
+        "position": 4
+      },
+      {
+        "title": "Estratégia de crescimento no mercado brasileiro de cursos pré ...",
+        "link": "https://www.researchgate.net/publication/262658683_Estrategia_de_crescimento_no_mercado_brasileiro_de_cursos_pre-vestibular_caso_Sistema_Elite_de_Ensino",
+        "snippet": "Estratégia de crescimento no mercado brasileiro de cursos pré-vestibular: caso Sistema Elite de Ensino ... Rio de Janeiro, RJ, Brasil. Cristiane Pizzutti ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

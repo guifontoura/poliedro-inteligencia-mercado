@@ -1,0 +1,38 @@
+{
+  "codigo_escola": "52033090",
+  "NO_ENTIDADE": "COLEGIO SHALLON - UNIDADE I",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO SHALLON - UNIDADE I\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SHALLON - UNIDADE I\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/5208707-goiania/busca",
+        "snippet": "SISTEMA DE ENSINO MILENIO. AVENIDA 24 DE OUTUBRO, 3110 AEROVIARIO. 74435-090 Goiânia - GO. Rede privada / Urbana · SISTEMA DE ENSINO VITORIA ESCOLA OFICINA DE ...",
+        "position": 1
+      },
+      {
+        "title": "Resultado Enem Goiânia: escolas com melhores e piores ...",
+        "link": "https://blogdoenem.com.br/resultado-enem-goiania/",
+        "snippet": "Resultado Enem 2019 em Goiânia ; 39 · 40 · 41 ; COLEGIO SHALLON – UNIDADE I · INSTITUTO PRESBITERIANO DE EDUCACAO · COLEGIO UNUS ; 552.62 · 552.42.",
+        "date": "26 de nov. de 2013",
+        "position": 2
+      },
+      {
+        "title": "Escolas no município de Goiânia - GO",
+        "link": "https://www.cidadesdomeubrasil.com.br/go/goiania/escolas",
+        "snippet": "74820-060 Goiânia - GO. (62) 32419540, Privada, Educação Infantil, Ensino Fundamental. COLEGIO SHALLON - UNIDADE I, RUA FORTALEZA, 261 SETOR URIAS MAGALHAES ...",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

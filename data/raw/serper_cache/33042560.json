@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "33042560",
+  "NO_ENTIDADE": "COL NS DO CARMO",
+  "cidade": "Teresópolis",
+  "query": "\"COL NS DO CARMO\" \"Teresópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL NS DO CARMO\" \"Teresópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... Teresópolis. RJ. 642,2. 736,7. 656,0. 611,0. 604,0. 699,0. Page 18. Posição ...",
+        "position": 1
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/27/PREMIA%C3%87%C3%83O%201%C2%BA%20ANO%20EM%20NIVEL%20B%202019.pdf",
+        "snippet": "ZETA SISTEMA DE ENSINO DE BIRIGUI. SÃO PAULO. Birigui. Luã do Carmo Ribeiro ... COL NS DO CARMO. RIO DE JANEIRO. Teresópolis. Bruna Santiago Guimaraes.",
+        "position": 2
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-HORIZONTAL.pdf",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE. PA. Belém. Privada. Urbana. 306. Maior que. 90 alunos. 303 ... Teresópolis. Privada. Urbana. 73. De 61 a. 90 alunos. 72. 98.63. 0. 80% ...",
+        "position": 3
+      },
+      {
+        "title": "Ranking de Desempenho Escolar 2023 | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/449257234/Enem2016-ranking-geral-Objetiva-pdf",
+        "snippet": "1599 COL NS DO CARMO Teresópolis RJ 592,9 667,1 617,0 554,0 592,0 610,0 ... SISTEMA DE ENSINO Canaã dos 3922 EQUIPE LTDA - EPP Carajás PA 556,1 651,5 ...",
+        "position": 4
+      },
+      {
+        "title": "Programa Nacional Olimpíadas de Química ...",
+        "link": "https://educacional.sesc-am.com.br/wp-content/uploads/2020/09/classificados_obqjr_2020_1.pdf",
+        "snippet": "... Sistema De Ensino Equipe Cristal. 8° ano. PARÁ. Belém. Gabriel Santiago Silva ... Teresópolis. Natalia Abud Felix Da Silva. Col Sao Paulo. 9° ano. RIO DE ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

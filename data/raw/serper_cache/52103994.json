@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "52103994",
+  "NO_ENTIDADE": "COLEGIO SELECTUS LTDA",
+  "cidade": "Águas Lindas de Goiás",
+  "query": "\"COLEGIO SELECTUS LTDA\" \"Águas Lindas de Goiás\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SELECTUS LTDA\" \"Águas Lindas de Goiás\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Selectus",
+        "link": "https://www.colegioselectus.com.br/",
+        "snippet": "O Colégio Selectus possui mais de 10 anos de atuação em Águas Lindas de Goiás e é conhecido por sua disciplina, respeito à hierarquia educacional e ética.",
+        "position": 1
+      },
+      {
+        "title": "Colégio Selectus (@colegioselectus)",
+        "link": "https://www.instagram.com/colegioselectus/",
+        "snippet": "São vários cursos na modalidade a distância. Entre no ead.catolica.edu.br e procure o nosso Polo Águas Lindas - Wpp 99106-7805 ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio Selectus | Águas Lindas de Goiás GO",
+        "link": "https://www.facebook.com/colegioselectus/?locale=pt_BR",
+        "snippet": ". Recomendado por 96% (60 avaliações) ; . Abre daqui a pouco ; . R. 42, 106-142 - Chácaras Quedas do Descoberto, Águas Lindas de Goiás - GO, 72910-000, Águas ...",
+        "rating": 4.8,
+        "ratingCount": 66,
+        "position": 3
+      },
+      {
+        "title": "Bolsas de Estudo Colégio Selectus - Unidade II",
+        "link": "https://www.educamaisbrasil.com.br/escolas/colegio-selectus-unidade-ii-aguas-lindas-de-goias",
+        "snippet": "A proposta pedagógica do Colégio Selectus Unid II, localizado em Águas Lindas de Goiás, destaca-se pelo compromisso com uma educação inovadora e significativa, ...",
+        "rating": 5,
+        "ratingCount": 8,
+        "position": 4
+      },
+      {
+        "title": "Sucesso Sistema de Ensino",
+        "link": "https://www.sistemadeensinosucesso.com.br/",
+        "snippet": "Institucional · Catálogo · Contato · Área do professor · Área do aluno · Área do Gestor. ‹ › MULTI MARCAS EDITORIAIS LTDA. | CNPJ- 00.726.498 / 0001-74.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

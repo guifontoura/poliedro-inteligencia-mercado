@@ -1,0 +1,31 @@
+{
+  "codigo_escola": "43216870",
+  "NO_ENTIDADE": "COLEGIO TOTEM SANTA MARIA",
+  "cidade": "Santa Maria",
+  "query": "\"COLEGIO TOTEM SANTA MARIA\" \"Santa Maria\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO TOTEM SANTA MARIA\" \"Santa Maria\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Empresas de Ensino médio em Rio Grande do Sul (RS)",
+        "link": "https://cnpjgo.com.br/empresas/rs/8520100",
+        "snippet": "KYRIOS SISTEMA DE ENSINO LTDA. Ativa. 25.329.138/0001-60. RIO GRANDE, RS ... COLEGIO TOTEM SANTA MARIA LTDA. Ativa. COLEGIO TOTEM SANTA MARIA. 48.699.630 ...",
+        "position": 1
+      },
+      {
+        "title": "RESULTADO DA OBQ - 2023 MODALIDADES A e B",
+        "link": "https://ceara.obquimica.org/storage/files/resultado-da-obq-fase-iii.pdf",
+        "snippet": "RIO CLARO SISTEMA DE ENSINO. SÃO PAULO. ERICK KIM TOYOSHIMA. OBQjr ... COLEGIO TOTEM SANTA MARIA. RIO GRANDE DO SUL. MARIA LUÍZA KAISER ZIMMER. 2a ...",
+        "position": 2
+      }
+    ],
+    "credits": 1
+  }
+}

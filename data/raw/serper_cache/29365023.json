@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "29365023",
+  "NO_ENTIDADE": "COLEGIO OFICINA",
+  "cidade": "Salvador",
+  "query": "\"COLEGIO OFICINA\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO OFICINA\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Comunicação - Colégio Oficina, Author at ...",
+        "link": "https://colegiooficina.com.br/author/juliana/",
+        "snippet": "Poliedro: mais que um sistema de ensino, uma grande parceria pedagógica. Ser ... Salvador, março de 2019 Prezadas Famílias, A 13ª Gincana do Colégio ...",
+        "position": 1
+      },
+      {
+        "title": "O Colégio Oficina alcançou o 4º lugar em Salvador e o 6º ...",
+        "link": "https://www.instagram.com/p/DaoO2KTR3cL/",
+        "snippet": "COLÉGIO OFICINA – SALVADOR (PITUBA) – NOTA: 696,47 7. CENTRO ... Sistema de Ensino. oficinavcoficial's profile picture · oficinavcoficial.",
+        "date": "há 2 semanas",
+        "position": 2
+      },
+      {
+        "title": "Volta às aulas + 1º lugar da Bahia no Enem = a combinação ...",
+        "link": "https://www.instagram.com/reel/DaoE4JGOYSl/",
+        "snippet": "... Sistema de Ensino: metodologia testada na prática, dentro de casa ... O Colégio Oficina alcançou o 4º lugar em Salvador e o 6º lugar na ...",
+        "date": "há 2 semanas",
+        "position": 3
+      },
+      {
+        "title": "Colégio Oficina on Instagram: \"♥️O SEGUNDO SEMESTRE ...",
+        "link": "https://www.instagram.com/reel/DarBCbWILzz/",
+        "snippet": "Com o Sistema de Ensino Objetivo, trabalhamos uma aprendizagem ... O Colégio Oficina alcançou o 4º lugar em Salvador e o 6º lugar na ...",
+        "date": "há 1 semana",
+        "position": 4
+      },
+      {
+        "title": "Como escolher a melhor escola para seu filho?",
+        "link": "https://www.tiktok.com/@salvatore.saggio/video/7506986548231998776",
+        "snippet": "(Lembrando que metodologia é diferente de sistema de ensino e material didático). * ** ... Salvador, estrutura escolar modernizada Salvador ...",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

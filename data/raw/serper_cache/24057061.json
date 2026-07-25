@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "24057061",
+  "NO_ENTIDADE": "COLEGIO EXECUTIVO LTDA",
+  "cidade": "Natal",
+  "query": "\"COLEGIO EXECUTIVO LTDA\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO EXECUTIVO LTDA\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colegio Executivo Ltda | Bolsas de Estudo em Natal - RN",
+        "link": "https://www.melhorescola.com.br/escola/colegio-executivo-ltda",
+        "snippet": "Garanta sua bolsa de estudos em Colegio Executivo Ltda, Natal - RN ... Logo - Sistema De Ensino Recriar. Sistema De Ensino Recriar. Sem avaliações.",
+        "position": 1
+      },
+      {
+        "title": "Colegio Executivo Ltda - Descontos, Preço das ...",
+        "link": "https://querobolsa.com.br/escolas/240044-colegio-executivo",
+        "snippet": "Conheça informações completas sobre o Colegio Executivo Ltda, localizada na. Rua Praia De Jacuma, 09016 - Ponta Negra, Natal - RN ...",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Colégio Executivo Ltda - 652,45 - Natal (Rio Grande do Norte) - Particular - 92%. Sergipe. Centro de Excelência Master - 699,66 - Aracaju ...",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Participantes - SEEC/SEL-CODESP",
+        "link": "http://codesp.sel.rn.gov.br/participante.asp?JO=Jer",
+        "snippet": "Participantes ; COLEGIO ENCANTO UNIDADE I, Natal, 34 ; COLEGIO EQUIPE, Macaíba, 1 ; COLEGIO EXECUTIVO LTDA, Natal, 1 ; COLEGIO EXITO, Natal, 10.",
+        "position": 4
+      },
+      {
+        "title": "Apesar de novo piso, salário de professor continua baixo",
+        "link": "https://exame.com/brasil/apesar-de-novo-piso-salario-de-professor-continua-baixo/",
+        "snippet": "SISTEMA DE ENSINO MESON PI, 551,33, 653,47. 30º, PARAUAPEBAS, Privada ... NATAL - ZONA NORTE, 581,95, 639,71. 16º, CAICO, Privada, COLEGIO ...",
+        "date": "7 de jan. de 2015",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

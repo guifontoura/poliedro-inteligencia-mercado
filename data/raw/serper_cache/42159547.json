@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "42159547",
+  "NO_ENTIDADE": "CURSO E COLEGIO INTEGRAL",
+  "cidade": "Itajaí",
+  "query": "\"CURSO E COLEGIO INTEGRAL\" \"Itajaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CURSO E COLEGIO INTEGRAL\" \"Itajaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Prova de Bolsas | Integral Itajaí | Santa Catarina",
+        "link": "https://www.integralitajai.com.br/prova-de-bolsas-pre-vestibular",
+        "snippet": "4.4 O Sistema de Ensino/Material Didático não faz parte da bolsa, sendo ... ITAJAÍ, 05 de novembro de 2.024. ​CURSO E COLÉGIO INTEGRAL DE ITAJAÍ - SC.",
+        "position": 1
+      },
+      {
+        "title": "Curso e Colégio Integral Marechal",
+        "link": "https://integralmarechal.com.br/",
+        "snippet": "Material Didático. Material - Ensino ... Integral Marechal: resultados comprovados!!! Unidades Parceiras: Curso Integral de Itajaí.",
+        "position": 2
+      },
+      {
+        "title": "20 vaga(s) de Curso e colégio integral – Itajaí, SC - Glassdoor",
+        "link": "https://www.glassdoor.com.br/Vaga/itaja%C3%AD-curso-e-col%C3%A9gio-integral-vagas-SRCH_IL.0,6_IC2422561_KO7,31.htm",
+        "snippet": "... Curso e colégio integral em Itajaí ... Para isso, contamos com uma equipe de profissionais especializados e atualizados, material didático ...",
+        "position": 3
+      },
+      {
+        "title": "o Integral é o colégio com o maior índice de aprovados em ...",
+        "link": "https://www.instagram.com/p/DRxg1x2CXSA/?hl=hr",
+        "snippet": "... ITAJAÍ curso e colégio integral Itajaí-SC. Slika profila claretiano ... apostila. Matemática foi a matéria que eu mais me desenvolvi ...",
+        "date": "há 7 meses",
+        "position": 4
+      },
+      {
+        "title": "Integral Itajaí on Instagram: \"Ontem tivemos o 1º PODGRAL do ...",
+        "link": "https://www.instagram.com/reel/DICMUwiRfah/",
+        "snippet": "Aqui não somamos resultados de outras unidades ou sistema de ensino. ... ITAJAÍ curso e colégio integral Itajaí-SC. colegiointegral_itajai's ...",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

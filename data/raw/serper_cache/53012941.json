@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "53012941",
+  "NO_ENTIDADE": "COLEGIO CIMAN",
+  "cidade": "Brasília",
+  "query": "\"COLEGIO CIMAN\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO CIMAN\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "#colegiociman #cimanoctogonal #cimancruzeiro #SouCiman",
+        "link": "https://www.instagram.com/reel/DWzD1lWhDZt/",
+        "snippet": "Photo by COLÉGIO CIMAN OFICIAL on June 28, 2026. May be an image of ... #ColégioCiman #Ciman #Brasília #SOUCIMAN · July 7. OCR. COLORIR É ...",
+        "date": "há 3 meses",
+        "position": 1
+      },
+      {
+        "title": "#ColégioCiman #Ciman #Brasília #SOUCIMAN",
+        "link": "https://www.instagram.com/p/DafTytqARSD/",
+        "snippet": "Photo by COLÉGIO CIMAN OFICIAL on July 07, 2026. ... KIT - LIVROS DIDÁTICOS (Sistema integrado) TRILHAS SISTEMA DE ENSINO KIT - UNIFORME Campanha ...",
+        "date": "há 2 semanas",
+        "position": 2
+      },
+      {
+        "title": "O que uma pedagoga e professora da Universidade de ...",
+        "link": "https://www.instagram.com/reel/DaoHbgRpzig/",
+        "snippet": "... Brasília espera de uma escola? Para Daiane Araújo de Oliveira, ex-aluna do Colégio CIMAN ... Sabia que o material didático que seu filho usa ...",
+        "date": "há 2 semanas",
+        "position": 3
+      },
+      {
+        "title": "Sobre o Enem",
+        "link": "https://ciman.com.br/sobre-o-enem/",
+        "snippet": "... Brasília (UnB) e de tantas outras. As médias obtidas pelos alunos do ... Duas delas possuem Sistema de Ensino que vendem para outras ...",
+        "date": "14 de ago. de 2015",
+        "position": 4
+      },
+      {
+        "title": "Bem-vindos ao CIMAN 2026! #colegiociman #brasilia ...",
+        "link": "https://www.instagram.com/reel/DUQ856QjzKe/",
+        "snippet": "Photo by COLÉGIO CIMAN OFICIAL on July 07, 2026. May be an image of. 17 likes. colegiocimanoficial · #ColégioCiman #Ciman #Brasília #SOUCIMAN.",
+        "date": "há 5 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

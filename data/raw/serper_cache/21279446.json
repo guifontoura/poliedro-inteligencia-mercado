@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "21279446",
+  "NO_ENTIDADE": "ESCOLA CRESCIMENTO",
+  "cidade": "São Luís",
+  "query": "\"ESCOLA CRESCIMENTO\" \"São Luís\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA CRESCIMENTO\" \"São Luís\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Conheça um pouco da trajetória da Escola Crescimento neste ...",
+        "link": "https://www.youtube.com/watch?v=um_3BSPD77M",
+        "snippet": "Em 1985, após mudança para São Luís, o Jardim Escola Crescimento ... Sistema de Ensino Poliedro, voltado ao ensino médio. O foco da escola ...",
+        "date": "há 14 anos",
+        "position": 1
+      },
+      {
+        "title": "Escola Crescimento, Ltda in São Luís | Online-store Escola ...",
+        "link": "https://4185-br.all.biz/",
+        "snippet": "Em 2004 adotou o método do Sistema de Ensino Poliedro, específico para o Ensino ... All information about Escola Crescimento, Ltda in São Luís (Brasil).",
+        "position": 2
+      },
+      {
+        "title": "🚀 Resultados maiores começam com escolhas ...",
+        "link": "https://www.instagram.com/p/DSGGUPSkVH5/",
+        "snippet": "... Escola Crescimento dá um passo histórico ao trazer, de forma inédita para São Luís, a AMentoria ENEM, um programa reconhecido nacionalmente ...",
+        "date": "há 7 meses",
+        "position": 3
+      },
+      {
+        "title": "Regras do Sorteio do Material Didático • Quem pode ...",
+        "link": "https://www.instagram.com/reel/DQby2pmDLpZ/",
+        "snippet": "Regras do Sorteio do Material Didático • Quem pode participar: Alunos ... Escola Crescimento – São Luís – Calhau – Nota: 640.55. Escola ...",
+        "date": "há 8 meses",
+        "position": 4
+      },
+      {
+        "title": "SÃO LUÍS - Escolas são acionadas por irregularidades na ...",
+        "link": "https://www.mpma.mp.br/sao-luis-escolas-sao-acionadas-por-irregularidades-na-implantacao-de-programa-bilingue/",
+        "snippet": "SÃO LUÍS – Escolas são acionadas por irregularidades na implantação de programa bilíngue ... Escola Crescimento custa entre R$ 400 e R$ 1.200,00.",
+        "date": "10 de mar. de 2020",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

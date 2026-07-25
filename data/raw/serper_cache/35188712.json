@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35188712",
+  "NO_ENTIDADE": "VEM SER COLEGIO",
+  "cidade": "São José do Rio Preto",
+  "query": "\"VEM SER COLEGIO\" \"São José do Rio Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"VEM SER COLEGIO\" \"São José do Rio Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "✅ Excelência em Ensino, Compromisso com o Futuro! O ...",
+        "link": "https://www.instagram.com/reel/DMGO1nBhoO5/",
+        "snippet": "... São José do Rio Preto, com um modelo de ensino inovador, humano e ... sistema de ensino Poliedro, referência em todo Brasil por ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Novidades no Colégio Catarinense! Com muita alegria ...",
+        "link": "https://www.instagram.com/reel/DHGatlpuvFz/",
+        "snippet": "Vem ser colégio Nossa Senhora das Graças! Colégio aberto durante ... * Material didático próprio * Professores fluentes em Inglês",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Colégio Vem Ser | Bolsas de Estudo em São José do Rio ...",
+        "link": "https://www.melhorescola.com.br/escola/vem-ser-colegio",
+        "snippet": "... material didático que proporcione dinamismo e efetivação das práticas no processo educativo. ... Sistema de ensino. Poliedro. O sistema de ensino compreende ...",
+        "position": 3
+      },
+      {
+        "title": "No Colégio Franciscano Santo Antônio, acreditamos que o ...",
+        "link": "https://www.instagram.com/reel/DO6MP4nANSc/",
+        "snippet": "Vem ser colégio Nossa Senhora das Graças! Colégio ... Também por isso, todo o material didático é elaborado pelos próprios professores.",
+        "date": "há 10 meses",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/17obmep/verRelatorioPremiadosMencao-SP.3.privada.do.htm",
+        "snippet": "VEM SER COLEGIO, P, SÃO JOSÉ DO RIO PRETO, SP, Sim. 78, ANDRESSA MIZUTANI MORI, PRUDENTINA ESCOLA DE EDUCACAO BASICA, P, PRESIDENTE PRUDENTE, SP, Sim. ARTHUR ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

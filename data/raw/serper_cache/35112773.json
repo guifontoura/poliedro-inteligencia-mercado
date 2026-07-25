@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "35112773",
+  "NO_ENTIDADE": "IMACULADA INSTITUTO EDUCACIONAL",
+  "cidade": "Campinas",
+  "query": "\"IMACULADA INSTITUTO EDUCACIONAL\" \"Campinas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"IMACULADA INSTITUTO EDUCACIONAL\" \"Campinas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Conheça o Imaculada Campinas - Excelência no ensino do ...",
+        "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/colegio-imaculada/instituto-educacional-imaculada/noticia/2022/12/06/conheca-o-imaculada-campinas-excelencia-no-ensino-do-maternal-ao-ensino-medio.ghtml",
+        "snippet": "Material didático: Bernoulli Sistema de Ensino (a partir do Infantil I) com Bilíngue – Dive. ... Campinas em novembro de 1947, para iniciar ...",
+        "date": "6 de dez. de 2022",
+        "position": 1
+      },
+      {
+        "title": "nosso aluno do Imaculada Campinas, Francisco Carluccio ...",
+        "link": "https://www.instagram.com/p/DJ_voT3xskO/",
+        "snippet": "... Sistema de Ensino 5 e 6 de setembro de 2026 IECJ - Bragança Paulista ... Instituto Educacional Imaculada Instituto Educacional Coração ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.1.privada.do.htm",
+        "snippet": "RIO CLARO SISTEMA DE ENSINO, P, RIO CLARO, SP, Sim. ANDRE HENRIQUE ALMEIDA ... OBJETIVO COLEGIO DE CAMPINAS UNIDADE BARAO GERALDO, P, CAMPINAS, SP, Sim. LUARA ...",
+        "position": 3
+      },
+      {
+        "title": "Conheça as 20 melhores escolas de Campinas - Revista ME",
+        "link": "https://www.melhorescola.com.br/artigos/melhores-escolas-de-campinas-veja-quais-sao",
+        "snippet": "13) Imaculada Instituto Educacional. Avaliação geral: 4.8. Localização: Avenida Barão De Itapura, 1735 - Vila Angelino Rossi, Campinas - SP - ...",
+        "date": "26 de mar. de 2025",
+        "position": 4
+      },
+      {
+        "title": "Novo Ensino Médio do Imaculada Campinas oferece ... - G1",
+        "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/colegio-imaculada/instituto-educacional-imaculada/noticia/2021/11/09/novo-ensino-medio-do-imaculada-campinas-oferece-itinerarios-formativos-para-seus-estudantes.ghtml",
+        "snippet": "Avenida Barão de Itapura, 1735, Guanabara · Campinas – SP | CEP: 13020-433 · Tel: +55 (19) 3231-7911 · www.imaculada.com.br.",
+        "date": "9 de nov. de 2021",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

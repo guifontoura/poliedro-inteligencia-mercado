@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "43238203",
+  "NO_ENTIDADE": "COLEGIO JOAO PAULO",
+  "cidade": "Porto Alegre",
+  "query": "\"COLEGIO JOAO PAULO\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO JOAO PAULO\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "JPSul",
+        "link": "https://jpsul.com.br/",
+        "snippet": "Desde que abriu suas portas na zona sul de Porto Alegre, em 1993, o Colégio João Paulo I recebe alunos que chegam para aprender, para se desenvolver e para ...",
+        "position": 1
+      },
+      {
+        "title": "Matriculas abertas!🦁🐾 O Colégio Anglo Porto Alegre é um ...",
+        "link": "https://www.instagram.com/p/DTfjK3dEVgE/",
+        "snippet": "... Material didático físico e digital com plataforma Plurall • Cursinho ... sistema de ensino do país e a marca de quem mais aprova nos ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Anglo Porto Alegre, onde a aprendizagem é ...",
+        "link": "https://www.instagram.com/reel/DTljOXBEcHd/",
+        "snippet": "O Colégio João Paulo está entre as 5 melhores escolas privadas de ... IES INSTITUTO EDUCACIONAL SOMA SISTEMA DE ENSINO anglo Aqui se ensina.",
+        "date": "há 6 meses",
+        "position": 3
+      },
+      {
+        "title": "Documentos - JPSul - Colégio João Paulo I",
+        "link": "https://jpsul.com.br/documentos/",
+        "snippet": "Ensino Médio. (51) 98116-8312. Localização. Tv. Pedra Redonda, 400 – Ipanema, Porto Alegre – RS, 91760-630. Copyright © 2026 JPSul - Colégio João Paulo I.",
+        "position": 4
+      },
+      {
+        "title": "Hoje compartilhamos a história do Pedro Augusto, que ...",
+        "link": "https://www.instagram.com/reel/DSGdFZCD0qh/",
+        "snippet": "No Colégio João Paulo I, cada passo é uma conquista! Desde os ... apostila do Anglo. Os alunos foram divididos em grupos de advogados ...",
+        "date": "há 7 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

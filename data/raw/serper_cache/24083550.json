@@ -1,0 +1,37 @@
+{
+  "codigo_escola": "24083550",
+  "NO_ENTIDADE": "CENTRO DE EDUCACAO INTEGRADA ZONA SUL LTDA",
+  "cidade": "Parnamirim",
+  "query": "\"CENTRO DE EDUCACAO INTEGRADA ZONA SUL LTDA\" \"Parnamirim\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO DE EDUCACAO INTEGRADA ZONA SUL LTDA\" \"Parnamirim\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Zona Sul",
+        "link": "https://www.estudecei.com.br/unidade/zona-sul/",
+        "snippet": "Endereço. Avenida Maria Lacerda Montenegro, 260 - CEP 59152-600, Parnamirim - RN ; Telefones. (84) 3208-8470 (84) 98185-2013 ; Cursos Disponíveis. Educação ...",
+        "position": 1
+      },
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "Cada material é cuidadosamente elaborado, atualizado e alinhado com as diretrizes da BNCC, oferecendo uma base sólida para a formação integral de nossos ...",
+        "position": 2
+      },
+      {
+        "title": "Sistema de Ensino - CESC",
+        "link": "https://cescsjc.com.br/sistema-de-ensino/",
+        "snippet": "Conheça nossa abordagem pedagógica, métodos e recursos para garantir uma educação de qualidade e desenvolvimento integral dos alunos.",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

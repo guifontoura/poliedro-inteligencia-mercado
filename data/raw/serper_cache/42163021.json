@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "42163021",
+  "NO_ENTIDADE": "DUAL INTERNATIONAL SCHOOL",
+  "cidade": "Florianópolis",
+  "query": "\"DUAL INTERNATIONAL SCHOOL\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"DUAL INTERNATIONAL SCHOOL\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Em cada olhar, em cada palavra, sentimos a importância ...",
+        "link": "https://www.instagram.com/reel/CyvdWb3rIkC/",
+        "snippet": "... material didático ... Experimento de Eratóstenes Escola Dual, Florianópolis, SC Medir a Circunferência da terra Dual International School IB World ...",
+        "date": "há 2 anos",
+        "position": 1
+      },
+      {
+        "title": "Dual International School: afinal, o que diz um nome?",
+        "link": "https://www.escoladual.com.br/noticias/dual-international-school-afinal-o-que-diz-um-nome",
+        "snippet": "Desde o final de 2013, quando iniciou-se a preparação para a abertura da escola aqui em Florianópolis ... material didático diversificado e, principalmente ...",
+        "position": 2
+      },
+      {
+        "title": "Dinâmica Bilingual School | Na Dinâmica Bilingual School ...",
+        "link": "https://www.instagram.com/reel/DTu8F7zjn_6/",
+        "snippet": "... Florianópolis em um espaço vivo de aprendizado investigativo e ... Dual International School IB Colegio del Mundo World School ...",
+        "date": "há 6 meses",
+        "position": 3
+      },
+      {
+        "title": "Expedição Investigativa Year 3: muitos conhecimentos novos ...",
+        "link": "https://www.instagram.com/reel/DYbeY5buCPM/",
+        "snippet": "ESCOLA COMPANHIA BILINGUAL SCHOOL Os materiais resgatados e os reflexos na história. cocriodosul's profile picture. cocriodosul. •.",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Centro de Ensino Guroo",
+        "link": "https://cr.linkedin.com/company/centro-de-ensino-guroo",
+        "snippet": "O Centro de Ensino GUROO é a escola referência do Sistema de Ensino COC em Santa Catarina. Com 30 anos de atuação em Florianópolis, a escola está localizada ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

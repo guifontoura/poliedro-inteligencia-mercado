@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "29433380",
+  "NO_ENTIDADE": "EPG - ESTABELECIMENTO PARTICULAR DE ENSINO LTDA",
+  "cidade": "Vitória da Conquista",
+  "query": "\"EPG - ESTABELECIMENTO PARTICULAR DE ENSINO LTDA\" \"Vitória da Conquista\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"EPG - ESTABELECIMENTO PARTICULAR DE ENSINO LTDA\" \"Vitória da Conquista\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ENEM 2019",
+        "link": "https://enem.cneceduca.com.br/2019?p=97",
+        "snippet": "Epg - Estabelecimento Particular de Ensino Ltda, Privada, Vitória da Conquista ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line Alexandria CNEC Provas ENEC ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/",
+        "snippet": "ZETA SISTEMA DE ENSINO DE PROMISSAO, PROMISSAO, SP, Privada, 80 ... EPG - ESTABELECIMENTO PARTICULAR DE ENSINO LTDA, VITORIA DA CONQUISTA ...",
+        "date": "5 de ago. de 2015",
+        "position": 2
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-HORIZONTAL.pdf",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE. PA. Belém. Privada. Urbana. 306. Maior que. 90 alunos. 303 ... VITORIA DA CONQUISTA. BA. Vitória da. Conquista. Privada. Urbana. 128.",
+        "position": 3
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "EPG - ESTABELECIMENTO PARTICULAR DE ENSINO LTDA. BA. 1798. COLEGIO E CURSO ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL. PB. 7312. SUELI ...",
+        "position": 4
+      },
+      {
+        "title": "BOLETIM",
+        "link": "https://www.ba.gov.br/juceb/sites/site-juceb/files/migracao_2024/arquivos/wp-content/uploads/2019/01/bol_1216.pdf",
+        "snippet": "16/5864109 CIPE - CIRURGIA PEDIATRICA VITORIA DA CONQUISTA LTDA ME. 16 ... 16/0408849 EPG - ESTABELECIMENTO PARTICULAR DE ENSINO LTDA - EPP. 16/5954582 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

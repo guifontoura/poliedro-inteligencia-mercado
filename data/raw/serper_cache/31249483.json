@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31249483",
+  "NO_ENTIDADE": "INST ITALO BRASILEIRO BICULTURAL",
+  "cidade": "Nova Lima",
+  "query": "\"INST ITALO BRASILEIRO BICULTURAL\" \"Nova Lima\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INST ITALO BRASILEIRO BICULTURAL\" \"Nova Lima\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Inst Italo Brasileiro Bicultural - Nova Lima - MG",
+        "link": "https://www.escol.as/313352-inst-italo-brasileiro-bicultural",
+        "snippet": "... Nova Lima - MG; ›; Piemonte; ›; Inst Italo Brasileiro Bicultural. Inst Italo Brasileiro Bicultural ... material didático inovador. Com um compromisso com a ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - OBMEP 2019",
+        "link": "http://premiacao.obmep.org.br/2019/verRelatorioPremiadosPrata.privada.do.htm",
+        "snippet": "INST ITALO BRASILEIRO BICULTURAL, P, NOVA LIMA, MG, Prata. GUILHERME KIYOTOSHI ... SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Prata. ARTHUR DE ...",
+        "position": 2
+      },
+      {
+        "title": "MENÇÕES HONROSAS",
+        "link": "https://obquimica.sertanustecnologia.com.br/arquivos/download/1986/RESULTADO%20-%20MEN%C3%87%C3%95ES%20HONROSAS.pdf",
+        "snippet": "INST ITALO BRASILEIRO BICULTURAL. MINAS GERAIS. NOVA LIMA. 1698981 GIOVANNA TOFANI VALENTE. 1º ANO/EM. INST ITALO BRASILEIRO BICULTURAL. MINAS GERAIS. NOVA LIMA.",
+        "position": 3
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "INST ITALO BRASILEIRO BICULTURAL. MINAS GERAIS. Nova Lima. LUCCA DE ... SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO DOS ...",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... NOVA LIMA. Privada. COLEGIO SANTO AGOSTINHO UNIDADE NOVA LIMA. 694,50 ... INST ITALO BRASILEIRO BICULTURAL. 685,86. 648,77. 742,81. 629,42. 722 ...",
+        "date": "22 de dez. de 2014",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

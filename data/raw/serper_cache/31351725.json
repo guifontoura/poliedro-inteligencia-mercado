@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "31351725",
+  "NO_ENTIDADE": "COLEGUIUM - UNIDADE OURO PRETO INTEGRAL",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGUIUM - UNIDADE OURO PRETO INTEGRAL\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGUIUM - UNIDADE OURO PRETO INTEGRAL\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Apenas uma escola baiana está entre as 30 melhores do ...",
+        "link": "https://www.bernoulli.com.br/quem-somos/acontece-no-bernoulli/apenas-uma-escola-baiana-esta-entre-as-30-melhores-do-brasil-em-desempenho-no-enem/",
+        "snippet": "... Belo Horizonte/MG On-line Pituba Caminho das Árvores Lourdes Sistema de Ensino ... Coleguium – Unidade Ouro Preto Integral (MG); Colégio Ari ...",
+        "date": "10 de jul. de 2025",
+        "position": 1
+      },
+      {
+        "title": "Sonhos que se transformam em conquistas. ❤️💙🎓 A ...",
+        "link": "https://www.instagram.com/p/DWEH0R1je1w/",
+        "snippet": "Com professores experientes, material didático completo e uma ... Belo Horizonte e Região Metropolitana em relação ao ano anterior.",
+        "date": "há 4 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Hg6 on Instagram: \" Hoje o Colégio HG6 esteve em ...",
+        "link": "https://www.instagram.com/reel/DOHo6WDju91/",
+        "snippet": "Belo Horizonte figurou cinco escolas entre as 50 melhores com a ... Outro caso interessante é o Coleguium Unidade Ouro Preto Integral.",
+        "date": "há 10 meses",
+        "position": 3
+      },
+      {
+        "title": "Conheça as melhores escolas de Belo Horizonte",
+        "link": "https://querobolsa.com.br/revista/conheca-as-melhores-escolas-de-belo-horizonte",
+        "snippet": "Ranking das melhores escolas de Belo Horizonte no Enem ; Colégio Bernoulli – Unidade Lourdes Nota: 743 ; Coleguium – Unidade Ouro Preto Integral",
+        "date": "10 de nov. de 2020",
+        "position": 4
+      },
+      {
+        "title": "Belo Horizonte 2231 escolas",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/busca",
+        "snippet": "... COLEGUIUM - UNIDADE OURO PRETO INTEGRAL. FUNCHAL, 250. OURO PRETO ... Belo Horizonte - Minas Gerais. Rede privada / Urbana · SISTEMA DE ENSINO RENASCER.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

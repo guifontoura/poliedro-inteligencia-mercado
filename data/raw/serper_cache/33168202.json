@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33168202",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL PRE UNIVERSITARIO",
+  "cidade": "Araruama",
+  "query": "\"CENTRO EDUCACIONAL PRE UNIVERSITARIO\" \"Araruama\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL PRE UNIVERSITARIO\" \"Araruama\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Nossa História",
+        "link": "https://www.cepreuniversitario.com.br/pages/historia",
+        "snippet": "Sistema de Ensino ... material didático da instituição. Não demorou muito para que o nome da escola ficasse conhecido em Araruama e a procura aumentasse.",
+        "position": 1
+      },
+      {
+        "title": "Colégio Pré-Universitário | Ensino de Excelência",
+        "link": "https://www.cepreuniversitario.com.br/portal/contato",
+        "snippet": "Localização. Centro Educacional Pré-Universitário. Sistema SAS-Bahiense de Ensino. Rua Conselheiro Macedo Soares, 165. Centro - Araruama - RJ. CEP: 28.970-000 ...",
+        "position": 2
+      },
+      {
+        "title": "Missões, desafios e aprendizado com resultados! 🎮📖 A ...",
+        "link": "https://www.instagram.com/p/DEfCteHpUm5/",
+        "snippet": "... material didático e personalizadas para cada estudante. Estudos ... araruama\".",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "O 1º ano começou o Projeto Maralto vivendo uma aventura ...",
+        "link": "https://www.instagram.com/p/DYpPDw7xnEV/",
+        "snippet": "... araruama #préuniversitário # ... Centro Educacional Pré-Universitário O PRÉ QUE APROVA! Colégio Pré ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Grátis: Baixadas Litorâneas - BL - Material Claro e Objetivo ...",
+        "link": "https://www.passeidireto.com/arquivo/126470376/baixadas-litoraneas-bl",
+        "snippet": "33168202 BCPB ARARUAMA CURSOS & CONCURSOS LTDA CENTRO EDUCACIONAL PRE UNIVERSITARIO Araruama ... APOSTILA - ANEXO A PORTARIA BAIXADAS ...",
+        "date": "31 de ago. de 2023",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

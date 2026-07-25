@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "53001290",
+  "NO_ENTIDADE": "COL COR JESU",
+  "cidade": "Brasília",
+  "query": "\"COL COR JESU\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL COR JESU\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... Brasília. DF. 693,5. 814,8. 676,0. 676,0. 647,0. 775,0. 26. COLEGIO SANTO.",
+        "position": 1
+      },
+      {
+        "title": "LISTA DOS ALUNOS DO NONO ANO COM NOTA MAIOR ...",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/TABELA%20NIVEL%203%20NONO%20ANO%20CORRETA%20SO%20COM%204%20COLUNAS-compressed-compactado.pdf",
+        "snippet": "Zeta Sistema de Ensino de Birigui. GABRIEL MARCENTE FADIL. SÃO PAULO. Birigüi ... Colégio Brasília de São Paulo. ENZO COSTA DE SOUZA. SÃO PAULO. São Paulo.",
+        "position": 2
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "COL COR JESU 35 Brasília DF WALTER BELIAN ESCOLA TECNICA 83 São Paulo SP COL ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 3
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-HORIZONTAL.pdf",
+        "snippet": "... Brasília. Privada. Urbana. 77. De 61 a. 90 alunos. 73. 94.81. 0. De 60% a 80%. Muito ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos.",
+        "position": 4
+      },
+      {
+        "title": "universidade de brasília",
+        "link": "https://repositorio.unb.br/bitstream/10482/16967/1/2013_LarissaRosaAntunes.pdf",
+        "snippet": "(Mestrado em Música) - Universidade de Brasília, Brasília, 2009. ... COL COR JESU. SGAS 615 - MOD G. ASA SUL. 2105-6800 ... ( ) Material didático (livros de música, ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

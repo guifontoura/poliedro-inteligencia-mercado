@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "52034054",
+  "NO_ENTIDADE": "COLEGIO PROGRESSIVO",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO PROGRESSIVO\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PROGRESSIVO\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "MAIS DO QUE FAMA TEMOS FOCO:",
+        "link": "https://colegioprogressivo.com.br/wp-content/uploads/2025/12/06-08-FOLDER-COLEGIO-PROGRESSIVO-2025.pdf",
+        "snippet": "O Colégio Progressivo ... Utilizamos o material didático da Plataforma SAS – Sistema ... Você vai perceber que somos o melhor custo-benefício da educação privada em ...",
+        "position": 1
+      },
+      {
+        "title": "Há experiências profissionais que entram no currículo. ...",
+        "link": "https://www.instagram.com/p/DYdTtgikZ7A/?img_index=14",
+        "snippet": "... material didático, e a escolha pela ELI Éditions reflete uma visão ... Goiânia, por investir em uma escola pública com padrão de ...",
+        "date": "há 2 meses",
+        "position": 2
+      },
+      {
+        "title": "Vamos conhecer a quinta escola? Escola Ipê ✨ o que vocês ...",
+        "link": "https://www.tiktok.com/@jullyalimar/video/7460591675891666181",
+        "snippet": "... sistema de ensino de Goiânia. som original - Idimar Leal Pontes. 47 ... Colégio Progressivo Goiânia · โรงเรียนไทยนิยม. 860Curtidas. 63 ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Colégio Mais Ânima | Toda conquista merece ser celebrada ...",
+        "link": "https://www.instagram.com/reel/DagDoQyzysk/",
+        "snippet": "Colégio Progressivo – Goiânia 12. Colégio Degraus – Goiânia 13 ... VALADARES E TEÓFILO OTONI GENOMA SISTEMA DE ENSINO 1° LUGAR NO ENEM CARATINGA, ...",
+        "date": "há 2 semanas",
+        "position": 4
+      },
+      {
+        "title": "Colégio Veras - App Store",
+        "link": "https://apps.apple.com/br/app/col%C3%A9gio-veras/id1563286687",
+        "snippet": "Escola Videira - Goiânia. Aplicativo Escola Videira · Visualizar. Colegio Progressivo ... Multitude Sistema de Ensino. Visualizar. Portas Lógicas. Portas lógicas ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

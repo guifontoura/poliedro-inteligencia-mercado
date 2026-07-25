@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "52089550",
+  "NO_ENTIDADE": "COLEGIO VISAO",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO VISAO\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO VISAO\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas parceiras do Sistema Mackenzie de Ensino",
+        "link": "https://sistemasdeensino.mackenzie.br/localizar-escola",
+        "snippet": "Digite a sua Cidade ou Estado e encontre o Sistema de Ensino Mackenzie perto de você! ... COLEGIO VISAO KIDS. Rua Afonso Pena, 1117, Pindorama, Parnaíba- PI ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosPrata.privada.do.htm",
+        "snippet": "COLEGIO VISAO, P, GOIÂNIA, GO, Prata. JOÃO PEDRO ALVES FERREIRA, ETAPA ... SISTEMA DE ENSINO FOCO, P, MONTES CLAROS, MG, Prata. HELENA GUACHALLA DE ANDRADE ...",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/5208707-goiania/busca",
+        "snippet": "74223-070 Goiânia - GO. Rede privada / Urbana · COLEGIO VISAO. T 13, 1030 ... SISTEMA DE ENSINO MILENIO. AVENIDA 24 DE OUTUBRO, 3110 AEROVIARIO. 74435-090 ...",
+        "position": 3
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Colegio Visao - Goiânia - Setor Bueno - Nota: 672.62. Colegio Prevest ... Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ...",
+        "date": "23 de jun. de 2026",
+        "position": 4
+      },
+      {
+        "title": "Baixar",
+        "link": "https://dadosabertos.go.gov.br/dataset/773b17ff-757c-4e71-bc3b-7f1c8cd4dbeb/resource/f649807d-b91e-44b0-bab6-573833e6c9d3/download/7.matriculas_por_etapa_seduc_2025.csv",
+        "snippet": "... Goiânia;Aparecida de Goiânia;52030555;CENTRO EDUCACIONAL MUNDO INFANTIL ... COLEGIO VISAO;Privada;Urbana;440;146;204;90;0;0;0;; 2013;CRE Itumbiara ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

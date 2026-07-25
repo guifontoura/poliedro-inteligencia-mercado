@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35136050",
+  "NO_ENTIDADE": "LEONARDO DA VINCI COLEGIO DE ENSINO FUNDAMENTAL E MEDIO",
+  "cidade": "Jundiaí",
+  "query": "\"LEONARDO DA VINCI COLEGIO DE ENSINO FUNDAMENTAL E MEDIO\" \"Jundiaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LEONARDO DA VINCI COLEGIO DE ENSINO FUNDAMENTAL E MEDIO\" \"Jundiaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "LEONARDO DA VINCI COLEGIO DE ENSINO FUNDAMENTAL E MEDIO, P, JUNDIAI, SP, Bronze ... SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Bronze. JOÃO ...",
+        "position": 1
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ano ... Jundiaí. 35290981 SP. Jundiaí. ANA LUISA GOMES VIEIRA. 2º ano - Ensino Médio.",
+        "position": 2
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO DOS ... LEONARDO DA VINCI COLEGIO DE ENSINO FUNDAMENTAL E MEDIO SÃO PAULO. Jundiaí.",
+        "position": 3
+      },
+      {
+        "title": "Grátis: PREMIAÇÃO 3º ANO EM NIVEL D 2019",
+        "link": "https://www.passeidireto.com/arquivo/98897949/premiacao-3-ano-em-nivel-d-2019",
+        "snippet": "... Jundiaí GUSTAVO ARAÚJO MORAIS 7 DE SETEMBRO COLEGIO - NGS CEARÁ ... SISTEMA DE ENSINO EQUIPE PARÁ Belém CLARA DE ANDRADE PONTUAL PERES ...",
+        "date": "27 de set. de 2021",
+        "position": 4
+      },
+      {
+        "title": "E-metodo",
+        "link": "https://emetodo60.unisa.br/formulario/ficha/inscricao/2452",
+        "snippet": "ANGLO SISTEMA DE ENSINO, ANHANGUERA, ANHEMBI MORUMBI COLEGIO, ANIBAL DE FREITAS ... LEONARDO DA VINCI COLEGIO DE ENSINO FUNDAMENTAL E MEDIO, LEONARDO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

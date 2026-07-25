@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31369969",
+  "NO_ENTIDADE": "COLEGIO NACIONAL - UNIDADE IV",
+  "cidade": "Uberlândia",
+  "query": "\"COLEGIO NACIONAL - UNIDADE IV\" \"Uberlândia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NACIONAL - UNIDADE IV\" \"Uberlândia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Município: Uberlândia - MG - Resultado Final - ONC 2020",
+        "link": "https://resultado.onciencias.org/resultado-final-onc2020/MG/Uberl%C3%A2ndia",
+        "snippet": "COLEGIO NACIONAL - UNIDADE IV. INEP: 31369969 · COLEGIO OLIMPO. INEP: 31318426 ... SISTEMA DE ENSINO ROCHA FERREIRA. INEP: 31273864 · SNOOPY HOTEL ESCOLA. INEP ...",
+        "position": 1
+      },
+      {
+        "title": "FACED PROGRAMA DE PÓS-GRADUAÇÃO EM EDUCAÇÃO ...",
+        "link": "https://repositorio.ufu.br/bitstream/123456789/27837/1/TrabalhoEduca%C3%A7%C3%A3oEstudo.pdf",
+        "snippet": "Uberlândia, na linha de pesquisa intitulada “Trabalho, Sociedade e Educação”. ... sistema de ensino paralelo ao sistema oficial. O SENAI era dirigido pela.",
+        "date": "de J Andrade · 2019",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3170206-uberlandia/busca",
+        "snippet": "COLEGIO NACIONAL - UNIDADE IV. RONDON PACHECO, 350. PATRIMÔNIO. 38411045 Uberlândia - Minas Gerais. Rede privada / Urbana · COLEGIO NACIONAL - UNIDADE V.",
+        "position": 3
+      },
+      {
+        "title": "Nome do(a) aluno(a) Escola Modalidade Polo de aplicação",
+        "link": "https://omq.qui.ufmg.br/wp-content/uploads/2025/07/Participantes_OMQ_2025.pdf",
+        "snippet": "COLEGIO NACIONAL - UNIDADE IV. A. Uberlândia. Alice de Oliveira Malaquias ... SISTEMA DE ENSINO FOCO. B. Montes Claros. Página 95. Page 96. Nome do(a) aluno(a).",
+        "position": 4
+      },
+      {
+        "title": "Escolas no município de Uberlândia - MG",
+        "link": "https://www.cidadesdomeubrasil.com.br/mg/uberlandia/escolas",
+        "snippet": "38412-876 Uberlândia - MG. (34) 32377923, Municipal, Educação Infantil. COLEGIO NACIONAL - UNIDADE IV, AV RONDON PACHECO, 350 COPACABANA. 38408-343 Uberlândia - ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

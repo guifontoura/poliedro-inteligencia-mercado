@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "51036215",
+  "NO_ENTIDADE": "COLEGIO NOTRE DAME DE LOURDES",
+  "cidade": "Cuiabá",
+  "query": "\"COLEGIO NOTRE DAME DE LOURDES\" \"Cuiabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NOTRE DAME DE LOURDES\" \"Cuiabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Identidade",
+        "link": "https://colegionotredamedelourdes.com.br/identidade",
+        "snippet": "Material didático: Ao início das aulas o aluno deverá estar com o seu ... Informações de Contato. Av. Jorn. Alves de Oliveira, 463 - Cidade Alta, Cuiabá - MT ...",
+        "position": 1
+      },
+      {
+        "title": "Livros 1 e 2, 3 e 4, 5 e 6",
+        "link": "https://colegionotredamedelourdes.com.br/storage/archives/public/309945a174340ac4.pdf",
+        "snippet": "✓ Sistema de Ensino SAS: Livros 1 e 2, 3 e 4, 5 e 6: Integrado ... Independência - Cuiabá/MT. Horário de início das aulas: Período ...",
+        "date": "2 de dez. de 2025",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/5103403-cuiaba/busca",
+        "snippet": "COLEGIO NOTRE DAME DE LOURDES. JORNALISTA ALVES DE OLIVEIRA, 463. CIDADE ALTA ... FARINA SISTEMA DE ENSINO. MIGUEL SUTIL, 1695. AREÃO. 78010500 Cuiabá ...",
+        "position": 3
+      },
+      {
+        "title": "Elias Silveira de Albuquerque",
+        "link": "https://www.escavador.com/sobre/5210195/elias-silveira-de-albuquerque",
+        "snippet": "... COLÉGIO NOTRE DAME DE LOURDES-CNDL, professor de Estatística da FACULDADE ... (Desenvolvimento de material didático ou instrucional - Material Didático).",
+        "position": 4
+      },
+      {
+        "title": "Cassiana Parissenti - Mestre em Linguística, Professora de ...",
+        "link": "https://br.linkedin.com/in/cassiana-parissenti-b822417",
+        "snippet": "Professor de Português PLE. UFMT - Programa de Extensão. fev. de 2020 - fev. de 2024 4 anos 1 mês. Cuiabá, Mato Grosso ... Colegio Notre Dame de Lourdes. 2019 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

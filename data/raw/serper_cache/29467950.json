@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "29467950",
+  "NO_ENTIDADE": "DOM JEQUIE",
+  "cidade": "Jequié",
+  "query": "\"DOM JEQUIE\" \"Jequié\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"DOM JEQUIE\" \"Jequié\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio DOM de Educar - Jequié",
+        "link": "https://domdeeducar.com.br/",
+        "snippet": "Descubra no Colégio Dom de Educar um ambiente educacional inovador e seguro, destacando-se como uma das melhores estruturas de Jequié e região.",
+        "position": 1
+      },
+      {
+        "title": "Foi publicada no Diário Oficial do Município de Jequié, ...",
+        "link": "https://www.instagram.com/p/DJrxWmWRREJ/",
+        "snippet": "Foi publicada no Diário Oficial do Município de Jequié, dessa terça-feira (13), a Deliberação que atualiza e complementa as normas para a ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Secretaria Municipal de Educação de Jequié | 🚀 É HOJE ...",
+        "link": "https://www.instagram.com/reel/DYxLWaKRm8b/",
+        "snippet": "Jequié acredita que toda criança tem o direito de aprender. Por isso nasce o programa Alfabetiza Mais Jequié, com o propósito de ajudar a ...",
+        "date": "há 2 meses",
+        "position": 3
+      },
+      {
+        "title": "SOMOS Educação: Parceira Integral das Escolas de ...",
+        "link": "https://www.somoseducacao.com.br/",
+        "snippet": "SOMOS Educação: líder em Educação Básica no Brasil, com sistemas de ensino, editoras e soluções educacionais completas.",
+        "position": 4
+      },
+      {
+        "title": "PROFESSOR LICENCIADO EM PEDAGOGIA PARA ...",
+        "link": "https://arquivos.qconcursos.com/prova/arquivo_prova/146147/idib-2026-prefeitura-de-jequie-ba-professor-licenciado-em-pedagogia-para-atuar-na-educacao-infantil-e-ensino-fundamental-anos-iniciais-prova.pdf",
+        "snippet": "(A) Estratégia pedagógica utilizada em sala de aula para alfabetizar crianças na idade certa e combater a evasão escolar no ensino fundamental e médio. (B) ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

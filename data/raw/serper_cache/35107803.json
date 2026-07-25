@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35107803",
+  "NO_ENTIDADE": "COLEGIO MAGISTER",
+  "cidade": "São Paulo",
+  "query": "\"COLEGIO MAGISTER\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MAGISTER\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Magister adapta aulas com fundamentação teórica e ...",
+        "link": "https://www.geekie.com.br/colegio-magister-adaptacao-para-aulas-a-distancia-com-fundamentacao-teorica/",
+        "snippet": "... Colégio Magister ... Mesmo assim, o colégio da Zona Sul de São Paulo ... material didático já era 100% digital, com o Geekie One, uma nova solução educacional ...",
+        "position": 1
+      },
+      {
+        "title": "Com muita alegria e entusiasmo, recebemos nossos ex ...",
+        "link": "https://www.instagram.com/reel/DaAlnm6xLri/",
+        "snippet": "This ended up improving my self-confidence, my oratory, and also my persuasive capacity. OCR. COLEGIO MAGISTER ... São Paulo, aquela ...",
+        "date": "há 4 semanas",
+        "position": 2
+      },
+      {
+        "title": "Colégio Mackenzie",
+        "link": "https://www.instagram.com/p/DQT2plHD223/",
+        "snippet": "COLEGIO MAGISTER BILINGUE ... Nossos alunos participaram da XIV SPMUN (São Paulo Model United Nations), realizada na ESPM, em São Paulo.",
+        "date": "há 9 meses",
+        "position": 3
+      },
+      {
+        "title": "Imprensa e Staff Duas equipes fundamentais para o sucesso ...",
+        "link": "https://www.instagram.com/reel/DORXMyRDt9b/",
+        "snippet": "COLEGIO MAGISTER BILINGUE THE FUTURE IS CREATED BY WHAT YOU DO TODAY ... Hoje, nossos alunos embarcaram para São Paulo com um propósito muito ...",
+        "date": "há 10 meses",
+        "position": 4
+      },
+      {
+        "title": "Robson Yukio Fukuda",
+        "link": "https://www.facebook.com/105518319278803",
+        "snippet": "Robson Yukio Fukuda is in São Paulo, SP, Brazil. Feb 22, 2026 ... Cuba, em sua época, tinha um sistema de ensino e esportivo espetacular.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

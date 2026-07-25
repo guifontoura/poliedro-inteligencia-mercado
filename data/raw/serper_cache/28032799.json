@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "28032799",
+  "NO_ENTIDADE": "COLEGIO IDEAL LTDA-EPP",
+  "cidade": "Aracaju",
+  "query": "\"COLEGIO IDEAL LTDA-EPP\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO IDEAL LTDA-EPP\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Colégio Ideal Ltda-EPP - 677,66 - Aracaju (Sergipe) - Particular - 63%; Colégio Amadeus Ltda - 674,27 - Aracaju (Sergipe) - Particular - 100% ...",
+        "date": "23 de jun. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Colegio Ideal Ltda-Epp - Aracaju - Cirurgia - Nota: 677.66. Colegio ... Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ...",
+        "date": "23 de jun. de 2026",
+        "position": 2
+      },
+      {
+        "title": "Menção Honrosa 9º Ano Fundamental | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/800285159/1729652725671867f5084ac-mencao-honrosa",
+        "snippet": "SOPHIA ELIZABETH SIMÕES VIEGAS MENDONÇA COLEGIO IDEAL LTDA-EPP SERGIPE ARACAJU ... MAÍRA KEMIL SISTEMA DE ENSINO EQUIPE PARÁ BELÉM LETHÍCIA DAS NEVES ...",
+        "position": 3
+      },
+      {
+        "title": "MENÇÕES HONROSAS",
+        "link": "https://obquimica.sertanustecnologia.com.br/arquivos/download/1986/RESULTADO%20-%20MEN%C3%87%C3%95ES%20HONROSAS.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. ALAGOAS. MACEIÓ. 1665445 LÍVIA ... COLEGIO IDEAL LTDA-EPP. SERGIPE. ARACAJU. 1712419 JULIANA WELLEN BARRETO DE ...",
+        "position": 4
+      },
+      {
+        "title": "Quadro de Medalhas Ensino Médio 2023 | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/783331933/1729577721671742f954fcb-medalhas-2-ano-quimeninas-2024",
+        "snippet": "BRUNA EDUARDA MELO OLIVEIRA COLEGIO IDEAL LTDA-EPP SERGIPE ARACAJU HELOYSA ... GIULIA MARDOCK SISTEMA DE ENSINO EQUIPE PARÁ BELÉM HELLEN CRISTINA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

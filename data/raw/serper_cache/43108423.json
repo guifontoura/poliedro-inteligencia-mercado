@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "43108423",
+  "NO_ENTIDADE": "COLEGIO PROVINCIA DE SAO PEDRO",
+  "cidade": "Porto Alegre",
+  "query": "\"COLEGIO PROVINCIA DE SAO PEDRO\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PROVINCIA DE SAO PEDRO\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Matrícula Inicial por etapa e/ou modalidade de ensino - 2014",
+        "link": "https://servicos.educacao.rs.gov.br/dados/estatisticas_mi_par_2014.pdf",
+        "snippet": "PORTO ALEGRE. 43108377 COL LUTERANO SAO PAULO. Urbana. 0. 31. 292. 44. 0. 0. 0. 367. 1. PORTO ALEGRE. 43108423 COLEGIO PROVINCIA DE SAO PEDRO. Urbana. 0. 245.",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosPrata.privada.do.htm",
+        "snippet": "COLEGIO PROVINCIA DE SAO PEDRO, P, PORTO ALEGRE, RS, Prata. PIETRO GIUDICI DE A ... SISTEMA DE ENSINO FOCO, P, MONTES CLAROS, MG, Prata. HELENA GUACHALLA DE ...",
+        "position": 2
+      },
+      {
+        "title": "Plan1",
+        "link": "https://www.fapemat.mt.gov.br/documents/8125245/9122067/NUMERO+DE+SALAS+EXISTENTES+UTILIZADAS_2016.xls/84cd3234-35be-0a8e-18aa-e90db71239e6",
+        "snippet": "FARINA SISTEMA DE ENSINO, 8, 8. 851, 2016, 51, Cuiabá, 51093057, SEI - SISTEMA DE ... COLEGIO PROVINCIA DE SAO PEDRO, 5, 5. 2390, 2016, 51, Querência, 51066912 ...",
+        "position": 3
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "COLEGIO PROVINCIA DE SAO PEDRO 44 Porto Alegre RS #N/A 13 Limeira SP COLEGIO ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... PORTO ALEGRE. Federal. COLEGIO MILITAR DE PORTO ALEGRE. 646,73. 594,73 ... SISTEMA DE ENSINO EQUIPE. 628,66. 596,47. 652,65. 612,81. 652,72. 747 ...",
+        "date": "22 de dez. de 2014",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

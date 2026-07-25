@@ -1,0 +1,25 @@
+{
+  "codigo_escola": "31223883",
+  "NO_ENTIDADE": "COLEGIO ATENAS PASSOS",
+  "cidade": "Passos",
+  "query": "\"COLEGIO ATENAS PASSOS\" \"Passos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ATENAS PASSOS\" \"Passos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colegio Atenas Passos",
+        "link": "https://www.instagram.com/popular/colegio-atenas-passos/",
+        "snippet": "Watch short videos about colegio atenas passos from people around the world ... material didático de brinde Venha conhecer de perto nossa estrutura e nosso time.",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

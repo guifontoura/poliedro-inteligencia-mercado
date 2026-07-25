@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "26181231",
+  "NO_ENTIDADE": "COLEGIO FAZER CRESCER - ENSINO MEDIO",
+  "cidade": "Recife",
+  "query": "\"COLEGIO FAZER CRESCER - ENSINO MEDIO\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO FAZER CRESCER - ENSINO MEDIO\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-PE.3.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões · Apostilas do PIC ... COLEGIO FAZER CRESCER - ENSINO MEDIO, P, RECIFE, PE, Sim. 41, ARTHUR MOURA ...",
+        "position": 1
+      },
+      {
+        "title": "Ranking do Enem: verdade ou ilusão? Nem todo \"primeiro ...",
+        "link": "https://www.instagram.com/reel/DNL4eaWCS4D/",
+        "snippet": "... RECIFE . INSTITUTO ESTATÍSTICAS ENEM BARRETO IPIRANGA 176 313 740,6 ... COLEGIO FAZER CRESCER ENSINO MEDIO COLEGIO SANTO AGOSTINHO ...",
+        "date": "há 11 meses",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Escola de Referência em Ensino Fundamental e Médio Aplicação do Recife - 713,33 - Recife (Pernambuco) - Público - 97% ... Colégio Fazer Crescer - ...",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Colegio das Damas da Instrucao Crista - Recife - Graças - Nota: 683,72. Colegio Fazer Crescer - Ensino Medio - Recife - Rosarinho - Nota: 683,11.",
+        "date": "23 de jun. de 2026",
+        "position": 4
+      },
+      {
+        "title": "Elite do ensino privado em Alagoas fica atrás dos 50 ...",
+        "link": "https://agendaa.com.br/2016/10/elite-do-ensino-privado-em-alagoas-fica-atras-dos-50-melhores-colegios-do-nordeste-veja-ranking/",
+        "snippet": "23) (110ª) CPI SISTEMA DE ENSINO PI Teresina Privada 658,06. 24 ... 27) (119ª) COLEGIO FAZER CRESCER – ENSINO MEDIO PE Recife Privada 656,52.",
+        "date": "5 de out. de 2016",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

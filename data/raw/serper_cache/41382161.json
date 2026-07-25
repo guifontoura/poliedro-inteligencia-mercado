@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "41382161",
+  "NO_ENTIDADE": "ALFA DE UMUARAMA CENTRO C E M",
+  "cidade": "Umuarama",
+  "query": "\"ALFA DE UMUARAMA CENTRO C E M\" \"Umuarama\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ALFA DE UMUARAMA CENTRO C E M\" \"Umuarama\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "1° lugar no ENEM. Mais uma vez. Esse resultado é fruto de ...",
+        "link": "https://www.instagram.com/reel/DZ8UOZgPz5J/",
+        "snippet": "ALFA DE UMUARAMA CENTRO C E M RESULTADO, ESFORÇO, PERSISTÊNCIA ... Isso significa acesso a um material didático robusto, atualizado e ...",
+        "position": 1
+      },
+      {
+        "title": "Parabéns MATEUS MALDONADO ANDREAN, aprovado ...",
+        "link": "https://www.instagram.com/p/DUtnoosD2sg/",
+        "snippet": "ALFA DE UMUARAMA CENTRO C E M RESULTADO, ESFORÇO, PERSISTÊNCIA ... Contamos com um sistema de ensino Poliedro aliado a simulados ...",
+        "date": "há 5 meses",
+        "position": 2
+      },
+      {
+        "title": "Prefeitura de Umuarama on Instagram: \" Preparem-se para ...",
+        "link": "https://www.instagram.com/reel/DUbRmHBiTSe/",
+        "snippet": "Neste ano, o material didático do novo sistema de ensino, um dos ... ALFA DE UMUARAMA CENTRO C E M RESULTADO, ESFORÇO, PERSISTÊNCIA ...",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "Pré-Vestibular Avicenna: Inscrições abertas para Leme ...",
+        "link": "https://www.instagram.com/reel/DUZR1mBDTNd/",
+        "snippet": "ALFA DE UMUARAMA CENTRO C E M RESULTADO, ESFORÇO, PERSISTÊNCIA ... Material Didático FTD 50% Descontos Especiais transferência de até ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "Anglo Araçatuba | Os alunos do 9º ano participaram de uma ...",
+        "link": "https://www.instagram.com/reel/Da5DvRMBZbK/",
+        "snippet": "Mas a verdade é que um bom material didático pode fazer toda a diferença na forma como o aluno aprende. ... ALFA DE UMUARAMA CENTRO C E M ...",
+        "date": "há 1 semana",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

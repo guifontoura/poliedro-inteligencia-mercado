@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35162243",
+  "NO_ENTIDADE": "COLEGIO VISCONDE DE PORTO SEGURO CAMPUS PANAMBY",
+  "cidade": "São Paulo",
+  "query": "\"COLEGIO VISCONDE DE PORTO SEGURO CAMPUS PANAMBY\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO VISCONDE DE PORTO SEGURO CAMPUS PANAMBY\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alessandra Lameiras Buriti",
+        "link": "https://www.escavador.com/sobre/2051273306/alessandra-lameiras-buriti",
+        "snippet": "... Colégio Visconde de Porto Seguro (Campus Panamby) ... Universidade de São Paulo ... São Paulo. 2014. (Desenvolvimento de material didático ou instrucional - Robótica ...",
+        "position": 1
+      },
+      {
+        "title": "livro celebra mulheres imigrantes alemãs no Brasil",
+        "link": "https://brasil.diplo.de/br-pt/noticias/2704014-2704014",
+        "snippet": "O Instituto está localizado dentro do Colégio Visconde de Porto Seguro, Campus Panamby, em São Paulo (SP). www.martiusstaden.org.br · Para visão ...",
+        "date": "5 de mar. de 2025",
+        "position": 2
+      },
+      {
+        "title": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
+        "link": "https://repositorio.pucsp.br/bitstream/handle/22279/2/Maria%20L%C3%BAcia%20Zecchinato%20Mastropasqua.pdf",
+        "snippet": "2.1 COLÉGIO VISCONDE DE PORTO SEGURO – CAMPUS PANAMBY .................. 34 ... reuniões pedagógicas com professores, socialização do material didático com a ...",
+        "position": 3
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "COLEGIO VISCONDE DE PORTO SEGURO - CAMPUS PANAMBY. SÃO PAULO. São Paulo. IGOR ... SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO ...",
+        "position": 4
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536524033/Premiacao-3%C2%BA-Ano-Em-Nivel-d-2019-1",
+        "snippet": "Simodo COLEGIO VISCONDE DE PORTO SEGURO - CAMPUS PANAMBY SÃO PAULO São Paulo ... LUCA DE FREITAS GARCIA SEI - SISTEMA DE ENSINO INTERATIVO RIO DE JANEIRO Rio de ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

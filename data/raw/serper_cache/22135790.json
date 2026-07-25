@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "22135790",
+  "NO_ENTIDADE": "ORGANIZACAO EDUCACIONAL APOIO LTDA",
+  "cidade": "Parnaíba",
+  "query": "\"ORGANIZACAO EDUCACIONAL APOIO LTDA\" \"Parnaíba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ORGANIZACAO EDUCACIONAL APOIO LTDA\" \"Parnaíba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Veja as 100 escolas do Piauí com maiores médias no Enem ...",
+        "link": "https://g1.globo.com/pi/piaui/noticia/2016/10/veja-100-escolas-do-piaui-com-maiores-medias-no-enem-2015.html",
+        "snippet": "41 ) Einstein Sistema de Ensino - Unidade I (Teresina) - privada - 548,11 ... 66 ) Organizacao Educacional Apoio ltda (Parnaíba) - privada - 523, ...",
+        "date": "5 de out. de 2016",
+        "position": 1
+      },
+      {
+        "title": "RESULTADO DA XV OLIMPÍADA BRASILEIRA DE ...",
+        "link": "https://www.obquimica.sertanustecnologia.com.br/arquivos/download/1667/Resultado%20da%20OBQJr%202022%20Fase%20I%20-%20Classificados%20para%20a%20Fase%20II.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP. BÁRBARA PINHEIRO PUGET CRUZ ... ORGANIZACAO EDUCACIONAL APOIO LTDA. ANA LUIZA COSTA CANDIDO. PI PARNAÍBA.",
+        "position": 2
+      },
+      {
+        "title": "Premiação da II OBCH 2025 | PDF | Brasil",
+        "link": "https://pt.scribd.com/document/710287007/Premiados-II-OBCH-2",
+        "snippet": "Laura Newman Sousa ORGANIZACAO EDUCACIONAL APOIO LTDA ... Resultado Preliminar Concurso Parnaíba. PDF. Ainda não há avaliações. Resultado Preliminar Concurso ...",
+        "position": 3
+      },
+      {
+        "title": "Centro de Ensino Médio de Tempo Integral Polivalente ...",
+        "link": "https://www.escol.as/50606-centro-de-ensino-medio-de-tempo-integral-polivalente-lima-rebelo",
+        "snippet": "Localizada em Parnaíba - PI, o Centro de Ensino Médio de Tempo Integral Polivalente Lima Rebelo oferece um ambiente presencial e diurno para educação ...",
+        "position": 4
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "ORGANIZACAO EDUCACIONAL APOIO LTDA 33 Parnaíba PI ADVENTISTA DE LORENA ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

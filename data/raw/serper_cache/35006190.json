@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35006190",
+  "NO_ENTIDADE": "COLEGIO PROGRESSO ITU",
+  "cidade": "Itu",
+  "query": "\"COLEGIO PROGRESSO ITU\" \"Itu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PROGRESSO ITU\" \"Itu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3523909-itu/busca",
+        "snippet": "COLEGIO PROGRESSO ITU. DE CONDE PARNAIBA, 257. CENTRO. 13300143 Itu - São ... SISTEMA DE ENSINO COLEGIO. SILVIO FLEMING CAPITAO, 331 - RUA. VILA NOVA ...",
+        "position": 1
+      },
+      {
+        "title": "Ranking de escolas no ENEM na cidade de Itú - SP",
+        "link": "https://www.melhorescola.com.br/escola/ranking-enem/sao-paulo/itu",
+        "snippet": "colegio progresso itu. Sem avaliações. centro • Itu - SP. Nota ENEM: 654.05 ... sistema de ensino colegio. Sem avaliações. vila nova • Itu - SP. Nota ENEM ...",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.3.privada.do.htm",
+        "snippet": "COLEGIO PROGRESSO ITU, P, ITU, SP, Bronze, ---. RAFAEL GARCIA ROSA, DELTA COLEGIO, P ... COLEGIO KELVIN SISTEMA DE ENSINO CATANDUVA, P, CATANDUVA, SP, ---, Sim.",
+        "position": 3
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 9° ANO",
+        "link": "https://obquimica.org/storage/files/01K92D8X8J0CBEC6S5CFDQXAWT.pdf",
+        "snippet": "SISTEMA DE ENSINO AUTHENTICO. PA. Belém. OURO. Echilly Gonçalves Marques. CENTRO DE ... COLEGIO PROGRESSO ITU. SP. Itu certificado YOLANDA LUIZA C. DE ANDRADE ...",
+        "position": 4
+      },
+      {
+        "title": "Nome Série Cidade Escola",
+        "link": "https://abqsp.org.br/wp-content/uploads/2026/02/Habilitados-1a-Prova-Seletiva-OQSP-2026.pdf",
+        "snippet": "... SISTEMA DE ENSINO. Ana Luiza Bueno Cardoso. 2ª Série ou. Inferior ... COLEGIO PROGRESSO ITU. Cauê Victor Machado Vilas Boas. 2ª Série ou.",
+        "date": "25 de fev. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

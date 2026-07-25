@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31166359",
+  "NO_ENTIDADE": "ASSEIJ - COLEGIO NOSSA SENHORA DAS DORES",
+  "cidade": "Uberaba",
+  "query": "\"ASSEIJ - COLEGIO NOSSA SENHORA DAS DORES\" \"Uberaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ASSEIJ - COLEGIO NOSSA SENHORA DAS DORES\" \"Uberaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "RESULTADO DA XV OLIMPÍADA BRASILEIRA DE ...",
+        "link": "https://obquimica.org/storage/olympiads/result-files/Resultado%20da%20OBQJr%202022.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP. PRATA. ANA BEATRIZ CASTANHO ... ASSEIJ COLEGIO NOSSA SENHORA DAS DORES. MENÇÃO HONROSA MARIA EDUARDA ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE. 628,66. 596,47. 652,65. 612,81. 652,72. 747,74 ... UBERABA. Privada. COLEGIO CENECISTA DR JOSE FERREIRA. 623,79. 588,10.",
+        "date": "22 de dez. de 2014",
+        "position": 2
+      },
+      {
+        "title": "Apresentação do PowerPoint - Prefeitura de Belo Horizonte",
+        "link": "https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/procuradoria/portaldasparcerias/a%20sistem%C3%A1tica%20de%20monitoramento%20a%20sistem%C3%A1tica%20de%20monitoramento%20a%20sistem%C3%A1tica%20de%20monitoramento%20a%20sistem%C3%A1tica%20de%20monitoramento%20a%20sistem%C3%A1tica%20de%20monitora.pdf",
+        "snippet": "alimentação, material didático e bolsas. (trabalho/permanência). 89.898. 1.199 ... Asseij- Colégio Nossa Senhora Das Dores. •. Assistencia E Promoção Social ...",
+        "position": 3
+      },
+      {
+        "title": "RESULTADO DA XV OLIMPÍADA BRASILEIRA DE ...",
+        "link": "https://www.obquimica.sertanustecnologia.com.br/arquivos/download/1667/Resultado%20da%20OBQJr%202022%20Fase%20I%20-%20Classificados%20para%20a%20Fase%20II.pdf",
+        "snippet": "ASSEIJ COLEGIO NOSSA SENHORA DAS DORES. ANA CLARA GONÇALVES TELES. MG ... SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP. BÁRBARA PINHEIRO PUGET CRUZ.",
+        "position": 4
+      },
+      {
+        "title": "Classificação XV Olimpíada Química Júnior | PDF",
+        "link": "https://pt.scribd.com/document/909165365/165558436662ae366e01d56-Resultado-Da-Obqjr-2022-Fase-i-Classificados-Para-a-Fase-II",
+        "snippet": "HENRIQUE AUGUSTO DE SA LEITE MG UBERABA ASSEIJ COLEGIO NOSSA SENHORA DAS DORES ... SOPHIA SAMIRA ABDUL RAHMAN LAMAS PA BELÉM SISTEMA DE ENSINO EQUIPE ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

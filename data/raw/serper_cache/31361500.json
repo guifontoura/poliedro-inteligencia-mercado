@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31361500",
+  "NO_ENTIDADE": "COLEGIO PROFESSOR ROBERTO HERBSTER GUSMAO",
+  "cidade": "Sete Lagoas",
+  "query": "\"COLEGIO PROFESSOR ROBERTO HERBSTER GUSMAO\" \"Sete Lagoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PROFESSOR ROBERTO HERBSTER GUSMAO\" \"Sete Lagoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Josiane Domingues - Coordenadora de Ensino",
+        "subtitle": "Sete Lagoas, Minas Gerais, Brasil · Coordenadora de Ensino do Colégio Professor Roberto Herbster Gusmão · Fundação Zerrenner",
+        "link": "https://br.linkedin.com/in/josiane-domingues-b86782111",
+        "snippet": "Josiane Domingues. Coordenadora de Ensino | Colégio Professor Roberto Herbster Gusmão. Fundação Zerrenner UNIFEMM - Centro Universitário de Sete Lagoas ...",
+        "position": 1
+      },
+      {
+        "title": "55 vagas de professor a de ensino superior – Lagoa Santa ...",
+        "link": "https://www.glassdoor.com.br/Vaga/lagoa-santa-professor-a-de-ensino-superior-vagas-SRCH_IL.0,11_IC2408078_KO12,42.htm",
+        "snippet": "Sete Lagoas, Minas Gerais. Candidatura rápida. O Colégio Professor Roberto Herbster Gusmão está com uma oportunidade para Pedagogo(a) / Orientador(a) ...",
+        "position": 2
+      },
+      {
+        "title": "Ordem Nome Cidade",
+        "link": "http://conteudo.silemg.com.br/Concurso/ListaEscolas-Inscritas-ConcursoRedacaoDesenho2022.pdf",
+        "snippet": "SETE LAGOAS. 214 ALPHA SETE LAGOAS. SETE LAGOAS. 215 Colégio Professor Roberto Herbster Gusmão. SETE LAGOAS. 216 Colégio Professor Roberto Hebster Gusmão. SETE ...",
+        "position": 3
+      },
+      {
+        "title": "Eventos – Pequi 2024",
+        "link": "https://www.xciencia.org/eventos-pequi-2024/",
+        "snippet": "E que no final você vai ganhar kits com material didático para suas aulas? ... FERNANDO AUGUSTO MOREIRA – Colégio Professor Roberto Herbster Gusmão – Escola ...",
+        "position": 4
+      },
+      {
+        "title": "Marlí Valgas da Costa",
+        "link": "https://www.escavador.com/sobre/9411870/marli-valgas-da-costa",
+        "snippet": "... Colégio Professor Roberto Herbster Gusmão - Fundação Zerrenner e atende como ... 2º Sete Lagoas Talks - Futuro do Trabalho. 2019. (Encontro) ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

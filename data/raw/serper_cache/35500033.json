@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35500033",
+  "NO_ENTIDADE": "CIDADE RIO PRETO COLEGIO",
+  "cidade": "São José do Rio Preto",
+  "query": "\"CIDADE RIO PRETO COLEGIO\" \"São José do Rio Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CIDADE RIO PRETO COLEGIO\" \"São José do Rio Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.3.privada.do.htm",
+        "snippet": "CIDADE RIO PRETO COLEGIO, P, SÃO JOSÉ DO RIO PRETO, SP, Bronze, ---. GUILHERME ... COLEGIO KELVIN SISTEMA DE ENSINO CATANDUVA, P, CATANDUVA, SP, ---, Sim.",
+        "position": 1
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... São José do Rio Preto. AFONSO EMÍDIO SARAIVA SOARES ALCANFÔR. 3º ano - Ensino ... CIDADE RIO PRETO COLEGIO. 35500033 SP. São José do Rio Preto. AMANDA ...",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Sim. MARIA EDUARDA BATISTA ... SOCIEDADE EDUCACIONAL INVICTUS DE SÃO JOSÉ DO RIO PRETO LTDA, P, SÃO JOSÉ DO ...",
+        "position": 3
+      },
+      {
+        "title": "Desempenho de Alunos do Ensino Médio | PDF | Faculdade",
+        "link": "https://pt.scribd.com/document/897959944/OBB-Alunos-Fase-2-Geral",
+        "snippet": "AMANDA CLÁUDIO 2º ano - Ensino Médio 15 19 CIDADE RIO PRETO COLEGIO 35500033 SP São José do Rio Preto ... SISTEMA DE ENSINO 35159013 SP Rio Claro ANA CLARA ...",
+        "position": 4
+      },
+      {
+        "title": "America School For Kids Escola Bilingue - São José do ...",
+        "link": "https://www.escol.as/279358-america-school-for-kids-escola-bilingue",
+        "snippet": "Como está avaliada a escola America School For Kids Escola Bilingue localizada na cidade de São José do Rio Preto ... material didático diversificado e ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31314749",
+  "NO_ENTIDADE": "COLEGIO ALUMNUS",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO ALUMNUS\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ALUMNUS\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "No dia 12 de setembro, tivemos uma manhã cheia ...",
+        "link": "https://www.instagram.com/p/DOy9X08khVR/",
+        "snippet": "... Sistema de Ensino. ... Os microdados do ENEM 2025 foram divulgados e consolidaram o Colégio Alumnus no topo da educação de Belo Horizonte!",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio São José - Escolápias",
+        "link": "https://www.linkedin.com/company/csjbh",
+        "snippet": "Com plataforma e material didático do Bernoulli Sistema de Ensino ... Belo Horizonte, Minas Gerais. Type: Partnership ... Colégio Alumnus. Primary and ...",
+        "position": 2
+      },
+      {
+        "title": "15 estudantes do Bernoulli foram aprovados para a fase 2 ...",
+        "link": "https://www.instagram.com/p/DQC8mqxjz6l/",
+        "snippet": "O Sistema de Ensino ... Os microdados do ENEM 2025 foram divulgados e consolidaram o Colégio Alumnus no topo da educação de Belo Horizonte!",
+        "date": "há 9 meses",
+        "position": 3
+      },
+      {
+        "title": "Brenda Campos de Oliveira Freire",
+        "link": "https://www.escavador.com/sobre/6762762/brenda-campos-de-oliveira",
+        "snippet": "... Belo Horizonte e a Mostra Curió - representatividades e protagonismos ... Colégio Alumnus e como professora regente na Educação Infantil e Ensino ...",
+        "position": 4
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGIO ALUMNUS. 2,2%. COLEGIO ANGULO MINAS. 3,8%. COLEGIO APRIMORAR. 1,8 ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA - UNIDADE ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

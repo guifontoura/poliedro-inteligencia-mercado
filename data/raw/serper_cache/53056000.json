@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "53056000",
+  "NO_ENTIDADE": "COL OLIMPO",
+  "cidade": "Brasília",
+  "query": "\"COL OLIMPO\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL OLIMPO\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "RESULTADO POR REGIÃO",
+        "link": "https://ceara.obquimica.org/storage/files/resultado-do-i-quimeninas-2023-9-ano-ef.pdf",
+        "snippet": "COL OLIMPO. DISTRITO FEDERAL. BRASÍLIA. OURO. 2. 1719657 SOFIA DORNELLAS ... SISTEMA DE ENSINO PHYSICS AMAPÁ LTDA. AMAPÁ. MACAPÁ. AMAZONAS (AM). 1710837 ...",
+        "position": 1
+      },
+      {
+        "title": "LISTA DAS ESCOLAS CONVIDADAS DA TURMA 11",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/ESCOLAS-TURMA-11.pdf",
+        "snippet": "Brasília. COL OLIMPO DE AGUAS CLARAS. 53015789. 96283. Turma. 11. DF. Brasília. Colégio Olimpo DF. 53056000. 49120. Turma. 11. ES. Anchieta. EMEB Tia Marlene ...",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ... Col Olimpo - Brasília - Asa Sul - Nota: 728.55. Colegio Olimpo Aguas ...",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536524033/Premiacao-3%C2%BA-Ano-Em-Nivel-d-2019-1",
+        "snippet": "Ivan Lucas Santana Pinto de Queiroz COL OLIMPO DISTRITO FEDERAL Brasília GUSTAVO HENRIQUE LEITE NASCIMENTTO SIGMA L2 NORTE DISTRITO FEDERAL Brasília FILIPE ...",
+        "position": 4
+      },
+      {
+        "title": "exercicios de biologia | Exercícios Biologia",
+        "link": "https://www.docsity.com/pt/docs/exercicios-de-biologia-10/5870529/",
+        "snippet": "... COL OLIMPO DISTRITO FEDERAL Brasília LEONARDO PAILLO DA SILVA COLEGIO MILITAR DE CAMPO GRANDE ... SISTEMA DE ENSINO MATO GROSSO Cuiabá RENATA ABDUL ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

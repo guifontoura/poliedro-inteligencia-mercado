@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35811385",
+  "NO_ENTIDADE": "PENHENSE ESCOLA ESP",
+  "cidade": "São Paulo",
+  "query": "\"PENHENSE ESCOLA ESP\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PENHENSE ESCOLA ESP\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "10 melhores escolas particulares na zona leste de São Paulo",
+        "link": "https://www.melhorescola.com.br/artigos/melhores-escolas-na-zona-leste-de-sao-paulo",
+        "snippet": "Endereço: Rua Coronel Manuel Feliciano De Souza, 916 - Vila Jacuí, São Paulo - SP. 10) Penhense Escola Esp. Nota Enem: 625,96.",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.1.privada.do.htm",
+        "snippet": "ANGLO SISTEMA DE ENSINO, P, TATUI, SP, ---, Sim. IAN MAZZUCATTO PUCINELI ... SAO PAULO DA CRUZ COLEGIO PASSIONISTA, P, SÃO PAULO, SP, ---, Sim. IRIS TANG KUANG ...",
+        "position": 2
+      },
+      {
+        "title": "Escolas em Penha De Franca na cidade de São Paulo",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/sao-paulo-sp/penha-de-franca",
+        "snippet": "Penhense Escola Esp. 5.0(5). Penha de Franca - São Paulo - SP. Saiba mais ... Material Didático Incluso. Vagas 2026. Vagas 2026. R$ 2.847,94. R$ 1.993,56 /mês ...",
+        "position": 3
+      },
+      {
+        "title": "LISTA DE APROVADOS OBB 2018",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/arquivos/provas_gabaritos_classificacoes/OBB_2018/Lista%20Aprovados%20OBB%202018%201a%20Fase.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE CRISTAL II EIRELI-EPP. 20. BELÉM. ANA FLAVIA F ... INSTITUTO FEDERAL DE SAO PAULO CAMPUS - BRAGANCA PAULISTA. 19. BRAGANÇA PAULISTA.",
+        "position": 4
+      },
+      {
+        "title": "Notas Médias do ENEM 2010 dos alunos concluintes do ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_2_MUNICIPIOS.pdf",
+        "snippet": "... SÃO PAULO. JUNDIAI. CRISTAO DE JUNDIAI CCJ COLEGIO. PRIVADA. 16. 16. 614 ... SISTEMA DE ENSINO ENERGIA LAGES. PRIVADA. 61. 61. 559,69. 598,83. 612.",
+        "date": "11 de set. de 2011",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

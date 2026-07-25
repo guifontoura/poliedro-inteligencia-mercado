@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35175420",
+  "NO_ENTIDADE": "CRESCER DE JUNDIAI COLEGIO",
+  "cidade": "Jundiaí",
+  "query": "\"CRESCER DE JUNDIAI COLEGIO\" \"Jundiaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CRESCER DE JUNDIAI COLEGIO\" \"Jundiaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "CRESCER DE JUNDIAI COLEGIO, P, JUNDIAI, SP, Bronze. ARTHUR KOJI MIYASAWA, ESCOLA ... SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Bronze. JOÃO LUCAS ...",
+        "position": 1
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. AL. Maceió. Certficado LAYLA MICHELE ... CRESCER DE JUNDIAI COLEGIO. SP. Jundiaí. Certficado VICTÓRIA P. DOS SANTOS.",
+        "position": 2
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "CRESCER DE JUNDIAI COLEGIO 54 Jundiaí SP COLEGIO BOM JESUS JOANA D ARC 39 ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 3
+      },
+      {
+        "title": "E-metodo",
+        "link": "https://emetodo60.unisa.br/formulario/ficha/inscricao/2452",
+        "snippet": "ANGLO SISTEMA DE ENSINO, ANHANGUERA, ANHEMBI MORUMBI COLEGIO, ANIBAL DE FREITAS ... CRESCER DE JUNDIAI COLEGIO, CRESCER ESCOLA BATISTA, CRESCER SEMPRE ...",
+        "position": 4
+      },
+      {
+        "title": "Conde do Parnaiba - Jundiaí - SP",
+        "link": "https://www.escol.as/191253-conde-do-parnaiba",
+        "snippet": "... material didático, jogos educativos, acervo multimídia, equipamentos de ... Crescer de Jundiai Colegio. Centro, Jundiaí - SP · Ensino Médio; Ensino ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

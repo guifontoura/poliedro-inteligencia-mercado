@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "51036193",
+  "NO_ENTIDADE": "MASTER GENESIS ALVORADA",
+  "cidade": "Cuiabá",
+  "query": "\"MASTER GENESIS ALVORADA\" \"Cuiabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"MASTER GENESIS ALVORADA\" \"Cuiabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colegio Master Genesis Alvorada em Cuiabá, MT",
+        "link": "https://www.econodata.com.br/consulta-empresa/37464211000438-centro-educacional-albert-einstein-colegio-e-curso-master-ltda",
+        "snippet": "Consulte Colegio Master Genesis Alvorada: CNPJ 37.464.211/0004-38, sede em Cuiabá/MT ... material didático contextualizado, incluindo videoaulas ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Master terá unidade na região do CPA em 2020 com ...",
+        "link": "https://www.colegiomaster.com.br/colegio-master-tera-unidade-na-regiao-do-cpa-em-2020-com-ensino-medio/",
+        "snippet": "... Master Gênesis Alvorada, para atender a região do grande CPA, desde a ... É toda a qualidade e credibilidade que você já conhece e o sistema de ensino Eleva mais ...",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as escolas com as maiores notas de ...",
+        "link": "https://ehfonte.com.br/ehnoticia/enem-2025-conheca-as-escolas-com-as-maiores-notas-de-mato-grosso/",
+        "snippet": "Farina Sistema de Ensino – Cuiabá – Areão – Nota: 668.92; Inst ... Master Genesis Alvorada – Cuiabá – Jardim Aclimação – Nota: 638.66 ...",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Confira lista das 50 melhores escolas de MT, segundo o ...",
+        "link": "https://noticiaexata.com.br/educacao/confira-lista-das-50-melhores-escolas-de-mt-segundo-o-enem-duas-de-alta-floresta/",
+        "snippet": "3º Farina Sistema de Ensino Cuiabá Privada 668,78 472º 4º Colégio ... 18º Master Genesis Alvorada Cuiabá Privada 630,24 1930º 19º ...",
+        "date": "16 de jul. de 2025",
+        "position": 4
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/5103403-cuiaba/busca",
+        "snippet": "FARINA SISTEMA DE ENSINO. MIGUEL SUTIL, 1695. AREÃO. 78010500 Cuiabá - Mato ... MASTER GENESIS ALVORADA. H, 28. JARDIM ACLIMAÇÃO. 78050252 Cuiabá - Mato ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

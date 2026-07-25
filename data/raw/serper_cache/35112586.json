@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35112586",
+  "NO_ENTIDADE": "NOSSA SRA AUXILIADORA COLEGIO SALESIANO",
+  "cidade": "Campinas",
+  "query": "\"NOSSA SRA AUXILIADORA COLEGIO SALESIANO\" \"Campinas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"NOSSA SRA AUXILIADORA COLEGIO SALESIANO\" \"Campinas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... CAMPINAS. Estadual CAMPINAS COLEGIO TECNICO DE - UNICAMP. 654,90. 603 ... NOSSA SRA AUXILIADORA COLEGIO SALESIANO. 629,57. 591,29. 693,09. 588 ...",
+        "date": "22 de dez. de 2014",
+        "position": 1
+      },
+      {
+        "title": "RELAÇÃO DE INSCRIÇÕES RECEBIDAS NO 15º ...",
+        "link": "https://www.gov.br/cgu/pt-br/educacao-cidada/programas/desenho-redacao/relacao-de-inscricoes-15-cdr.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE. PRIVADA. PARAGOMINAS. 5. EMEIEF ASSOCIAÇÃO DA ... CAMPINAS DO SUL. 4. ESC EST ENS FUN NOSSA SENHORA DA PAZ. PÚBLICA ...",
+        "date": "3 de jul. de 2026",
+        "position": 2
+      },
+      {
+        "title": "Classificados da 3ª e 4ª séries para a Prova 2 da Seletiva ...",
+        "link": "https://abqsp.org.br/wp-content/uploads/2024/04/Classificados-Prova-2-Seletiva-3a-.pdf",
+        "snippet": "CAMPINAS COLEGIO TECNICO DE - UNICAMP. Giovana Maria Vechiato Neves. IA ... NOSSA SRA.AUXILIADORA COLEGIO SALESIANO. Vanessa Dos Santos Marques. SAO LUCAS ...",
+        "position": 3
+      },
+      {
+        "title": "ENEM School Performance Overview | PDF | São Paulo",
+        "link": "https://www.scribd.com/document/407496718/ENEM-2011",
+        "snippet": "SP CAMPINAS NOSSA SRA AUXILIADORA COLEGIO SALESIANO Privada 570.8390243902 571.4170731707 607.4902439024 689.0609756098 648.1707317073 41 82.00 609.7018292683",
+        "position": 4
+      },
+      {
+        "title": "E-metodo",
+        "link": "https://emetodo60.unisa.br/formulario/ficha/inscricao/2452",
+        "snippet": "NOSSA SRA.AUXILIADORA COLEGIO SALESIANO, NOTRE DAME COLEGIO UNIDADE III, NOTRE DAME DE CAMPINAS COLEGIO, NOTRE DAME RAINHA DOS APOSTOLOS COLEGIO, NOVA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

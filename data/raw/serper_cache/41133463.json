@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "41133463",
+  "NO_ENTIDADE": "COLEGIO SENHORA DE FATIMA ED INF ENSINO FUND MEDIO SC LTDA",
+  "cidade": "Curitiba",
+  "query": "\"COLEGIO SENHORA DE FATIMA ED INF ENSINO FUND MEDIO SC LTDA\" \"Curitiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SENHORA DE FATIMA ED INF ENSINO FUND MEDIO SC LTDA\" \"Curitiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO UNO VERTICE, P, DIVINOPOLIS, MG, Bronze. HEITOR SOARES DE ... COLEGIO SENHORA DE FATIMA ED INF ENSINO FUND MEDIO SC LTDA, P, CURITIBA, PR ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/",
+        "snippet": "CURITIBA, PR, Privada, 80% ou mais, Muito Alto, 657.71, 617.15, 724.88 ... COLEGIO SENHORA DE FATIMA ED INF ENSINO FUND MEDIO SC LTDA, CURITIBA ...",
+        "date": "5 de ago. de 2015",
+        "position": 2
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "COLEGIO SENHORA DE FATIMA ED INF ENSINO FUND MEDIO SC LTDA. PR. 1370 ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL. PB. 7312. SUELI ...",
+        "position": 3
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/enem-2013-mediaporescola.pdf",
+        "snippet": "... CURITIBA. Privada. COLEGIO DOM BOSCO - EDUCACAO INFANTIL ENS ... SISTEMA DE ENSINO EQUIPE. 628,66. 596,47. 652,65. 612,81. 652,72. 747,74. 98,39.",
+        "date": "22 de dez. de 2014",
+        "position": 4
+      },
+      {
+        "title": "Lista com desempenho das escolas no Enem 2014",
+        "link": "https://ptdocz.com/doc/1409101/lista-com-desempenho-das-escolas-no-enem-2014",
+        "snippet": "... CURITIBA PR 54 EMBRAER JUAREZ WANDERLEY COLEGIO SAO JOSE DOS CAMPOS SP 55 ... SISTEMA DE ENSINO TERESINA PI 202 UNIDADE DE ENSINO COLEGIO SINODAL - SAO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

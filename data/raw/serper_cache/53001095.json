@@ -1,0 +1,39 @@
+{
+  "codigo_escola": "53001095",
+  "NO_ENTIDADE": "C EDUCACIONAL LEONARDO DA VINCI - UNID NORTE",
+  "cidade": "Brasília",
+  "query": "\"C EDUCACIONAL LEONARDO DA VINCI - UNID NORTE\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"C EDUCACIONAL LEONARDO DA VINCI - UNID NORTE\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Colégio Podion Ens Fund e Médio - 746,36 - Brasília (Distrito Federal) - Particular - Sem informação ... C Educacional Leonardo da Vinci - Unid ...",
+        "date": "23 de jun. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ... C Educacional Leonardo da Vinci - Unid Norte - Brasília - Asa Norte ...",
+        "date": "23 de jun. de 2026",
+        "position": 2
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 1° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DAA25DGW9E54FSE2QMDYT.pdf",
+        "snippet": "SISTEMA DE ENSINO AUTHENTICO. PA. Belém certificado CLARYSSA BARROS DE ... C EDUCACIONAL LEONARDO DA VINCI - UNID NORTE. DF. Brasília certificado OLIVIA ...",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

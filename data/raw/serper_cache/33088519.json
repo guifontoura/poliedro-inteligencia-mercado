@@ -1,0 +1,56 @@
+{
+  "codigo_escola": "33088519",
+  "NO_ENTIDADE": "COLEGIO SANTA MONICA - BONSUCESSO",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO SANTA MONICA - BONSUCESSO\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA MONICA - BONSUCESSO\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colegio Santa Monica - Bonsucesso - Rio de Janeiro - RJ",
+        "link": "https://www.escol.as/294382-colegio-santa-monica-bonsucesso",
+        "snippet": "... Rio de Janeiro - RJ; ›; Manguinhos; ›; Colegio Santa Monica - Bonsucesso. Colegio ... material didático inovador. Além disso, conta com uma equipe de ...",
+        "position": 1
+      },
+      {
+        "title": "Reclamação Práticas Abusivas do Colégio Santa Mônica ...",
+        "link": "https://www.reclameaqui.com.br/colegio-santa-monica/reclamacao-praticas-abusivas-do-colegio-santa-monica-bonsucesso-situada-na_ODL3ZtamIwTy0OvP/",
+        "snippet": "Prezados(as), Ao ensejo de cumprimentá-los, com a cordialidade de sempre, formalizo a reclamação em face do Colégio Santa Mônica Bonsucesso em ...",
+        "sitelinks": [
+          {
+            "title": "1 resposta",
+            "link": "https://www.reclameaqui.com.br//colegio-santa-monica/reclamacao-praticas-abusivas-do-colegio-santa-monica-bonsucesso-situada-na_ODL3ZtamIwTy0OvP/"
+          }
+        ],
+        "position": 2
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/rio-de-janeiro/",
+        "snippet": "COLEGIO SANTA MONICA - BONSUCESSO, RIO DE JANEIRO, RJ, Privada, De 40% a 60%, Alto, 586.44, 578.64, 590.00, 562.89, 614.23, 716.07. 224, 1661 ...",
+        "date": "5 de ago. de 2015",
+        "position": 3
+      },
+      {
+        "title": "Rio de Janeiro 4912 escolas",
+        "link": "https://qedu.org.br/municipio/3304557-rio-de-janeiro/busca",
+        "snippet": "... SISTEMA DE ENSINO LTDA. RUA MAURICIO DA COSTA FARIA, 762. RECREIO DOS ... COLEGIO SANTA MONICA - BONSUCESSO. DOS DEMOCRATICOS, 1251. MANGUINHOS. 21050000 ...",
+        "position": 4
+      },
+      {
+        "title": "Instituições",
+        "link": "https://www.tjrj.jus.br/documents/1017893/1294906/instituicoes-capital.xls",
+        "snippet": "RIO DE JANEIRO, SANTA CRUZ, COLEGIO SANTA CRUZ, AV JOAO XXIII, 411, 23560352. 962, RIO DE JANEIRO, HIGIENOPOLIS, COLEGIO SANTA MONICA - BONSUCESSO, AV DOS ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

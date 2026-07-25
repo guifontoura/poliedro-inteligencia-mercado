@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "31004171",
+  "NO_ENTIDADE": "COLEGIO NOSSA SENHORA DAS DORES",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO NOSSA SENHORA DAS DORES\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NOSSA SENHORA DAS DORES\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Você acredita que certos valores deveriam ser ensinados ...",
+        "link": "https://www.instagram.com/p/DWje_dnknGP/",
+        "snippet": "... Belo Horizonte, em que tradição, inovação e ensino de alto nível ... Sabe o que torna o Colégio Nossa Senhora das Dores diferente de qualquer ...",
+        "date": "há 3 meses",
+        "position": 1
+      },
+      {
+        "title": "CNSD ITABIRA-MG | ✨ Descobri recentemente o segredo que ...",
+        "link": "https://www.instagram.com/reel/DRF2haGjSvc/",
+        "snippet": "... Colégio Nossa Senhora das Dores é completo: do Infantil ao Ensino ... Programa bilíngue, robótica, socioemocional e ainda usam sistema de ensino ...",
+        "date": "há 8 meses",
+        "position": 2
+      },
+      {
+        "title": "Escola - COLEGIO NOSSA SENHORA DAS DORES",
+        "link": "https://culturaeduca.cc/equipamento/escola_detalhe/31004171/",
+        "snippet": "Brasil / MG / Belo Horizonte / Entorno de Escola. CAMADAS. LIMPAR. Divisões ... SEJE SISTEMA DE ENSINO EIRELI R NOSSA SENHORA DE GUADALUPE - 510 - OURO ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio Nossa Senhora das Dores manda bem no ENEM ...",
+        "link": "https://g1.globo.com/mg/triangulo-mineiro/especial-publicitario/colegio-nossa-senhora-das-dores/noticia/2018/11/05/colegio-nossa-senhora-das-dores-manda-bem-no-enem-com-o-melhor-sistema-de-ensino-de-minas.ghtml",
+        "snippet": "Colégio Nossa Senhora das Dores manda bem no ENEM com o melhor Sistema de Ensino de Minas. Através da parceira com o Sistema de Ensino Bernoulli ...",
+        "date": "5 de nov. de 2018",
+        "position": 4
+      },
+      {
+        "title": "Instituto Teresa Valsé on Instagram: \"Cada escolha ...",
+        "link": "https://www.instagram.com/reel/DbDbj9DxTmt/",
+        "snippet": "... Colégio Nossa Senhora das Dores. Hoje a gente está aqui com os ... Rua César Campos, 55, Cidade Jardim, Belo Horizonte. (31) 3335-6107 ...",
+        "date": "há 3 dias",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "26033950",
+  "NO_ENTIDADE": "COLEGIO NOSSA SENHORA AUXILIADORA",
+  "cidade": "Petrolina",
+  "query": "\"COLEGIO NOSSA SENHORA AUXILIADORA\" \"Petrolina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NOSSA SENHORA AUXILIADORA\" \"Petrolina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Auxiliadora Petrolina on Instagram: \" Você sabia que ...",
+        "link": "https://www.instagram.com/reel/DOeBOvcEZV-/",
+        "snippet": "... Petrolina #Aluno #AuxiliadoraPetrolina #EnsinoMédio #Escola #Colégio ... ✨ Você sabia que as Matrículas 2026 do Colégio Nossa Senhora Auxiliadora ...",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "sobre nós",
+        "link": "https://auxiliadorapetrolina.com.br/sobre-nos/",
+        "snippet": "Seis Irmãs vindas do sul do Brasil e da Europa chegaram ao sertão pernambucano a convite do 1º bispo de Petrolina Dom Antonio Maria Malan. ... * Material Didático ...",
+        "position": 2
+      },
+      {
+        "title": "🎉📚 O Colégio Nossa Senhora Auxiliadora parabeniza, ...",
+        "link": "https://www.instagram.com/p/DUQodWNEUss/",
+        "snippet": "... Colégio Nossa Senhora Auxiliadora - Petrolina. ... Colégio Santa Mônica OBJETIVO SISTEMA DE ENSINO 17 anos 17 anos ...",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Auxiliadora Petrolina on Instagram: \"No colégio ...",
+        "link": "https://www.instagram.com/reel/DQK77e5kdSN/",
+        "snippet": "... Colégio Nossa Senhora Auxiliadora! Aproveite 20% de desconto e ... Petrolina #Pernambuco #Chuva\".",
+        "date": "há 9 meses",
+        "position": 4
+      },
+      {
+        "title": "A Expoart fez parte da história de muitos dos nossos ex ...",
+        "link": "https://www.instagram.com/reel/DbHE5nAO7VG/",
+        "snippet": "Colégio Nossa Senhora Auxiliadora - Petrolina. 518 likes ... ✓ Aproveitamento do material didático da escola anterior. ✓ Troca do ...",
+        "date": "há 1 dia",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

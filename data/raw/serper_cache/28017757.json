@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "28017757",
+  "NO_ENTIDADE": "COESI COLEGIO DE ORIENTACAO E ESTUDOS INTEGRADOS E ESCOLINHA DO RE MI EIRELI - EPP",
+  "cidade": "Aracaju",
+  "query": "\"COESI COLEGIO DE ORIENTACAO E ESTUDOS INTEGRADOS E ESCOLINHA DO RE MI EIRELI - EPP\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COESI COLEGIO DE ORIENTACAO E ESTUDOS INTEGRADOS E ESCOLINHA DO RE MI EIRELI - EPP\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "COESI Colégio de Orientação e Estudos Integrados e Escolinha do Re Mi Eireli - EPP - 667,25 - Aracaju (Sergipe) - Particular - 83%; Colégio ...",
+        "date": "23 de jun. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Coesi Colegio de Orientacao e Estudos Integrados e Escolinha do Re Mi Eireli - Epp - Aracaju - Grageru - Nota: 667.25. Colegio de Ciencias ...",
+        "date": "23 de jun. de 2026",
+        "position": 2
+      },
+      {
+        "title": "Grátis: Resultado da OBQJr 2022 - Material Claro e ...",
+        "link": "https://www.passeidireto.com/arquivo/147977834/resultado-da-obq-jr-2022",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP PRATA ANA BEATRIZ ... ARACAJU COLEGIO AMADEUS LTDA BRONZE EDUARDA BARBOZA AGUIAR SP SÃO ...",
+        "date": "16 de ago. de 2024",
+        "position": 3
+      },
+      {
+        "title": "RESULTADO DA XV OLIMPÍADA BRASILEIRA DE ...",
+        "link": "https://www.obquimica.sertanustecnologia.com.br/arquivos/download/1667/Resultado%20da%20OBQJr%202022%20Fase%20I%20-%20Classificados%20para%20a%20Fase%20II.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP. BÁRBARA PINHEIRO PUGET CRUZ ... COESI COLEGIO DE ORIENTACAO E ESTUDOS INTEGRADOS E ESCOLINHA DO RE MI EIRELI - ...",
+        "position": 4
+      },
+      {
+        "title": "Classificação XV Olimpíada Química Júnior | PDF",
+        "link": "https://pt.scribd.com/document/909165365/165558436662ae366e01d56-Resultado-Da-Obqjr-2022-Fase-i-Classificados-Para-a-Fase-II",
+        "snippet": "GABRIELA PESSOA ROCHA SE ARACAJU COESI COLEGIO DE ORIENTACAO E ESTUDOS INTEGRADOS E ESCOLINHA DO RE MI EIRELI - EPP GUILHERME DOS SANTOS GUIMARAES SE ARACAJU ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

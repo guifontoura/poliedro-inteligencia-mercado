@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "53016726",
+  "NO_ENTIDADE": "UNICO EDUCACIONAL",
+  "cidade": "Brasília",
+  "query": "\"UNICO EDUCACIONAL\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"UNICO EDUCACIONAL\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Instituição",
+        "link": "https://unicoeducacional.com.br/institucional/",
+        "snippet": "É evidente que o colégio tem seus diferenciais, como o ritmo puxado, professores experientes e especialistas em suas áreas e material didático feito sob medida.",
+        "position": 1
+      },
+      {
+        "title": "O início de um ano letivo único está chegando! Estamos ...",
+        "link": "https://www.instagram.com/p/DTxzagmgC8u/",
+        "snippet": "Photo by Único Educacional | Colégio e Pré-Vestibular em Brasília on January 21, ... Inove Sistema de Ensino aprender. Descobrir um mundo ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Eduardo Fernandes Batista",
+        "link": "https://www.escavador.com/sobre/6924653/eduardo-fernandes-batista",
+        "snippet": "Brasília: UNICO EDUCACIONAL, 2018 (MATERIAL DIDÁTICO). FERNANDES, Eduardo ... (Desenvolvimento de material didático ou instrucional - Apostila).",
+        "position": 3
+      },
+      {
+        "title": "GOVERNO DO DISTRITO FEDERAL SECRETARIA DE ...",
+        "link": "https://www.educacao.df.gov.br/documents/d/seedf/190-2015-cedf-unico-educacional-pdf",
+        "snippet": "instituição Único Educacional, situada no SGAS Quadra 606, Conjunto F, Parte A, Brasília –. Distrito Federal, mantida pela Associação JAM & M de Ensino ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio Mary Ward on Instagram: \"Esse é o Luigi Pimentel ...",
+        "link": "https://www.instagram.com/reel/DWCVj1wk_34/",
+        "snippet": "Ter o melhor sistema de ensino. Os melhores resultados. E os melhores professores. ... UNICO EDUCACIONAL - DF, 10. FARIAS BRITO - CE, 11 ...",
+        "date": "há 4 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

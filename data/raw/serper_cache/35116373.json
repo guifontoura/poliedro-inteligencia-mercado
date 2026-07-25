@@ -1,0 +1,32 @@
+{
+  "codigo_escola": "35116373",
+  "NO_ENTIDADE": "COLEGIO AGOSTINIANO SAO JOSE",
+  "cidade": "São José do Rio Preto",
+  "query": "\"COLEGIO AGOSTINIANO SAO JOSE\" \"São José do Rio Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO AGOSTINIANO SAO JOSE\" \"São José do Rio Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Vivendo a experiência no São José",
+        "link": "https://www.tiktok.com/@iesaojose/video/7374418219496459525",
+        "snippet": "... São José do Rio Preto (SP), viralizaram nesta semana. A jovem, que ... material didático TRI ENEM, professores experientes Várzea ...",
+        "date": "há 2 anos",
+        "position": 1
+      },
+      {
+        "title": "Escola Em São Jose Do Rio Preto Sp",
+        "link": "https://www.tiktok.com/discover/escola-em-s%C3%A3o-jose-do-rio-preto-sp",
+        "snippet": "Descubra a Escola em São José do Rio Preto-SP, onde paixões e aprendizado se encontram ... Sistema de Ensino Anglo, qualidade de vida em São José ...",
+        "position": 2
+      }
+    ],
+    "credits": 1
+  }
+}

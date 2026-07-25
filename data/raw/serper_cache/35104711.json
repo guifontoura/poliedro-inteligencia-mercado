@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35104711",
+  "NO_ENTIDADE": "ESCOLA ALEF PERETZ",
+  "cidade": "São Paulo",
+  "query": "\"ESCOLA ALEF PERETZ\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA ALEF PERETZ\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Bruno Galeano Email - Professor @ Escola Alef Peretz",
+        "link": "https://rocketreach.co/bruno-galeano-email_177082098",
+        "snippet": "2021 - now Revisão e Edição de Material Didático @ Somos Educação ... Laura Scarparo. English Language Teacher at Escola Alef Peretz. State of São Paulo, Brazil.",
+        "position": 1
+      },
+      {
+        "title": "Escola de SP adota pochetes que trancam celular dos alunos.",
+        "link": "https://go.gale.com/ps/i.do?id=GALE%7CA783777408&sid=sitemap&v=2.1&it=r&p=IFME&sw=w",
+        "snippet": "Uma escola particular de São Paulo adotou para este ano, como material didático ... A novidade terá início na próxima segunda-feira (19) na escola Alef Peretz ...",
+        "position": 2
+      },
+      {
+        "title": "Relatório 2020",
+        "link": "https://alefperetz.org.br/wp-content/uploads/2024/02/RELATORIO_2019_2020_5747eb7a2b.pdf",
+        "snippet": "A pergunta é simples e direta: “Em uma escala de 0 a 10, o quanto você recomendaria a Escola Alef Peretz para um amigo? ... Material didático. Material de ...",
+        "position": 3
+      },
+      {
+        "title": "Confira lista de escolas bilíngues no Rio e São Paulo e ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/07/24/confira-lista-de-escolas-bilingues-no-rio-e-sao-paulo-e-conheca-guia-com-preco-das-mensalidades.ghtml",
+        "snippet": "Escola Alef Peretz - São Paulo; Beacon School - São Paulo; Aubrick ... sistema de ensino. Há ainda o detalhamento sobre quais atividades ...",
+        "date": "há 16 horas",
+        "position": 4
+      },
+      {
+        "title": "Carlos Nascimento Júnior - Middle School l High School",
+        "subtitle": "São Paulo, São Paulo, Brasil · Diretor do Ensino Fundamental II / Middle School Principal · Escola Alef Peretz",
+        "link": "https://br.linkedin.com/in/carlos-nascimento-j%C3%BAnior-51309623",
+        "snippet": "Carlos Nascimento Júnior. Middle School l High School | School Principal. Escola Alef Peretz Universidade de São Paulo. São Paulo, São Paulo, Brasil. 15 mil ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

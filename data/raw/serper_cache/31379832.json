@@ -1,0 +1,37 @@
+{
+  "codigo_escola": "31379832",
+  "NO_ENTIDADE": "COLEGIO DONA CLARA - UNIDADE 2",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO DONA CLARA - UNIDADE 2\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DONA CLARA - UNIDADE 2\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Belo Horizonte 2231 escolas",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/busca",
+        "snippet": "COLEGIO DONA CLARA - UNIDADE 2. SEBASTIAO DE BRITO, 780 - CS. DONA CLARA ... Belo Horizonte - Minas Gerais. Rede privada / Urbana · SISTEMA DE ENSINO RENASCER.",
+        "position": 1
+      },
+      {
+        "title": "Minha Escola Legal",
+        "link": "http://www.minhaescolalegal.com.br/",
+        "snippet": "BELO HORIZONTE, RUA EMBARÉ, 258, GUARANI, (31) 34336115. CENTRO FORMAÇÃO ... ATUAL SISTEMA DE ENSINO, SABINÓPOLIS, RUA JOVAL DE PINHO, 101, CENTRO, (33) 34232352.",
+        "position": 2
+      },
+      {
+        "title": "Escolas em Belo Horizonte/MG — 2016 instituições",
+        "link": "https://www.mensalidadejusta.com.br/escolas/mg/belo-horizonte",
+        "snippet": "Escolas em Belo Horizonte, MG. 2016 escola(s) encontrada(s). ABV ETEC MG ... SISTEMA DE ENSINO ALPHONSUS DE GUIMARAENS. JARDIM AMERICA. Privada · SISTEMA DE ...",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

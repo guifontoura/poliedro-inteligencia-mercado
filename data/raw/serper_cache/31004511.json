@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31004511",
+  "NO_ENTIDADE": "COLEGIO SANTA RITA DE CASSIA",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO SANTA RITA DE CASSIA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA RITA DE CASSIA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Material 2026 - Colégio Santa Rita | Barreiro | Belo Horizonte",
+        "link": "https://santarita.agostinianas.com.br/matricula/material-2026",
+        "snippet": "MATERIAL DIDÁTICO – SAS (1º ANO À 3ª SÉRIE):. O Colégio Santa Rita é parceiro ... Todos os Direitos Reservados © Colégio Santa Rita de Cássia | Desenvolvido por ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Santa Rita l Rede AM de Educação ...",
+        "link": "https://www.instagram.com/colegiosantaritabh/",
+        "snippet": "... K+ followers · 2.1K+ posts · Colégio Particular em Belo Horizonte Educação Infantil ao Ensino Médio Acesse as opções ... Aqui no Colégio Santa Rita de Cássia ...",
+        "position": 2
+      },
+      {
+        "title": "Da Educação Infantil ao Ensino Médio — aqui seu filho ...",
+        "link": "https://www.instagram.com/reel/DN-3af3DQvg/",
+        "snippet": "... material didático da Editora EDB, que faz parte da rede salesiana ... PROJETO BILÍNGUE CULTURA MAKER SISTEMA DE ENSINO POLIEDRO ...",
+        "date": "há 10 meses",
+        "position": 3
+      },
+      {
+        "title": "Material 2025 - Colégio Santa Rita | Barreiro | Belo Horizonte",
+        "link": "https://santarita.agostinianas.com.br/matricula/material-2025",
+        "snippet": "O Material didático SAS é comercializado somente pelo SAS. Acesse o tutorial ... Todos os Direitos Reservados © Colégio Santa Rita de Cássia | Desenvolvido por ...",
+        "position": 4
+      },
+      {
+        "title": "BHTRANS - Belo Horizonte",
+        "link": "http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S09F03-escolar5a.asp?lingua=",
+        "snippet": "COLEGIO SANTA RITA DE CASSIA · COLEGIO SANTO AGOSTINHO I · COLEGIO SANTO ANTONIO ... SISTEMA DE ENSINO RENASCER · SISTEMA PIAGET DE ENSINO · UMEI BRAUNAS · UMEI ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

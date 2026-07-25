@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "29530210",
+  "NO_ENTIDADE": "SARTRE ESCOLA SEB - MONET",
+  "cidade": "Lauro de Freitas",
+  "query": "\"SARTRE ESCOLA SEB - MONET\" \"Lauro de Freitas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SARTRE ESCOLA SEB - MONET\" \"Lauro de Freitas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Os resultados individuais do Exame Nacional de Ensino ...",
+        "link": "https://www.instagram.com/p/DZ8d_fYFRH_/",
+        "snippet": "... Sartre Escola Seb – Monet – Lauro de Freitas – Buraquinho – Nota ... É o reflexo da união entre um sistema de ensino de excelência, uma ...",
+        "position": 1
+      },
+      {
+        "title": "44 anos levando alunos do primeiro rabisco ao sucesso no ...",
+        "link": "https://www.instagram.com/colegiomontessoriano/reel/DVs8Le5jf8t/?hl=ml",
+        "snippet": "SARTRE ESCOLA SEB - MONET – LAURO DE FREITAS (BURAQUINHO) – NOTA: 687,02 9. ... É o reflexo da união entre um sistema de ensino de excelência ...",
+        "date": "há 4 meses",
+        "position": 2
+      },
+      {
+        "title": "Evento AZ - Salvador",
+        "link": "https://www.plataformaaz.com.br/eventos/salvador-2025",
+        "snippet": "Sartre Escola SEB - Monet. Rua Ana C. B. Dias, 259 - Lot. Miragem, Lauro de Freitas - BA. Inscreva-se para garantir sua vaga. Preencha as informações abaixo ...",
+        "position": 3
+      },
+      {
+        "title": "Alerta São Gonçalo | 🎓 Colégio e Curso Brasil – 37 anos de ...",
+        "link": "https://www.instagram.com/reel/DQVQgRNDUX5/",
+        "snippet": "CONEXÃO SISTEMA DE ENSINO MATRÍCULAS ABERTAS 2º SEMESTRE ENSINO ... Sartre Escola Seb – Monet – Lauro de Freitas – Buraquinho – Nota ...",
+        "date": "há 9 meses",
+        "position": 4
+      },
+      {
+        "title": "Reel by Colégio Estadual Camaçari - Oficial ...",
+        "link": "https://www.instagram.com/reel/DY5rTsRN6ee/",
+        "snippet": "7 - Centro Educacional Villa Lobos – Camaçari – Catu de Abrantes – Nota: 694,38 8 - Sartre Escola Seb – Monet – Lauro de Freitas – Buraquinho – ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

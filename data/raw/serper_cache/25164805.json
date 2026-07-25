@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "25164805",
+  "NO_ENTIDADE": "FERA COLEGIO E CURSO",
+  "cidade": "Patos",
+  "query": "\"FERA COLEGIO E CURSO\" \"Patos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"FERA COLEGIO E CURSO\" \"Patos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Sobre nós - Fera - Colégio e Curso",
+        "link": "https://feracolegio.com.br/sobre-nos/",
+        "snippet": "No entanto, o nome existia apenas no CNPJ e nos Registros Oficiais, continuando o GEO como nome de fantasia nas fachadas e como Sistema de Ensino. ... Patos ...",
+        "position": 1
+      },
+      {
+        "title": "O telefone sem fio passou de mão em mão e a notícia voou ...",
+        "link": "https://www.instagram.com/reel/DPWJRNfjv8_/",
+        "snippet": "... FERA Colégio e Curso R. Antônio Justino, s/n - Belo Horizonte, Patos ... material didático também é relevante para a qualidade do ensino.",
+        "date": "há 9 meses",
+        "position": 2
+      },
+      {
+        "title": "✨ Eu Sou FERA, porque aqui a gente aprende a ...",
+        "link": "https://www.instagram.com/p/DPQ7sePEeMI/",
+        "snippet": "... Patos e região. Aqui, cada passo é uma vitória e cada aluno é um verdadeiro FERA! FERA Colégio e Curso R. Antônio Justino, s/n ...",
+        "date": "há 9 meses",
+        "position": 3
+      },
+      {
+        "title": "FERA Colégio e Curso on Instagram: \" Mais um ano de ...",
+        "link": "https://www.instagram.com/reel/C6ZP8hrg91A/",
+        "snippet": "... Sistema de ensino eplataforma educacional SAS, no Fundamental 2 e ... Fera Colégio e Curso, na cidade de Patos. Agradecemos a toda a ...",
+        "date": "há 2 anos",
+        "position": 4
+      },
+      {
+        "title": "Fera Colegio e Curso - Patos - PB",
+        "link": "https://www.escol.as/313204-fera-colegio-e-curso",
+        "snippet": "... Patos - PB; ›; Belo Horizonte; ›; Fera Colegio e Curso. Fera Colegio e Curso ... Além do material didático ... Material Didático. com base no Censo Escolar/2024.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "33165920",
+  "NO_ENTIDADE": "COLEGIO E CURSO PENSI",
+  "cidade": "Niterói",
+  "query": "\"COLEGIO E CURSO PENSI\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO E CURSO PENSI\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colegio e Curso Pensi em Rio de Janeiro, RJ - 08.042.036/0003 ...",
+        "link": "https://www.econodata.com.br/consulta-empresa/08042036000301-centro-de-ensino-espinoza-ltda",
+        "snippet": "Consulte a empresa Colegio e Curso Pensi que tem CNPJ 08042036000301 e sede em Rio de Janeiro, RJ ... A instituição disponibiliza material didático ... Niterói, RJ.",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/17obmep/verRelatorioPremiadosMencao-RJ.3.privada.do.htm",
+        "snippet": "SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Sim. MARIA LUIZA BERTIN ... NITERÓI, RJ, Sim. JOAO PEDRO MACHADO MEDEIROS, ESC GEORGE MARCH LTDA, P ...",
+        "position": 2
+      },
+      {
+        "title": "Petição Inicial - TJRJ - Ação de Cobrança - Procedimento ...",
+        "link": "https://www.jusbrasil.com.br/processos/866768355/peca-peticao-inicial-tjrj-acao-de-cobranca-procedimento-comum-civel-de-centro-de-ensino-kelsen-4405762448",
+        "snippet": "AO JUÍZO DE DIREITO DA _ VARA CÍVEL DA COMARCA DE NITERÓI REGIONAL OCEÂNICA DE NITERÓI- RJ. ... Colégio e Curso Pensi, sob os números de ... material didático ...",
+        "position": 3
+      },
+      {
+        "title": "ENEM por Escola: Ranking Nacional Completo",
+        "link": "https://www.aio.com.br/enemporescola",
+        "snippet": "Brasil 2025 ; 8, Colegio Alfa Cem Bilingue, Rio de Janeiro ; 9, Colegio E Curso Pensi Icarai 2, Niterói ; 10, Sistema de Ensino Equipe Integrado ...",
+        "date": "Top 10 Escolas",
+        "position": 4
+      },
+      {
+        "title": "Como foi sua escola no Enem 2025? Acesse o ...",
+        "link": "https://www.correiobraziliense.com.br/euestudante/enem/2026/06/7448161-como-foi-sua-escola-no-enem-2025-acesse-o-desempenho-divulgado-pelo-mec.html",
+        "snippet": "RJ, BARRA DA TIJUCA, 759,314 alunos. 10º, cód. INEP 33165920COLEGIO E CURSO PENSIPrivada, Niterói, RJ, RJ, ICARAI, 758,929 alunos. Nenhuma ...",
+        "date": "25 de jun. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

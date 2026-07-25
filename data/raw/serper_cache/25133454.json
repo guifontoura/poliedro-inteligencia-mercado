@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "25133454",
+  "NO_ENTIDADE": "CENTRO DE EDUCACAO MDW",
+  "cidade": "João Pessoa",
+  "query": "\"CENTRO DE EDUCACAO MDW\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO DE EDUCACAO MDW\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Chegou a sua chance de viver o New Way em 2026! ✨ No ...",
+        "link": "https://www.instagram.com/p/DPSVNL8iRXH/",
+        "snippet": "... João Pessoa, no New Way (Av. Senador Ruy Carneiro, 405). Bolsas de ... Material didático próprio e atualizado, Reforço escolar no ...",
+        "date": "há 9 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio New Way João Pessoa on Instagram: \"Hoje foi dia de ...",
+        "link": "https://www.instagram.com/reel/DPaG65lifhB/",
+        "snippet": "Bolsa de estudos 100% para todo o ensino médio, material didático módulo do Fibonacci sistema de ensino... English Transcript. I'm Guilherme ...",
+        "date": "há 9 meses",
+        "position": 2
+      },
+      {
+        "title": "Campina Grande, um novo capítulo da sua história está ...",
+        "link": "https://www.instagram.com/reel/DQHOdnJDHgm/",
+        "snippet": "... Sistema de Ensino anglo APROVADO EM 6 UNIVERSIDADES! ODONTOLOGIA ... Material didático 100% digital Mensalidade ZERO INÍCIO DAS AULAS ...",
+        "date": "há 9 meses",
+        "position": 3
+      },
+      {
+        "title": "O nosso primeiro Teste de Nivelamento já tem data marcada ...",
+        "link": "https://www.instagram.com/reel/DOWNPiXjajS/",
+        "snippet": "... João Pessoa. Essa é a chance de começar a sua trajetória com a ... O Sistema de Ensino InovAção apresenta a *Turma Intensiva ENEM ...",
+        "date": "há 10 meses",
+        "position": 4
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2507507-joao-pessoa/busca",
+        "snippet": "CENTRO DE EDUCACAO LIDER MAIS. MARYLAND DE SOUZA FERRAZ, 13. MANGABEIRA. 58059330 João Pessoa - Paraíba. Rede privada / Urbana · CENTRO DE EDUCACAO MDW.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

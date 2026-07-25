@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "42155541",
+  "NO_ENTIDADE": "COLEGIO AVANTIS",
+  "cidade": "Brusque",
+  "query": "\"COLEGIO AVANTIS\" \"Brusque\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO AVANTIS\" \"Brusque\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Cultura Ensino Fundamental (@culturacolegio)",
+        "link": "https://www.instagram.com/culturacolegio/",
+        "snippet": "Ambientes Perfeitos para este segmento importante na vida acadêmica de nossos alunos, com o Sistema de Ensino Positivo. ... COLÉGIO AVANTIS BRUSQUE - ENSINO MÉDIO ...",
+        "position": 1
+      },
+      {
+        "title": "Educação em Itajaí e Balneário Camboriú",
+        "link": "https://diarinho.net/materia/458541/educacao-em-itajai-e-balneario-camboriu",
+        "snippet": "O material didático é próprio, com ênfase na aprendizagem digital para estimular a criatividade. A língua inglesa é usada diariamente na ...",
+        "date": "2 de out. de 2017",
+        "position": 2
+      },
+      {
+        "title": "1. Informes Importantes Referentes à Seleção de 2022",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/CARTA%20CONVITE%20PARA%20AS%20PROVAS%20ONLINE%202021-22_2.pdf",
+        "snippet": "... Sistema de Ensino Equipe Ananindeua Eirelli. Ingrid Louise Ferreira ... Brusque. Centro Educacional Cultura. Enzo Archer Pereira. SC.",
+        "date": "19 de set. de 2021",
+        "position": 3
+      },
+      {
+        "title": "Pré-Seleção OBA 2021: Informações Importantes",
+        "link": "https://pt.scribd.com/document/513220000/Carta-Convite-Seletivas-e-Lista",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE CRISTAL CARLOS EDUARDO RICARTE M 18/05/2003 4. PARÁ ... Brusque Centro Educacional Cultura GABRIEL ÉDER COSTA M 21/02/2006 3",
+        "position": 4
+      },
+      {
+        "title": "Fapesc: 25 Anos de Inovação em SC | PDF",
+        "link": "https://pt.scribd.com/document/699606987/A-Fapesc-e-Sua-Jornada-de-25-Anos-eBook-Lingua-Portuguesa",
+        "snippet": "... Colégio Avantis, sediado em Balneário Cam- nenses, na ... Fundação Educacional de Brusque – FEBE, mantenedora do Centro CONSUNI, 11 de julho de 2018.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

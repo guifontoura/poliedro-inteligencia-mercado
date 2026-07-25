@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "53001389",
+  "NO_ENTIDADE": "COL SAGRADO CORACAO DE MARIA",
+  "cidade": "Brasília",
+  "query": "\"COL SAGRADO CORACAO DE MARIA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL SAGRADO CORACAO DE MARIA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas Particulares",
+        "link": "https://www.coseacuff.net.br/vest99/escpart.htm",
+        "snippet": "2403 - COL SAGRADO CORAÇÃO DE MARIA 2404 - COL SALESIANO 2405 - COL ... 2500 - SISTEMA DE ENSINO INTEGRADO SEIS LTDA 2501 - SOC EDUC BOTAFOGO LTDA ...",
+        "position": 1
+      },
+      {
+        "title": "LISTA DOS ALUNOS DO NONO ANO COM NOTA MAIOR ...",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/TABELA%20NIVEL%203%20NONO%20ANO%20CORRETA%20SO%20COM%204%20COLUNAS-compressed-compactado.pdf",
+        "snippet": "Col. Sagrado Coração de Maria. JOÃO VITOR MATTEOLI DELFINO. SANTANA CHAVES ... Zeta Sistema de Ensino de Birigui. GABRIEL MARCENTE FADIL. SÃO PAULO. Birigüi.",
+        "position": 2
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536524033/Premiacao-3%C2%BA-Ano-Em-Nivel-d-2019-1",
+        "snippet": "AUGUSTO OLIVEIRA SILVA COL LA SALLE AGUAS CLARAS DISTRITO FEDERAL Brasília LAURA TERESA LOPES SILVA COL SAGRADO CORACAO DE MARIA DISTRITO FEDERAL Brasília",
+        "position": 3
+      },
+      {
+        "title": "2014",
+        "link": "https://enem.cneceduca.com.br/2014?p=15",
+        "snippet": "Col Sagrado Coracao de Maria, Privada, Brasília, DF, 34 ; Sapiens Collegium, Privada, Araraquara, SP, 17 ...",
+        "position": 4
+      },
+      {
+        "title": "LISTA DE APROVADOS OBB 2018",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/arquivos/provas_gabaritos_classificacoes/OBB_2018/Lista%20Aprovados%20OBB%202018%201a%20Fase.pdf",
+        "snippet": "COL SAGRADO CORACAO DE MARIA. 19. BRASÍLIA. ANA LUIZA SILVA TELES. COL GALOIS. 21 ... SISTEMA DE ENSINO EQUIPE CRISTAL II EIRELI-EPP. 20. BELÉM. ANA FLAVIA F ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

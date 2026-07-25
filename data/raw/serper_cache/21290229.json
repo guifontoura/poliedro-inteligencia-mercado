@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "21290229",
+  "NO_ENTIDADE": "RF ENSINO MEDIO LTDA",
+  "cidade": "São Luís",
+  "query": "\"RF ENSINO MEDIO LTDA\" \"São Luís\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"RF ENSINO MEDIO LTDA\" \"São Luís\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Regras do Sorteio do Material Didático • Quem pode ...",
+        "link": "https://www.instagram.com/reel/DQby2pmDLpZ/",
+        "snippet": "Regras do Sorteio do Material Didático • Quem pode participar ... Rf Ensino Medio Ltda – São Luís – Calhau – Nota: 686.40. Colegio ...",
+        "date": "há 8 meses",
+        "position": 1
+      },
+      {
+        "title": "Reel by CETI Inês Rocha (@ceti.inesrocha) · June 23, 2026",
+        "link": "https://www.instagram.com/reel/DZ74ejah16R/",
+        "snippet": "COLÉGIO Omega SISTEMA DE ENSINO Anglo Hoje celebramos uma conquista ... Rf Ensino Medio Ltda – São Luís – Calhau – Nota: 686.40. Colegio ...",
+        "position": 2
+      },
+      {
+        "title": "ORGULHO MARISTA! O destaque na redação do ENEM ...",
+        "link": "https://www.instagram.com/p/DTlIIpOCVWE/",
+        "snippet": "Rf Ensino Medio Ltda – São Luís – Calhau – Nota: 686.40. Colegio ... COLÉGIO Omega SISTEMA DE ENSINO Anglo Hoje celebramos uma conquista ...",
+        "date": "há 6 meses",
+        "position": 3
+      },
+      {
+        "title": "O Colégio Militar apareceu entre as MELHORES escolas de ...",
+        "link": "https://www.instagram.com/reel/DMOSNVlK3IC/",
+        "snippet": "... (São Luis) Posição Nome LC CH 1 CN RF ENSINO MEDIO LTDA 9.7 6C 2 ... Olha só você que quer entrar no colégio militar, apostila de português e ...",
+        "date": "há 1 ano",
+        "position": 4
+      },
+      {
+        "title": "Salesiano Campos on Instagram: \"[1° LUGAR EM REDAÇÃO ...",
+        "link": "https://www.instagram.com/reel/DaP4dDYR9Kq/",
+        "snippet": "Rf Ensino Medio Ltda – São Luís – Calhau – Nota: 686.40. Colegio ... SISTEMA DE ENSINO anglo 15 ANOS AQUI VOCÊ PODE SONHAR PORQUE NÓS ...",
+        "date": "há 3 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "codigo_escola": "35117614",
+  "NO_ENTIDADE": "SAGRADO REDE DE EDUCACAO PBSCJ PROVINCIA BRASILEIRA SAGRADO CORACAO DE JESUS",
+  "cidade": "Marília",
+  "query": "\"SAGRADO REDE DE EDUCACAO PBSCJ PROVINCIA BRASILEIRA SAGRADO CORACAO DE JESUS\" \"Marília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SAGRADO REDE DE EDUCACAO PBSCJ PROVINCIA BRASILEIRA SAGRADO CORACAO DE JESUS\" \"Marília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Sagrado Coração de Jesus - Marília/SP - Home",
+        "link": "https://www.sagradoeducacao.com.br/sagrado-coracao-marilia",
+        "snippet": "Há mais de 60 anos, o Sistema Anglo estimula a autonomia e empoderamento dos alunos. Hoje, promove o Ciclo de Melhoria da Aprendizagem para que eles desenvolvam ...",
+        "position": 1
+      },
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "A Conquista é uma Solução Educacional que atende e acolhe as reais necessidades de cada escola. Desde os primeiros passos na Educação Infantil até os ...",
+        "position": 2
+      },
+      {
+        "title": "Sucesso Sistema de Ensino",
+        "link": "https://www.sistemadeensinosucesso.com.br/",
+        "snippet": "Institucional · Catálogo · Contato · Sucesso Digital · Sucesso Digital. ‹ › Veja os destaques. Nosso catálogo. Educação Infantil · Ensino Fundamental I ...",
+        "position": 3
+      },
+      {
+        "title": "Manual do aluno 2024",
+        "link": "https://www.smicsagrado.com.br/sites/default/files/2024-04/Manual%20do%20aluno%202024.pdf",
+        "snippet": "Material didático, caderno e materiais individuais são ... 19: 2º Plantão Pedagógico (Ensino Fundamental I e II – 3º ao 9º ano).",
+        "date": "20 de abr. de 2024",
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

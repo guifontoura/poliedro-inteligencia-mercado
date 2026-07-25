@@ -1,0 +1,32 @@
+{
+  "codigo_escola": "51016443",
+  "NO_ENTIDADE": "COLEGIO AVANCADO DE DESENVOLVIMENTO EDUCACIONAL",
+  "cidade": "Sinop",
+  "query": "\"COLEGIO AVANCADO DE DESENVOLVIMENTO EDUCACIONAL\" \"Sinop\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO AVANCADO DE DESENVOLVIMENTO EDUCACIONAL\" \"Sinop\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Farina Sistema de Ensino - Cuiabá - Areão ... Colegio Avancado de Desenvolvimento Educacional - Sinop - Jardim Maringá - Nota: 657.93.",
+        "date": "23 de jun. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Junho",
+        "link": "https://www.jucemat.mt.gov.br/uploads/decided_proceding/document/30/junho-2024.csv",
+        "snippet": "... SINOP LTDA;; ;24/096.304-1;MAXIMO COMERCIO DE PECAS E ACESSORIOS AUTOMOTIVOS ... SISTEMA DE ENSINO EDUCACIONAL LTDA;; ;24/092.311-1;TK REPRESENTACOES ...",
+        "position": 2
+      }
+    ],
+    "credits": 1
+  }
+}

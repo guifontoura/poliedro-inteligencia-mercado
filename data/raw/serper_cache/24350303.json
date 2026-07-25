@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "24350303",
+  "NO_ENTIDADE": "CENTRO DE EDUCACAO INTEGRADA MAIS LTDA",
+  "cidade": "Natal",
+  "query": "\"CENTRO DE EDUCACAO INTEGRADA MAIS LTDA\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO DE EDUCACAO INTEGRADA MAIS LTDA\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/17obmep/verRelatorioPremiadosPrata.privada.do.htm",
+        "snippet": "CENTRO DE EDUCACAO INTEGRADA MAIS LTDA, P, NATAL, RN, Prata. JOSE PEDRO OLIVA ... RIO CLARO SISTEMA DE ENSINO, P, RIO CLARO, SP, Prata. LUCA GRECCO NADDEO, VIVA ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas em Lagoa Nova - Natal - RN",
+        "link": "https://www.melhorescola.com.br/busca/rio-grande-do-norte/natal/lagoa-nova",
+        "snippet": "Lagoa Nova - Natal - RN. Saiba mais. Logo - centro de educacao integrada mais ltda. Centro De Educacao Integrada Mais Ltda. 5.0(2). Lagoa Nova - Natal - RN ...",
+        "position": 2
+      },
+      {
+        "title": "Escolas em Lagoa Nova na cidade de Natal",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/natal-rn/lagoa-nova",
+        "snippet": "Lagoa Nova - Natal - RN. Saiba mais. Logo - centro de educacao integrada mais ltda. Centro De Educacao Integrada Mais Ltda. 5.0(2). Lagoa Nova - Natal - RN ...",
+        "position": 3
+      },
+      {
+        "title": "OURO PRATA",
+        "link": "https://antigo.onciencias.org/resultados/download/15",
+        "snippet": "CENTRO DE EDUCACAO INTEGRADA MAIS LTDA. NATAL. RN. 35,40. ANA CLARA ALVES PACÍFICO COSTA COLÉGIO AGOSTINIANO MENDEL. SAO PAULO. SP. 35,40. Matheus Kenzo ...",
+        "position": 4
+      },
+      {
+        "title": "Alunos classificados-primeira-fase | PDF",
+        "link": "https://es.slideshare.net/slideshow/alunos-classificadosprimeirafase/33690120",
+        "snippet": "ANNE VITAL BRUSTOLIN CENTRO DE EDUCACAO INTEGRADA MAIS LTDA NATAL 21 ANTONIO RICIERI FONSECA BREDA CENTRO ... SISTEMA DE ENSINO LTDA MACEIO 23 LAYANNA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

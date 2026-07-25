@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35185619",
+  "NO_ENTIDADE": "ATOMO COLEGIO",
+  "cidade": "Presidente Prudente",
+  "query": "\"ATOMO COLEGIO\" \"Presidente Prudente\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ATOMO COLEGIO\" \"Presidente Prudente\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "ATOMO COLEGIO, P, PRESIDENTE PRUDENTE, SP, Bronze. JOÃO FERREIRA ALBERO, NOTRE ... SISTEMA DE ENSINO UNO VERTICE, P, DIVINOPOLIS, MG, Bronze. HEITOR SOARES DE ...",
+        "position": 1
+      },
+      {
+        "title": "Obqjr 2021 classificados maior 12",
+        "link": "https://obquimica.org/storage/olympiads/result-files/Obqjr%202021%20classificados%20maior%2012.pdf",
+        "snippet": "ATOMO COLEGIO. SÃO PAULO. Presidente Prudente. Maria Antonia Soares Silva ... Sistema de Ensino Equipe Canaã dos CarajásPARÁ. Canaã dos Carajás. WILLIAM DE ...",
+        "position": 2
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/31/PREMIA%C3%87%C3%83O%209%C2%BA%20ANO%20EF%20NIVEL%20A%202019.pdf",
+        "snippet": "ESQUEMA UNICO EDUCACIONAL DE PRESIDENTE PRUDENTE. SÃO PAULO. Presidente ... ZETA SISTEMA DE ENSINO DE BIRIGUI. SÃO PAULO. Birigui. HUANG PO CHIANG. NIPO ...",
+        "position": 3
+      },
+      {
+        "title": "Ranking das escolas brasileiras no Enem 2013",
+        "link": "https://complemento.veja.abril.com.br/educacao/ranking-escolas-brasil-2013/ranking-escolas-brasil-2013.pdf",
+        "snippet": "... ATOMO COLEGIO. 31. De 31 a 60 alunos. 27. 87.10. Muito Alto. 657.78. 573.85. 627.83 ... SISTEMA DE ENSINO. DE BIRIGUI. 41. De 31 a 60 alunos. 34. 82.93. Alto.",
+        "position": 4
+      },
+      {
+        "title": "dbo_TS_ESCOLA",
+        "link": "https://www.al.sp.gov.br/spl/2015/09/Acessorio/1278971_50269504_Acessorio.xlsx",
+        "snippet": "... PRESIDENTE PRUDENTE, SP, 1, 0, 0, 0, 1, 0, 0, 1. 1852, 2014, 35190263, APAE DE PROMISSAO ... SISTEMA DE ENSINO FAZER, SP, 1, 1, 0, 1, 0, 1, 1, 0. 2156, 2014 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

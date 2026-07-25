@@ -1,0 +1,37 @@
+{
+  "codigo_escola": "25132059",
+  "NO_ENTIDADE": "ALGORITMO COLEGIO E CURSO",
+  "cidade": "João Pessoa",
+  "query": "\"ALGORITMO COLEGIO E CURSO\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ALGORITMO COLEGIO E CURSO\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2507507-joao-pessoa/busca",
+        "snippet": "ALGORITMO COLEGIO E CURSO. PRESIDENTE EPITACIO PESSOA, 00514 - SALA 00001 ... SISTEMA DE ENSINO FUNDAMENTAL E MEDIO LTDA - ME - COLEGIO DOM BOSCO JOAO ...",
+        "position": 1
+      },
+      {
+        "title": "Michaella Araújo Farias",
+        "link": "https://www.escavador.com/sobre/277463825/michaella-araujo-farias",
+        "snippet": "João Pessoa: TOP SISTEMA DE ENSINO, 2023, v. 1, p. 13-27. Farias, Michaella ... ALGORITMO COLÉGIO E CURSO. Vínculo: Celetista, Enquadramento Funcional ...",
+        "position": 2
+      },
+      {
+        "title": "Convênios Bancários - BancáriosPB",
+        "link": "https://bancariospb.com.br/convenios-bancarios/",
+        "snippet": "Algoritmo Colégio e Curso · Alice Lucena Psicologia Clínica · BANCORBRÁS ... José Américo de Almeida, 3100 - Torre, João Pessoa - PB, 58043-360. Ligue ...",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

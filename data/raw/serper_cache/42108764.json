@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "42108764",
+  "NO_ENTIDADE": "COLEGIO DOM JAIME CAMARA",
+  "cidade": "São José",
+  "query": "\"COLEGIO DOM JAIME CAMARA\" \"São José\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DOM JAIME CAMARA\" \"São José\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "COLÉGIO DOM JAIME CÂMARA",
+        "link": "https://domjaime.com.br/wp-content/uploads/2025/02/Lista-de-Materiais-2o-Ano-Medio-2025.pdf",
+        "snippet": "CEP 88102-300 - São José - Santa Catarina e-mail: domjaime ... O Anglo Sistema de Ensino é uma empresa educacional de São Paulo, altamente.",
+        "date": "17 de fev. de 2025",
+        "position": 1
+      },
+      {
+        "title": "PDF 2025 12 17 15 20 59",
+        "link": "https://pt.scribd.com/document/992300892/PDF-2025-12-17-15-20-59",
+        "snippet": "O Colégio Dom Jaime Câmara apresenta a lista de ... Sistema de Ensino para fornecer materiais didáticos de alta qualidade ... CEP 88102-300 - São José - Santa ...",
+        "position": 2
+      },
+      {
+        "title": "CCE CURSO DE PÓS-GRADUAÇÃO EM TRADU",
+        "link": "https://repositorio.ufsc.br/bitstream/handle/123456789/101887/220725.pdf?sequence=1&isAllowed=y",
+        "snippet": "espanhol como um material didático ... período vespertino do Colégio Dom Jaime Câmara, que chamarei de 'questionário piloto'. ... São José ao utilizar seu ...",
+        "position": 3
+      },
+      {
+        "title": "Luiz Carlos Neves Júnior",
+        "link": "https://www.escavador.com/sobre/1393381/luiz-carlos-neves-junior",
+        "snippet": "Produção de material didático para o ensino de línguas.. 2010. (Congresso) ... Colégio Dom Jaime Câmara. , rua Koesa s/n, kobrasol, 88100-000 - Sao Jose ...",
+        "position": 4
+      },
+      {
+        "title": "JOGOS ESCOLARES DA JUVENTUDE - 12 A 14",
+        "link": "https://sge-aquaticos.bigmidia.com/_uploads/piscina/33534/093353400000000000000000000000000000980.pdf?x=1611741913",
+        "snippet": "SISTEMA DE ENSINO EQUIPE/PA. 0. 1. 0. 1. UNIVERSO/PA. UNIVERSO/PA. SISTEMA DE ... COLEGIO DOM JAIME CAMARA/SC. 0. 1. 0. 1. MARISTA SAO LUIS/ MARISTA SAO LUIS/ SC.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

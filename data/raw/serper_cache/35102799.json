@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35102799",
+  "NO_ENTIDADE": "SAGRADO CORACAO DE JESUS COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"SAGRADO CORACAO DE JESUS COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SAGRADO CORACAO DE JESUS COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO DOS ... LEONARDO DA VINCI COLEGIO DE ENSINO FUNDAMENTAL E MEDIO SÃO PAULO. Jundiaí.",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "SAO PAULO DA CRUZ COLEGIO PASSIONISTA, P, SÃO PAULO, SP, Sim. JOÃO PEDRO ALVES DA ... SAGRADO CORACAO DE JESUS COLEGIO, P, CAMPINAS, SP, Sim. KAIQUE GUIDO BORGES ...",
+        "position": 2
+      },
+      {
+        "title": "LISTA DAS ESCOLAS CONVIDADAS DA TURMA 11",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/ESCOLAS-TURMA-11.pdf",
+        "snippet": "São Paulo. Poliedro Colégio SP. 35132287. 48610. Turma. 11. SP. São Paulo. SAGRADO CORACAO DE JESUS COLEGIO. 35102799. 99922. Turma. 11. SP. São Paulo. SALVADOR ...",
+        "position": 3
+      },
+      {
+        "title": "Escolas em Alto Colinas na cidade de Birigui",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/birigui-sp/alto-colinas",
+        "snippet": "zeta sistema de ensino de birigui; apae de birigui; espaco educar escola de ... sagrado coracao de jesus colegio; senac birigui; sesi 148 centro ...",
+        "position": 4
+      },
+      {
+        "title": "Ensino Médio 10 UNI M",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/2025/Alunos_OBB_2025-lista-geral.pdf",
+        "snippet": "... São Paulo. Ryan Estevão de Lima Silva. 3º ano - Ensino Médio. 10 ELITE REDE DE ... SAGRADO CORACAO DE JESUS COLEGIO. 35112574 SP. Campinas. Danilo Gabriel ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

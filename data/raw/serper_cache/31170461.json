@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "31170461",
+  "NO_ENTIDADE": "COLEGIO RESSURREICAO NOSSA SENHORA",
+  "cidade": "Uberlândia",
+  "query": "\"COLEGIO RESSURREICAO NOSSA SENHORA\" \"Uberlândia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO RESSURREICAO NOSSA SENHORA\" \"Uberlândia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ensino Médio",
+        "link": "https://ressurreicaouberlandia.com.br/ensino-medio/",
+        "snippet": "... Sistema de Ensino FTD que está em perfeita consonância com as novas ... Uberlândia. O primeiro grupo de irmãs chegou no dia 3 de fevereiro de 1932 ...",
+        "position": 1
+      },
+      {
+        "title": "✨ MATRÍCULAS ABERTAS PARA O 2º SEMESTRE DE ...",
+        "link": "https://www.instagram.com/p/DbAyjhjDg_l/",
+        "snippet": "COLÉGIO RESSURREIÇÃO NOSSA SENHORA UBERLÂNDIA - MG FTD Sistema de Ensino Infraestrutura moderna. Ambientes amplos, seguros e preparados para ...",
+        "date": "há 4 dias",
+        "position": 2
+      },
+      {
+        "title": "Colégio Ressurreição Nossa Senhora | Uberlândia MG",
+        "link": "https://www.facebook.com/ressu.uberlandia/?locale=pt_BR",
+        "snippet": "Colégio Ressurreição Nossa Senhora, Uberlândia. 2000 likes · 14 talking ... ✨ ✓ Sistema de Ensino FTD ✓ Excelentes resultados em vestibulares e ...",
+        "rating": 4.6,
+        "ratingCount": 14,
+        "position": 3
+      },
+      {
+        "title": "Colégio N. Senhora do Rosário | No Middle School Rosário ...",
+        "link": "https://www.instagram.com/reel/DVdvMELkWZJ/",
+        "snippet": "... MATERIAL DIDÁTICO DO SEGUNDO SEMESTRE ... COLÉGIO RESSURREIÇÃO NOSSA SENHORA UBERLÂNDIA - MG FTD Sistema de Ensino Infraestrutura moderna.",
+        "date": "há 4 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Ressurreição Uberlândia",
+        "link": "https://sites.google.com/view/colgioressurreiouberlndia",
+        "snippet": "Entre e fique a vontade! Colégio Ressurreição Nossa Senhora. Praça Cel. Carneiro, 11 - Fundinho, Uberlândia - MG, 38400-218. Tel: (34) 3235-5048 · Acesse nosso ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

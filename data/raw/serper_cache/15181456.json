@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "15181456",
+  "NO_ENTIDADE": "COLEGIO IDEAL BATISTA CAMPOS",
+  "cidade": "Belém",
+  "query": "\"COLEGIO IDEAL BATISTA CAMPOS\" \"Belém\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO IDEAL BATISTA CAMPOS\" \"Belém\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Curso Gama e Mersenne, em parceria com o colégio Ideal, ...",
+        "link": "https://www.instagram.com/p/DTNgOFCjkG-/",
+        "snippet": "... Colégio Ideal Batista Campos. Nosso curso vai oferecer a você ... APOSTILA DE QUESTÕES Apostila de questões inclusa! Aluno Maximus R ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Sucesso on Instagram: \"O Sucesso está de matrículas ...",
+        "link": "https://www.instagram.com/reel/CKravqgBc6-/",
+        "snippet": "Time de professores renomado, material didático completo, simulados e muito mais para a sua aprovação! ... Belém é a primeira cidade do norte do ...",
+        "date": "há 5 anos",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/1501402-belem/busca",
+        "snippet": "COLEGIO IDEAL BATISTA CAMPOS. DOS PARIQUIS, 1443. BATISTA CAMPOS. 66033107 Belém ... 66070-500 Belém - PA. Rede privada / Urbana · SISTEMA DE ENSINO CONFIANCA.",
+        "position": 3
+      },
+      {
+        "title": "Turmas normais: R$ 150 (com desconto automático para quem ...",
+        "link": "https://www.facebook.com/joanavieiraredacao/photos/em-2018-muito-melhor-e-muito-mais-eficientematr%C3%ADculas-a-partir-de-05-de-janeirot/481423978925628/",
+        "snippet": "... Colégio Ideal Batista Campos, no Colégio Ideal ... Material didático exclusivo e inovador. Aulas ... Ela vinha para Belém e comprava as roupas no comércio.",
+        "position": 4
+      },
+      {
+        "title": "Nivel 3 Resultado Oficial | PDF",
+        "link": "https://www.scribd.com/document/766863825/Nivel-3-Resultado-Oficial",
+        "snippet": "Alice Beatriz Figueiredo de Freitas Colégio Sophos Marambaia Belém Pará (PA) ... Lucca Rocha Leal Sistema de Ensino Conviver Paraíba (PB) Eric Bruno Guedes ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35158823",
+  "NO_ENTIDADE": "FUTURO ESCOLA DO",
+  "cidade": "São Paulo",
+  "query": "\"FUTURO ESCOLA DO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"FUTURO ESCOLA DO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Últimos detalhes da Escola do Futuro! A obra será entregue ...",
+        "link": "https://www.instagram.com/reel/DVKIjQZjdWC/",
+        "snippet": "... Sistema de Ensino Você já pensou que um ... GOVERNO DO ESTADO DE SÃO PAULO ESCOLA ESTADUAL ROBERTO BURLE MARX SÃO PAULO GOVERNO DO ESTADO ...",
+        "date": "há 5 meses",
+        "position": 1
+      },
+      {
+        "title": "OCR",
+        "link": "https://www.instagram.com/p/DTf7QjFkQPT/",
+        "snippet": "... apostila, tudo isso é tangível, é palpável, para que as crianças ... material didático pras crianças trabalhar, pra trabalhar sala de ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Prefeitura de Quatro Barras on Instagram: \"Conheça o Projeto ...",
+        "link": "https://www.instagram.com/reel/DVzRj_YDmvt/",
+        "snippet": "Raízes do Futuro ESCOLA DO LEGISLATIVO DE APIAÍ REDUZIR REUTILIZAR RECICLAR ... São Paulo/Sorocaba. O momento reuniu educadores e representantes ...",
+        "date": "há 4 meses",
+        "position": 3
+      },
+      {
+        "title": "Escolas em Cidade SÃo Francisco - São Paulo - SP",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/sao-paulo-sp/cidade-sao-francisco",
+        "snippet": "Futuro Escola Do. 4.8(1). Cidade Sao Francisco - São Paulo - SP. Saiba mais ... Material Didático Incluso. Infantil em alta! Vagas 2026. Vagas 2026. R$ 1.208 ...",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "SAO PAULO DA CRUZ COLEGIO PASSIONISTA, P, SÃO PAULO, SP, Sim. JOÃO PEDRO ALVES DA ... ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Sim. MARIA EDUARDA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "33120544",
+  "NO_ENTIDADE": "COLEGIO E CURSO PENSI",
+  "cidade": "Campos dos Goytacazes",
+  "query": "\"COLEGIO E CURSO PENSI\" \"Campos dos Goytacazes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO E CURSO PENSI\" \"Campos dos Goytacazes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ser o protagonista da sua própria história e bem-sucedido no ...",
+        "link": "https://www.instagram.com/reel/DN0-VS5WJsG/",
+        "snippet": "Photo by Pensi Campos - Campos dos Goytacazes/RJ on June 30, 2026. ... COLÉGIO E CURSO PENSI - TIJUCA 2, RIO DE JANEIRO Pensi colégio-curso ...",
+        "date": "há 11 meses",
+        "position": 1
+      },
+      {
+        "title": "Mais uma vez, o destaque no Enem colocou o Pensi ...",
+        "link": "https://www.instagram.com/p/DN0couk3PK9/",
+        "snippet": "... material didático impresso (livros físicos) é fornecido sem nenhum ... Logo atrás aparece o Colégio e Curso Pensi (Niterói), que vem construindo ...",
+        "date": "há 11 meses",
+        "position": 2
+      },
+      {
+        "title": "A falha faz parte do processo de aprendizado, e foi assim na ...",
+        "link": "https://www.instagram.com/reel/DNBPs8axIJe/",
+        "snippet": "... COLÉGIO E CURSO PENSI - TIJUCA 2, RIO DE JANEIRO Pensi colégio-curso ... Photo by Pensi Campos - Campos dos Goytacazes/RJ on June 30, 2026.",
+        "date": "há 11 meses",
+        "position": 3
+      },
+      {
+        "title": "O provão do Ensino Médio é um desafio que prepara o aluno ...",
+        "link": "https://www.instagram.com/reel/DaDjA6GOBB9/",
+        "snippet": "CURSO CONQUISTA SISTEMA DE ENSINO PREPARAÇÃO PARA INGRESSO NO 1º ... ➡️ 12 - Colégio e Curso Pensi - Icaraí (outra unidade)- Nota: 655,37",
+        "date": "há 4 semanas",
+        "position": 4
+      },
+      {
+        "title": "Rodrigo Muniz - Professor de Química na Colegio Aprovado",
+        "link": "https://br.linkedin.com/in/rodrigo-muniz-39534945",
+        "snippet": "Colégio integrado João XXIII SISTEMA DE ENSINO pH. ago. de 2016 - o momento 10 anos. Campos dos Goytacazes, Rio de Janeiro. Professor de Quimica. CENSA( Centro ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

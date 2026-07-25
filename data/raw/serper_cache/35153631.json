@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35153631",
+  "NO_ENTIDADE": "INSTITUTO DE ENSINO NOVO DINAMICO",
+  "cidade": "São Paulo",
+  "query": "\"INSTITUTO DE ENSINO NOVO DINAMICO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INSTITUTO DE ENSINO NOVO DINAMICO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "227 vagas de coordenação pedagógica – Guarulhos | Glassdoor",
+        "link": "https://www.glassdoor.com.br/Vaga/guarulhos-coordena%C3%A7%C3%A3o-pedag%C3%B3gica-vagas-SRCH_IL.0,9_IC2480050_KO10,32.htm",
+        "snippet": "INSTITUTO DE ENSINO NOVO DINÂMICO LTDA ... Ministrar e preparar o material didático das ... São Paulo, São PauloVagas na empresa LQuest – São Paulo, São Paulo.",
+        "position": 1
+      },
+      {
+        "title": "Ensino Médio 10 UNI M",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/2025/Alunos_OBB_2025-lista-geral.pdf",
+        "snippet": "... Instituto de Ensino Novo Dinâmico. 35153631 SP. São Paulo. Ryan Estevão de Lima ... SISTEMA DE ENSINO ELITE SÃO JOÃO DE MERITI. 33176752 RJ. São João de ...",
+        "position": 2
+      },
+      {
+        "title": "Vagas de Professor Educação Especial",
+        "link": "https://br.indeed.com/q-professor-educa%C3%A7%C3%A3o-especial-vagas.html",
+        "snippet": "INSTITUTO DE ENSINO NOVO DINÂMICO LTDA. São Paulo, SP. Seguro de vida ... material didático pedagógico adotado pelo colégio e cumprir o conteúdo programático…",
+        "position": 3
+      },
+      {
+        "title": "Escolas em SÍtio Pinheirinho - São Paulo - SP",
+        "link": "https://www.melhorescola.com.br/busca/sao-paulo/sao-paulo/sitio-pinheirinho",
+        "snippet": "São Paulo/; São Paulo/; SÍtio Pinheirinho. Escolas em SÍtio ... Logo - instituto de ensino novo dinamico ... Material Didático Incluso. Infantil em alta! R ...",
+        "position": 4
+      },
+      {
+        "title": "Resultados de Acertos por Alunos do Ensino Médio | PDF",
+        "link": "https://pt.scribd.com/document/844378540/Alunos-OBB-2025-Lista-geral-1",
+        "snippet": "Felipe Jancauskas Alonso 2º ano - Ensino Médio 17 Instituto de Ensino Novo Dinâmico 35153631 SP São Paulo ... SISTEMA DE ENSINO ELITE SÃO JOÃO DE MERITI 33176752 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "15172287",
+  "NO_ENTIDADE": "PHYSICS COLEGIO E CURSO",
+  "cidade": "Belém",
+  "query": "\"PHYSICS COLEGIO E CURSO\" \"Belém\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PHYSICS COLEGIO E CURSO\" \"Belém\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Hoje é um dia histórico. Para o Sistema de Ensino Equipe ...",
+        "link": "https://www.instagram.com/p/DZ8Y9jYBQAL/",
+        "snippet": "... Sistema de Ensino 1º lugar em Porto Velho e a 2ª melhor escola do ... Physics Colégio e Curso também conquistaram posições de destaque ...",
+        "position": 1
+      },
+      {
+        "title": "O Delta Vestibulares agradece a todos os alunos que ...",
+        "link": "https://www.instagram.com/reel/DYsbL9SPc-4/",
+        "snippet": "... Belém EducaçãoDeQualidade ... Physics Colégio e Curso também conquistaram posições de destaque no Top 20 do ranking ...",
+        "date": "há 2 meses",
+        "position": 2
+      },
+      {
+        "title": "Viralizou um vídeo na web citando as melhores escolas do ...",
+        "link": "https://www.instagram.com/reel/DVTik0TDtl0/",
+        "snippet": "... Belém, e da Escola Estadual Professor Deocleciano Alves Moreira, em ... Physics Colégio e Curso também conquistaram posições de ...",
+        "date": "há 4 meses",
+        "position": 3
+      },
+      {
+        "title": "Physics Colégio e Curso em Belém, PA",
+        "link": "http://escolas.com.br/physics-colegio-e-curso-15174514",
+        "snippet": "Physics Colégio e Curso é uma escola particular em Belém, PA. Nessa instituição de ensino de educação básica há o funcionamento das etapas de formação de ...",
+        "position": 4
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/1501402-belem/busca",
+        "snippet": "66120-000 Belém - PA. Rede privada / Urbana · PHYSICS COLEGIO E CURSO. AV ... 66070-740 Belém - PA. Rede privada / Urbana · SISTEMA DE ENSINO AUTHENTICO.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "53005457",
+  "NO_ENTIDADE": "CENTRO DE ENSINO SANTA RITA DE CASSIA",
+  "cidade": "Brasília",
+  "query": "\"CENTRO DE ENSINO SANTA RITA DE CASSIA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO DE ENSINO SANTA RITA DE CASSIA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "CENTRO DE ENSINO SANTA RITA DE CÁSSIA",
+        "link": "https://www.cesrc.com.br/cesrc/dados/docs/regimento/Regimento_Escolar_Santa_Rita.pdf",
+        "snippet": "Brasília-DF, registrada na Junta Comercial do Distrito Federal sob n.º 532 ... No Sistema de Ensino do Distrito Federal, a recuperação de estudos é um.",
+        "position": 1
+      },
+      {
+        "title": "Orgulho que se constrói com o tempo. 🎓 O PAS não ...",
+        "link": "https://www.instagram.com/p/DUn__xvEaIH/",
+        "snippet": "#aprovados PAS/UNB Centro de Ensino Santa Rita de Cássia Desde ...",
+        "date": "há 5 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Sirius | Aprender não precisa ficar só entre quatro ...",
+        "link": "https://www.instagram.com/reel/DWOz2-DEYD-/",
+        "snippet": "Recreation Tour Centro de Ensino Santa Rita de Cássia NICOLANDIA PLANETÁRIO Hebe Professora Letícia 2º ano JARDIM BOTÂNICO DE BRASÍLIA ...",
+        "date": "há 4 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Objetivo on Instagram: \"Venha ser aluno ou aluna do ...",
+        "link": "https://www.instagram.com/reel/DMqiXT7trDz/",
+        "snippet": "CONCURSO DE BOLSAS 2027 CENTRO DE ENSINO SANTA RITA DE CÁSSIA ... SISTEMA DE ENSINO . ➜C OBJETIVO SISTEMA DE ENSINO 1º Lugar no ENEM ...",
+        "date": "há 12 meses",
+        "position": 4
+      },
+      {
+        "title": "Douglas Bento Bezerra",
+        "link": "https://www.escavador.com/sobre/4000350/douglas-bento-bezerra",
+        "snippet": "... Brasília (2014). Especialista em Estudos Clássicos (UnB-2013) e em Geografia ... (Carga horária: 60h). , Centro de Ensino Santa Rita de Cássia, CESRC, Brasil.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

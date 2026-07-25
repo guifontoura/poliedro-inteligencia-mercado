@@ -1,0 +1,25 @@
+{
+  "codigo_escola": "35802578",
+  "NO_ENTIDADE": "COLEGIO ARBOS - UNIDADE SAO BERNARDO DO CAMPO",
+  "cidade": "São Bernardo do Campo",
+  "query": "\"COLEGIO ARBOS - UNIDADE SAO BERNARDO DO CAMPO\" \"São Bernardo do Campo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ARBOS - UNIDADE SAO BERNARDO DO CAMPO\" \"São Bernardo do Campo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "São Bernardo do Campo 560 escolas",
+        "link": "https://qedu.org.br/municipio/3548708-sao-bernardo-do-campo/busca",
+        "snippet": "COLEGIO ARBOS - UNIDADE SAO BERNARDO DO CAMPO. SERGIPE, 300 - RUA. NOVA PETROPOLIS. 9770080 São Bernardo do Campo - São Paulo. Rede privada / Urbana · COLEGIO ...",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "31005614",
+  "NO_ENTIDADE": "COLEGIO SANTA MARIA MINAS - UNIDADE CORACAO EUCARISTICO",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO SANTA MARIA MINAS - UNIDADE CORACAO EUCARISTICO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA MARIA MINAS - UNIDADE CORACAO EUCARISTICO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. AL. Maceió ouro. Ana Alexandra ... COLEGIO SANTA MARIA MINAS - UNIDADE CORACAO EUCARISTICO. MG. Belo Horizonte.",
+        "position": 1
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGIO SANTA MARIA MINAS - UNIDADE CORACAO EUCARISTICO. 1,8%. COLEGIO SANTA ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA ...",
+        "position": 2
+      },
+      {
+        "title": "Nome do(a) aluno(a) Escola Modalidade Polo de aplicação",
+        "link": "https://omq.qui.ufmg.br/wp-content/uploads/2025/07/Participantes_OMQ_2025.pdf",
+        "snippet": "COLEGIO SANTA MARIA MINAS - UNIDADE CORACAO EUCARISTICO. A. Belo Horizonte ... SISTEMA DE ENSINO FOCO. B. Montes Claros. Página 95. Page 96. Nome do(a) aluno ...",
+        "position": 3
+      },
+      {
+        "title": "Medalhistas Quimeninas 2025 - Série 1º Ano",
+        "link": "https://pt.scribd.com/document/942349372/RESULTADO-FINAL-QUIMENINAS-1-ANO",
+        "snippet": "prata ANA CLARA COSTA COLEGIO SANTA MARIA MINAS - UNIDADE CORACAO EUCARISTICO MG Belo Horizonte ... certificado GRAZIELA ELEUTÉRIO VICENTE SISTEMA DE ENSINO ...",
+        "position": 4
+      },
+      {
+        "title": "Escolas em Belo Horizonte/MG — 2016 instituições",
+        "link": "https://www.mensalidadejusta.com.br/escolas/mg/belo-horizonte",
+        "snippet": "COLEGIO SANTA MARIA MINAS - UNIDADE CORACAO EUCARISTICO. Privada · COLEGIO ... COLEGIO SISTEMA DE ENSINO - UNIDADE II. Privada · COLEGIO TANCREDO NEVES.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

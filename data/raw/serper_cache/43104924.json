@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "43104924",
+  "NO_ENTIDADE": "COLEGIO ANCHIETA",
+  "cidade": "Porto Alegre",
+  "query": "\"COLEGIO ANCHIETA\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ANCHIETA\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "CIRCULAR 349_2025 ASSUNTO MATERIAL DIDÁTICO ...",
+        "link": "https://www.colegioanchieta.g12.br/wp-content/uploads/2025/12/Circular-349_2025-MATERIAL-DIDATICO-PARA-O-ANO-LETIVO-DE-2026-8o-ANO.pdf",
+        "snippet": "CIRCULAR 349_2025. ASSUNTO MATERIAL DIDÁTICO PARA O ANO LETIVO DE 2026 – 8° ANO. Porto Alegre, 23 de dezembro de 2025.",
+        "position": 1
+      },
+      {
+        "title": "Sabia que o Compartilha vai muito além do material didático? ...",
+        "link": "https://www.instagram.com/reel/DMbD5hpRdX4/",
+        "snippet": "... material didático? Tatiane Waldow, coordenadora do Ensino Fundamental Anos Iniciais do Colégio Anchieta (@colegioanchietapoa), em Porto Alegre ... material ...",
+        "position": 2
+      },
+      {
+        "title": "bem-vindos ao colégio anchieta!",
+        "link": "https://www.colegioanchieta.g12.br/wp-content/uploads/2023/12/VERSAO-SITE-BOLETIM-INFORMATIVO-2024.pdf",
+        "snippet": "c) trazer o material didático necessário às atividades do dia; ... Sul de Porto Alegre, e da Vila Oliva, em Caxias do Sul. Em ambos os ...",
+        "date": "13 de dez. de 2023",
+        "position": 3
+      },
+      {
+        "title": "Aprender um novo idioma é também ampliar horizontes. No ...",
+        "link": "https://www.instagram.com/reel/DM_QuJxBji4/",
+        "snippet": "... Colégio Anchieta, a língua adicional não é mais uma disciplina ... Photo by Colégio Adventista de Porto Alegre on June 01, 2026. May be ...",
+        "date": "há 11 meses",
+        "position": 4
+      },
+      {
+        "title": "Educação não é só conteúdo. O Colégio Anchieta aposta na ...",
+        "link": "https://www.instagram.com/reel/DX_8-s5STmG/",
+        "snippet": "... Porto Alegre. OCR. AMANHÃ #grupoamanha Padre Vicente Palotti Diretor Geral do Colégio Anchieta. colegiostmj_'s profile picture · colegiostmj_.",
+        "date": "há 2 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

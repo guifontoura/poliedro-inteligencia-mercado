@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35561320",
+  "NO_ENTIDADE": "ALPHA LUMEN INSTITUTO",
+  "cidade": "São José dos Campos",
+  "query": "\"ALPHA LUMEN INSTITUTO\" \"São José dos Campos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ALPHA LUMEN INSTITUTO\" \"São José dos Campos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "1000361459_1000423317_Aces...",
+        "link": "https://www.al.sp.gov.br/spl/2021/02/Acessorio/1000361459_1000423317_Acessorio.pdf",
+        "snippet": "Municipal de São José dos Campos, com o pedido administrativo de restituição ... participação da Alpha Lumen, Instituto Federal,. Unifesp, Ita, entre ...",
+        "position": 1
+      },
+      {
+        "title": "Clube dos Sonhos 2026",
+        "link": "https://www.alphalumen.org.br/clubedossonhos2025/",
+        "snippet": "COM ESSE VALOR VOCÊ DÁ TODO O SUPORTE: mensalidade, alimentação, transporte, material didático ... São José dos Campos - SP, 12242-270. ALPHA LUMEN JR.: R. Clóvis ...",
+        "position": 2
+      },
+      {
+        "title": "O Instituto Alpha Lumen realiza, nos dias 27 e 28 de março ...",
+        "link": "https://www.instagram.com/p/DWZIjGYkRxz/",
+        "snippet": "... São José dos Campos, com entrada gratuita. Evento internacional O ... Science Days by Alpha Lumen Instituto Alpha Lumen - Apoio ao ...",
+        "date": "há 3 meses",
+        "position": 3
+      },
+      {
+        "title": "INSTITUTO FLIEGEN",
+        "link": "https://www.alphalumen.org.br/instituto-fliegen/",
+        "snippet": "– Material didático; – Auxílio transporte; – Alimentação durante horário das ... São José dos Campos - SP, 12242-270. ALPHA LUMEN JR.: R. Clóvis ...",
+        "position": 4
+      },
+      {
+        "title": "Olimpíadas virtuais estimulam alunos pelo Brasil durante a ...",
+        "link": "https://www.alphalumen.ong.br/olimpiadas-virtuais-estimulam-alunos-pelo-brasil-durante-a-pandemia-e-promovem-intercambio-internacional/",
+        "snippet": "Este foi o caso do Instituto Alpha Lumen, de São José dos Campos, interior de São Paulo. ... Mas a pandemia trouxe um desafio adicional para o sistema de ensino ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

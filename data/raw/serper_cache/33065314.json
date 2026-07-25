@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33065314",
+  "NO_ENTIDADE": "COL NOTRE DAME - IPANEMA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COL NOTRE DAME - IPANEMA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL NOTRE DAME - IPANEMA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "OBMEP 2019 - Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/2019/verRelatorioPremiadosGeral-RJ.3.privada.do.htm",
+        "snippet": "COL NOTRE DAME - IPANEMA, P, RIO DE JANEIRO, RJ, ---, Sim. BERNARDO BULGARELLI ... SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Bronze, ---. JOUBERT ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/rio-de-janeiro/",
+        "snippet": "RIO DE JANEIRO, RJ, Federal, 80% ou mais, Muito Alto, 638.30, 601.93, 673.78, 614.59, 662.90, 794.36. 57, 286, COL NOTRE DAME - IPANEMA, RIO DE ...",
+        "date": "5 de ago. de 2015",
+        "position": 2
+      },
+      {
+        "title": "Rio de Janeiro 4912 escolas",
+        "link": "https://qedu.org.br/municipio/3304557-rio-de-janeiro/busca",
+        "snippet": "... COL NOTRE DAME - IPANEMA. BARAO DA TORRE, 308. IPANEMA. 22411000 Rio de ... SISTEMA DE ENSINO FILTELMAM. RUA LUIS SA, 205. ILHA DO GOVERNADOR. 21931580 ...",
+        "position": 3
+      },
+      {
+        "title": "Instituições",
+        "link": "https://www.tjrj.jus.br/documents/1017893/1294906/instituicoes-capital.xls",
+        "snippet": "COL NOTRE DAME - IPANEMA, RUA BARAO DA TORRE, 308, 22411000. 729, RIO DE JANEIRO ... INTERNATIONAL CHRISTIAN SCHOOL OF RIO DE JANEIRO - ICS - RIO, AV ...",
+        "position": 4
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "COL NOTRE DAME - IPANEMA 82 Rio de Janeiro RJ COLEGIO CIDADE PARA DE MINAS ... SEI - SISTEMA DE ENSINO INTERATIVO 26 Rio de Janeiro RJ COLEGIO CASTELO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

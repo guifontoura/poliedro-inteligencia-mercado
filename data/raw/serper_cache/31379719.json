@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31379719",
+  "NO_ENTIDADE": "COLEGIO RUTHERFORD",
+  "cidade": "Sete Lagoas",
+  "query": "\"COLEGIO RUTHERFORD\" \"Sete Lagoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO RUTHERFORD\" \"Sete Lagoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Rutherford",
+        "link": "https://www.colegiorutherford.com.br/home/",
+        "snippet": "Equipe. O Colégio Rutherford conta com uma equipe de professores altamente respeitados. · Acompanhamento Psicológico · Material Didático · Localização Privilegiada ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Rutherford on Instagram: \"Com uma equipe de ...",
+        "link": "https://www.instagram.com/reel/DFYChVIp1Ir/",
+        "snippet": "... material didático do país, resultados extraordinário com esses estudantes. ... COLÉGIO Rutherford escola parceira Bernoulli Sistema de Ensino ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Colégio Rutherford lidera ranking do Enem em Sete ...",
+        "link": "https://www.setedias.com.br/colegio-rutherford-lidera-ranking-do-enem-em-sete-lagoas-e-esta-entre-as-melhores-do-brasil/",
+        "snippet": "... Sistema de Ensino Bernoulli, o Colégio Rutherford, de Sete Lagoas, alcançou novamente o 1º lugar no município, no quesito escolas com menos ...",
+        "date": "25 de jul. de 2025",
+        "position": 3
+      },
+      {
+        "title": "Ensino Fundamental II",
+        "link": "https://www.colegiorutherford.com.br/home/ensino-fundamental-ii/",
+        "snippet": "Todas elas com uma carga horária suficiente para a abordagem das coleções do Bernoulli Sistema de Ensino. ... São Geraldo - Sete Lagoas MG. Venha nos ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio Rutherford lidera ranking do Enem em Sete ...",
+        "link": "https://setelagoas.com.br/noticias/cidades/245548-colegio-rutherford-lidera-ranking-do-enem-em-sete-lagoas-e-esta-entre-as-melhores-do-brasil/",
+        "snippet": "... Sistema de Ensino Bernoulli, o Colégio Rutherford, de Sete Lagoas, alcançou novamente o 1º lugar no município, no quesito escolas com menos ...",
+        "date": "23 de jul. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

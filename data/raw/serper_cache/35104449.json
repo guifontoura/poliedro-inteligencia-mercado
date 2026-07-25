@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35104449",
+  "NO_ENTIDADE": "NOSSA SENHORA DAS GRACAS ESCOLA",
+  "cidade": "São Paulo",
+  "query": "\"NOSSA SENHORA DAS GRACAS ESCOLA\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"NOSSA SENHORA DAS GRACAS ESCOLA\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas em Cidade Vargas - São Paulo - SP",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/sao-paulo-sp/cidade-vargas",
+        "snippet": "Nossa Senhora Das Gracas Escola. 3.7(3). Cidade Vargas - São Paulo - SP. Saiba ... Material Didático Incluso. Infantil em alta! Vagas 2026. Vagas 2026. R ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - OBMEP 2019",
+        "link": "http://premiacao.obmep.org.br/2019/verRelatorioPremiadosPrata.privada.do.htm",
+        "snippet": "NOSSA SENHORA DAS GRACAS ESCOLA, P, SÃO PAULO, SP, Prata. ENYA KUO, COLEGIO OFICINA ... LICEU DE ARTES E OFICIOS DE SAO PAULO ESCOLA TECNICA, P, SÃO PAULO, SP ...",
+        "position": 2
+      },
+      {
+        "title": "Escolas em Cidade Vargas - São Paulo - SP",
+        "link": "https://www.melhorescola.com.br/busca/sao-paulo/sao-paulo/cidade-vargas",
+        "snippet": "Nossa Senhora Das Gracas Escola. 3.7(3). Cidade Vargas - São Paulo - SP. Saiba ... Material Didático Incluso. Vagas 2026. Vagas 2026. R$ 2.847,94. R$ 1.993,56 ...",
+        "position": 3
+      },
+      {
+        "title": "aqui - MCTI",
+        "link": "https://antigo.mctic.gov.br/mctic/opencms/indicadores/arquivos/dados_abertos/GESAC.csv",
+        "snippet": "... São Paulo;3550308;Mamae Associacao De Assistencia A Crianca Santamarense ... Nossa Senhora Das Gracas;Escola;Rural;Instalado PE;Cabrobó;2603009;Escola ...",
+        "position": 4
+      },
+      {
+        "title": "Recredenciamento de Escolas no Ceará | PDF",
+        "link": "https://pt.scribd.com/document/682269706/PAR-0443-2021-Escolas-pertencentes-ao-Sistema-de-Ensino-do-Estado-do-Ceara-mesclado",
+        "snippet": "ao Sistema de Ensino do Estado do Ceará, sejam o marco referencial para o ... 563. SEFOR 1 Fortaleza 23186259 NOSSA SENHORA DAS GRACAS ESCOLA 564. SEFOR 1 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

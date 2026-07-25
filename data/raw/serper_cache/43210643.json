@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "43210643",
+  "NO_ENTIDADE": "COLEGIO GABARITO CANOAS",
+  "cidade": "Canoas",
+  "query": "\"COLEGIO GABARITO CANOAS\" \"Canoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO GABARITO CANOAS\" \"Canoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Gabarito | Canoas on Instagram: \" Seu filho merece ...",
+        "link": "https://www.instagram.com/reel/DW62mfwEVkD/",
+        "snippet": "... Colégio Gabarito Canoas abre as portas para você conhecer de perto o ... COLÉGIO IPIRANGA SISTEMA DE ENSINO anglo Você conhece os diferenciais que ...",
+        "date": "há 3 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégios",
+        "link": "https://olimpoeditora.com/colegios/",
+        "snippet": "Colégio Gabarito Canoas. Ensino Fundamental 1 & 2. Ensino Médio Pré-Vestibular. Av. Mathias Velho, 185. Shopping Canoas; +55 51 3059-3909. Entre em contato ...",
+        "position": 2
+      },
+      {
+        "title": "✨ No Colégio Gabarito Canoas, o aprendizado vai muito ...",
+        "link": "https://www.instagram.com/p/DPlyYaQDcgf/",
+        "snippet": "✨ No Colégio Gabarito Canoas, o aprendizado vai muito além da sala de aula! ... Material Didático Infinito do COC. Não entregamos apenas ...",
+        "date": "há 9 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Gabarito | Canoas on Instagram: \" Como é o Ensino ...",
+        "link": "https://www.instagram.com/reel/DOL4sacjSuA/",
+        "snippet": "Colégio Gabarito Canoas Onde cada aluno é acompanhado de perto, do ... Em parceria com o Sistema COC, oferecemos um material didático que conecta ...",
+        "date": "há 10 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Gabarito | Canoas on Instagram: \"Mais do que ...",
+        "link": "https://www.instagram.com/reel/DadTwDPR-_3/",
+        "snippet": "... Colégio Gabarito Canoas, contamos com uma equipe altamente capacitada, comprometida em contribuir para a formação ... sistema de ensino ...",
+        "date": "há 2 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

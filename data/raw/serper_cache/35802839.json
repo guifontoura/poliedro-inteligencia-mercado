@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35802839",
+  "NO_ENTIDADE": "ARBOS COLEGIO UNIDADE MARECHAL DEODORO",
+  "cidade": "São Caetano do Sul",
+  "query": "\"ARBOS COLEGIO UNIDADE MARECHAL DEODORO\" \"São Caetano do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ARBOS COLEGIO UNIDADE MARECHAL DEODORO\" \"São Caetano do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "http://premiacao.obmep.org.br/2017/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "ARBOS COLEGIO UNIDADE MARECHAL DEODORO, P, SAO CAETANO DO SUL, SP, Sim. PIETRO ... ANGLO SISTEMA DE ENSINO, P, TATUI, SP, Sim. FELIPE VERAS DOS SANTOS, VISCONDE ...",
+        "position": 1
+      },
+      {
+        "title": "2014",
+        "link": "https://enem.cneceduca.com.br/2014?p=29",
+        "snippet": "Arbos Colegio Unidade Marechal Deodoro, Privada, São Caetano do Sul, SP, 21, 573 ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line Alexandria CNEC Provas ...",
+        "position": 2
+      },
+      {
+        "title": "Coree International School on Instagram: \" Tradições passam ...",
+        "link": "https://www.instagram.com/reel/Dadq2ElmMbH/",
+        "snippet": "SECRETARIA DE EDUCAÇÃO #tebetê BAR HOTEL Oscar Niemeyer PREFEITURA DE SÃO CAETANO DO SUL ... Sistema de Ensino Google for Education ...",
+        "date": "há 2 semanas",
+        "position": 3
+      },
+      {
+        "title": "dbo_TS_ESCOLA",
+        "link": "https://www.al.sp.gov.br/spl/2015/09/Acessorio/1278971_50269504_Acessorio.xlsx",
+        "snippet": "... SISTEMA DE ENSINO, SP, 1, 1, 0, 1, 0, 0, 0, 1. 1273, 2014, 35394142, ANGLOSCHOOL, SP, 1, 0, 0 ... ARBOS COLEGIO UNIDADE MARECHAL DEODORO, SP, 1, 1, 0, 1, 0, 0, 0 ...",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... SAO CAETANO DO SUL. Privada. ARBOS COLEGIO UNIDADE MARECHAL DEODORO ... SISTEMA DE ENSINO EQUIPE. 628,66. 596,47. 652,65. 612,81. 652,72. 747,74.",
+        "date": "22 de dez. de 2014",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

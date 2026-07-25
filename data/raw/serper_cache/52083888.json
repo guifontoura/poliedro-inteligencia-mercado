@@ -1,0 +1,55 @@
+{
+  "codigo_escola": "52083888",
+  "NO_ENTIDADE": "COLEGIO PROTAGORAS",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO PROTAGORAS\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PROTAGORAS\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Protágoras | Goiânia GO",
+        "link": "https://www.facebook.com/colegioprotagorasgo/?locale=pt_BR",
+        "snippet": "Colégio Protágoras, Goiânia. 7.825 curtidas · 3 falando sobre isso · 89 ... No Protágoras, nós unimos um corpo docente especialista, material didático ...",
+        "rating": 5,
+        "ratingCount": 50,
+        "position": 1
+      },
+      {
+        "title": "Específicas Exatas ENEM do Colégio Protágoras, Matricule ...",
+        "link": "https://www.instagram.com/reel/CpLcCLzDL15/",
+        "snippet": "No Protágoras, nós unimos um corpo docente especialista, material didático ... Goiânia com até 100% de bolsa! Venha participar do nosso simulado ...",
+        "date": "há 3 anos",
+        "position": 2
+      },
+      {
+        "title": "Colégio Protágoras | Líder em Aprovação ...",
+        "link": "https://www.instagram.com/reel/Cyl0psCLj7E/",
+        "snippet": "... goiânia ... Sistema de Ensino Colégio OFICINA 6º ano - Ensino fundamental 7º ano - Ensino fundamental 8º ano - Ensino ...",
+        "date": "há 2 anos",
+        "position": 3
+      },
+      {
+        "title": "No Protágoras, acreditamos que ensino de qualidade deve ...",
+        "link": "https://www.instagram.com/reel/DRxu8Wqj0-E/",
+        "snippet": "... GOIÂNIA Excelência que inspira. Resultados que transformam. Futuros ... Poliedro Sistema de Ensino. 1º lugar em Anápolis e 2ª melhor ...",
+        "date": "há 7 meses",
+        "position": 4
+      },
+      {
+        "title": "Quer estudar em um colégio com ensino de excelência e ...",
+        "link": "https://www.instagram.com/reel/DKKPvGby0oj/",
+        "snippet": "No Protágoras, nós unimos um corpo docente especialista, material didático ... Goiânia com até 100% de bolsa! Venha participar do nosso simulado ...",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

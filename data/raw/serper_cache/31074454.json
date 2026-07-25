@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "31074454",
+  "NO_ENTIDADE": "COLEGIO STELLA MATUTINA",
+  "cidade": "Juiz de Fora",
+  "query": "\"COLEGIO STELLA MATUTINA\" \"Juiz de Fora\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO STELLA MATUTINA\" \"Juiz de Fora\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Há 123 anos, o Colégio Stella Matutina forma gerações em ...",
+        "link": "https://www.instagram.com/reel/DTOe8Bigb8h/",
+        "snippet": "Photo by Colégio Stella Matutina | Juiz de Fora MG on July 01, 2026. ... Professores Qualificados e Sistema de Ensino FTD Educação. Mundo ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "o Colégio \"Stella Matutina\". A instituição funcionou ...",
+        "link": "https://www.instagram.com/p/DX93BsJFqJ4/",
+        "snippet": "... sistema de ensino brasileiro. A realização do curso e do ... Colégio Stella Matutina, no Centro de Juiz de Fora. As inscrições ...",
+        "date": "há 2 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Stella Maris on Instagram: \"No Colégio Stella Maris ...",
+        "link": "https://www.instagram.com/reel/DSYMhs0iAY1/",
+        "snippet": "Photo by Colégio Stella Matutina | Juiz de ...",
+        "date": "há 7 meses",
+        "position": 3
+      },
+      {
+        "title": "História do Colégio Stella Matutina - Juiz de Fora/MG jfminas",
+        "link": "https://www.jfminas.com.br/portal/historia/colegios/historia-do-colegio-stella-matutina",
+        "snippet": "Antigo prédio e capela do colégio stella matutina. Considerado um dos marcos da educação em Juiz de Fora, o colégio enfrentou problemas, especialmente a partir ...",
+        "position": 4
+      },
+      {
+        "title": "A escola já está em movimento, os espaços prontos e o ...",
+        "link": "https://www.instagram.com/reel/DUG_Y9zkehY/",
+        "snippet": "\" Bernoulli Sistema de Ensino ESCOLA PRESBITERIANA DE CANAL - JOÃO DOURADO - BA ... Join Colégio Stella Matutina | Juiz de Fora MG on Instagram.",
+        "date": "há 5 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

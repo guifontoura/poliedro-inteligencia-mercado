@@ -1,0 +1,55 @@
+{
+  "codigo_escola": "25153820",
+  "NO_ENTIDADE": "CARL ROGERS - CENTRO DE EDUCACAO",
+  "cidade": "João Pessoa",
+  "query": "\"CARL ROGERS - CENTRO DE EDUCACAO\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CARL ROGERS - CENTRO DE EDUCACAO\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola Carl Rogers | No Carl Rogers o ensino vai além do ...",
+        "link": "https://www.instagram.com/reel/DTtP2OviVS6/",
+        "snippet": ". View all 29 comments · July 4. OCR. ENSINO QUE TRANSFORMA. RESULTADOS QUE COMPROVAM. CARL ROGERS Centro de Educação ... João Pessoa um ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "Escola - A turminha Dom Bosco (que faz parte do material ...",
+        "link": "https://www.facebook.com/EscolaCarlRogers/photos/a-turminha-dom-bosco-que-faz-parte-do-material-did%C3%A1tico-da-educa%C3%A7%C3%A3o-infantil-est/1203816169755372/",
+        "snippet": "... João Pessoa e 9º lugar no estado. Esse resultado é fruto da ... May be an image of text that says 'CARL ROGERS Centro de Educação INSCRIÇÕES ...",
+        "date": "há 8 anos",
+        "position": 2
+      },
+      {
+        "title": "A metodologia Espiral Crescente, do Sistema Etapa ...",
+        "link": "https://www.instagram.com/p/DUbkanxjwyr/",
+        "snippet": "CARL ROGERS Centro de Educação DESTAQUE NO ENEM 1º LUGAR NO ESTADO ... Skies Learning by Red Balloon, Mind Makers, Sistema de Ensino Anglo.",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "Carl Rogers - Centro De Educacao",
+        "link": "https://querobolsa.com.br/escolas/escola-carl-rogers",
+        "snippet": "Onde fica o Carl Rogers - Centro De Educacao? rua reginaldo amaral muribeca, 65 - jardim cidade universitaria, João Pessoa - PB.",
+        "rating": 4.7,
+        "ratingCount": 2,
+        "position": 4
+      },
+      {
+        "title": "CERM on Instagram: \"Não é 9° ano, é PRÉ-MÉDIO! O nosso 9 ...",
+        "link": "https://www.instagram.com/reel/DTgdD59D0sg/",
+        "snippet": "... João Pessoa e 9º lugar no estado. Esse resultado é fruto da ... CARL ROGERS Centro de Educação DESTAQUE NO ENEM 1º LUGAR NO ESTADO ...",
+        "date": "há 6 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

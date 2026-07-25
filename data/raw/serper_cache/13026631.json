@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "13026631",
+  "NO_ENTIDADE": "COLEGIO PALAS ATENA",
+  "cidade": "Manaus",
+  "query": "\"COLEGIO PALAS ATENA\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PALAS ATENA\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Palas Atena - Descontos, Preço das Mensalidades ...",
+        "link": "https://querobolsa.com.br/escolas/colegio-palas-atena",
+        "snippet": "Os valores correspondentes ao Sistema de Ensino ANGLO e Sistema de Ensino ... Castelo Branco, 256 - parque 10, Manaus - AM. (92) 3236-8455. secretaria ...",
+        "rating": 5,
+        "ratingCount": 1,
+        "position": 1
+      },
+      {
+        "title": "SAPIENCIA SERVICOS EDUCACIONAIS… - CNPJ 20.229 ...",
+        "link": "https://monitorcnpj.com.br/cnpj/20229584000189/",
+        "snippet": "... Manaus/AM. A empresa foi fundada em 11/05/2014 e possui 12 anos e 1 mês de ... EDUCAR SISTEMA DE ENSINO LTDA. 20.265.832/0001-47 Taboão da Serra, SP.",
+        "position": 2
+      },
+      {
+        "title": "PREMIAÇÃO NACIONAL",
+        "link": "https://www.edoc.ufam.edu.br/bitstream/123456789/9084/1/Cerimonia%2018a%202.pdf",
+        "snippet": "COLEGIO MILITAR DE MANAUS. Prêmio: Diploma - escolas premiadas nos anos ... COLEGIO PALAS ATENA. 86. GUSTAVO DE. OLIVEIRA SICSU. GOMES. COLEGIO MILITAR DE.",
+        "position": 3
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ... Colegio Palas Atena - Manaus - Parque 10 de Novembro - Nota: 641.7.",
+        "date": "23 de jun. de 2026",
+        "position": 4
+      },
+      {
+        "title": "PMM Data do Fechamento: 02/03/2025 Créditos Tributários",
+        "link": "https://www.manaus.am.gov.br/pgm/wp-content/uploads/sites/15/2025/03/Lista-Credito-Tributario.pdf",
+        "snippet": "... COLEGIO PALAS ATENA LTDA. 381.587,07. J R COMERCIO DE MAQUINAS E ... SISTEMA DE ENSINO EQUIPOL LTDA. 89.392,74. F S DE ABREU - EPP. 89.381 ...",
+        "date": "2 de mar. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33102830",
+  "NO_ENTIDADE": "EDUCANDARIO MIOSOTIS",
+  "cidade": "Nova Friburgo",
+  "query": "\"EDUCANDARIO MIOSOTIS\" \"Nova Friburgo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"EDUCANDARIO MIOSOTIS\" \"Nova Friburgo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Sou Aluno",
+        "link": "https://miosotis.com.br/aluno",
+        "snippet": "Alameda Eduardo Guinle, 265, Centro - Nova Friburgo - RJ (22) 2523-9449 · (22) 2523-9449 educandario@miosotis.com.br. Site por. Contato pelo whatsapp. Ano de ...",
+        "position": 1
+      },
+      {
+        "title": "Educandario Miosotis",
+        "link": "https://www.instagram.com/popular/educandario-miosotis/",
+        "snippet": "Educandario Miosotis ... Rua Francisco Luís Fernandes, 42 - Conselheiro Paulino, Nova Friburgo ... Material didático de qualidade; Atendimento ...",
+        "position": 2
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/rio-de-janeiro/",
+        "snippet": "COLEGIO SAO JOAO BATISTA NOVA FRIBURGO, NOVA FRIBURGO, RJ ... SOMEC SISTEMA DE ENSINO, RIO DE JANEIRO, RJ, Privada, De 20% a 40%, Médio ...",
+        "date": "5 de ago. de 2015",
+        "position": 3
+      },
+      {
+        "title": "regimento - escolar",
+        "link": "https://miosotis.com.br/assets/docs/regimento-escolar.pdf",
+        "snippet": "Guinle, 265, Parque São Clemente, Centro, Nova Friburgo, RJ, CEP. 28.625-130. ... material didático, catalogando-o e zelando pela sua ... Educandário Miosótis. São ...",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "http://premiacao.obmep.org.br/2017/verRelatorioPremiadosPrata.privada.do.htm",
+        "snippet": "FORTALEZA, CE, Prata. MORIAN LIMA DOS SANTOS, COLEGIO MOTIVA LTDA - EPP, P, CAMPINA GRANDE, PB, Prata. PEDRO OLIVEIRA LENGRUBER LACT, EDUCANDARIO MIOSOTIS, P ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "52097676",
+  "NO_ENTIDADE": "COLEGIO SIMBIOS",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO SIMBIOS\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SIMBIOS\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "RESULTADO POR REGIÃO",
+        "link": "https://ceara.obquimica.org/storage/files/resultado-do-i-quimeninas-2023-9-ano-ef.pdf",
+        "snippet": "COLEGIO SIMBIOS. GOIÁS. GOIÂNIA. PRATA. 14. 1518142 CAMILA IOSCA VIERO ALONSO ... SISTEMA DE ENSINO PHYSICS AMAPÁ LTDA. AMAPÁ. MACAPÁ. AMAZONAS (AM). 1710837 ...",
+        "position": 1
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/5208707-goiania/busca",
+        "snippet": "SISTEMA DE ENSINO MILENIO. AVENIDA 24 DE OUTUBRO, 3110 AEROVIARIO. 74435-090 Goiânia - GO. Rede privada / Urbana · SISTEMA DE ENSINO VITORIA ESCOLA OFICINA DE ...",
+        "position": 2
+      },
+      {
+        "title": "Essa vitória é sua, mas o Colégio Genoma comemora ...",
+        "link": "https://www.instagram.com/p/DUV9v0gDjX7/",
+        "snippet": "... SISTEMA DE ENSINO INTENSIVO PRESENCIAL INTENSIVO PRESENCIAL . ... Apostila organiza o O estudo. Rotina que gera resultado Fonte: Franquia ...",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "Baixar",
+        "link": "https://dadosabertos.go.gov.br/dataset/773b17ff-757c-4e71-bc3b-7f1c8cd4dbeb/resource/f649807d-b91e-44b0-bab6-573833e6c9d3/download/7.matriculas_por_etapa_seduc_2025.csv",
+        "snippet": "... Goiânia;Aparecida de Goiânia;52030555;CENTRO EDUCACIONAL MUNDO INFANTIL ... SISTEMA DE ENSINO MILENIO;Privada;Urbana;183;0;0;70;113;0;0;; 2013;CRE ...",
+        "position": 4
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... Goiânia. GO. 692,6. 838,6. 683,0. 677,0. 648,0. 762,0. 29 ETAPA COLEGIO.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

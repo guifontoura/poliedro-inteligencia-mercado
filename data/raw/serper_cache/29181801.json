@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "29181801",
+  "NO_ENTIDADE": "COLEGIO ANTONIO VIEIRA",
+  "cidade": "Salvador",
+  "query": "\"COLEGIO ANTONIO VIEIRA\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ANTONIO VIEIRA\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Aprovados 2024 - Rede Jesuíta de Educação",
+        "link": "https://www.colegioantoniovieira.com.br/aprovados-2024/",
+        "snippet": "Com uma equipe de professores altamente qualificada, o uso de plataformas educacionais de alta tecnologia e material didático ... O Colégio Antônio Vieira integra ...",
+        "position": 1
+      },
+      {
+        "title": "Formação de Professores e Equipe Técnica",
+        "link": "https://www.colegioantoniovieira.com.br/como-educamos/formacao-de-professores/",
+        "snippet": "... material didático · 13.08.24 Professores e gestores do Vieira têm formação ... Colégio Antônio Vieira. Todos os direitos reservados. O Colégio Antônio Vieira ...",
+        "position": 2
+      },
+      {
+        "title": "a contenção da crise de imagem do colégio antônio vieira ...",
+        "link": "https://repositorio.jesuita.org.br/bitstream/handle/UNISINOS/12251/Aidil%20Brites%20Guimar%C3%A3es%20Fonseca.pdf?sequence=1",
+        "snippet": "de ABG Fonseca · 2021 — Resumo: Este trabalho nasce a partir da experiência vivenciada pelo Colégio Antônio Vieira. (Salvador/BA) em função da pandemia.",
+        "position": 3
+      },
+      {
+        "title": "Colégio Antônio Vieira abre 40 vagas para bolsas integrais ...",
+        "link": "https://aloalobahia.com/noticias/2025/10/06/colegio-antonio-vieira-abre-40-vagas-para-bolsas-integrais-no-ensino-medio-noturno/",
+        "snippet": "O tradicional Colégio Antônio Vieira, no bairro do Garcia, em Salvador, abriu nesta segunda-feira (6) inscrições para 40 bolsas de estudo ...",
+        "date": "6 de out. de 2025",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO UNO VERTICE, P, DIVINOPOLIS, MG, Bronze. HEITOR SOARES DE ... COLEGIO ANTONIO VIEIRA, P, SALVADOR, BA, Bronze. LEONARDO DE FARIA POTTES, CENTRO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

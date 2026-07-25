@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "43205542",
+  "NO_ENTIDADE": "ESCOLA DE ENSINO MEDIO CAMINHO",
+  "cidade": "Caxias do Sul",
+  "query": "\"ESCOLA DE ENSINO MEDIO CAMINHO\" \"Caxias do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA DE ENSINO MEDIO CAMINHO\" \"Caxias do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alexandra Valença Colvara - Vice-diretora Pedagógica",
+        "subtitle": "Caxias do Sul, Rio Grande do Sul, Brazil · Vice-diretora Pedagógica · Caminho Rede de Ensino",
+        "link": "https://www.linkedin.com/in/alexandra-valen%C3%A7a-colvara-9a1a6b73",
+        "snippet": "... Caxias do Sul · 293 connections on LinkedIn. View Alexandra Valença ... Escola de Ensino Médio Caminho do Saber. Feb 2010 - Nov 2021 11 years 10 months.",
+        "position": 1
+      },
+      {
+        "title": "No Laboratório de Tecnologias Integradas, as crianças da ...",
+        "link": "https://www.instagram.com/p/DXkTjCtEVBC/",
+        "snippet": "Photo by Ensina Mais Caxias do Sul on July 18, 2026. May be a. Photo by ... ​Material Didático Diferenciado: Utilizamos uma metodologia ...",
+        "date": "há 3 meses",
+        "position": 2
+      },
+      {
+        "title": "Lorena Molon Basso",
+        "link": "https://www.escavador.com/sobre/7292392/lorena-molon-basso",
+        "snippet": "... Caxias do Sul.. 2018. Centro Universitário da Serra Gaúcha - FSG. ANDRADE ... (Desenvolvimento de material didático ou instrucional - Material didático).",
+        "position": 3
+      },
+      {
+        "title": "Matrícula Inicial por etapa e/ou modalidade de ensino - 2013",
+        "link": "http://www.educacao.rs.gov.br/dados/estatisticas_mi_par_2013.pdf",
+        "snippet": "43180744 ESCOLA ADVENTISTA DE ENSINO FUND DE CAXIAS DO SUL. Urbana. 0. 49 ... 43205542 ESCOLA DE ENSINO MEDIO CAMINHO DO SABER. Urbana. 0. 0. 747. 84. 0. 0. 0.",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE. 628,66. 596,47. 652,65. 612,81. 652,72. 747,74 ... CAXIAS DO SUL. Privada. COLEGIO LA SALLE - CARMO. 602,89. 587,80. 638 ...",
+        "date": "22 de dez. de 2014",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

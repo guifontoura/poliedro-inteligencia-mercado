@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35300895",
+  "NO_ENTIDADE": "JP ENSINO MEDIO CURSOS TECNICOS E CURSINHOS",
+  "cidade": "Presidente Prudente",
+  "query": "\"JP ENSINO MEDIO CURSOS TECNICOS E CURSINHOS\" \"Presidente Prudente\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"JP ENSINO MEDIO CURSOS TECNICOS E CURSINHOS\" \"Presidente Prudente\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/",
+        "snippet": "JP ENSINO MEDIO CURSOS TECNICOS E CURSINHOS, PRESIDENTE PRUDENTE, SP ... ZETA SISTEMA DE ENSINO DE PROMISSAO, PROMISSAO, SP, Privada, 80% ou ...",
+        "date": "5 de ago. de 2015",
+        "position": 1
+      },
+      {
+        "title": "E-metodo",
+        "link": "https://emetodo60.unisa.br/formulario/ficha/inscricao/2452",
+        "snippet": "ANGLO SISTEMA DE ENSINO, ANHANGUERA, ANHEMBI MORUMBI COLEGIO, ANIBAL DE FREITAS ... JP ENSINO MEDIO CURSOS TECNICOS E CURSINHOS, JUAN CARLOS ONETTI ...",
+        "position": 2
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "JP ENSINO MEDIO CURSOS TECNICOS E CURSINHOS. SP. 2151. ESCOLA PROFA YOLANDA ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL. PB. 7312. SUELI ...",
+        "position": 3
+      },
+      {
+        "title": "Formulário de interesse",
+        "link": "https://cad-fund1.colband.net.br/",
+        "snippet": "ANGLO SISTEMA DE ENSINO, ANGLOSCHOOL, ANGUELOS MONTESSORI ESCOLA, ANHANGUERA ... JP ENSINO MEDIO CURSOS TECNICOS E CURSINHOS, JS CENTRO DE EDUCACAO DE ...",
+        "position": 4
+      },
+      {
+        "title": "Lista com desempenho das escolas no Enem 2014",
+        "link": "https://ptdocz.com/doc/1409101/lista-com-desempenho-das-escolas-no-enem-2014",
+        "snippet": "... SISTEMA DE ENSINO TERESINA PI 202 UNIDADE DE ENSINO COLEGIO SINODAL - SAO ... PRESIDENTE PRUDENTE SP 252 CENTRO EDUCACIONAL CHARLES DARWIN VILA VELHA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

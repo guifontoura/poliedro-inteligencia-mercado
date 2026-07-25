@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31170534",
+  "NO_ENTIDADE": "COLEGIO PIRLIMPIMPIM SAO PASCHOALL",
+  "cidade": "Uberlândia",
+  "query": "\"COLEGIO PIRLIMPIMPIM SAO PASCHOALL\" \"Uberlândia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PIRLIMPIMPIM SAO PASCHOALL\" \"Uberlândia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Pirlimpimpim São Pachoal- Unidade Ii",
+        "link": "https://querobolsa.com.br/escolas/colegio-pirlimpimpim-sao-paschoall-unidade-ii",
+        "snippet": "Excelente escola, com ótimo material didático e professores dedicados ... Dona Maria Rezende (Conjunto Habitacional) - Uberlândia - MG. Bolsas a partir ...",
+        "rating": 5,
+        "ratingCount": 6,
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 17ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/17obmep/verRelatorioPremiadosMencao-MG.3.privada.do.htm",
+        "snippet": "UBERLÂNDIA, MG, Sim. VICTOR XAVIER COSTA, COLEGIO CIDADE DE BOM DESPACHO, P, BOM ... COLEGIO PIRLIMPIMPIM SAO PASCHOALL, P, UBERLÂNDIA, MG, Sim. LETICIA PALOMERO ...",
+        "position": 2
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Uberlândia",
+        "link": "https://qedu.org.br/municipio/3170206-uberlandia/distorcao-idade-serie",
+        "snippet": "COLEGIO PIRLIMPIMPIM - SAO PASCHOALL - UNIDADE II. 4,8%. COLEGIO PIRLIMPIMPIM ... SISTEMA DE ENSINO ROCHA FERREIRA. 1,2%. Fonte: Indicador de Distorção ...",
+        "position": 3
+      },
+      {
+        "title": "Município: Uberlândia - MG - Resultado Final - ONC 2020",
+        "link": "https://resultado.onciencias.org/resultado-final-onc2020/MG/Uberl%C3%A2ndia",
+        "snippet": "COLEGIO PIRLIMPIMPIM - SAO PASCHOALL - UNIDADE II. INEP: 31236187 · COLEGIO ... SISTEMA DE ENSINO ROCHA FERREIRA. INEP: 31273864 · SNOOPY HOTEL ESCOLA. INEP ...",
+        "position": 4
+      },
+      {
+        "title": "FACED PROGRAMA DE PÓS-GRADUAÇÃO EM EDUCAÇÃO ...",
+        "link": "https://repositorio.ufu.br/bitstream/123456789/27837/1/TrabalhoEduca%C3%A7%C3%A3oEstudo.pdf",
+        "snippet": "Uberlândia, na linha de pesquisa intitulada “Trabalho, Sociedade e Educação”. ... sistema de ensino paralelo ao sistema oficial. O SENAI era dirigido pela.",
+        "date": "de J Andrade · 2019",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

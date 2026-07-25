@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35111363",
+  "NO_ENTIDADE": "COTET COLEGIO TECNICO DE TAUBATE",
+  "cidade": "Taubaté",
+  "query": "\"COTET COLEGIO TECNICO DE TAUBATE\" \"Taubaté\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COTET COLEGIO TECNICO DE TAUBATE\" \"Taubaté\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Cotet | Bolsas de Estudo em Taubaté - SP",
+        "link": "https://www.melhorescola.com.br/escola/cotet-colegio-tecnico-de-taubate",
+        "snippet": "Sistema de ensino. Bernoulli. O sistema de ensino compreende o conjunto de métodos, práticas pedagógicas, currículos e avaliações que guiam o processo ...",
+        "position": 1
+      },
+      {
+        "title": "ANÚNCIO DOS CLASSIFICADOS OBT",
+        "link": "https://www.alphalumen.org.br/wp-content/uploads/2021/10/classificados-obt2021.pdf",
+        "snippet": "COTET COLEGIO TECNICO DE TAUBATE. Taubaté - SP. Crânios romanos. Colégio Motiva ... Sistema de Ensino Projetar. Linhares - ES. High-tech cp2. Colégio Pedro ...",
+        "position": 2
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 1° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DAA25DGW9E54FSE2QMDYT.pdf",
+        "snippet": "COTET COLEGIO TECNICO DE TAUBATE. SP. Taubaté certificado GABRIELA PIZZATTO ... SISTEMA DE ENSINO AUTHENTICO. PA. Belém certificado CLARYSSA BARROS DE ...",
+        "position": 3
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola e Estado | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536523912/Premiacao-9%C2%BA-Ano-Ef-Nivel-a-2019-2",
+        "snippet": "FILIPE ZUIM REZENDE DA SILVA COTET COLEGIO TECNICO DE TAUBATE SÃO PAULO Taubaté ... JULIA DANTAS CASSIN ZETA SISTEMA DE ENSINO DE BIRIGUI SÃO PAULO Birigui",
+        "position": 4
+      },
+      {
+        "title": "LISTA DOS ALUNOS DO NONO ANO COM NOTA MAIOR ...",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/TABELA%20NIVEL%203%20NONO%20ANO%20CORRETA%20SO%20COM%204%20COLUNAS-compressed-compactado.pdf",
+        "snippet": "Taubaté. Colegio Progressâo. SOFIA LUANE DA CUNHA SAIKI. SÃO PAULO. Taubaté. COTET COLEGIO TECNICO DE TAUBATE. ALVARO MARQUES NETO. SÃO PAULO. Teodoro Sampaio ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

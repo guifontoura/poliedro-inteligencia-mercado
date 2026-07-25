@@ -1,0 +1,43 @@
+{
+  "codigo_escola": "31353906",
+  "NO_ENTIDADE": "COLEGIO SANTA MARIA MINAS - UNIDADE BETIM",
+  "cidade": "Betim",
+  "query": "\"COLEGIO SANTA MARIA MINAS - UNIDADE BETIM\" \"Betim\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA MARIA MINAS - UNIDADE BETIM\" \"Betim\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Conheça os finalistas e as menções honrosas do Prêmio ...",
+        "link": "https://criativosdaescola.com.br/conheca-os-finalistas-e-as-mencoes-honrosas-do-premio-criativos-escola-natureza/?lang=en",
+        "snippet": "Moda Sustentável (Betim/MG) – Colegio Santa Maria Minas Unidade Betim; Mover – Movimento Verde (Americana/SP) – Escola Estadual Maestro Germano Benencase ...",
+        "position": 1
+      },
+      {
+        "title": "Nome do(a) aluno(a) Escola Modalidade Polo de aplicação",
+        "link": "https://omq.qui.ufmg.br/wp-content/uploads/2025/07/Participantes_OMQ_2025.pdf",
+        "snippet": "COLEGIO SANTA MARIA MINAS - UNIDADE BETIM. B. Belo Horizonte. CAMILA MELO ... SISTEMA DE ENSINO FOCO. B. Montes Claros. Página 95. Page 96. Nome do(a) aluno(a).",
+        "position": 2
+      },
+      {
+        "title": "Prêmio Criativos Escola + Natureza - Ideias para um ...",
+        "link": "https://criativosdaescola.com.br/edicoes-anteriores/2025/",
+        "snippet": "... Material Didático (Imperatriz/MA); Extração Do Óleo Essencial De ... Moda Sustentável (Betim/MG) – Colegio Santa Maria Minas Unidade Betim; Mover ...",
+        "position": 3
+      },
+      {
+        "title": "Escola",
+        "link": "https://omq.qui.ufmg.br/wp-content/uploads/2025/09/inscritos_OMQ_2025.pdf",
+        "snippet": "COLEGIO SANTA MARIA MINAS - UNIDADE BETIM. ANA CLARA VEIGA GONÇALVES DE MELLO ... SISTEMA DE ENSINO FOCO. ANA LUÍZA MIRANDA FAGUNDES. B. Montes Claros. 19 ...",
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

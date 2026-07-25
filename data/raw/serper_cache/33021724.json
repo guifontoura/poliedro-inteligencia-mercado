@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33021724",
+  "NO_ENTIDADE": "COL NS DAS DORES",
+  "cidade": "Nova Friburgo",
+  "query": "\"COL NS DAS DORES\" \"Nova Friburgo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL NS DAS DORES\" \"Nova Friburgo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Col Ns Das Dores | Bolsas de Estudo em Nova Friburgo - RJ",
+        "link": "https://www.melhorescola.com.br/escola/col-ns-das-dores",
+        "snippet": "Garanta sua bolsa de estudos em Col Ns Das Dores, Nova Friburgo - RJ ... Sistema de ensino. SAS. O sistema de ensino compreende o conjunto de métodos ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas Particulares",
+        "link": "https://www.coseacuff.net.br/vest99/escpart.htm",
+        "snippet": "NOVA FRIBURGO 2139 - ASSOCIAÇÃO EDUC CEFEL 2140 - CENTRO EDUC UNIÃO 2141 - COL ANCHIETA 2142 - COL MODELO 2143 - COL NS DAS DORES 2144 - COL NS DAS MERCÊS",
+        "position": 2
+      },
+      {
+        "title": "Parabéns aos nossos alunos que conquistaram a classificação ...",
+        "link": "https://www.instagram.com/p/DZ7xMYIkZff/",
+        "snippet": "... apostila, mostrando o que os alunos já desenvolveram. ... Photo by Colégio Nossa Senhora das Dores - Nova Friburgo on June 16, 2026. ... CAIQUE MARCHON CORREA - COL ...",
+        "position": 3
+      },
+      {
+        "title": "Nos últimos anos, nossa escola celebra a conquista de ...",
+        "link": "https://www.instagram.com/reel/DZXuNG0Mx5y/",
+        "snippet": "CAIQUE MARCHON CORREA - COL NS DAS DORES - NOVA FRIBURGO - RJ... 20ª ... O exercício que eu farei é da apostila Bernoulli. Decomponha ...",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/rio-de-janeiro/",
+        "snippet": "COL NS DAS DORES, NOVA FRIBURGO, RJ, Privada, 80% ou mais, Muito Alto ... SOMEC SISTEMA DE ENSINO, RIO DE JANEIRO, RJ, Privada, De 20% a 40 ...",
+        "date": "5 de ago. de 2015",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

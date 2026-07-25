@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31377953",
+  "NO_ENTIDADE": "COLEGIO INTEGRADO UBERABA",
+  "cidade": "Uberaba",
+  "query": "\"COLEGIO INTEGRADO UBERABA\" \"Uberaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO INTEGRADO UBERABA\" \"Uberaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "2026",
+        "link": "https://cee.educacao.mg.gov.br/index.php/legislacao/pareceres/category/97-2026?start=960",
+        "snippet": "Autorização de funcionamento do Ensino Fundamental a ser ministrado pelo Colégio Integrado Uberaba, no Município de Uberaba. ... Sistema de Ensino Jardim ...",
+        "position": 1
+      },
+      {
+        "title": "Jose Biagini Neto - Biblioteca Virtual da FAPESP",
+        "link": "https://bv.fapesp.br/pt/pesquisador/43649/jose-biagini-neto/",
+        "snippet": "Atualmente é docente - Colégio Integrado Uberaba, Colégio Integrado Ribeirão Preto, Colégio Liceu Contemporâneo Ribeirão Preto. ... Produção de material didático ...",
+        "position": 2
+      },
+      {
+        "title": "SrE de Juiz de Fora",
+        "link": "http://jornal.iof.mg.gov.br/xmlui/bitstream/handle/123456789/259443/caderno1_2021-12-28%2031.pdf?sequence=1",
+        "snippet": "Credenciamento da entidade Colégio Integrado uberaba Ltda - ME ... Sistema de Ensino Ltda - ME e se manifestapela autorização de fun-.",
+        "date": "28 de dez. de 2021",
+        "position": 3
+      },
+      {
+        "title": "Minha Escola Legal",
+        "link": "http://www.minhaescolalegal.com.br/",
+        "snippet": "ATUAL SISTEMA DE ENSINO, SABINÓPOLIS, RUA JOVAL DE PINHO, 101, CENTRO, (33) ... COLÉGIO INTEGRADO UBERABA, UBERABA, AVENIDA SANTA BEATRIZ DA SILVA, 1501, SÃO ...",
+        "position": 4
+      },
+      {
+        "title": "Lista de Contatos Uberaba | PDF",
+        "link": "https://pt.scribd.com/document/722078740/Contatos-Uberaba",
+        "snippet": "OBJETIVO COLEGIO INTEGRADO UBERABA LTDA CONSCI CRIA FORMATOS EMPORIO QUATRO ... Apostila de Desenho Técnico e Normas. 33 páginas. A Evolução da Maquiagem ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

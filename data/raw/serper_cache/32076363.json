@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "32076363",
+  "NO_ENTIDADE": "COLEGIO LUSIADAS",
+  "cidade": "Cariacica",
+  "query": "\"COLEGIO LUSIADAS\" \"Cariacica\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LUSIADAS\" \"Cariacica\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Lusiadas Prime",
+        "link": "https://br.linkedin.com/company/lusiadas-prime",
+        "snippet": "... Cariacica Equipe com os melhores professores SOLUÇÕES EDUCACIONAIS DE EXCELÊNCIA, COM LIVROS E TECNOLOGIA INTEGRADOS O Bernoulli Sistema de Ensino ... Cariacica ...",
+        "position": 1
+      },
+      {
+        "title": "Falta de livros ou venda casada - Colégio Lusíadas",
+        "link": "https://www.reclameaqui.com.br/colegio-lusiadas/falta-de-livros-ou-venda-casada_yr9UTPr3Tp9F3AoO/",
+        "snippet": "Falta de livros ou venda casada. Reclamação não respondida. Não respondida. Colégio Lusíadas · Reclamar dessa empresa. Cariacica - ES ... colégio Lusíadas, que ...",
+        "position": 2
+      },
+      {
+        "title": "Lusiadas Prime",
+        "link": "https://www.linkedin.com/company/lusiadas-prime",
+        "snippet": "... Cariacica Equipe com os melhores professores SOLUÇÕES EDUCACIONAIS DE EXCELÊNCIA, COM LIVROS E TECNOLOGIA INTEGRADOS O Bernoulli Sistema de Ensino ...",
+        "position": 3
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... CARIACICA. Cariacica. ES. 646,2. 703,6. 648,0. 629,0. 610,0. 697,0. 235.",
+        "position": 4
+      },
+      {
+        "title": "ENEM ESCOLA Page 1 SIGLA NO_MUNICIPIO ...",
+        "link": "http://fw.atarde.com.br/2012/11/1293042.pdf",
+        "snippet": "... SISTEMA DE ENSINO LTDA. Privada. 487,1512195 514,9707317 553,6134146 539 ... CARIACICA. CAT BARBARA MONTEIRO LINDEMBERG. Privada. 508,3183673 497,4142857 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

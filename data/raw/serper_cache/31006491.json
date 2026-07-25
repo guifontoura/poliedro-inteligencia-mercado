@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31006491",
+  "NO_ENTIDADE": "ESCOLA BALAO VERMELHO",
+  "cidade": "Belo Horizonte",
+  "query": "\"ESCOLA BALAO VERMELHO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA BALAO VERMELHO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ensino Fundamental I - Balão Vermelho",
+        "link": "https://www.balaovermelho.com.br/areas/ensino-fundamental-i",
+        "snippet": "Mangabeiras, Belo Horizonte – MG, 30210-190. Quer conhecer a Escola Balão Vermelho? Clique aqui! Já faz parte da Escola Balão Vermelho? Tel: (31) 3500-8320.",
+        "position": 1
+      },
+      {
+        "title": "Há mais de 50 anos, a Escola Balão Vermelho, em Belo ...",
+        "link": "https://www.instagram.com/p/DZDsN0HDVSj/",
+        "snippet": "Há mais de 50 anos, a Escola Balão Vermelho, em Belo Horizonte ... material didático em escolas particulares IMPACTTO NEWS ...",
+        "position": 2
+      },
+      {
+        "title": "Escola Balão Vermelho Alicerce on Instagram: \" Encontrar a ...",
+        "link": "https://www.instagram.com/reel/DaVjD0aDxHk/",
+        "snippet": "Somos o 1º lugar em Redação em Belo Horizonte! Porque uma ... Material didático com pagamento facilitado ‍ Equipe dedicada ...",
+        "date": "há 3 semanas",
+        "position": 3
+      },
+      {
+        "title": "Por que prestar atenção à compra de três escolas particulares ...",
+        "link": "https://revistagiz.sinprosp.org.br/educacao/por-que-prestar-atencao-a-compra-de-tres-escolas-particulares-pela-bahema/",
+        "snippet": "... Escola Balão Vermelho em Belo Horizonte, com opção de compra do ... material didático produzido; manutenção das bolsas para os filhos ...",
+        "date": "27 de ago. de 2018",
+        "position": 4
+      },
+      {
+        "title": "Abril: um mês para lembrar que o respeito é a base de todo ...",
+        "link": "https://www.instagram.com/reel/DWlhn__x6-m/",
+        "snippet": "Somos responsáveis pela construção de um ambiente seguro e saudável para todos os alunos e colaboradores. Afinal, respeitar o outro é permitir ...",
+        "date": "há 3 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "23070722",
+  "NO_ENTIDADE": "NOSSA SENHORA DAS GRACAS COLEGIO",
+  "cidade": "Fortaleza",
+  "query": "\"NOSSA SENHORA DAS GRACAS COLEGIO\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"NOSSA SENHORA DAS GRACAS COLEGIO\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO UNO VERTICE, P, DIVINOPOLIS, MG, Bronze. HEITOR SOARES DE ... NOSSA SENHORA DAS GRACAS COLEGIO, P, FORTALEZA, CE, Bronze. ENZO VILLANI TONUS ...",
+        "position": 1
+      },
+      {
+        "title": "https://www.cearatransparente.ce.gov.br/attachment...",
+        "link": "https://www.cearatransparente.ce.gov.br/attachments/2dc045f21981672545b4eb43920a25b3ed9c02c8/store/81a43a4b40707d0f843e17d0a75c9666af787c7a466666c1d05501588ab8/atendimento_14168637-1.csv",
+        "snippet": "... Fortaleza\";23064641;\"21 DE ABRIL COLEGIO\";\"Privada\";2;0;0;0;0;0;0;2 21 ... SISTEMA DE ENSINO\";\"Privada\";2;0;0;0;0;0;0;2 22;\"SEFOR 2\";2304400;\"Fortaleza ...",
+        "position": 2
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 9° ANO",
+        "link": "https://obquimica.org/storage/files/01K92D8X8J0CBEC6S5CFDQXAWT.pdf",
+        "snippet": "SISTEMA DE ENSINO AUTHENTICO. PA. Belém. OURO. Echilly Gonçalves Marques ... NOSSA SENHORA DAS GRACAS COLEGIO. CE. Fortaleza certificado JENNIFER SILVA DE ...",
+        "position": 3
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536524033/Premiacao-3%C2%BA-Ano-Em-Nivel-d-2019-1",
+        "snippet": "MATHEUS RODRIGUES DE AZEVEDO NOSSA SENHORA DAS GRACAS COLEGIO CEARÁ Fortaleza ... LUCA DE FREITAS GARCIA SEI - SISTEMA DE ENSINO INTERATIVO RIO DE JANEIRO Rio de ...",
+        "position": 4
+      },
+      {
+        "title": "OURO PRATA",
+        "link": "https://antigo.onciencias.org/resultados/download/15",
+        "snippet": "LUIS GUSTAVO REBOUÇAS OLIVEIRA NOSSA SENHORA DAS GRACAS COLEGIO ... ROBERTO ARLEY GARCÊZ MENEZES FARIAS BRITO COLEGIO PRE-VESTIBULAR CENTRAL FORTALEZA.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

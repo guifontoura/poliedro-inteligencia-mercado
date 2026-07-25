@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "43105076",
+  "NO_ENTIDADE": "COLEGIO SANTA TERESA DE JESUS PORTO ALEGRE",
+  "cidade": "Porto Alegre",
+  "query": "\"COLEGIO SANTA TERESA DE JESUS PORTO ALEGRE\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA TERESA DE JESUS PORTO ALEGRE\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "A Geekie, empresa que criou o Geekie One, já impactou mais de ...",
+        "link": "https://www.facebook.com/stateresa.poa/videos/a-geekie-empresa-que-criou-o-geekie-one-j%C3%A1-impactou-mais-de-12-milh%C3%B5es-de-alunos/354272433365498/",
+        "snippet": "... , a tecnologia de | Colégio Santa Teresa de Jesus - Porto Alegre. Log in · Video. . Colégio Santa Teresa de Jesus - Porto Alegre. Feb 4, 2022· . ...",
+        "position": 1
+      },
+      {
+        "title": "XV de Outubro: Um Legado Teresiano - Os 60 anos do ...",
+        "link": "https://www.instagram.com/reel/DSLYBDEAnaz/",
+        "snippet": "Porque os alunos gostavam muito do esporte. OCR . . PARAGUAI 2 CHILE URUGU a ideia 4 ARGENTINA 3 STI COLÉGIO SANTA TERESA DE JESUS Porto Alegre ...",
+        "date": "há 7 meses",
+        "position": 2
+      },
+      {
+        "title": "A Educação Personalizada não é apenas uma teoria. Ela já ...",
+        "link": "https://www.instagram.com/reel/DZqgEeUNKCE/",
+        "snippet": "Because the true champions don't lift trophies, they lift people. OCR. STJ COLÉGIO SANTA TERESA DE JESUS Porto Alegre - Desde 1965 ALBUM ...",
+        "position": 3
+      },
+      {
+        "title": "O Colégio Santa Catarina está celebrando 80 anos ...",
+        "link": "https://www.instagram.com/p/DTdQot9koV9/",
+        "snippet": "Colégio Santa Mônica OBJETIVO SISTEMA DE ENSINO 17 anos 17 anos ... Colégio Santa Teresa de Jesus. Porto Alegre - Desde 1965. Espaço ...",
+        "date": "há 6 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio La Salle Canoas on Instagram: \" Representando o ...",
+        "link": "https://www.instagram.com/reel/DaBe_dAB0iC/",
+        "snippet": "STJ COLÉGIO SANTA TERESA DE JESUS Porto Alegre - Desde 1965 ALBUM ... Monalise Lagemann Grolli - Ex-aluna Colégio Ipiranga - Sistema de Ensino ...",
+        "date": "há 4 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

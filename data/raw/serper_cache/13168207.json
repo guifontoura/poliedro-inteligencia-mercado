@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "13168207",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL ADALBERTO VALLE - UNIDADE I",
+  "cidade": "Manaus",
+  "query": "\"CENTRO EDUCACIONAL ADALBERTO VALLE - UNIDADE I\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL ADALBERTO VALLE - UNIDADE I\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Encerrando um lindo ciclo! Os alunos do 9º ano finalizam essa ...",
+        "link": "https://www.instagram.com/reel/DSqBKaTEZ9F/",
+        "snippet": "O Sistema de Ensino SEI Incentivo conquistou o 1º lugar entre as ... MANAUS Figue Ligado Manaus Fique Ligado @manausfiqueligado DISPUTA ...",
+        "date": "há 7 meses",
+        "position": 1
+      },
+      {
+        "title": "HISTÓRIA ESCRITA COM SUCESSO! 💙 ...",
+        "link": "https://www.instagram.com/p/DXKm2nHETHy/",
+        "snippet": "... Manaus acaba de atingir a MAIOR NOTA de sua história, e a Super ... SISTEMA DE ENSINO SEI INCENTIVO ORGULHO QUE NOS INSPIRA! 1º LUGAR ...",
+        "date": "há 3 meses",
+        "position": 2
+      },
+      {
+        "title": "Orgulho que vem da nossa sala de aula! Manaus acaba de ...",
+        "link": "https://www.instagram.com/reel/DNG9TbQuIkV/",
+        "snippet": "... Centro Educacional Adalberto Valle - Unidade I (Aleixo, Manaus) 648 ... SISTEMA DE ENSINO SEI INCENTIVO ORGULHO QUE NOS INSPIRA! 1º ...",
+        "date": "há 11 meses",
+        "position": 3
+      },
+      {
+        "title": "Resoluções - SEMED",
+        "link": "https://www.manaus.am.gov.br/semed/cme/atos-normativos/resolucoes/",
+        "snippet": "... Centro Educacional Adalberto Valle – Unidade I RESOLUCAO_007_CME_2018 ... Manaus no Conselho Municipal de Educação de Manaus. RESOLUCAO_009_CME_2009 Aprova ...",
+        "position": 4
+      },
+      {
+        "title": "10 melhores escolas particulares em Manaus - Revista ME",
+        "link": "https://www.melhorescola.com.br/artigos/as-10-melhores-escolas-particulares-de-manaus-segundo-pais-alunos-e-professores",
+        "snippet": "Com base na avaliação de pais, alunos e professores, descubra quais são as 10 melhores escolas particulares em Manaus ... Sistema de Ensino ...",
+        "date": "2 de mai. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

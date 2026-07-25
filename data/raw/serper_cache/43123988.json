@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "43123988",
+  "NO_ENTIDADE": "COLEGIO RIACHUELO",
+  "cidade": "Santa Maria",
+  "query": "\"COLEGIO RIACHUELO\" \"Santa Maria\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO RIACHUELO\" \"Santa Maria\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Quem somos",
+        "link": "https://colegioriachuelo.com.br/sobre",
+        "snippet": "Instituição genuinamente de Santa Maria, figura entre as principais escolas do sul do país. ... O Colégio Riachuelo utiliza o material didático do Sistema Anglo ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Riachuelo",
+        "link": "https://www.facebook.com/colegioriachuelo/posts/no-riachuelo-o-aprendizado-vai-muito-al%C3%A9m-da-sala-de-aulacom-materiais-pedag%C3%B3gic/1143140551166586/",
+        "snippet": "Colégio Riachuelo. 12h· . . Orgulho que transborda ❤️ No JESMA 2025, o Colégio Riachuelo conquistou o 3º lugar geral em Santa Maria! Mais do que medalhas ...",
+        "position": 2
+      },
+      {
+        "title": "A Educação Infantil do Colégio Riachuelo é o início de ...",
+        "link": "https://www.instagram.com/reel/DRvKKpXDxrU/",
+        "snippet": "1º EM SANTA MARIA, 31º ... Centro de Educação Infantil Reencantar Sistema de Ensino Anglo O que você procura quando pensa na escola ideal?",
+        "date": "há 7 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Riachuelo: tradição, inovação e excelência na ...",
+        "link": "https://diariosm.com.br/publieditorial/colegio-riachuelo-tradicao-inovacao-e-excelencia-na-formacao-de-estudantes.15435495",
+        "snippet": "A história do Colégio Riachuelo está profundamente ligada ao desenvolvimento educacional de Santa Maria. ... material didático do Sistema ...",
+        "date": "4 de out. de 2025",
+        "position": 4
+      },
+      {
+        "title": "Colégio Riachuelo on Instagram: \"No Riachuelo, o Ensino ...",
+        "link": "https://www.instagram.com/reel/DR4tvvnCaiv/",
+        "snippet": "1º EM SANTA MARIA, 31º NO BRASIL, 3º NO RS RESULTADO ENEM 2025 COLÉGIO RIACHUELO ... sistema de ensino! O COC Rio do Sul conquistou o 1º ...",
+        "date": "há 7 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

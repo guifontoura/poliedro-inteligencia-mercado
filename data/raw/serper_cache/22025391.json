@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "22025391",
+  "NO_ENTIDADE": "ESCOLA DOM BOSCO",
+  "cidade": "Teresina",
+  "query": "\"ESCOLA DOM BOSCO\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA DOM BOSCO\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O Colégio Propósito anunciou a compra da Escola Dom ...",
+        "link": "https://www.instagram.com/p/DO81ljVDoNP/",
+        "snippet": "O Colégio Propósito anunciou a compra da Escola Dom Bosco, uma das mais tradicionais de Teresina. ... material didático, reforço escolar ...",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Propósito | As obras da nova unidade estão em fase ...",
+        "link": "https://www.instagram.com/reel/DTLtP8EiZ4q/",
+        "snippet": "... teresina #escola #educação # ... Escola Dom Bosco Colégio Propósito NOVA UNIDADE 2026 colegioproposito.com ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Hoje realizamos a entrega de material didático nas creches ...",
+        "link": "https://www.instagram.com/reel/DVReszKjpiT/",
+        "snippet": "Estamos aguardando na escola Dom Bosco. ... Collective work together with the secretary of works, everyone making a difference for Teresina de ...",
+        "date": "há 4 meses",
+        "position": 3
+      },
+      {
+        "title": "Um Novo Capítulo para a Educação de Teresina Ontem ...",
+        "link": "https://www.instagram.com/p/DO8VO3LjQ7y/",
+        "snippet": "Um Novo Capítulo para a Educação de Teresina Ontem vivemos um momento histórico com as famílias e colaboradores da escola Dom Bosco.",
+        "date": "há 10 meses",
+        "position": 4
+      },
+      {
+        "title": "G1 - Piauí tem quatro escolas entre as 10 maiores médias de ...",
+        "link": "https://g1.globo.com/pi/piaui/noticia/2016/10/piaui-tem-quatro-escolas-entre-10-maiores-medias-de-redacao-do-enem.html",
+        "snippet": "8. CPI Sistema de Ensino - Teresina - privada - média - média 658,06 ... Escola Dom Bosco - Teresina - privada - média 636,64 14. Instituto ...",
+        "date": "4 de out. de 2016",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

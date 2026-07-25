@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35152729",
+  "NO_ENTIDADE": "PETROPOLIS COLEGIO",
+  "cidade": "São Bernardo do Campo",
+  "query": "\"PETROPOLIS COLEGIO\" \"São Bernardo do Campo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PETROPOLIS COLEGIO\" \"São Bernardo do Campo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "São Bernardo do Campo 560 escolas",
+        "link": "https://qedu.org.br/municipio/3548708-sao-bernardo-do-campo/busca",
+        "snippet": "BALAO MAGICO SISTEMA DE ENSINO. GAETANO ANGELI, 9. SANTA TEREZINHA ... PETROPOLIS COLEGIO. PERY RONCHETTI, 890 - AVENIDA. NOVA PETROPOLIS. 9771001 ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.1.privada.do.htm",
+        "snippet": "PETROPOLIS COLEGIO, P, SÃO BERNARDO DO CAMPO, SP, ---, Sim. DIOGO BARBOZA ALVES ... ANGLO SISTEMA DE ENSINO, P, TATUI, SP, ---, Sim. IAN MAZZUCATTO PUCINELI ...",
+        "position": 2
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... PETROPOLIS COLEGIO. 35152729 SP. São Bernardo do Campo. ANA BEATRIZ LIMA ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ano ...",
+        "position": 3
+      },
+      {
+        "title": "São Bernardo do Campo – Escolas com melhores e piores ...",
+        "link": "https://blogdoenem.com.br/resultado-enem-sao-bernardo-campo-escolas-melhores-piores-notas/",
+        "snippet": "... Petrópolis, Colégio Ábaco, Colégio Harmonia, e a ETE Escola Técnica ... apostila-enem/. Loch Ver mais sobre →. Compartilhar. Conteúdos ...",
+        "date": "4 de abr. de 2013",
+        "position": 4
+      },
+      {
+        "title": "modalidade c",
+        "link": "https://site.onciencias.org/resultados/download/17/RESULTADO%20ONC%202018%20MODALIDADE%20C.pdf",
+        "snippet": "PETROPOLIS COLEGIO. SAO BERNARDO DO CAMPO. SP. 76,85. Ana Yoon Faria de Lima. OBJETIVO C I UNID PINHEIROS. SAO PAULO. SP. 76,85. JOÃO PAULO CALISTO BARBOSA.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31367672",
+  "NO_ENTIDADE": "COLEGIO ELITE MASTER",
+  "cidade": "Sete Lagoas",
+  "query": "\"COLEGIO ELITE MASTER\" \"Sete Lagoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ELITE MASTER\" \"Sete Lagoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Elite Master - A melhor educação para seu filho!",
+        "link": "https://colegioelitemaster.com.br/",
+        "snippet": "Material Didático Bernoulli. O Bernoulli Sistema de Ensino desenvolve soluções educacionais de excelência, que facilitam a vida da escola e geram resultados ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio EliteMaster (@colegioelitemaster) · Sete Lagoas, MG",
+        "link": "https://www.instagram.com/colegioelitemaster/",
+        "snippet": "www.colegioelitemaster.com.br (link na bio) Entre em contato conosco (31) 9 9932-5784 ☎️ (31) 3776-5421 R. Doutor Pena, 51 - Centro - Sete Lagoas/MG . #colegio ...",
+        "position": 2
+      },
+      {
+        "title": "Aqui no Elite Master, cada aluno se torna protagonista da sua ...",
+        "link": "https://www.instagram.com/reel/DJYqE2MgVIY/",
+        "snippet": "... SETE LAGOAS RANKING ESTADUAL 8° Enem RANKING NACIONAL 49° 2012 20개 ... 9790 PARA A TURMA DO 1°ANO COLÉGIO ELITE MASTER 6 EliteMaster ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Inscreva-se agora no Bolsão EliteMaster e faça parte da ...",
+        "link": "https://setelagoas.com.br/noticias/concursos-e-vagas/224044-inscreva-se-agora-no-bolsao-elitemaster-e-faca-parte-da-equipe-vitoriosa-do-nosso-pre-vestibular/",
+        "snippet": "... Colégio Elite Master (Rua DR. Pena 35 – centro, Sete Lagoas) Horário ... sistema de ensino Bernoulli, que envolve plataforma de ensino, apostilas ...",
+        "date": "26 de nov. de 2024",
+        "position": 4
+      },
+      {
+        "title": "O Master é 16 vezes campeão do Enem em Sergipe! No ...",
+        "link": "https://www.instagram.com/reel/DNQ8XsCOB6g/",
+        "snippet": "... SETE LAGOAS ESCOLA PARCEIRA Bernoulli Sistema de Ensino RANKING ESTADUAL 8º RANKING NACIONAL 49º Colegio Elite Master 689,1 EliteMaster ...",
+        "date": "há 11 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

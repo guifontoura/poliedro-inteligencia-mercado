@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "33058164",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL LOGOS",
+  "cidade": "Nova Iguaçu",
+  "query": "\"CENTRO EDUCACIONAL LOGOS\" \"Nova Iguaçu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL LOGOS\" \"Nova Iguaçu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Aqui no Logos, amamos ler! A leitura é uma ponte para o ...",
+        "link": "https://www.instagram.com/p/DYXrpxvIPbY/",
+        "snippet": "Aqui no Logos amamos ler! Passe -> O meu preferido é este aqui! Estamos lendo este aqui! E o seu, qual é? Centro Educacional LOGOS Educando ...",
+        "date": "há 2 meses",
+        "position": 1
+      },
+      {
+        "title": "Escolas parceiras do Sistema Mackenzie de Ensino",
+        "link": "https://sistemasdeensino.mackenzie.br/localizar-escola",
+        "snippet": "Digite a sua Cidade ou Estado e encontre o Sistema de Ensino Mackenzie perto de você! ... CENTRO EDUCACIONAL LOGOS. Passagem Miranda, 327, Coqueiro ...",
+        "position": 2
+      },
+      {
+        "title": "Educação Profissional em Nova Iguaçu | PDF",
+        "link": "https://pt.scribd.com/document/674475508/METROPOLITANA-I",
+        "snippet": "METROPOLITANA I - SEDE NOVA IGUAÇU 33058164 CENTRO EDUCACIONAL LOGOS LTDA ... SISTEMA DE ENSINO INVICTUS Nova Iguaçu CENTRO AVENIDA NILO PECANHA 545 SALA 302 ...",
+        "position": 3
+      },
+      {
+        "title": "Plan1",
+        "link": "https://portal-reservaativa.curriculum.com.br/wp-content/uploads/2015/09/ESCOLAS.xls",
+        "snippet": "Nova Iguaçu, Educação Básica (*), 507/2010 - SASM-MB, 02/08/10, Centro Educacional Logos, 32.003.618/0001-00, Rua Mirim 35, Centro, Nova Iguaçu-RJ. CEP 26215- ...",
+        "position": 4
+      },
+      {
+        "title": "Rede Daltro Educacional | Resultados como estes não ...",
+        "link": "https://www.instagram.com/p/Da27mXfkYWD/",
+        "snippet": "AULA INAUGURAL: 08 DE AGOSTO SÁBADO HORÁRIO: 8H ÀS 11H LOCAL: Centro Educacional Logos - Colégio Tamandaré. R. Mirim, 35 - Centro, Nova Iguaçu - ...",
+        "date": "há 1 semana",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

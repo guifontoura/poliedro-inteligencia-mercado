@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35192399",
+  "NO_ENTIDADE": "COLEGIO ACADEMIA",
+  "cidade": "Jaú",
+  "query": "\"COLEGIO ACADEMIA\" \"Jaú\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ACADEMIA\" \"Jaú\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Clerison José de Souza Bueno",
+        "link": "https://www.escavador.com/sobre/4743869/clerison-jose-de-souza-bueno",
+        "snippet": "... Jaú, professor de Inovação e Tecnologia no Colégio Chaminade e professor de ... (Desenvolvimento de material didático ou instrucional - Curso de Aperfeiçoamento).",
+        "position": 1
+      },
+      {
+        "title": "Relatório de Diagnostico Escolar",
+        "link": "https://relatoriodiagnostico.ensinamais.com.br/",
+        "snippet": "Zeta Sistema de Ensino de Birigui, Sesi 148 Centro Educacional, Stelio Machado ... Colegio Academia, CAIC- Norma Botelho, Joao Tuschi- Igaraçu do Tietê ...",
+        "position": 2
+      },
+      {
+        "title": "violencia simbólica en las aulas del franquismo. ...",
+        "link": "https://www.academia.edu/27690911/VIOLENCIA_SIMB%C3%93LICA_EN_LAS_AULAS_DEL_FRANQUISMO_UNA_APROXIMACI%C3%93N_A_TRAV%C3%89S_DEL_MUSE%C3%8DSMO_PEDAG%C3%93GICO_Y_LA_PEDAGOG%C3%8DA_DE_LOS_ESPACIOS",
+        "snippet": "... Jaú. De qualquer maneira, como assinala Luizetto (1986), seus textos ... material didático produzido para trabalhadores, cópias de documentos oficiais ...",
+        "position": 3
+      },
+      {
+        "title": "Ademir Testa Junior",
+        "link": "https://www.escavador.com/sobre/2105828/ademir-testa-junior",
+        "snippet": "JAÚ: FACULDADES INTEGRADAS DE JAÚ, 2013. v. 10. RAMOS, G. ; PERES, E. F. ... (Desenvolvimento de material didático ou instrucional - Material didático).",
+        "position": 4
+      },
+      {
+        "title": "Espacios y Patrimonio PDF | PDF | Historiografía | Museo",
+        "link": "https://es.scribd.com/document/410824582/ESPACIOS-Y-PATRIMONIO-pdf",
+        "snippet": "El colegio Academia Santa Teresa se inaugura finalmente en octubre de 1963. ... das conferências realizadas por Oreste Ristori em Jaú. De qualquer maneira ...",
+        "rating": 5,
+        "ratingCount": 1,
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

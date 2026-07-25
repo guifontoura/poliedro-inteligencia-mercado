@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "42011620",
+  "NO_ENTIDADE": "COLEGIO SAO BENTO",
+  "cidade": "Criciúma",
+  "query": "\"COLEGIO SAO BENTO\" \"Criciúma\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAO BENTO\" \"Criciúma\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Lista de materiais",
+        "link": "http://www.colegiosaobento.net/pdf/lista2020.pdf",
+        "snippet": "COLÉGIO SÃO BENTO. RUA COMANDANTE HELVÉCIO COELHO RODRIGUES, 40 – BAIRRO SANTA BÁRBARA. CRICIÚMA(SC) – FONE: 3433-1437 / 98408-8165 – www ...",
+        "date": "5 de fev. de 2020",
+        "position": 1
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... COLEGIO SAO BENTO Criciúma. SC. 611,9. 716,8. 618,0. 603,0. 605,0. 622,0.",
+        "position": 2
+      },
+      {
+        "title": "ENSINO MÉDIO 1ª Série / 2021",
+        "link": "http://www.colegiosaobento.net/2020/rematricula/listas/medio.pdf",
+        "snippet": "Apostila de Artes (aluno novo), será feita diretamente na Livraria Fátima – Distribuidora. Oficial do Sistema Anglo de Ensino em. Criciúma, localizada na ...",
+        "position": 3
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-HORIZONTAL.pdf",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE. PA. Belém. Privada. Urbana. 306. Maior que. 90 alunos. 303 ... COLEGIO SAO BENTO. SC. Criciúma. Privada. Urbana. 108. Maior que. 90 ...",
+        "position": 4
+      },
+      {
+        "title": "Ranking de Desempenho Escolar 2023 | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/449257234/Enem2016-ranking-geral-Objetiva-pdf",
+        "snippet": "888 COLEGIO SAO BENTO Criciúma SC 611,9 716,8 618,0 603,0 605,0 622,0 ... SISTEMA DE ENSINO Canaã dos 3922 EQUIPE LTDA - EPP Carajás PA 556,1 651,5 579 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

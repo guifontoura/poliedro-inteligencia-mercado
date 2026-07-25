@@ -1,0 +1,25 @@
+{
+  "codigo_escola": "35126718",
+  "NO_ENTIDADE": "ESCOLA NOVA LOURENCO UNIDADE IV",
+  "cidade": "São Paulo",
+  "query": "\"ESCOLA NOVA LOURENCO UNIDADE IV\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA NOVA LOURENCO UNIDADE IV\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas no município de São Paulo - SP",
+        "link": "https://www.cidadesdomeubrasil.com.br/sp/sao_paulo/escolas",
+        "snippet": "08370-190 São Paulo - SP. (11) 27312119, Privada, Ensino Fundamental. ESCOLA NOVA LOURENCO UNIDADE IV, FIANDEIRAS, 77 RUA. VILA OLIMPIA. 04545-000 São Paulo - ...",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

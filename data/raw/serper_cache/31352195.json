@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31352195",
+  "NO_ENTIDADE": "COLEGIO GABARITO",
+  "cidade": "Uberlândia",
+  "query": "\"COLEGIO GABARITO\" \"Uberlândia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO GABARITO\" \"Uberlândia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Sistema de Ensino Gabarito anuncia expansão",
+        "link": "https://diariodeuberlandia.com.br/noticia/33617/sistema-de-ensino-gabarito-anuncia-expansao",
+        "snippet": "O projeto de expansão do Gabarito tem como objetivo levar um modelo de escola, que já foi consagrado pelo seu Sistema de Ensino, para todos os ...",
+        "date": "18 de mai. de 2023",
+        "position": 1
+      },
+      {
+        "title": "Vamos nessa que hoje tem palestra e workshop aqui no ...",
+        "link": "https://www.instagram.com/reel/DY9bx0dO3fZ/",
+        "snippet": "... Colégio Gabarito em Uberlândia!!! ✨️ #FormaçãoDocente ... Sistema de Ensino COLÉGIO G GALILEU PALESTRA PARA AS FAMÍLIAS E ESTUDANTES ...",
+        "position": 2
+      },
+      {
+        "title": "Gestora Pedagógica | Colégio Gabarito | Uberlândia, MG",
+        "link": "https://sae.digital/depoimento/poliana-custodio-diniz-gestora-pedagogica-colegio-gabarito-uberlandia-mg/",
+        "snippet": "Poliana Custódio Diniz | Gestora Pedagógica | Colégio Gabarito | Uberlândia, MG ... Sistema de Ensino que mais cresce no país. A evolução do SAE Digital é ...",
+        "position": 3
+      },
+      {
+        "title": "Segmentos – Gabarito Educação",
+        "link": "https://gabaritoeducacao.com/segmentos/",
+        "snippet": "No Colégio Gabarito, do 1º ao 5º ano, nossos alunos ampliam progressivamente ... Nome Fantasia: Gabarito Educação | Razão Social: Inova Sistema de Ensino ...",
+        "position": 4
+      },
+      {
+        "title": "Drummond Ensino - Goiatuba-Go on Instagram: \"O fundador e ...",
+        "link": "https://www.instagram.com/reel/DQmJiUgjajb/",
+        "snippet": "... Sistema de Ensino Gabarito – Educação Infantil, o professor Júlio ... Colégio Gabarito R. Mathias Velho, 185 Canoas Horário: Das 9h30 ...",
+        "date": "há 8 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "22144714",
+  "NO_ENTIDADE": "SAO JOSE LESTE",
+  "cidade": "Teresina",
+  "query": "\"SAO JOSE LESTE\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SAO JOSE LESTE\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Instituto São José on Instagram: \" No Instituto São José, cada ...",
+        "link": "https://www.instagram.com/reel/DZnFQT6hMnb/",
+        "snippet": "São José Leste - 773,85 - Teresina (PI) - Privada Ranking ... material didático, um bom projeto pedagógico; nós temos a questão da ...",
+        "position": 1
+      },
+      {
+        "title": "Instituto São José (@iesaojose) · Teresina, PI",
+        "link": "https://www.instagram.com/iesaojose/",
+        "snippet": "... São José Leste Público Alvo: Alunos São José e alunos de outras escolas Uma manhã inteira dedicada a um dos conteúdos mais importantes da Química, com ...",
+        "position": 2
+      },
+      {
+        "title": "Leo Moraes | QUEM ACERTOU MAIS? ❓🔥 Encontrei umas ...",
+        "link": "https://www.instagram.com/reel/DXUnE0viaou/",
+        "snippet": "Teresina. Teresina é de novo 20 aqui ó. Se ela fizer três aí ela é ... São José Leste, de Teresina, que conquistou a 4ª colocação ...",
+        "date": "há 3 meses",
+        "position": 3
+      },
+      {
+        "title": "Instituto São José on Instagram: \" O nosso processo seletivo ...",
+        "link": "https://www.instagram.com/reel/DNvimpT3Ntm/",
+        "snippet": "... SISTEMA DE ENSINO POSITIVO (87) 3822-3557 / 3821-0615 Escola Harmonia Uma ... São José Leste - 773,85 - Teresina (PI) - Privada Ranking ...",
+        "date": "há 11 meses",
+        "position": 4
+      },
+      {
+        "title": "O Colégio Propósito é Top 2 no ENEM entre as escolas de ...",
+        "link": "https://www.instagram.com/p/Daf8aNyFuRh/",
+        "snippet": "Poliedro Sistema de Ensino. 1º lugar em Timon e entre as 15 melhores ... São Jose Leste - 773,85 - Teresina (PI) INSTITUTO SÃO JOSÉ É A ...",
+        "date": "há 2 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

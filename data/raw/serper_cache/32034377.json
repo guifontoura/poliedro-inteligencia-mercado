@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "32034377",
+  "NO_ENTIDADE": "COLEGIO CASTRO ALVES",
+  "cidade": "Cariacica",
+  "query": "\"COLEGIO CASTRO ALVES\" \"Cariacica\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO CASTRO ALVES\" \"Cariacica\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Bolsas de Estudo Colégio Castro Alves - ESCOLA",
+        "link": "http://www.educamaisbrasil.com.br/escolas/colegio-castro-alves-cariacica",
+        "snippet": "O Colégio Castro Alves, localizado em Cariacica, Espírito Santo, é uma ... Todo o material didático segue as diretrizes da Base Nacional Comum ...",
+        "rating": 5,
+        "ratingCount": 1,
+        "position": 1
+      },
+      {
+        "title": "Matrícula e Rematrícula 2026",
+        "link": "https://colegiocastroalves.com/matricula-e-rematricula/",
+        "snippet": "COLÉGIO CASTRO ALVES. Endereço: Rua Mário Valentin, 115, Santana - Cariacica/ES. Telefone: 27 3246-5400. Colégio Castro Alves © 2020-2030. Todos os Direitos ...",
+        "position": 2
+      },
+      {
+        "title": "Arquivos Arquivo",
+        "link": "https://colegiocastroalves.com/conteudo/arquivo/",
+        "snippet": "Cariacica, 26 de abril de 2023. APOSTILA 2 – 1º, 2º, 3º, 4º e 5º Anos Srs. Pais ou Responsável, Comunicamos que a data de início das atividades com a apostila 2 ...",
+        "position": 3
+      },
+      {
+        "title": "Planilha1",
+        "link": "https://sedu.es.gov.br/Media/sedu/pdf%20e%20Arquivos/ES_DADOS_ESCOLAS_REDE%20PRIVADA_2020.xlsx",
+        "snippet": "COLEGIO CASTRO ALVES, URBANA, 29154190, RUA MARIO VALENTINI, 115, SANTANA ... SISTEMA DE ENSINO FERREIRA CORDEIRO, URBANA, 29102040, AVENIDA SANTA LEOPOLDINA ...",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 19ª OBMEP 2024",
+        "link": "https://premiacao.obmep.org.br/19obmep/verRelatorioPremiadosOuro.privada.do.htm",
+        "snippet": "PONTA GROSSA, PR, Ouro. ISABELA RAMOS NASCIMENTO, COLEGIO CASTRO ALVES, P, CARIACICA ... COLEGIO FRAMTID SISTEMA DE ENSINO OBJETIVO, P, SAO PAULO, SP, Ouro. 12 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

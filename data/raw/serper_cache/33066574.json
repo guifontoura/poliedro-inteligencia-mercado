@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33066574",
+  "NO_ENTIDADE": "COL DOS SANTOS ANJOS",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COL DOS SANTOS ANJOS\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL DOS SANTOS ANJOS\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ENEM 2019",
+        "link": "https://enem.cneceduca.com.br/2019?p=55",
+        "snippet": "Rio de Janeiro, RJ, 20, 551,52, 589,07, 605,08, 635,24, 811,00, 595,22, 638,38. Col dos Santos Anjos ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/rio-de-janeiro/",
+        "snippet": "SISTEMA DE ENSINO UNIVERSUS LTDA, RIO DE JANEIRO, RJ, Privada, De 40% a 60%, Alto, 520.69, 541.89, 493.57, 498.92, 548.38, 497.60. 638, 6016, CE ...",
+        "date": "5 de ago. de 2015",
+        "position": 2
+      },
+      {
+        "title": "Lista de Colégios Privados no Brasil | PDF | São Paulo",
+        "link": "https://pt.scribd.com/doc/273617459/Ranking-Brasil",
+        "snippet": "SISTEMA DE ENSINO MILENIO. GO. GOIANIA. Privada. Urbana. 28. SESI 351 CENTRO ... CE RIO DE JANEIRO. RJ. VOLTA REDONDA. Estadual. Urbana. 85. COLEGIO JANUSA CORREA.",
+        "position": 3
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/31/PREMIA%C3%87%C3%83O%209%C2%BA%20ANO%20EF%20NIVEL%20A%202019.pdf",
+        "snippet": "ESCOLA BRITANICA - THE BRITISH SCHOOL RIO DE JANEIRO URCA. RIO DE JANEIRO ... ZETA SISTEMA DE ENSINO DE BIRIGUI. SÃO PAULO. Birigui. HUANG PO CHIANG. NIPO ...",
+        "position": 4
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... Rio de Janeiro. Privada. Urbana. 75. De 61 a. 90 alunos. 74. 98.67. 0. 80% ou mais ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos. 25.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

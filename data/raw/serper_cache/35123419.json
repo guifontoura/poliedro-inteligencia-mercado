@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35123419",
+  "NO_ENTIDADE": "COOPERATIVA DE ENSINO DE BIRIGUI",
+  "cidade": "Birigui",
+  "query": "\"COOPERATIVA DE ENSINO DE BIRIGUI\" \"Birigui\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COOPERATIVA DE ENSINO DE BIRIGUI\" \"Birigui\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Chegou o momento de adquirir o material didático que ...",
+        "link": "https://www.instagram.com/p/DDEtKb7tcdk/",
+        "snippet": "... likes, 0 comments - coebbirigui on December 2, 2024: \"Chegou o momento de adquirir o material didático ... Cooperativa de Ensino de Birigui ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3506508-birigui/busca",
+        "snippet": "COOPERATIVA DE ENSINO DE BIRIGUI. FRANCISCO LAMACCHIA, 867 - RUA. CHACARAS ... ZETA SISTEMA DE ENSINO DE BIRIGUI. NOVE DE JULHO, 672 - RUA. CENTRO ...",
+        "position": 2
+      },
+      {
+        "title": "Algumas histórias são contadas em anos. Outras, com ...",
+        "link": "https://www.instagram.com/reel/DZXcyMKOrF8/",
+        "snippet": "... Cooperativa de Ensino de Birigui arraste para o lado e confira 2026 ... Sistema de Ensino TEMA: EDUCAÇÃO E FUTUROS POSSÍVEIS Uma noite ...",
+        "position": 3
+      },
+      {
+        "title": "Recrutamento e Gestão de Estagiários em Birigui - SP",
+        "link": "https://www.futuraestagios.com.br/orientacoes-para-empresas.php?cidade=Birigui&estado=SP",
+        "snippet": "ZETA SISTEMA DE ENSINO DE BIRIGUI; ESCOLA SESI SAMIR NAKAD; ESCOLA CHAMPAGNAT UNIDADE BIRIGUI; NOROESTE INSTITUTO; COOPERATIVA DE ENSINO DE BIRIGUI; LICEU ...",
+        "position": 4
+      },
+      {
+        "title": "✍️ 1º lugar em Redação no ENEM em Birigui! Essa ...",
+        "link": "https://www.instagram.com/reel/DaQoNDwhL6Z/",
+        "snippet": "coeb Cooperativa de Ensino de Birigui COEB É 1º LUGAR NO ENEM. MAIS ... sistema de ensino o qual nós adotamos, por sinal um sistema de ...",
+        "date": "há 3 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

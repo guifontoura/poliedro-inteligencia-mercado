@@ -1,0 +1,38 @@
+{
+  "codigo_escola": "53032012",
+  "NO_ENTIDADE": "COL BARAO DO RIO BRANCO",
+  "cidade": "Brasília",
+  "query": "\"COL BARAO DO RIO BRANCO\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL BARAO DO RIO BRANCO\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O ensino dos números inteiros por meio da matemática",
+        "link": "https://www.diaadiaeducacao.pr.gov.br/portals/cadernospde/pdebusca/producoes_pde/2013/2013_uenp_mat_artigo_silvia_aparecida_candida.pdf",
+        "snippet": "do material didático desenvolvido, este com aspectos na História nas aulas de ... Brasília, 1989, p.15-19. D'AMBRÓSIO, U. Educação Matemática: Da Teoria à ...",
+        "position": 1
+      },
+      {
+        "title": "Cadastro de Unidades Escolares DF 2017 | PDF",
+        "link": "https://pt.scribd.com/document/472252751/cadastro-escolas-df-pdf",
+        "snippet": "53000102 C ESPECIALIZADO PESTALOZZI ASSOC PESTALOZZI DE BRASÍLIA PLANO PILOTO 167 19 20/04/2017 ... 53032012 COL BARAO DO RIO BRANCO GRANDE USUARIO RODOVIA DF-250 ...",
+        "position": 2
+      },
+      {
+        "title": "Blog do Enem: simplificado como deve ser",
+        "link": "http://sandytagregador.blogspot.com/2014/12/blog-do-enem-simplificado-como-deve-ser_24.html",
+        "snippet": "Brasília: Resultado Enem 2013. Escolas com piores e melhores notas ... COL BARAO DO RIO BRANCO – PARANOA, 585,45, 524,76. 90, CEM SETOR ...",
+        "date": "24 de dez. de 2014",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

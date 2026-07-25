@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "29486963",
+  "NO_ENTIDADE": "COLEGIO ANCHIETA",
+  "cidade": "Salvador",
+  "query": "\"COLEGIO ANCHIETA\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ANCHIETA\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Conheça o trabalho social desenvolvido pela RJE",
+        "link": "https://www.colegioanchieta.g12.br/conheca-o-trabalho-social-desenvolvido-pela-rje/",
+        "snippet": "... material didático, uniforme escolar, alimentação, transporte ... Salvador (BA), oferece bolsas para o turno com desconto 100% integral ...",
+        "date": "17 de abr. de 2024",
+        "position": 1
+      },
+      {
+        "title": "O Colégio Anchieta (@colegioanchietaba), em #Salvador, ...",
+        "link": "https://www.instagram.com/p/DQCVmyqANgj/",
+        "snippet": "Colegio Anchieta – Salvador – Nota: 708,43. Centro Educacional Villa ... SISTEMA DE ENSINO anglo. leonardocezar.8's profile picture ...",
+        "date": "há 9 meses",
+        "position": 2
+      },
+      {
+        "title": "MATERIAL DIDÁTICO 6º AO 9º ANO DO ENSINO ...",
+        "link": "https://www.colegioanchieta.g12.br/wp-content/uploads/2017/02/MATERIAL-DIDA%CC%81TICO-6%C2%BA-AO-9%C2%BA-ANO-DO-ENSINO-FUNDAMENTAL-II-2017_final.pdf",
+        "snippet": "impressos desde que o livro impresso seja adquirido no posto de vendas no Colégio Anchieta. ... USBERCO/SALVADOR,. Ciências. 9º. R$ 175,10. R$ 145,50. PROJETO ...",
+        "position": 3
+      },
+      {
+        "title": "Salvador: Colégio Anchieta conquista prêmio Top of Mind ...",
+        "link": "https://niddedigital.com/salvador-colegio-anchieta-conquista-premio-top-of-mind-pela-9a-vez-no-segmento-escola-particular-de-ensino-medio/",
+        "snippet": "Crédito da foto: Divulgação Colégio Anchieta O Colégio Anchieta, em Salvador ... Escola Eleva chega a São Paulo com sistema pedagógico inovador.",
+        "date": "29 de jan. de 2024",
+        "position": 4
+      },
+      {
+        "title": "Alerta São Gonçalo | 🎓 Colégio e Curso Brasil – 37 anos de ...",
+        "link": "https://www.instagram.com/reel/DQVQgRNDUX5/",
+        "snippet": "CONEXÃO SISTEMA DE ENSINO MATRÍCULAS ABERTAS 2º SEMESTRE ENSINO ... Colegio Anchieta – Salvador – Nota: 708,43. Centro Educacional Villa ...",
+        "date": "há 9 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "52104532",
+  "NO_ENTIDADE": "COLEGIO FAMILIA DE NAZARE",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO FAMILIA DE NAZARE\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO FAMILIA DE NAZARE\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Um projeto pedagógico fundado sobre um alicerce sólido. O ...",
+        "link": "https://www.instagram.com/reel/DQ2gXM8EizZ/",
+        "snippet": "... Colégio Família de Nazaré um da arquidiocese de Goiânia que foi ... material didático, a quantidade de aulas que ele vai ter, carga horária.",
+        "date": "há 8 meses",
+        "position": 1
+      },
+      {
+        "title": "O Colégio Família de Nazaré prepara para as provas e para a ...",
+        "link": "https://www.instagram.com/reel/DQhTtacERnK/",
+        "snippet": "... Sistema de Ensino POSITIVO / PES English ... Join Colégio Arquidiocesano Família de Nazaré - Goiânia GO on Instagram.",
+        "date": "há 8 meses",
+        "position": 2
+      },
+      {
+        "title": "Colegio Familia De Nazare - Descontos, Preço das ...",
+        "link": "https://querobolsa.com.br/escolas/colegio-familia-de-nazare-2187d63b-b708-41da-b6f9-88948e74e24b",
+        "snippet": "\"O colégio Família de Nazaré é, sem dúvida, um dos melhores colégios de Goiânia. ... sistema de ensino e do colégio). Sou muito grato por fazer parte dessa ...",
+        "rating": 4.7,
+        "ratingCount": 4,
+        "position": 3
+      },
+      {
+        "title": "Colegio Familia De Nazare | Bolsas de Estudo em Goiânia",
+        "link": "https://www.melhorescola.com.br/escola/colegio-familia-de-nazare-goiania-go",
+        "snippet": "Garanta sua bolsa de estudos em Colegio Familia De Nazare, Goiânia - GO ... sistema de ensino e do colégio). Sou muito grato por fazer parte dessa ...",
+        "position": 4
+      },
+      {
+        "title": "Educação infantil | Atendimento integral (@colegiofarol.bd)",
+        "link": "https://www.instagram.com/colegiofarol.bd/reels/",
+        "snippet": "... Hoje, tivemos a oportunidade de conhecer o Colégio Família de Nazaré, em Goiânia. Presenciamos a abertura dos Jogos ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "53005910",
+  "NO_ENTIDADE": "INST SAO JOSE",
+  "cidade": "Brasília",
+  "query": "\"INST SAO JOSE\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INST SAO JOSE\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas Particulares",
+        "link": "https://www.coseacuff.net.br/vest99/escpart.htm",
+        "snippet": "2118 - COL INST SÃO JOSÉ 2119 - COL ITAPUCA 2109 - COL ITAPUCA - EX INST ... 2500 - SISTEMA DE ENSINO INTEGRADO SEIS LTDA 2501 - SOC EDUC BOTAFOGO LTDA ...",
+        "position": 1
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... Brasília. DF. 693,5. 814,8. 676,0. 676,0. 647,0. 775,0. 26. COLEGIO SANTO.",
+        "position": 2
+      },
+      {
+        "title": "LISTA DOS ALUNOS DO NONO ANO COM NOTA MAIOR ...",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/TABELA%20NIVEL%203%20NONO%20ANO%20CORRETA%20SO%20COM%204%20COLUNAS-compressed-compactado.pdf",
+        "snippet": "Zeta Sistema de Ensino de Birigui. GABRIEL MARCENTE FADIL. SÃO PAULO. Birigüi ... Colégio Brasília de São Paulo. ENZO COSTA DE SOUZA. SÃO PAULO. São Paulo.",
+        "position": 3
+      },
+      {
+        "title": "Ranking de Desempenho Escolar 2023 | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/449257234/Enem2016-ranking-geral-Objetiva-pdf",
+        "snippet": "1822 INST SAO JOSE Brasília DF 588,3 652,9 601,0 567,0 588,0 598,0. COL MARIA ... SISTEMA DE ENSINO Canaã dos 3922 EQUIPE LTDA - EPP Carajás PA 556,1 ...",
+        "position": 4
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... Brasília. Privada. Urbana. 77. De 61 a. 90 alunos. 73. 94.81. 0. De 60% a 80%. Muito ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

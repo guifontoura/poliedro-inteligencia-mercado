@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35112318",
+  "NO_ENTIDADE": "SAO JOSE EXTERNATO",
+  "cidade": "Atibaia",
+  "query": "\"SAO JOSE EXTERNATO\" \"Atibaia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SAO JOSE EXTERNATO\" \"Atibaia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "70 anos on Instagram: \" O aprendizado vai muito além da sala ...",
+        "link": "https://www.instagram.com/reel/DGLvlAFJTH-/",
+        "snippet": "Poliedro Sistema de Ensino 70 ANOS EXTERNATO SÃO JOSÉ Arraiá ESJ ... Jornal Estância de Atibaia Externato São José Externato São José ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Escolas no Ensino Fundamental II em Caetetuba - Atibaia - SP",
+        "link": "https://querobolsa.com.br/escolas/etapa-de-ensino/ensino-fundamental-ii/atibaia-sp/caetetuba",
+        "snippet": "Colégio Arca Atibaia · Colégio Phoenix · Colégio Atibaia Unidade 2 · Estação Criança · escola caminho certo · Colégio Atibaia Unidade 1 · sao jose externato ...",
+        "position": 2
+      },
+      {
+        "title": "Escolas em Usina - Atibaia - SP",
+        "link": "https://www.melhorescola.com.br/busca/sao-paulo/atibaia/usina",
+        "snippet": "Estancia Parque de Atibaia - Atibaia - SP. Saiba mais. Logo - ercilia ... Material Didático Incluso. Infantil em alta! Vagas 2026. R$ 1.150,79. R$ 863,09 ...",
+        "position": 3
+      },
+      {
+        "title": "2016",
+        "link": "https://enem.cneceduca.com.br/2016?p=16",
+        "snippet": "Sao Jose Externato, Privada, Atibaia, SP, 41, 599,85, 638,41, 612,20, 661,11, 749,76 ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line Alexandria CNEC Provas ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio Pastor Dohms Zona Sul | 🏆💙 A nossa Gincana ...",
+        "link": "https://www.instagram.com/reel/DbBUIv0OgNk/",
+        "snippet": "É Copa do Mundo e evocê estuda no Externato São José . EXTERNATO São José ... Sistema De Ensino Integrado Samelinha. 33 likes.",
+        "date": "há 4 dias",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "52033830",
+  "NO_ENTIDADE": "COLEGIO SANTA CLARA",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO SANTA CLARA\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA CLARA\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Santa Clara - Goiânia",
+        "link": "https://santaclarago.com.br/",
+        "snippet": "Colégio Santa Clara conquista o Top 20 de Goiânia no Enem 2025 · Leia mais. 3 ... Material didático atualizado anualmente. Muito mais! Confira. Nossos ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Santa Clara | 🚀 O melhor sistema de ensino do Brasil ...",
+        "link": "https://www.instagram.com/reel/DOM7DXXDeM8/",
+        "snippet": "... likes, 5 comments - santaclaracolegio on September 4, 2025: \" O melhor sistema de ensino ... Goiânia. Professora, como o uso da plataforma ...",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Santa Clara (@colegiosantaclarago)",
+        "link": "https://www.instagram.com/colegiosantaclarago/",
+        "snippet": "... Goiânia, a cidade que nos acolhe e que nos viu crescer. E essa história se entrelaça com a nossa! Quando Goiânia foi fundada, o Colégio Santa Clara já ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio Santa Clara on Instagram: \" De professora a mãe ...",
+        "link": "https://www.instagram.com/reel/DQhBqkRjTmD/",
+        "snippet": "... Colégio Santa Clara primeiro como professora — e hoje, como mãe do ... Goiânia. Professora, como o uso da plataforma transforma o nosso ...",
+        "date": "há 8 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Salesiano Goiânia on Instagram: \"Uma receita ...",
+        "link": "https://www.instagram.com/reel/DZQgZJNBGA3/",
+        "snippet": "Uma receita recheada de valores! Durante as atividades do material didático Identitá, os alunos do 3º ano do Colégio Salesiano Goiânia ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

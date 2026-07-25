@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31361496",
+  "NO_ENTIDADE": "COLEGIO AUGE",
+  "cidade": "Itabira",
+  "query": "\"COLEGIO AUGE\" \"Itabira\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO AUGE\" \"Itabira\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "estão abertas as Matrículas 2026 do Colégio Auge ...",
+        "link": "https://www.instagram.com/p/DPTouiTgATq/",
+        "snippet": "Com o sistema de ensino Poliedro, referência nacional em ... Join Colégio Auge Itabira on Instagram. Sign up for Instagram · Sign up ...",
+        "date": "há 9 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Auge: novo endereço, nova identidade e ...",
+        "link": "https://defatoonline.com.br/colegio-auge-novo-endereco-nova-identidade-e-metodologia-de-ensino/",
+        "snippet": "Instituição alça novos voos na cidade e inova o sistema de aprendizagem em sala de aula ... Nasce um novo Colégio Auge em Itabira. A instituição ...",
+        "date": "18 de jan. de 2018",
+        "position": 2
+      },
+      {
+        "title": "Colégio Auge Itabira on Instagram: \"No Colégio Auge, cada ...",
+        "link": "https://www.instagram.com/reel/DPghmdMEStg/",
+        "snippet": "#ColégioAuge #MatrículasAuge2026 #EducaçãoDeAltaPerformance #Bilíngue #Itabira #AugeDaEducação ... Apresentamos o nosso novo material didático ...",
+        "date": "há 9 meses",
+        "position": 3
+      },
+      {
+        "title": "Prefeitura de Jaciara on Instagram: \" Chegar no horário faz ...",
+        "link": "https://www.instagram.com/reel/DZVDuryxsKK/",
+        "snippet": "Photo by Colégio Auge Itabira on June 10, 2026. May be an image of ... material didático destinados às escolas de Educação Infantil ...",
+        "position": 4
+      },
+      {
+        "title": "Últimos dias para garantir a matrícula e evitar contratempos com ...",
+        "link": "https://www.instagram.com/p/DFK4NzAxf4_/",
+        "snippet": "... material didático! Sabemos como a correria do dia ... Photo by Colégio Auge Itabira on January 23, 2025. ... Colégio Auge conversar com algumas crianças sobre ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

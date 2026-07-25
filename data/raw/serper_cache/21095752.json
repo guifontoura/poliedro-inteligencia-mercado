@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "21095752",
+  "NO_ENTIDADE": "ESCOLA SANTA TERESINHA",
+  "cidade": "Imperatriz",
+  "query": "\"ESCOLA SANTA TERESINHA\" \"Imperatriz\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA SANTA TERESINHA\" \"Imperatriz\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Regras do Sorteio do Material Didático • Quem pode ...",
+        "link": "https://www.instagram.com/reel/DQby2pmDLpZ/",
+        "snippet": "Regras do Sorteio do Material Didático • Quem pode participar ... Escola Santa Teresinha – Imperatriz – Centro – Nota: 663.41. Colegio ...",
+        "date": "há 8 meses",
+        "position": 1
+      },
+      {
+        "title": "✅ O Educandário Santa Teresinha está com matrículas ...",
+        "link": "https://www.instagram.com/p/DR4hACUjTtY/",
+        "snippet": "Photo by Escola Santa Teresinha M. J. S. F. on July 08, 2026. May be ... Minha maior expectativa pro ensino médio nosso sistema de ensino ...",
+        "date": "há 7 meses",
+        "position": 2
+      },
+      {
+        "title": "SEU FILHO(A) PODE ESTUDAR EM 2026 COM 50% OFF! Já ...",
+        "link": "https://www.instagram.com/reel/DUCFVneDuQl/",
+        "snippet": "... Material didático com Inteligência Artificial (a partir do 6º ano ... ESCOLA SANTA TERESINHA D. M. J. S. F.. escolasantoamaro's profile ...",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "Conheça os finalistas e as menções honrosas do Prêmio ...",
+        "link": "https://criativosdaescola.com.br/conheca-os-finalistas-e-as-mencoes-honrosas-do-premio-criativos-escola-natureza/?lang=en",
+        "snippet": "Banana Peel: Transformando A Casca Da Banana EmPapel E Material Didático (Imperatriz/MA) – Escola Municipal Darcy Ribeiro; Extração do Óleo Essencial de ...",
+        "position": 4
+      },
+      {
+        "title": "Frei Osvaldo Coronini e a expansão da escolarização no ...",
+        "link": "http://www.hottopos.com/rih40/69-80Custodio.pdf",
+        "snippet": "Em primeiro lugar, ele trabalhou arduamente pela expansão do ensino primário na região de Imperatriz, onde havia poucas escolas e um analfabetismo histórico.",
+        "date": "de MAC Custódio",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

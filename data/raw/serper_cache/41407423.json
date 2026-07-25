@@ -1,0 +1,25 @@
+{
+  "codigo_escola": "41407423",
+  "NO_ENTIDADE": "COLEGIO BERTONI - ENSINO FUNDAMENTAL E MEDIO",
+  "cidade": "Foz do Iguaçu",
+  "query": "\"COLEGIO BERTONI - ENSINO FUNDAMENTAL E MEDIO\" \"Foz do Iguaçu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BERTONI - ENSINO FUNDAMENTAL E MEDIO\" \"Foz do Iguaçu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Aluno Novo",
+        "link": "https://web.prodados.net.br/ProWeb/Piedade/DV/MO_AN_Candidato.aspx",
+        "snippet": "COLÉGIO BERTONI - ENSINO FUNDAMENTAL E MÉDIO - FOZ DO IGUAÇU/PR, COLÉGIO ... SISTEMA DE ENSINO HALLIS - BELÉM/PA, SISTEMA EDUCATIVO NACIONAL VERA CRUZ ...",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

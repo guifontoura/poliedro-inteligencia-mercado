@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "42012023",
+  "NO_ENTIDADE": "ESCOLA NORMAL E GINASIO MADRE TERESA MICHEL",
+  "cidade": "Criciúma",
+  "query": "\"ESCOLA NORMAL E GINASIO MADRE TERESA MICHEL\" \"Criciúma\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA NORMAL E GINASIO MADRE TERESA MICHEL\" \"Criciúma\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "UNIVERSIDADE DO EXTREMO SUL CATARINENSE - UNESC",
+        "link": "https://repositorio.unesc.net/bitstream/1/522/1/Graziela%20Pavei%20Peruch%20Rosso.pdf",
+        "snippet": "de GPP Rosso · Citado por 2 — – Criciúma : Ed. do Autor, 2011. 202 f. : il. ; 30 cm. Dissertação (Mestrado) ... à Escola Normal e Ginásio Madre Teresa Michel a autorização por parte da.",
+        "position": 1
+      },
+      {
+        "title": "Adendo ao Contrato de Prestação de Serviços Educacionais",
+        "link": "https://colegiomichel.com.br/wp-content/uploads/2025/10/Adendo_ao_Contrato_de_Presta%C3%A7%C3%A3o_de_Servi%C3%A7os_Educacionais_PARA_BOLSA_2024.pdf",
+        "snippet": "Escola Normal e Ginásio Madre Teresa Michel, CNPJ ... material didático ... Cláusula Oitava: As partes elegem o Foro da Comarca de Criciúma para esclarecer ...",
+        "position": 2
+      },
+      {
+        "title": "Alice Mizejeski Fontana Réus",
+        "link": "https://www.escavador.com/sobre/11331556/alice-mizejeski-fontana",
+        "snippet": ", Ético - Sistema de Ensino, ÉTICO, Brasil. 2009 - 2009. Tratamento de ... , Rua Pascoal Meller, Universitário, 88805380 - Criciúma, SC - Brasil ...",
+        "position": 3
+      },
+      {
+        "title": "PROCESSOS APROVADOS NAS SESSÕES PLENÁRIAS ...",
+        "link": "https://www.cee.sc.gov.br/index.php/noticias/1959-processos-aprovados-nas-sessoes-plenarias-dos-dias-08-e-09-de-dezembro-de-2025-e-comissoes",
+        "snippet": "OBJETO: Comprovação de regularidade da instituição e dos atos autorizativos dos cursos da EEB Cel Marcos Rovares, município de Criciúma - SC.",
+        "date": "9 de dez. de 2025",
+        "position": 4
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Escola Normal e Ginásio Madre Teresa Michel - 666,22 - Criciúma ... Farina Sistema de Ensino - 668,93 - Cuiabá (Mato Grosso) ...",
+        "date": "23 de jun. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

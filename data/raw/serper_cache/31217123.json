@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31217123",
+  "NO_ENTIDADE": "COLEGUIUM - UNIDADE OURO PRETO",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGUIUM - UNIDADE OURO PRETO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGUIUM - UNIDADE OURO PRETO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Sonhos que se transformam em conquistas. ❤️💙🎓 A ...",
+        "link": "https://www.instagram.com/p/DWEH0R1je1w/",
+        "snippet": "Com professores experientes, material didático completo e uma ... Belo Horizonte e Região Metropolitana em relação ao ano anterior.",
+        "date": "há 4 meses",
+        "position": 1
+      },
+      {
+        "title": "Apenas uma escola baiana está entre as 30 melhores do ...",
+        "link": "https://www.bernoulli.com.br/quem-somos/acontece-no-bernoulli/apenas-uma-escola-baiana-esta-entre-as-30-melhores-do-brasil-em-desempenho-no-enem/",
+        "snippet": "Na mídia Notícias Salvador/BA Belo Horizonte/MG On-line Pituba Caminho das Árvores Lourdes Sistema de Ensino ... Coleguium – Unidade Ouro Preto ...",
+        "date": "10 de jul. de 2025",
+        "position": 2
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGUIUM - UNIDADE OURO PRETO. 1,6%. DINAMICA CENTRO EDUCACIONAL. 1,7%. DOCE ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA - UNIDADE ...",
+        "position": 3
+      },
+      {
+        "title": "Desrespeito/constrangimento - unidade Ouro Preto, Belo ...",
+        "link": "https://www.reclameaqui.com.br/coleguium-rede-de-ensino/desrespeito-constrangimento-unidade-ouro-preto-belo-horizonte_0w3PVdJmoHfVOnu6/",
+        "snippet": "Desrespeito/constrangimento - unidade Ouro Preto, Belo Horizonte ... Coleguium unidade Ouro Preto BH é sim uma ótima escola em termos de ensino ...",
+        "position": 4
+      },
+      {
+        "title": "Minha Escola Legal",
+        "link": "http://www.minhaescolalegal.com.br/",
+        "snippet": "BELO HORIZONTE, RUA EMBARÉ, 258, GUARANI, (31) 34336115. CENTRO FORMAÇÃO ... ATUAL SISTEMA DE ENSINO, SABINÓPOLIS, RUA JOVAL DE PINHO, 101, CENTRO, (33) 34232352.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

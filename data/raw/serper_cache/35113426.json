@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "35113426",
+  "NO_ENTIDADE": "SAO JOSE COLEGIO",
+  "cidade": "Limeira",
+  "query": "\"SAO JOSE COLEGIO\" \"Limeira\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SAO JOSE COLEGIO\" \"Limeira\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "100 anos de história… e muitas vidas que fazem essa história ...",
+        "link": "https://www.instagram.com/reel/DWEto9EDDRU/",
+        "snippet": "são josé COLÉGIO SÃO JOSÉ EDUCAR É ENCANTAR-SE COM A VIDA ... ESCOLA PARCEIRA Bernoulli Sistema de Ensino Colégio Sagrado Coração de Jesus ...",
+        "date": "há 4 meses",
+        "position": 1
+      },
+      {
+        "title": "O Colégio São José celebra com alegria o sucesso dos ...",
+        "link": "https://www.instagram.com/p/DQmqbRUCTEV/",
+        "snippet": "Dia 20 de Junho no colégio São José COLÉGIO SÃO JOSÉ Porto União - SC anglo ... · um ano atrás Cruz e Sousa Sistema de Ensino Cruz e Sousa SÃO ...",
+        "date": "há 8 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio São José on Instagram: \"Vivemos momentos muito ...",
+        "link": "https://www.instagram.com/reel/DafUdU_MfdL/",
+        "snippet": "Escola Parceira Bernoulli Sistema de Ensino Colégio Sagrado Coração de Jesus ... são josé COLÉGIO SÃO JOSÉ O futuro é humano. apaerodeio's profile ...",
+        "date": "há 2 semanas",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.1.privada.do.htm",
+        "snippet": "RIO CLARO SISTEMA DE ENSINO, P, RIO CLARO, SP, Sim. ANDRE HENRIQUE ALMEIDA ... SAO JOSE COLEGIO, P, SANTO ANDRE, SP, Sim. HENRIQUE RYUKI YAMAJI, ETAPA COLEGIO DE ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio Salesiano Goiânia on Instagram: \"Explorando ...",
+        "link": "https://www.instagram.com/reel/Da8AjKrBcTR/",
+        "snippet": "... material didático Girolhar, as crianças conheceram a evolução da roda e compreenderam sua importância no dia a dia. Quer saber mais sobre o ...",
+        "date": "há 6 dias",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

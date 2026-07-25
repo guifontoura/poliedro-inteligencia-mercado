@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33055882",
+  "NO_ENTIDADE": "COLEGIO NOSSA SENHORA DA ASSUNCAO",
+  "cidade": "Niterói",
+  "query": "\"COLEGIO NOSSA SENHORA DA ASSUNCAO\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NOSSA SENHORA DA ASSUNCAO\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/17obmep/verRelatorioPremiadosMencao-RJ.3.privada.do.htm",
+        "snippet": "SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Sim. MARIA LUIZA BERTIN ... COLEGIO NOSSA SENHORA DA ASSUNCAO, P, NITERÓI, RJ, Sim. JOAO PEDRO MACHADO ...",
+        "position": 1
+      },
+      {
+        "title": "Grátis: Baixadas Litorâneas - BL - Material Claro e Objetivo ...",
+        "link": "https://www.passeidireto.com/arquivo/126470376/baixadas-litoraneas-bl",
+        "snippet": "33055882 OBRAS SOCIAIS E CULTURAIS FELICIANAS COLEGIO NOSSA SENHORA DA ASSUNCAO Niterói ... APOSTILA - ANEXO A PORTARIA BAIXADAS LITORÂNEAS ...",
+        "date": "31 de ago. de 2023",
+        "position": 2
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... Niterói. Alice Maciel Pinheiro da Cruz. 2º ano - Ensino Médio. 13. 12 LICEU ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ano ...",
+        "position": 3
+      },
+      {
+        "title": "Registro de Escolas nas Baixadas Litorâneas | PDF",
+        "link": "https://pt.scribd.com/document/723437320/Baixadas-Litoraneas-BL",
+        "snippet": "BAIXADAS LITORÂNEAS - SEDE COMPETENTE CURSO PREPARATÓRIO LTDA ME COLÉGIO CURSO PROGRESSÃO NITERÓI Niterói ... APOSTILA - ANEXO A PORTARIA QUE AUTORIZOU A ...",
+        "position": 4
+      },
+      {
+        "title": "05/mai/99 03/mai/99 21/set/98 19/dez/99 16/mar/00 14/nov ...",
+        "link": "https://www.darwin.com.br/wp-content/uploads/2019/05/Resultados-Olimpiada-Brasileira-de-Biologia-2016.pdf",
+        "snippet": "COLEGIO NOSSA SENHORA DA ASSUNCAO. RJ. 304 Alberto Bezerra da Palhares Júnior ... SISTEMA DE ENSINO EQUIPE. PA. 978 RAFAEL SILVA LEMOS. 50. E E I F M TENENTE ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

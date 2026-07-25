@@ -1,0 +1,39 @@
+{
+  "codigo_escola": "24087157",
+  "NO_ENTIDADE": "FACEX UNIDADE CIC",
+  "cidade": "Natal",
+  "query": "\"FACEX UNIDADE CIC\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"FACEX UNIDADE CIC\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2024: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.bernoulli.com.br/quem-somos/acontece-no-bernoulli/enem-conheca-as-15-escolas-com-as-maiores-notas-por-estado/",
+        "snippet": "Facex Unidade Cic – Natal – Unidade: Cidade Alta – Nota: 658,21 ... Farina Sistema de Ensino – Cuiabá – Unidade: Jardim Guanabara ...",
+        "date": "11 de jul. de 2025",
+        "position": 1
+      },
+      {
+        "title": "Ee Profa Judith B de Melo Ens 1 2 G - Natal - RN",
+        "link": "https://www.escol.as/78116-ee-profa-judith-b-de-melo-ens-1-2-g",
+        "snippet": "Como está avaliada a escola Ee Profa Judith B de Melo Ens 1 2 G localizada na cidade de Natal ... Facex Unidade Cic. Cidade Alta, Natal - RN · Ensino Médio ...",
+        "position": 2
+      },
+      {
+        "title": "Enem 2024: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2025/07/11/enem-2024-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado.ghtml",
+        "snippet": "Facex Unidade Cic - Natal - Unidade: Cidade Alta - Nota: 658,21 ... Farina Sistema de Ensino - Cuiabá - Unidade: Jardim Guanabara ...",
+        "date": "11 de jul. de 2025",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

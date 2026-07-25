@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31166103",
+  "NO_ENTIDADE": "COLEGIO SAO DOMINGOS",
+  "cidade": "Araxá",
+  "query": "\"COLEGIO SAO DOMINGOS\" \"Araxá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAO DOMINGOS\" \"Araxá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio São Domingos - Araxá",
+        "link": "https://www.livrarialoyola.com.br/colegio-sao-domingos-araxa?srsltid=AfmBOorG2f6-v3iPjw29g70RA1fYhV7hlbzcRbxU6l6Y-pT6-hVaSHAf",
+        "snippet": "Colégio São Domingos - Araxá · Endereço: Praça São Domingos, 370, Centro, Araxá - MG · Telefone: (37) 3662-3111 · Informações: A entrega do Sistema de Ensino será ...",
+        "position": 1
+      },
+      {
+        "title": "3º Ano EM - CSD",
+        "link": "https://www.drummondlivraria.com.br/categorias/colegio-sao-domingos-araxa/ensino-medio/3%C2%BA-ano-em-csd",
+        "snippet": "... Colégio São Domingos - Araxá › Ensino Médio › 3º Ano EM - CSD. x. Filtrando por. Limpar todos os filtros. Marcas. BERNOULLI SISTEMA DE ENSINO. 3º Ano EM - CSD.",
+        "position": 2
+      },
+      {
+        "title": "Na Semana da Criança, o Colégio Salesiano Dom Bosco ...",
+        "link": "https://www.instagram.com/p/DPo9GqTETQW/",
+        "snippet": "... araxá #colegiosalesianodombosco #euamoserdombosco #vemsersalê # ... COLÉGIO DOM CASTELLO OBJETIVO SISTEMA DE ENSINO DIA DA ...",
+        "date": "há 9 meses",
+        "position": 3
+      },
+      {
+        "title": "20+ \"Vitória Rosa Dos Santos\" profiles",
+        "link": "https://www.linkedin.com/pub/dir/Vit%C3%B3ria+/Rosa+Dos+Santos+",
+        "snippet": "Vitoria Dos Santos Rosa. Frequentou a instituição de ensino Sistema de Ensino Energia ... Attended Colegio sao domingos araxa. Araxá, MG. Colegio sao domingos ...",
+        "position": 4
+      },
+      {
+        "title": "Grupo Educacional São Domingos lança campanha ...",
+        "link": "https://www.instagram.com/reel/DaRVtfkNo_K/",
+        "snippet": "... Colégio São Domingos* e a *Escola Harmonia*. A campanha convida ... SISTEMA DE ENSINO POSITIVO (87) 3822-3557 3821-0615 EDUCAÇÃO Grupo ...",
+        "date": "há 3 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

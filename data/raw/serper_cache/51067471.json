@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "51067471",
+  "NO_ENTIDADE": "PPE - PRINA PITT ESCOLA",
+  "cidade": "Sinop",
+  "query": "\"PPE - PRINA PITT ESCOLA\" \"Sinop\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PPE - PRINA PITT ESCOLA\" \"Sinop\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Confira lista das 50 melhores escolas de MT, segundo o ...",
+        "link": "https://noticiaexata.com.br/educacao/confira-lista-das-50-melhores-escolas-de-mt-segundo-o-enem-duas-de-alta-floresta/",
+        "snippet": "2º PPE – Prina Pitt Escola Sinop Privada 674,62 368º 3º Farina Sistema de Ensino Cuiabá Privada 668,78 472º 4º Colégio Notre Dame de Lourdes ...",
+        "date": "16 de jul. de 2025",
+        "position": 1
+      },
+      {
+        "title": "MT tem só uma escola pública entre as melhores no Enem",
+        "link": "https://primeirapagina.com.br/educacao/mt-tem-so-tem-uma-escola-publica-entre-as-melhores-no-enem/",
+        "snippet": "PPE – Prina Pitt Escola em Sinop Privada. Nota média: 674,62 (colocação nacional: 368º). 3º Farina Sistema de Ensino em Cuiabá Privada. Nota ...",
+        "date": "16 de jul. de 2025",
+        "position": 2
+      },
+      {
+        "title": "Ppe - Prina Pitt Escola - Sinop - MT",
+        "link": "https://www.escol.as/329823-ppe-prina-pitt-escola",
+        "snippet": "A Ppe - Prina Pitt Escola, localizada em Sinop - MT, no Setor Comercial ... O material didático e os equipamentos para atividades culturais e ...",
+        "position": 3
+      },
+      {
+        "title": "Escola de Sorriso está entre as 10 melhores ...",
+        "link": "https://r9news.com.br/escola-de-sorriso-esta-entre-as-10-melhores-escolas-de-mato-grosso-no-enem-2025/",
+        "snippet": "PPE Prina Pitt Escola (Sinop) – 680,91; Colégio Notre Dame de Lourdes (Cuiabá) – 671,32; Farina Sistema de Ensino (Cuiabá) – 668,92; Instituto ...",
+        "date": "25 de jun. de 2026",
+        "position": 4
+      },
+      {
+        "title": "Enem 2025: conheça as escolas com as maiores notas de ...",
+        "link": "https://ehfonte.com.br/ehnoticia/enem-2025-conheca-as-escolas-com-as-maiores-notas-de-mato-grosso/",
+        "snippet": "Ppe – Prina Pitt Escola – Sinop – Residencial Ipanema – Nota: 680.91 ... Farina Sistema de Ensino – Cuiabá – Areão – Nota: 668.92; Inst ...",
+        "date": "23 de jun. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

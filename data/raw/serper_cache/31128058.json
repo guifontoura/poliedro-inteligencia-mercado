@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "31128058",
+  "NO_ENTIDADE": "INSTITUTO EDUCACIONAL SAO JOAO DA ESCOCIA",
+  "cidade": "Poços de Caldas",
+  "query": "\"INSTITUTO EDUCACIONAL SAO JOAO DA ESCOCIA\" \"Poços de Caldas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INSTITUTO EDUCACIONAL SAO JOAO DA ESCOCIA\" \"Poços de Caldas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Pelicano | Poços de Caldas MG",
+        "link": "https://www.facebook.com/colegiopelicano/?locale=pt_BR",
+        "snippet": "Colégio Pelicano, Poços de Caldas. 4.500 curtidas · 1.205 estiveram aqui. ⏱️ O lugar onde o futuro se faz presente Sistema de Ensino ANGLO • Infantil...",
+        "rating": 5,
+        "ratingCount": 36,
+        "position": 1
+      },
+      {
+        "title": "MATRÍCULAS ABERTAS | O lugar onde se dá a formação ...",
+        "link": "https://www.instagram.com/reel/DPPNtgujymj/",
+        "snippet": "... Poços de Caldas Mais informações: (35) 3722-1000 (35) 98856 ... INSTITUTO EDUCACIONAL SÃO JOÃO DA ESCÓCIA DESDE 1915 COLÉGIO PELICANO MATRÍCULAS ...",
+        "date": "há 9 meses",
+        "position": 2
+      },
+      {
+        "title": "Instituto Educacional São João da Escócia (Anglo) - Poços ...",
+        "link": "http://wikimapia.org/547054/pt/Instituto-Educacional-S%C3%A3o-Jo%C3%A3o-da-Esc%C3%B3cia-Anglo",
+        "snippet": "Instituto Educacional São João da Escócia (Anglo) (Poços de Caldas). Brazil ... Sistema de Ensino Brasileiro - Unidade Portugal 143 km; Instituto Santa ...",
+        "position": 3
+      },
+      {
+        "title": "MATRÍCULAS ABERTAS | Há 110 anos transformamos vidas ...",
+        "link": "https://www.instagram.com/reel/DTadrOICVHE/",
+        "snippet": "... Poços de Caldas Mais informações: (35) 3722-1000 (35) 98856 ... Sistema de Ensino Qual infância você quer para o seu filho?",
+        "date": "há 6 meses",
+        "position": 4
+      },
+      {
+        "title": "Alexsander Michel Dias Lima",
+        "link": "https://www.escavador.com/sobre/4463249/alexsander-michel-dias-lima",
+        "snippet": "... Instituto Educacional São João da Escócia. Tem ... Poços de Caldas ... (Desenvolvimento de material didático ou instrucional - Material Didático Para o Curso de ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

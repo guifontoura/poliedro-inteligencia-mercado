@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "35132925",
+  "NO_ENTIDADE": "ESCOLA SEB UNIDADE LAFAIETE",
+  "cidade": "Ribeirão Preto",
+  "query": "\"ESCOLA SEB UNIDADE LAFAIETE\" \"Ribeirão Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA SEB UNIDADE LAFAIETE\" \"Ribeirão Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "CIE ESCOLA MUNICÍPIO",
+        "link": "https://midiasstoragesec.blob.core.windows.net/001/2024/03/escolas_privadas_2024_derpt_22-03-2024.pdf",
+        "snippet": "CAPELLA KIDS SISTEMA DE ENSINO EIRELI- ME. RIBEIRAO PRETO. 262985. CARLA ... COC RIBEIRÃO PRETO - REDE ÚNICA DE EDUCAÇÃO UNIDADE. 02. RIBEIRAO PRETO. 7840.",
+        "position": 1
+      },
+      {
+        "title": "Alunos da Escola SEB Lafaiete conquistam números ...",
+        "link": "https://www.acidadeon.com/ribeiraopreto/conteudo-patrocinado/vidautil/alunos-da-escola-seb-lafaiete-conquistam-numeros-expressivos-em-vestibulares-e-enem/",
+        "snippet": "Veja os números da Escola SEB unidade Lafaiete: Mais de 400 ... material didático atualizado que permite ser discutido em sala de ...",
+        "date": "19 de jun. de 2024",
+        "position": 2
+      },
+      {
+        "title": "Ribeirão Preto 499 escolas",
+        "link": "https://qedu.org.br/municipio/3543402-ribeirao-preto/busca",
+        "snippet": "CAPELLA KIDS SISTEMA DE ENSINO EIRELI ME. HENRIQUE FRANCO, 145. ALTO DA BOA VISTA. 14025280 Ribeirão Preto - São Paulo. Rede privada / Urbana · CARACOL BABY ...",
+        "position": 3
+      },
+      {
+        "title": "Escolas em Ribeirão Preto: conheça as 21 melhores da ...",
+        "link": "https://www.quintoandar.com.br/guias/cidades/escolas-em-ribeirao-preto/",
+        "snippet": "Localizada no Centro, a Escola Seb – Unidade Lafaiete ocupa um lugar de destaque entre as melhores escolas de Ribeirão Preto: a 1ª posição no ...",
+        "date": "27 de out. de 2022",
+        "rating": 5,
+        "ratingCount": 1,
+        "position": 4
+      },
+      {
+        "title": "Daniel Amado Marconato",
+        "link": "https://www.escavador.com/sobre/2656498/daniel-amado-marconato",
+        "snippet": "In: XXVII Semana de Bio-Estudos da FFCLRP-USP, 1999, Ribeirão Preto/SP. ... (Desenvolvimento de material didático ou instrucional - Apostila). MARCONATO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

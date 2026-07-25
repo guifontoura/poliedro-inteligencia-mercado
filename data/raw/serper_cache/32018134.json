@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "32018134",
+  "NO_ENTIDADE": "ESCOLA ALTERNATIVA LAGO DOS CISNES",
+  "cidade": "São Mateus",
+  "query": "\"ESCOLA ALTERNATIVA LAGO DOS CISNES\" \"São Mateus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA ALTERNATIVA LAGO DOS CISNES\" \"São Mateus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Atividades Extracurriculares",
+        "link": "https://coopesma.com.br/atividades/",
+        "snippet": "Dividido em anos iniciais e finais, o Ensino Fundamental na Escola Alternativa Lago dos Cisnes ... Izaltino Ferreira Eiriz, 319, Lago dos Cisnes, São Mateus - ES, ...",
+        "position": 1
+      },
+      {
+        "title": "O uso das TICs no processo ensino e aprendizagem na ...",
+        "link": "https://www.researchgate.net/publication/324327842_O_uso_das_TICs_no_processo_ensino_e_aprendizagem_na_escola_alternativa_Lago_dos_Cisnes",
+        "snippet": "O uso das TICs no processo ensino e aprendizagem na escola alternativa “Lago dos Cisnes” ... São Mateus-ES, a fim de compreender os efeitos do uso dessa ...",
+        "position": 2
+      },
+      {
+        "title": "Jardiléia Pereira Borges Ziviani",
+        "link": "https://www.escavador.com/sobre/5208734/jardileia-pereira-borges",
+        "snippet": "... Escola Alternativa Lago dos Cisnes ... BORGES, J. P. . Elaboração do Projeto Pedagógico do Curso de Biomedicina Multivix São Mateus 2022 (Apostila).",
+        "position": 3
+      },
+      {
+        "title": "Um novo capítulo na história do Sigma está sendo ...",
+        "link": "https://www.instagram.com/p/DPoasj5DhOH/",
+        "snippet": "Esperamos que, ao percorrer esses espaços, você consiga sentir um pouco da essência da Escola Alternativa Lago dos Cisnes ... ✓ Material didático ...",
+        "date": "há 9 meses",
+        "position": 4
+      },
+      {
+        "title": "Se quiser uma escola com estrutura moderna, ensino de ...",
+        "link": "https://www.instagram.com/reel/DZ974TDFSaE/",
+        "snippet": "... Escola Alternativa Lago dos Cisnes: um lugar onde cada aluno é ... Somos referência no ensino médio de São Mateus, com a melhor escola ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

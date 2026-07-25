@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "52091384",
+  "NO_ENTIDADE": "COLEGIO DEGRAUS",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO DEGRAUS\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DEGRAUS\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/5208707-goiania/busca",
+        "snippet": "COLEGIO DEGRAUS. C97, 309. SETOR SUDOESTE. 74303380 Goiânia - Goiás. Rede privada / Urbana · COLEGIO DELTA - UNIDADE FLAMBOYANT. RUA 52, 653. JARDIM GOIAS ...",
+        "position": 1
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... Goiânia. GO. 692,6. 838,6. 683,0. 677,0. 648,0. 762,0. 29 ETAPA COLEGIO.",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Colegio Degraus - Goiânia - Setor Sudoeste - Nota: 674.12. Colegio ... Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ...",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Resultado Enem Goiânia: escolas com melhores e piores ...",
+        "link": "https://blogdoenem.com.br/resultado-enem-goiania/",
+        "snippet": "Confira a lista do MEC com as notas médias das escolas da capital de Goiás no Resultado Enem Goiânia e veja o desempenho do seu colégio!",
+        "date": "26 de nov. de 2013",
+        "position": 4
+      },
+      {
+        "title": "Aprovadas - 9º Ano - Fundamental | PDF",
+        "link": "https://www.scribd.com/document/767847965/Aprovadas-9%C2%BA-Ano-Fundamental",
+        "snippet": "Maria Luı́za Fernandes Gonzaga Colegio Degraus Goiânia GO Mariana Freitas ... Apostila - Teoria Dos Números - 04 PDF. 121 pages. Perfis de Candidatos nas ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

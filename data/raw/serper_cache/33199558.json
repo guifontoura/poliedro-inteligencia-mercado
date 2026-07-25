@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "33199558",
+  "NO_ENTIDADE": "COLEGIO CENTRO DE ESTUDOS",
+  "cidade": "Campos dos Goytacazes",
+  "query": "\"COLEGIO CENTRO DE ESTUDOS\" \"Campos dos Goytacazes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO CENTRO DE ESTUDOS\" \"Campos dos Goytacazes\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas e Cursos em Campos dos Goytacazes",
+        "link": "https://pt.scribd.com/document/758545283/NORTE-FLU",
+        "snippet": "NORTE FLUMINENSE 33162530 COLEGIO CENTRO DE ESTUDOS COLEGIO CENTRO DE ESTUDOS BRITTO Campos dos Goytacazes ... APOSTILA /E/COIE.E 173/1997 5/24/1999 6/17 ...",
+        "position": 1
+      },
+      {
+        "title": "Centro Educacional Feliciano Azevedo - Campos dos Goytacazes",
+        "link": "https://www.escol.as/313580-centro-educacional-feliciano-azevedo",
+        "snippet": "... Campos dos Goytacazes ... material didático relevante e jogos educativos. ... Colegio Centro de Estudos Britto e Vitoi Ltda - Me. Centro, Campos dos Goytacazes ...",
+        "position": 2
+      },
+      {
+        "title": "OBMEP 2019 - Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/2019/verRelatorioPremiadosGeral-RJ.3.privada.do.htm",
+        "snippet": "SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Prata, ---. ANDRE ... COLEGIO CENTRO DE ESTUDOS BRITTO E VITOI LTDA - ME, P, CAMPOS DOS GOYTACAZES ...",
+        "position": 3
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ano ... COLEGIO CENTRO DE ESTUDOS BRITTO E VITOI LTDA - ME. 33162530 RJ. Campos ...",
+        "position": 4
+      },
+      {
+        "title": "Laísla Amorim - Professora de Inglês",
+        "link": "https://br.linkedin.com/in/la%C3%ADsla-amorim-a7618783",
+        "snippet": "Colegio Centro De Estudos Britto E Vitoi. fev. de 2021 - out. de 2023 2 anos ... Campos dos Goytacazes. Bilingual Teacher. Centro Educacional Polegar. set. de ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

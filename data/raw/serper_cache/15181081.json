@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "15181081",
+  "NO_ENTIDADE": "COLEGIO INTEGRADO IN",
+  "cidade": "Belém",
+  "query": "\"COLEGIO INTEGRADO IN\" \"Belém\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO INTEGRADO IN\" \"Belém\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ranking ENEM Escolas por Cidade | Melhores Colégios ...",
+        "link": "https://www.aio.com.br/ranking-enem-escolas-por-cidade/belem",
+        "snippet": "Belém 2025 ; 1, Sistema de Ensino Equipe Integrado Eireli Epp, Belém ; 2, COLEGIO INTEGRADO IN, Belém ; 3, Colegio Physics Integral, Belém ; 4 ...",
+        "date": "Ranking Completo",
+        "position": 1
+      },
+      {
+        "title": "O Doutor Robson Gurjão chega com aquele recado especial ...",
+        "link": "https://www.instagram.com/reel/DOTN2MWjtiP/",
+        "snippet": "... Belém, formado pelos melhores professores, Mestres e Doutores ... sistema de ensino com maior aprovação. Então, você não pode perder ...",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/1501402-belem/busca",
+        "snippet": "COLEGIO INTEGRADO IN. GOVERNADOR JOSE MALCHER, 1332 - ALTOS. NAZARÉ. 66060230 ... 66070-740 Belém - PA. Rede privada / Urbana · SISTEMA DE ENSINO AUTHENTICO.",
+        "position": 3
+      },
+      {
+        "title": "Os Microdados do ENEM 2025 foram publicados hoje. E as ...",
+        "link": "https://www.instagram.com/reel/DZ5y6MGveE1/",
+        "snippet": "... COLEGIO INTEGRADO IN Belém 74 3 PHYSICS COLEGIO Belém CURSO 741 GRUPO FUTURO EDUCACIONAL MARABA Marabá 708. ... Poliedro Sistema de Ensino .",
+        "position": 4
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ... Colegio Integrado In - Belém - Nazaré - Nota: 747.52. Physics Colegio ...",
+        "date": "23 de jun. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

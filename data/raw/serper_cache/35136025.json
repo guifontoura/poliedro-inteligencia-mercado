@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35136025",
+  "NO_ENTIDADE": "COLEGIO VISCONDE DE PORTO SEGURO CAMPUS VALINHOS",
+  "cidade": "Valinhos",
+  "query": "\"COLEGIO VISCONDE DE PORTO SEGURO CAMPUS VALINHOS\" \"Valinhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO VISCONDE DE PORTO SEGURO CAMPUS VALINHOS\" \"Valinhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "RESULTADO POR REGIÃO",
+        "link": "https://ceara.obquimica.org/storage/files/resultado-do-i-quimeninas-2023-9-ano-ef.pdf",
+        "snippet": "SISTEMA DE ENSINO PHYSICS AMAPÁ LTDA. AMAPÁ. MACAPÁ. PRATA. 25. 1698188 ... COLEGIO VISCONDE DE PORTO SEGURO - CAMPUS VALINHOS. SÃO PAULO. VALINHOS. BRONZE.",
+        "position": 1
+      },
+      {
+        "title": "André Roberto de Arruda Corrêa",
+        "link": "https://www.escavador.com/sobre/1619439410/andre-roberto-de-arruda-correa",
+        "snippet": "Colégio Visconde de Porto Seguro - Campus Valinhos. Vínculo: , Enquadramento ... Responsável pelo planejamento de aulas, escolha do material didático e ...",
+        "position": 2
+      },
+      {
+        "title": "Menções Honrosas por Escola e Estado | PDF | Brasil",
+        "link": "https://pt.scribd.com/document/696761255/Unido-20240105-0158",
+        "snippet": "... SISTEMA DE ENSINO LTDA ALAGOAS MACEIÓ ... 1698433 ANA LUISA TABARINI PINHEIRO 1º ANO/EM COLEGIO VISCONDE DE PORTO SEGURO - CAMPUS VALINHOS SÃO PAULO VALINHOS",
+        "position": 3
+      },
+      {
+        "title": "Práticas na SALA de AULA",
+        "link": "http://qrcgcustomers.s3-eu-west-1.amazonaws.com/account3745148/1455548_1.pdf?0.7055202476693052",
+        "snippet": "... material didático de programação (Turing), com a proposta de um caça ao ... Instituição: Colégio Visconde de Porto Seguro - Campus Valinhos. Nível de ...",
+        "position": 4
+      },
+      {
+        "title": "Grátis: Resultado da OBQJr 2022 - Material Claro e ...",
+        "link": "https://www.passeidireto.com/arquivo/147977834/resultado-da-obq-jr-2022",
+        "snippet": "BRONZE LUCCA BALBI SANCHES SP VALINHOS COLEGIO VISCONDE DE PORTO SEGURO - CAMPUS VALINHOS ... SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI ...",
+        "date": "16 de ago. de 2024",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

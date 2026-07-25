@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35140673",
+  "NO_ENTIDADE": "INTEGRADO DE MOGI GUACU COLEGIO",
+  "cidade": "Mogi Guaçu",
+  "query": "\"INTEGRADO DE MOGI GUACU COLEGIO\" \"Mogi Guaçu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INTEGRADO DE MOGI GUACU COLEGIO\" \"Mogi Guaçu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Mogi Guaçu - Escolas",
+        "link": "https://qedu.org.br/municipio/3530706-mogi-guacu/busca",
+        "snippet": "INTEGRADO DE MOGI GUACU COLEGIO. PAULA BUENO, 888. CENTRO. 13840040 Mogi Guaçu - São Paulo. Rede privada / Urbana · INTEGRADO EXATO COLEGIO.",
+        "position": 1
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "INTEGRADO DE MOGI GUACU COLEGIO 27 Mogi Guaçu SP INSTITUTO EDUCACIONAL SAO ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 2
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE. PA. Belém. Privada. Urbana. 306. Maior que. 90 alunos. 303 ... Mogi Guaçu. Privada. Urbana. 21. De 1 a 30 alunos. 18. 85.71. 0. 80% ou ...",
+        "position": 3
+      },
+      {
+        "title": "RESULTADO DA XV OLIMPÍADA BRASILEIRA DE ...",
+        "link": "https://www.obquimica.sertanustecnologia.com.br/arquivos/download/1667/Resultado%20da%20OBQJr%202022%20Fase%20I%20-%20Classificados%20para%20a%20Fase%20II.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP. BÁRBARA PINHEIRO PUGET CRUZ ... INTEGRADO DE MOGI GUACU COLEGIO. LARISSA SILVA DE DEUS. SP VALINHOS. SESI ...",
+        "position": 4
+      },
+      {
+        "title": "Lista de Alunos por Escola e Série | PDF | São Paulo | Brasil",
+        "link": "https://pt.scribd.com/document/729886846/habilitados-Seletiva-Paulista-3a-serie",
+        "snippet": "Fernando Henrique Dos Santos Junior Rio Claro RIO CLARO SISTEMA DE ENSINO 3ª série ou superior ... Joao Otavio Montini Mogi Guaçu INTEGRADO DE MOGI GUACU COLEGIO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

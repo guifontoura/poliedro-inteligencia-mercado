@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "35480745",
+  "NO_ENTIDADE": "BEACON SCHOOL",
+  "cidade": "São Paulo",
+  "query": "\"BEACON SCHOOL\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"BEACON SCHOOL\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ao completar 15 anos, a Beacon celebra uma trajetória ...",
+        "link": "https://www.instagram.com/reel/DOO4DOfEeEV/",
+        "snippet": "@GRUPO.GAOSEG · SÃO PAULO PROTEGIDO POR GAOSEG A ESCOLA A BEACON SCHOOL ... Sistema de Ensino Núcleo de Avaliação Educacional Quando alguma ...",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "Alinhada com o framework do IB e reafirmando ...",
+        "link": "https://www.instagram.com/p/DPFBk4skbQN/",
+        "snippet": "277 likes, 10 comments - beacon.school on September 26, 2025: \"Alinhada com o framework do IB e reafirmando nosso compromisso com o ...",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "Programa Beija-flor",
+        "link": "https://institutobeacon.org/programa/beijaflor/",
+        "snippet": "... Beacon School. Os participantes não contemplados com a bolsa serão indicados ... Vila Leopoldina, São Paulo - SP. 05311-030. Segunda a Sexta-feira, das ...",
+        "position": 3
+      },
+      {
+        "title": "Beacon School se associa a rede britânica de 20 mil ...",
+        "link": "https://exame.com/carreira/beacon-se-associa-a-rede-britanica-de-20-mil-alunos-para-criar-passaporte-global/",
+        "snippet": "O mercado de educação de alto padrão em São Paulo acaba de ganhar um novo capítulo em sua jornada de internacionalização. A Beacon School ...",
+        "date": "15 de mai. de 2026",
+        "position": 4
+      },
+      {
+        "title": "Exame on Instagram: \"Como formar cidadãos globais sem ...",
+        "link": "https://www.instagram.com/reel/DSaLeiSlNLg/",
+        "snippet": "... Beacon School para entender como nasce uma educação internacional ... Material didático. Seus estudantes abriram o material e ...",
+        "date": "há 7 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

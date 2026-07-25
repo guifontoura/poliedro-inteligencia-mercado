@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35102787",
+  "NO_ENTIDADE": "NOTRE DAME COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"NOTRE DAME COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"NOTRE DAME COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - OBMEP 2017",
+        "link": "https://premiacao.obmep.org.br/2017/verRelatorioPremiadosBronze-SP.privada.do.htm",
+        "snippet": "ARQUIDIOCESANO DE SAO PAULO COLEGIO MARISTA, P, SÃO PAULO, SP, Bronze. Nível 3 ... ZETA SISTEMA DE ENSINO DE PROMISSAO, P, PROMISSAO, SP, Bronze. MIRIAM HARUMI ...",
+        "position": 1
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... São Paulo. ADEMAR CARLOS NUNES NETO. 2º ano - Ensino Médio. 15. 18 COLEGIO ... NOTRE DAME COLEGIO. 35102787 SP. São Paulo. ALICE GOES SALAES. 2º ano - Ensino ...",
+        "position": 2
+      },
+      {
+        "title": "Escolas em Sumaré na cidade de São Paulo",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/sao-paulo-sp/sumare",
+        "snippet": "Logo - notre dame colegio. Notre Dame Colegio. 4.2(8). Sumare - São Paulo - SP ... Material Didático Incluso. Vagas 2026. Vagas 2026. R$ 2.847,94. R$ 1.993,56 ...",
+        "position": 3
+      },
+      {
+        "title": "Menção Honrosa 9º Ano Fundamental | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/800285159/1729652725671867f5084ac-mencao-honrosa",
+        "snippet": "MAÍRA KEMIL SISTEMA DE ENSINO EQUIPE PARÁ BELÉM LETHÍCIA DAS NEVES ... CATHARINA FORTES NOTRE DAME COLEGIO SÃO PAULO SÃO PAULO CLARA CARDOSO REIS ...",
+        "position": 4
+      },
+      {
+        "title": "Notas Médias do ENEM 2010 dos alunos concluintes do ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_2_MUNICIPIOS.pdf",
+        "snippet": "... SÃO PAULO. JUNDIAI. CRISTAO DE JUNDIAI CCJ COLEGIO. PRIVADA. 16. 16. 614 ... NOTRE DAME COLEGIO. PRIVADA. 19. 19. 565,68. 625,36. 662,22. 588,44.",
+        "date": "11 de set. de 2011",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

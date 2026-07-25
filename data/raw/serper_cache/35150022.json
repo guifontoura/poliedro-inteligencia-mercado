@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35150022",
+  "NO_ENTIDADE": "MONTEIRO LOBATO COLEGIO",
+  "cidade": "Mogi Guaçu",
+  "query": "\"MONTEIRO LOBATO COLEGIO\" \"Mogi Guaçu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"MONTEIRO LOBATO COLEGIO\" \"Mogi Guaçu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Monteiro Lobato Colegio - Mogi Guaçu - SP",
+        "link": "https://www.escol.as/281141-monteiro-lobato-colegio",
+        "snippet": "... Mogi Guaçu - SP; ›; Imovel Pedregulhal; ›; Monteiro Lobato Colegio. Monteiro Lobato Colegio ... material didático, que inclui jogos educativos e ... Material ...",
+        "position": 1
+      },
+      {
+        "title": "Mogi Guaçu - Escolas",
+        "link": "https://qedu.org.br/municipio/3530706-mogi-guacu/busca",
+        "snippet": "MONTEIRO LOBATO COLEGIO. AFONSO PESSINI, 155 - RUA. IMOVEL PEDREGULHAL. 13845206 Mogi Guaçu - São Paulo. Rede privada / Urbana · NAIR BUENO ...",
+        "position": 2
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "MONTEIRO LOBATO COLEGIO 23 Mogi Guaçu SP SISTEMA EDUCACIONAL SOROCABA 174 ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 3
+      },
+      {
+        "title": "Relatório de Diagnostico Escolar",
+        "link": "https://relatoriodiagnostico.ensinamais.com.br/",
+        "snippet": "Mogi Guaçu, Natal, Nova Alvorada do Sul, Osasco, Paragominas, Passo Fundo, Pato ... Zeta Sistema de Ensino de Birigui, Sesi 148 Centro Educacional, Stelio ...",
+        "position": 4
+      },
+      {
+        "title": "Nome Série Cidade Escola",
+        "link": "https://abqsp.org.br/wp-content/uploads/2026/02/Habilitados-1a-Prova-Seletiva-OQSP-2026.pdf",
+        "snippet": "... Mogi Guaçu. INTEGRADO DE MOGI GUACU. COLEGIO. Alice Souza. 3ª Série ou ... SISTEMA DE ENSINO. Ana Luiza Bueno Cardoso. 2ª Série ou. Inferior.",
+        "date": "25 de fev. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

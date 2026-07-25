@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "17055962",
+  "NO_ENTIDADE": "COLEGIO PRESBITERIANO MACKENZIE PALMAS",
+  "cidade": "Palmas",
+  "query": "\"COLEGIO PRESBITERIANO MACKENZIE PALMAS\" \"Palmas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PRESBITERIANO MACKENZIE PALMAS\" \"Palmas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "LISTA DAS ESCOLAS CONVIDADAS DA TURMA 11",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/ESCOLAS-TURMA-11.pdf",
+        "snippet": "Sistema de Ensino Physics. 15163830. 92511. Turma. 11. PA. Canaã dos Carajás ... COLEGIO PRESBITERIANO MACKENZIE PALMAS. 17055962. 94087. Turma. 11. TO. Palmas.",
+        "position": 1
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 9° ANO",
+        "link": "https://obquimica.org/storage/files/01K92D8X8J0CBEC6S5CFDQXAWT.pdf",
+        "snippet": "SISTEMA DE ENSINO AUTHENTICO. PA. Belém. OURO. Echilly Gonçalves Marques ... COLEGIO PRESBITERIANO MACKENZIE PALMAS. TO. Palmas. BRONZE. ISADORA SIMONSEN DE ...",
+        "position": 2
+      },
+      {
+        "title": "✨️✨️ Queridos CLIENTES e AMIGOS, o dia está chegando! ...",
+        "link": "https://www.instagram.com/reel/DOWzEYEkRTO/",
+        "snippet": "M Colegio Presbiteriano Mackenzie Palmas 福 anos . M ColégioPresh ... MATERIAL DIDÁTICO COMPLETO DE AULA ✓ SUPORTE DURANTE APÓS CURSO ...",
+        "date": "há 10 meses",
+        "position": 3
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92 ... Colegio Presbiteriano Mackenzie Palmas - Palmas - Plano Diretor Sul - Nota: 628.4.",
+        "date": "23 de jun. de 2026",
+        "position": 4
+      },
+      {
+        "title": "Medalhistas Quimeninas 2025 - Série 1º Ano",
+        "link": "https://pt.scribd.com/document/942349372/RESULTADO-FINAL-QUIMENINAS-1-ANO",
+        "snippet": "bronze ANA JULIA FERREIRA DE CASTRO COLEGIO PRESBITERIANO MACKENZIE PALMAS TO Palmas ... certificado GRAZIELA ELEUTÉRIO VICENTE SISTEMA DE ENSINO FOCO MG ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

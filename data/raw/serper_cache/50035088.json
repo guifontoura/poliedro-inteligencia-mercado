@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "50035088",
+  "NO_ENTIDADE": "COLEGIO MAESTRIA - ENEM E VESTIBULARES",
+  "cidade": "Campo Grande",
+  "query": "\"COLEGIO MAESTRIA - ENEM E VESTIBULARES\" \"Campo Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MAESTRIA - ENEM E VESTIBULARES\" \"Campo Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "🏆 Adivinha quem está em 1º lugar no ENEM de Maringá ...",
+        "link": "https://www.instagram.com/p/DZ8NlaRPVA9/",
+        "snippet": "6° COLEGIO MAESTRIA - ENEM E VESTIBULARES 674,54. 7° COLEGIO ALMIRANTE TAMANDARE 666,91. 8° COLEGIO MILITAR DE CAMPO GRANDE 666,28. 9 ...",
+        "position": 1
+      },
+      {
+        "title": "Campo Grande-EB – Conselho Estadual de Educação",
+        "link": "https://www.cee.ms.gov.br/atos-normativos-educacao-basica-campo-grande/",
+        "snippet": "Maestria Colégio e Cursos – Unidade I anteriormente denominado Colégio Maestria – Enem e Vestibulares ... S.E.U Sistema de Ensino Unificado · SEALP – Educação ...",
+        "position": 2
+      },
+      {
+        "title": "Escolas Particulares em Campo Grande",
+        "link": "https://www.blog.schooladvisor.com.br/escolas-campo-grande",
+        "snippet": "Seleção de escolas particulares em Campo Grande · >> Colégio Marista Alexander Fleming - ESCOLA RECOMENDADA · >> COLEGIO MAESTRIA - ENEM E VESTIBULARES · >> ...",
+        "position": 3
+      },
+      {
+        "title": "Enem 2024: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.bernoulli.com.br/quem-somos/acontece-no-bernoulli/enem-conheca-as-15-escolas-com-as-maiores-notas-por-estado/",
+        "snippet": "Farina Sistema de Ensino – Cuiabá – Unidade: Jardim Guanabara – Nota ... Colégio Classe A – Campo Grande – Unidade: Monte Castelo – Nota: 761,9 ...",
+        "date": "11 de jul. de 2025",
+        "position": 4
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Colégio Classe A - 718,05 - Campo Grande (Mato Grosso do Sul) - Particular - Sem informação ... Colégio Maestria - ENEM e Vestibulares ...",
+        "date": "23 de jun. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

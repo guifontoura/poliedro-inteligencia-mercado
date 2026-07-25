@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "28017781",
+  "NO_ENTIDADE": "COLEGIO ARQUIDIOCESANO S CORACAO DE JESUS",
+  "cidade": "Aracaju",
+  "query": "\"COLEGIO ARQUIDIOCESANO S CORACAO DE JESUS\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ARQUIDIOCESANO S CORACAO DE JESUS\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO UNO VERTICE, P, DIVINOPOLIS, MG, Bronze. HEITOR SOARES DE ... COLEGIO ARQUIDIOCESANO S CORACAO DE JESUS, P, ARACAJU, SE, Bronze. FELIX CELIA ...",
+        "position": 1
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 9° ANO",
+        "link": "https://obquimica.org/storage/files/01K92D8X8J0CBEC6S5CFDQXAWT.pdf",
+        "snippet": "SISTEMA DE ENSINO AUTHENTICO. PA. Belém. OURO. Echilly Gonçalves Marques ... COLEGIO ARQUIDIOCESANO S CORACAO DE JESUS. SE. Aracaju. OURO. PIETRA CAMARGO ...",
+        "position": 2
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536524033/Premiacao-3%C2%BA-Ano-Em-Nivel-d-2019-1",
+        "snippet": "ANDRÉ LUÍS DE ALMEIDA SOUZA COLEGIO ARQUIDIOCESANO S CORACAO DE JESUS SERGIPE Aracaju ... LUCA DE FREITAS GARCIA SEI - SISTEMA DE ENSINO INTERATIVO RIO DE JANEIRO ...",
+        "position": 3
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "... Aracaju (Sergipe) - Particular - 144%; Colégio Arquidiocesano S Coração de Jesus ... Farina Sistema de Ensino - 668,93 - Cuiabá (Mato Grosso) ...",
+        "date": "23 de jun. de 2026",
+        "position": 4
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "COLEGIO ARQUIDIOCESANO S CORACAO DE JESUS. SERGIPE. Aracaju. LUIZ ... SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO DOS ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "codigo_escola": "33188823",
+  "NO_ENTIDADE": "COLEGIO ESPACO VERDE",
+  "cidade": "Volta Redonda",
+  "query": "\"COLEGIO ESPACO VERDE\" \"Volta Redonda\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ESPACO VERDE\" \"Volta Redonda\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Espaço Verde: do Berçário ao Ensino Médio | Volta ...",
+        "link": "https://www.colegioespacoverde.com/",
+        "snippet": "Aplicando as experiências do trabalho desenvolvido desde o Berçário e Creche até a Educação Infantil, o Colégio Espaço Verde traz para Volta Redonda o ...",
+        "position": 1
+      },
+      {
+        "title": "Sentir para aprender - Colégio Espaço Verde",
+        "link": "https://www.sistemafb.com.br/aprender-para-sentir-sentir-para-aprender-colegio-espaco-verde-volta-redonda-rj/",
+        "snippet": "Aprender para sentir – Sentir para aprender – Colégio Espaço Verde – Volta Redonda-RJ ... Junte-se ao sistema de ensino que transforma e ...",
+        "date": "21 de set. de 2021",
+        "position": 2
+      }
+    ],
+    "credits": 1
+  }
+}

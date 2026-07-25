@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "41131703",
+  "NO_ENTIDADE": "COLEGIO PASSIONISTA NOSSA SENHORA MENINA",
+  "cidade": "Curitiba",
+  "query": "\"COLEGIO PASSIONISTA NOSSA SENHORA MENINA\" \"Curitiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PASSIONISTA NOSSA SENHORA MENINA\" \"Curitiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Passionista Nossa Senhora Menina",
+        "link": "https://especiais.gazetadopovo.com.br/guia-escolas-e-matriculas/escolas/colegio-passionista-nossa-senhora-menina/",
+        "snippet": "Bom Jesus, 881 - Juvevê, Curitiba - PR, 80035-010, Brasil. Telefone: (41) ... material didático da geração Z. Ferramentas tecnológicas se transformam em ...",
+        "position": 1
+      },
+      {
+        "title": "🔍✨ Foi dia de aventura no Colégio Passionista! Os alunos ...",
+        "link": "https://www.instagram.com/reel/DA1sL7UyrTH/",
+        "snippet": "... Curitiba, vivenciando de perto o funcionamento de um importante espaço democrático da nossa cidade. Durante a visita, conheceram a estrutura ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Colégio Passionista NSM | Matrículas 2026/2027 abertas",
+        "link": "https://matriculaspassionista.mdcom.com.br/",
+        "snippet": "Matrículas 2026/2027 abertas no Colégio Passionista Nossa Senhora Menina, no Cabral, em Curitiba ... Parcerias: International School · Poliedro Sistema de Ensino ...",
+        "position": 3
+      },
+      {
+        "title": "No Bora Lá de hoje, estamos na @funleconline: uma ...",
+        "link": "https://www.instagram.com/reel/DSLD1gIDpDQ/",
+        "snippet": "Adotamos o Sistema COC Premium, material didático modular, atualizado e de alta performance. ... COLÉGIO IPIRANGA SISTEMA DE ENSINO anglo ...",
+        "date": "há 7 meses",
+        "position": 4
+      },
+      {
+        "title": "Marketing educacional: propostas e desafios para uma ...",
+        "link": "https://ageconsearch.umn.edu/record/392435/files/592-Texto%20do%20artigo-2665-2967-10-20211221.pdf",
+        "snippet": "material didático utilizado nos diversos segmentos de ensino ofertados pelo colégio (Educação Infantil, ... de Curitiba. Essas regiões compreendem um conjunto de ...",
+        "date": "de FF Santos · 2021",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

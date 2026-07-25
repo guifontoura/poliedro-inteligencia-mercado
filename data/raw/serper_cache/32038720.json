@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "32038720",
+  "NO_ENTIDADE": "ESCOLA SANTA ADAME",
+  "cidade": "Vila Velha",
+  "query": "\"ESCOLA SANTA ADAME\" \"Vila Velha\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA SANTA ADAME\" \"Vila Velha\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola Santa Adame | Vila Velha ES",
+        "link": "https://www.facebook.com/santaadame/?locale=mt_MT",
+        "snippet": "Escola Santa Adame, Vila Velha. 6841 likes · 4 ... Material didático Cadernos · May be a doodle of ... Escola Santa Adame is at Escola Santa Adame. 18 ...",
+        "position": 1
+      },
+      {
+        "title": "Materiais de estudo de Escola Santa Adame - Vila Velha - ES",
+        "link": "https://www.studocu.com/pt-br/high-school/escola-santa-adame/472820",
+        "snippet": "Estudando em Escola Santa Adame - Vila Velha - ES? Experimente nossa ampla variedade de anotações de aula, resumos e guias de estudo para incrementar seu ...",
+        "position": 2
+      },
+      {
+        "title": "Escola Santa Adame | Vila Velha ES",
+        "link": "https://www.facebook.com/santaadame/?locale=en_GB",
+        "snippet": "Escola Santa Adame, Vila Velha. 6834 likes · 1 ... Material didático Cadernos · May be a doodle of ... Escola Santa Adame is at Escola Santa Adame. 18 ...",
+        "position": 3
+      },
+      {
+        "title": "em atividade",
+        "link": "https://sedu.es.gov.br/Media/sedu/pdf%20e%20Arquivos/ENDERE%C3%87O%20E%20CONTATO%20DAS%20ESCOLAS%20-%20REDE%20PRIVADA.xlsx",
+        "snippet": "SRE VILA VELHA, Vila Velha, 32081405, SISTEMA DE ENSINO FERREIRA CORDEIRO, URBANA, EM ATIVIDADE, PRIVADA, AVENIDA SANTA LEOPOLDINA, 2269, PRAIA DE ITAPARICA ...",
+        "position": 4
+      },
+      {
+        "title": "Vila Velha - Escolas",
+        "link": "https://qedu.org.br/municipio/3205200-vila-velha/busca",
+        "snippet": "ESCOLA SANTA ADAME. MARIA AMALIA, 273. OLARIA. 29100515 Vila Velha - Espírito Santo. Rede privada / Urbana · ESCOLA SANTA PAULA.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

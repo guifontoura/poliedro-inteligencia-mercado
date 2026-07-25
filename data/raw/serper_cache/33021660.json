@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "33021660",
+  "NO_ENTIDADE": "COLEGIO ANCHIETA",
+  "cidade": "Nova Friburgo",
+  "query": "\"COLEGIO ANCHIETA\" \"Nova Friburgo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ANCHIETA\" \"Nova Friburgo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "GUIA DOS ESTUDANTES E DAS FAMÍLIAS",
+        "link": "https://colegioanchieta.org.br/wp-content/uploads/2024/10/Guia-dos-Estudantes-2025.pdf",
+        "snippet": "O COLÉGIO ANCHIETA está situado na Rua General Osório, nº 181, em Nova Friburgo/RJ, CEP 28625-. 630. E é mantido pela ASSOCIAÇÃO NÓBREGA DE EDUCAÇÃO E ...",
+        "position": 1
+      },
+      {
+        "title": "Material Autoral Experiências significativas para o ...",
+        "link": "https://www.instagram.com/p/DZarJdTkjDp/",
+        "snippet": "Material Autoral Experiências significativas para o desenvolvimento integral No Colégio Anchieta, acreditamos que cada experiência de aprendizagem deve ...",
+        "position": 2
+      },
+      {
+        "title": "Aprender um novo idioma é também ampliar horizontes. No ...",
+        "link": "https://www.instagram.com/reel/DM_QuJxBji4/",
+        "snippet": "No Colégio Anchieta, a língua adicional não é mais uma disciplina isolada, mas uma didática integradora que expressa um modo de ser, um modo de ...",
+        "date": "há 11 meses",
+        "position": 3
+      },
+      {
+        "title": "contexto e proposta da Rede Jesuíta de Educação Básica",
+        "link": "https://www.educatemagis.org/wp-content/uploads/2024/05/INOVACAO-PEDAGOGICA-contexto-e-proposta-da-RJE-1715935238.pdf",
+        "snippet": "Anchieta (Nova Friburgo – RJ). • Profª. Ms. Ana Paula Marques – Ex ... Mas o sistema de ensino continua a estimular a repetição, a disputa, a hierarquia.",
+        "position": 4
+      },
+      {
+        "title": "Colégio Anchieta on Instagram: \"Estamos prontos para o ...",
+        "link": "https://www.instagram.com/reel/DOI_mjsjr2D/",
+        "snippet": "Photo by Colégio Anchieta Nova Friburgo on June 24, 2026. May be an ... COLÉGIO CESP 30 ANOS 1º LUGAR ENEM 2025 Sistema de Ensino pH O melhor da ...",
+        "date": "há 10 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

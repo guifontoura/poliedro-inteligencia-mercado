@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35114078",
+  "NO_ENTIDADE": "KOELLE COLEGIO",
+  "cidade": "Rio Claro",
+  "query": "\"KOELLE COLEGIO\" \"Rio Claro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"KOELLE COLEGIO\" \"Rio Claro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "A professora Mariana, responsável pelas aulas de Redação ...",
+        "link": "https://www.facebook.com/ColegioKoelle/videos/a-professora-mariana-respons%C3%A1vel-pelas-aulas-de-reda%C3%A7%C3%A3o-do-ensino-m%C3%A9dio-do-col%C3%A9g/1715854616426269/",
+        "snippet": "Sesi Rio Claro. Education. No photo description ... Desde o início do ano a gente tem usado o material didático do ...",
+        "position": 1
+      },
+      {
+        "title": "Ciências na prática! Os alunos dos 4ºs anos vivenciaram ...",
+        "link": "https://www.instagram.com/p/DGgAnbTshKw/",
+        "snippet": "... Rio Claro - SP MÉDIA FINAL ENEM PROVA OBJETIVA + REDAÇÃO 662,18 ... Nas aulas aqui a gente tem um material didático que tem todo o incentivo ali ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "No Koelle, o início de uma jornada que respeita a infância e ...",
+        "link": "https://www.instagram.com/reel/DExS5pRIl4g/",
+        "snippet": "JC K Colégio Koelle COLÉGIO KOELLE CONQUISTA OLUGAR NO ENEM ENTRE AS ESCOLAS ENTREASESCOLASDE DE RIO CLARO 2025 1° enem PROVA OBJETIVA ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Bazar Solidário da APM – está de volta! Com muita alegria ...",
+        "link": "https://www.instagram.com/p/DTvKmYHkwA0/",
+        "snippet": "... Koelle Colégio 19 3522. 3522.4400 4400 Rua Cinco, 1827 -Centro/ Rio Claro SP colegiokoelle.com.br. escolasalesianasaojose's profile picture ...",
+        "date": "há 6 meses",
+        "position": 4
+      },
+      {
+        "title": "Município: Rio Claro - SP - Resultado Final - ONC 2025",
+        "link": "https://resultados.onciencias.org/resultado-final-onc2025/SP/Rio%20Claro",
+        "snippet": "KOELLE COLEGIO. INEP: 35114078 · LAURA PENNA JOLY PROFA ESCOLA MUNICIPAL. INEP ... RIO CLARO SISTEMA DE ENSINO. INEP: 35159013 · ROBERTO GARCIA LOSZ PROFESSOR.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

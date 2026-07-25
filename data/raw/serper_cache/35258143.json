@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35258143",
+  "NO_ENTIDADE": "NOVO COLEGIO SISTEMA DE ENSINO DE FRANCA LTDA",
+  "cidade": "Franca",
+  "query": "\"NOVO COLEGIO SISTEMA DE ENSINO DE FRANCA LTDA\" \"Franca\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"NOVO COLEGIO SISTEMA DE ENSINO DE FRANCA LTDA\" \"Franca\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "NOVO COLEGIO SISTEMA DE ENSINO DE FRANCA LTDA",
+        "link": "https://qedu.org.br/escola/35258143-novo-colegio-sistema-de-ensino-de-franca-ltda",
+        "snippet": "São Paulo Franca. Novo Colegio Sistema De Ensino De Franca Ltda. NOVO COLEGIO SISTEMA DE ENSINO DE FRANCA LTDA. Escola Privada. São Paulo / Franca. Publicidade ...",
+        "position": 1
+      },
+      {
+        "title": "Novo Colégio Sistema de Ensino de Franca LTDA",
+        "link": "https://www.jusbrasil.com.br/processos/nome/126388536/novo-colegio-sistema-de-ensino-de-franca-ltda",
+        "snippet": "O Jusbrasil encontrou 20 processos que mencionam o nome Novo Colégio Sistema de Ensino de Franca LTDA. A maioria é do TJSP, seguido por tjsp.",
+        "position": 2
+      },
+      {
+        "title": "Novo Colegio - 01822742000165 Franca",
+        "link": "https://cnpj.biz/01822742000165",
+        "snippet": "CNPJ: 01.822.742/ ; Razão Social: Novo Colegio Sistema de Ensino de Franca LTDA ; Nome Fantasia: Novo Colegio ; Data da Abertura: 28/04/1997 29 anos, 2 meses e 26 ...",
+        "position": 3
+      },
+      {
+        "title": "Novo Colegio em Franca, SP - 01.822.742/0001-65",
+        "link": "https://www.econodata.com.br/consulta-empresa/01822742000165-novo-colegio-sistema-de-ensino-de-franca-ltda",
+        "snippet": "O CNPJ 01822742000165 pertence à empresa Novo Colegio Sistema de Ensino de Franca Ltda, localizada na Rua Francisco Pesce, 310 - Vila Nossa Senhora das Gracas, ...",
+        "position": 4
+      },
+      {
+        "title": "NOVO COLEGIO SISTEMA DE ENSINO DE FRANCA LTDA",
+        "link": "https://empresas.serasaexperian.com.br/consulta-gratis/NOVO-COLEGIO-SISTEMA-DE-ENSINO-DE-FRANCA-LTDA-ME-01822742000165",
+        "snippet": "O CNPJ da empresa NOVO COLEGIO SISTEMA DE ENSINO DE FRANCA LTDA - ME NOVO COLEGIO é 01.822.742/0001-65. Com sede em FRANCA, SP, possui 29 anos, 1 mês e 5 dias e ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

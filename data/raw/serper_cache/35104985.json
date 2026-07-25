@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35104985",
+  "NO_ENTIDADE": "BANDEIRANTES COLEGIO EFM",
+  "cidade": "São Paulo",
+  "query": "\"BANDEIRANTES COLEGIO EFM\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"BANDEIRANTES COLEGIO EFM\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.1.privada.do.htm",
+        "snippet": "RIO CLARO SISTEMA DE ENSINO, P, RIO CLARO, SP, Sim. ANDRE HENRIQUE ALMEIDA GIANETTI DE SOUZA, ARQUIDIOCESANO DE SAO PAULO COLEGIO MARISTA ... BANDEIRANTES COLEGIO ...",
+        "position": 1
+      },
+      {
+        "title": "Premiados OBF 2022 - 3ª Série",
+        "link": "https://www.sbfisica.org.br/v1/olimpiada/2022/index.php/329-premiados-obf-2022-3-serie.html",
+        "snippet": "COLÉGIO KELVIN SISTEMA DE ENSINO EIRELI, SP, MENÇÃO HONROSA. BRANCO FERNANDES ... BANDEIRANTES COLEGIO EFM, SP, MEDALHA DE BRONZE. MIGUEL BULHÕES WANDERLEY ...",
+        "position": 2
+      },
+      {
+        "title": "Classificados da 3ª e 4ª séries para a Prova 2 da Seletiva ...",
+        "link": "https://abqsp.org.br/wp-content/uploads/2024/04/Classificados-Prova-2-Seletiva-3a-.pdf",
+        "snippet": "RIO CLARO SISTEMA DE ENSINO. Fernando Martins De Oliveira. COLEGIO ANGLO ... INSTITUTO FEDERAL DE SAO PAULO CAMPUS SAO JOSE DOS CAMPOS. Gabriel Rodrigues ...",
+        "position": 3
+      },
+      {
+        "title": "Lista de Espera da Repescagem para o TBF 2023",
+        "link": "https://app.graxaim.org/soif/2023/open_page/espera_tbf",
+        "snippet": "BANDEIRANTES COLEGIO EFM, SP. ARTHUR LOPES SANTOS DE PAULA PESSOA, COLÉGIO ARI ... RIO CLARO SISTEMA DE ENSINO, SP. CAUA VICTOR TENORIO SANTOS DE MELO ...",
+        "position": 4
+      },
+      {
+        "title": "Notas Médias do ENEM 2010 dos alunos concluintes do ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_2_MUNICIPIOS.pdf",
+        "snippet": "... SÃO PAULO. JUNDIAI. CRISTAO DE JUNDIAI CCJ COLEGIO. PRIVADA. 16. 16. 614 ... BANDEIRANTES COLEGIO EFM. PRIVADA. 318. 312. 652,08. 698,68. 771,93.",
+        "date": "11 de set. de 2011",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

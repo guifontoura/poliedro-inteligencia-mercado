@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "23276649",
+  "NO_ENTIDADE": "COLEGIO EVOLUCAO",
+  "cidade": "Juazeiro do Norte",
+  "query": "\"COLEGIO EVOLUCAO\" \"Juazeiro do Norte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO EVOLUCAO\" \"Juazeiro do Norte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Evolução on Instagram: \" GRANDE NOVIDADE ...",
+        "link": "https://www.instagram.com/reel/DQJ384XDVhH/",
+        "snippet": "Photo by Colégio Objetivo Juazeiro do Norte on July 07, 2026. ... Com o sistema de ensino Poliedro, referência nacional em resultados ...",
+        "date": "há 9 meses",
+        "position": 1
+      },
+      {
+        "title": "📖 Você sabia que o Colégio Evolução utiliza a plataforma de ...",
+        "link": "https://www.instagram.com/reel/CxSl038Pvzw/",
+        "snippet": "... Colégio Evolução ... material didático trabalhado em nossas aulas ... Plácido Aderaldo Castelo, 1500, Bairro Lagoa Seca, Juazeiro do Norte - CE Garanta sua entrada!",
+        "position": 2
+      },
+      {
+        "title": "A missão do Colégio Evolução Mais é contribuir de forma ...",
+        "link": "https://www.instagram.com/reel/DUnkm2NDlZW/",
+        "snippet": "Colégio QI SISTEMA DE ENSINO anglo Aqui se ensina. Aqui se ... material didático do Sistema Objetivo, em um ambiente planejado para ...",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "parecer n° 297/2024",
+        "link": "https://www.ce.gov.br/cee/wp-content/uploads/sites/85/2024/02/PARECER-No-297-2024.pdf",
+        "snippet": "do Colégio Evolução, Inep/Censo Escolar nº 23276649, com sede na Rual. Raimundo Machado da Silva, 115, Triângulo, 63041-487 Juazeiro do Norte/CE, até 31 de ...",
+        "position": 4
+      },
+      {
+        "title": "COLEGIO EVOLUCAO CE - CNPJ 17.303.891/0001-58",
+        "link": "https://cnpjcheck.com.br/empresa/evolucao-colegio-e-cursos-ltda-colegio-evolucao-ce-17303891000158",
+        "snippet": "COLEGIO EVOLUCAO CE · 13 anos desde 14/12/2012 · Matriz · 88 mil capital · Sociedade Empresária Limitada · JUAZEIRO DO NORTE/CE.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

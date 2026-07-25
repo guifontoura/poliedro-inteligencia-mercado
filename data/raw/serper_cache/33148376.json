@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "33148376",
+  "NO_ENTIDADE": "ESCOLA PARQUE - BARRA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"ESCOLA PARQUE - BARRA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA PARQUE - BARRA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola Parque | Matrículas Abertas",
+        "link": "https://www.escolaparque.g12.br/matriculas-abertas",
+        "snippet": "O material didático adotado é publicado pela National Geographic Learning. ... Gávea - Rio de Janeiro - RJ CEP: 22451-047. Telefone: (21) 2529-2500. Educação ...",
+        "position": 1
+      },
+      {
+        "title": "Escola Parque on Instagram: \"Pés nas dunas, olhos no ...",
+        "link": "https://www.instagram.com/reel/DL5SyUdRpON/",
+        "snippet": "... apostila: trilhar o território, escutar histórias de quem vive ali ... Rio de Janeiro, que conduziu uma aula instigante sobre ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "As escolas com ensino integral no Rio; veja lista",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/07/24/as-escolas-com-ensino-integral-no-rio-veja-lista.ghtml",
+        "snippet": "Escola Parque (Barra da Tijuca); Escola Parque (Barra da Tijuca) ... sistema de ensino. Há ainda o detalhamento sobre quais atividades ...",
+        "date": "há 16 horas",
+        "position": 3
+      },
+      {
+        "title": "SUPER INAUGURAÇÃO DA @keystone.ae Neste sábado ...",
+        "link": "https://www.instagram.com/reel/DUEHbfsCcZx/",
+        "snippet": "Formando líderes para o amanhã, com método de ensino próprio, imersão na língua inglesa, material didático próprio e uma formação rica em ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Saint John on Instagram: \"Há quem acredite que uma ...",
+        "link": "https://www.instagram.com/reel/DaETFQ-NTul/",
+        "snippet": "Escola Parque - Barra da Tijuca - 670,47 ... E não para por aí. Quando a gente fala de todo o estado do Rio de Janeiro, nós estamos no top 100, na ...",
+        "date": "há 4 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35151506",
+  "NO_ENTIDADE": "MIRANDA COLEGIO DE EIFM",
+  "cidade": "São Paulo",
+  "query": "\"MIRANDA COLEGIO DE EIFM\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"MIRANDA COLEGIO DE EIFM\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "SAO PAULO DA CRUZ COLEGIO PASSIONISTA, P, SÃO PAULO, SP, Sim. JOÃO PEDRO ALVES DA ... ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Sim. MARIA EDUARDA ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Miranda | Bolsas de Estudo em São Paulo - SP",
+        "link": "https://www.melhorescola.com.br/escola/miranda-colegio-de-eifm",
+        "snippet": "Sistema de Ensino SAS - Sistema Ari de Sá - Material didático e soluções ... Veja mais na cidade de São Paulo. Busque por escolas semelhantes com base ...",
+        "position": 2
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... São Paulo. ADEMAR CARLOS NUNES NETO. 2º ano - Ensino Médio. 15. 18 COLEGIO ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ano ...",
+        "position": 3
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO DOS ... LEONARDO DA VINCI COLEGIO DE ENSINO FUNDAMENTAL E MEDIO SÃO PAULO. Jundiaí.",
+        "position": 4
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536524033/Premiacao-3%C2%BA-Ano-Em-Nivel-d-2019-1",
+        "snippet": "THIAGO DE LIMA ARENAS MIRANDA COLEGIO DE EIFM SÃO PAULO São Paulo Felipe ... LUCA DE FREITAS GARCIA SEI - SISTEMA DE ENSINO INTERATIVO RIO DE JANEIRO Rio de ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

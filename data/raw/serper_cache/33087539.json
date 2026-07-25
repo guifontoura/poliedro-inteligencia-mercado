@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "33087539",
+  "NO_ENTIDADE": "ESCOLA SUICO-BRASILEIRA RIO DE JANEIRO BY SWISS INTERNATIONAL SCHOOLS",
+  "cidade": "Rio de Janeiro",
+  "query": "\"ESCOLA SUICO-BRASILEIRA RIO DE JANEIRO BY SWISS INTERNATIONAL SCHOOLS\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA SUICO-BRASILEIRA RIO DE JANEIRO BY SWISS INTERNATIONAL SCHOOLS\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola Suico-brasileira Rio de Janeiro By Swiss International ...",
+        "link": "https://www.escol.as/318328-escola-suico-brasileira-rio-de-janeiro-by-swiss-international-schools",
+        "snippet": "Como está avaliada a escola Escola Suico-brasileira Rio de Janeiro By Swiss International Schools ... material didático ... Material Didático. com base no Censo ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas em Rio de Janeiro - RJ - BuscaEscola",
+        "link": "https://buscaescola.com.br/cidades/rio-de-janeiro-rj.html",
+        "snippet": "ESCOLA SUICO BRASILEIRA RIO DE JANEIRO BY SWISS INTERNATIONAL SCHOOLS DO BRASIL ... JGFLORENCIO SISTEMA DE ENSINO EIRELI - CENTRO EDUCACIONAL SILVA FLORENCIO.",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/2018/verRelatorioPremiadosMencao-RJ.3.privada.do.htm",
+        "snippet": "SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Sim. GUILHERME ... ESCOLA SUICO-BRASILEIRA RIO DE JANEIRO BY SWISS INTERNATIONAL SCHOOLS, P, RIO ...",
+        "position": 3
+      },
+      {
+        "title": "Rio de Janeiro 4912 escolas",
+        "link": "https://qedu.org.br/municipio/3304557-rio-de-janeiro/busca",
+        "snippet": "... SISTEMA DE ENSINO LTDA. RUA MAURICIO DA COSTA FARIA, 762. RECREIO DOS ... ESCOLA SUICO BRASILEIRA RIO DE JANEIRO BY SWISS INTERNATIONAL SCHOOLS DO ...",
+        "position": 4
+      },
+      {
+        "title": "Relatório de Diagnostico Escolar",
+        "link": "https://relatoriodiagnostico.ensinamais.com.br/",
+        "snippet": "Zeta Sistema de Ensino de Birigui, Sesi 148 Centro Educacional, Stelio ... Escola Suico-Brasileira Rio de Janeiro By Swiss International Schools, Escola ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

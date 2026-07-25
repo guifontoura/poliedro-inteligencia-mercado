@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31123536",
+  "NO_ENTIDADE": "COLEGIO NOSSA SENHORA DAS GRACAS",
+  "cidade": "Patos de Minas",
+  "query": "\"COLEGIO NOSSA SENHORA DAS GRACAS\" \"Patos de Minas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NOSSA SENHORA DAS GRACAS\" \"Patos de Minas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-MG.3.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO FOCO, P, MONTES CLAROS, MG, Sim. FERNANDO DE MORAES FAQUIM ... COLEGIO NOSSA SENHORA DAS GRACAS, P, PATOS DE MINAS, MG, Sim. GUSTAVO MACHADO ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "https://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/minas-gerais/",
+        "snippet": "ATUAL SISTEMA DE ENSINO, SABINOPOLIS, MG, Privada, 80% ou mais, Alto ... COLEGIO NOSSA SENHORA DAS GRACAS, PATOS DE MINAS, MG, Privada, De 60% a ...",
+        "date": "5 de ago. de 2015",
+        "position": 2
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536524033/Premiacao-3%C2%BA-Ano-Em-Nivel-d-2019-1",
+        "snippet": "Pedro Luis Silva Giacomin COLEGIO NOSSA SENHORA DAS GRACAS MINAS GERAIS Patos de Minas ... LUCA DE FREITAS GARCIA SEI - SISTEMA DE ENSINO INTERATIVO RIO DE ...",
+        "position": 3
+      },
+      {
+        "title": "🎙️📻 O Sagrado na Roça já está movimentando toda a ...",
+        "link": "https://www.instagram.com/p/DaQNFPLEXoi/",
+        "snippet": "ESCOLA PARCEIRA Bernoulli Sistema de Ensino Colégio Sagrado Coração de Jesus ... CNSG COLÉGIO NOSSA SENHORA DAS GRAÇAS REDE SACRAMENTINA DE ...",
+        "date": "há 3 semanas",
+        "position": 4
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "COLEGIO NOSSA SENHORA DAS GRACAS. PARANÁ. Cambará. AÉCIO PINHEIRO ... SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO DOS ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

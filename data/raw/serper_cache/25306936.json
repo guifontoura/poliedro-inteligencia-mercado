@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "25306936",
+  "NO_ENTIDADE": "ESCOLA INTERNACIONAL CIDADE VIVA",
+  "cidade": "João Pessoa",
+  "query": "\"ESCOLA INTERNACIONAL CIDADE VIVA\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA INTERNACIONAL CIDADE VIVA\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "CIDADE VIVA ACADEMY on Instagram: \"Atenção alunos de ...",
+        "link": "https://www.instagram.com/reel/C_IwJYgpOTh/",
+        "snippet": "de João Pessoa! A Escola Internacional Cidade Viva, está oferecendo ... Cada exemplar entregue representa muito mais do que um material didático.",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "LIVE OIKOS – Cidade Viva Education",
+        "link": "https://lp.cidadeviva.education/wordpress/liveoikos/",
+        "snippet": "... material didático ... Escola Internacional Cidade Viva e, desde 2018, com a Faculdade Internacional Cidade Viva. Rua Lourdes Ferrer, 191 Aeroclube - João Pessoa ...",
+        "position": 2
+      },
+      {
+        "title": "15 anos de história e transformação! A Escola Internacional ...",
+        "link": "https://www.instagram.com/reel/DGnlU8ORg9w/",
+        "snippet": "A Escola Internacional Cidade Viva completa 15 anos, e para celebrar ... Moramos em João Pessoa e nossa filha estuda na @escolacidadeviva !!",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "'Cidade Viva Education' é apresentado em eventos em São ...",
+        "link": "https://www.politicaetc.com.br/2024/07/cidade-viva-education-e-apresentado-em-eventos-em-sao-paulo-e-natal/",
+        "snippet": "... sistema de ensino da Cidade Viva, que pode ser adotado e implantado em ... A Escola Internacional Cidade Viva, em João Pessoa, base das ...",
+        "date": "29 de jul. de 2024",
+        "position": 4
+      },
+      {
+        "title": "Escola Internacional Cidade Viva - Descontos e Preços ...",
+        "link": "https://querobolsa.com.br/escolas/escola-internacional-cidade-viva",
+        "snippet": "Onde fica a Escola Internacional Cidade Viva? rua luzia simoes bartoline, 50 - bessa, João Pessoa - PB.",
+        "rating": 4.6,
+        "ratingCount": 4,
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

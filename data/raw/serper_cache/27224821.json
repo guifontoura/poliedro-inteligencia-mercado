@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "27224821",
+  "NO_ENTIDADE": "ALTERNATIVA ESCOLA DE EDUCACAO BASICA",
+  "cidade": "Arapiraca",
+  "query": "\"ALTERNATIVA ESCOLA DE EDUCACAO BASICA\" \"Arapiraca\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ALTERNATIVA ESCOLA DE EDUCACAO BASICA\" \"Arapiraca\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "modalidade a – 9ª série do ensino fundamental ouro",
+        "link": "https://alagoas.obquimica.org/storage/files/01K8Q0BDGC3K667GE9E0968DGY.pdf",
+        "snippet": "ALTERNATIVA ESCOLA DE EDUCACAO BASICA. ARAPIRACA. MARIA CLARA ... MARIA LUISA COSTA E SILVA CAVALCANTE DE SOUZA COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA.",
+        "position": 1
+      },
+      {
+        "title": "modalidade a – 9ª série do ensino fundamental ouro",
+        "link": "https://alagoas.obquimica.org/storage/files/01K8BT808C02907GTKQS2TEV4K.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. MACEIÓ. LARA BEATRIZ SOBRAL DA ... ALTERNATIVA ESCOLA DE EDUCACAO BASICA. ARAPIRACA. MARIA CLARA VILAR DE OMENA.",
+        "position": 2
+      },
+      {
+        "title": "Cristina Maria de Oliveira Ferraro",
+        "link": "https://www.escavador.com/sobre/4349306/cristina-maria-bezerra-de-oliveira",
+        "snippet": "A escola normal de nível médio no Estado de Alagoas e no município de Arapiraca: vivências e experiências na formação de professor. ... (Desenvolvimento de ...",
+        "position": 3
+      },
+      {
+        "title": "Confira o desempenho das escolas de Alagoas que ...",
+        "link": "https://aquiacontece.com.br/blogueiros/confira-o-desempenho-das-escolas-de-alagoas-que-participaram-do-enem/",
+        "snippet": "22- ALTERNATIVA ESCOLA DE EDUCACAO BASICA – Arapiraca 23- COLEGIO ... 32- COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA – Maceió 33- ESCOLA ...",
+        "date": "22 de nov. de 2012",
+        "position": 4
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Alternativa Escola de Educação Básica - 666,04 - Arapiraca (Alagoas) - Particular - Sem informação ... Farina Sistema de Ensino - 668,93 ...",
+        "date": "23 de jun. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "21199809",
+  "NO_ENTIDADE": "COLEGIO LITERATO",
+  "cidade": "São Luís",
+  "query": "\"COLEGIO LITERATO\" \"São Luís\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LITERATO\" \"São Luís\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Regras do Sorteio do Material Didático • Quem pode ...",
+        "link": "https://www.instagram.com/reel/DQby2pmDLpZ/",
+        "snippet": "Regras do Sorteio do Material Didático • Quem pode participar ... Colegio Literato – São Luís – Turu – Nota: 685.20. Colegio Dom Bosco ...",
+        "date": "há 8 meses",
+        "position": 1
+      },
+      {
+        "title": "A Prefeitura de Timon, por meio da Fundação João Emílio ...",
+        "link": "https://www.instagram.com/p/DNJ92m7ggJP/",
+        "snippet": "... apostila, bloco de notas e caneta, incentivando a organização e ... Colegio Literato – São Luís – Turu – Nota: 685.20. Colegio Dom Bosco ...",
+        "date": "há 11 meses",
+        "position": 2
+      },
+      {
+        "title": "O Colégio Militar apareceu entre as MELHORES escolas de ...",
+        "link": "https://www.instagram.com/reel/DMOSNVlK3IC/",
+        "snippet": "... (São Luis) Posição Nome LC CH 1 CN RF ENSINO MEDIO LTDA 9.7 6C 2 COLEGIO LITERATO ... Olha só você que quer entrar no colégio militar, apostila de ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Reel by CETI Inês Rocha (@ceti.inesrocha) · June 23, 2026",
+        "link": "https://www.instagram.com/reel/DZ74ejah16R/",
+        "snippet": "COLÉGIO Omega SISTEMA DE ENSINO Anglo Hoje celebramos uma ... Colegio Literato – São Luís – Turu – Nota: 685.20. Colegio Dom Bosco ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio Literato abre seleção para estágio em Educação Infantil",
+        "link": "https://viatrampo.com/colegio-literato-abre-selecao-para-estagio-em-educacao-infantil/",
+        "snippet": "Colégio Literato abre seleção para estágio em Educação Infantil ... Prefeitura de São Luís abre Processo Seletivo para 200 vagas de estágio em pedagogia.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

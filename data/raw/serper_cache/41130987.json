@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "41130987",
+  "NO_ENTIDADE": "MARTINUS CENTRO - COL EDUC INF ENS FUND ENS MEDIO E PROF",
+  "cidade": "Curitiba",
+  "query": "\"MARTINUS CENTRO - COL EDUC INF ENS FUND ENS MEDIO E PROF\" \"Curitiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"MARTINUS CENTRO - COL EDUC INF ENS FUND ENS MEDIO E PROF\" \"Curitiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "... Curitiba - 664,56 - Curitiba (Paraná) - Público - 85%; Martinus Centro - Col Educ Inf Ens Fund Ens Médio e Prof ... Farina Sistema de Ensino ...",
+        "date": "23 de jun. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "MARTINUS CENTRO - COL EDUC INF ENS FUND ENS MEDIO E PROF. PR. 583. KELVIN ... CURITIBA C ARQUIDIOC EM. PR. 3556. COLEGIO CURSO PEC. RJ. 3557. UNIAO BRASILEIRA ...",
+        "position": 2
+      },
+      {
+        "title": "TABELA-PARA-O-PROFESSOR-LOCALIZAR-A-TURMA- ...",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/TABELA-PARA-O-PROFESSOR-LOCALIZAR-A-TURMA-DA-QUAL-DEVE-IMPRIMIR-A-CARTA-CONVITE.pdf",
+        "snippet": "... Curitiba. BATISTA SHALON E EI EF. 41388771. 100914. Página 118 de 203. Page 119 ... MARTINUS CENTRO - COL EDUC INF ENS FUND ENS MEDIO E PROF. 41130987. 95613.",
+        "position": 3
+      },
+      {
+        "title": "Lista Geral de números de inscrição Modalidade A",
+        "link": "https://www.obquimica.sertanustecnologia.com.br/arquivos/download/2322/Lista%20geral%20de%20inscri%C3%A7%C3%A3o%20Mod%20A%20OBQ%202024.pdf",
+        "snippet": "MARTINUS CENTRO - COL EDUC INF ENS FUND ENS MEDIO E PROF. PARANÁ. 1053 ... SUICO-BRASILEIRO DE CURITIBA COL EDUC INF EF MED. PARANÁ. 2121 ...",
+        "date": "22 de out. de 2024",
+        "position": 4
+      },
+      {
+        "title": "Base de Contatos 2022 | PDF",
+        "link": "https://www.scribd.com/document/774752043/Base-de-Contatos-2022",
+        "snippet": "MARTINUS CENTRO - COL EDUC INF ENS FUND ENS MEDIO E PROF NOSSA SRA DA ... CURITIBA [Link]@[Link] CURITIBA COLEGIOCOSMOS@[Link] CURITIBA [Link]@[Link ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

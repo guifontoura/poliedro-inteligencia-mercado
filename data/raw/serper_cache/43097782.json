@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "43097782",
+  "NO_ENTIDADE": "COLEGIO NOTRE DAME",
+  "cidade": "Passo Fundo",
+  "query": "\"COLEGIO NOTRE DAME\" \"Passo Fundo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NOTRE DAME\" \"Passo Fundo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Em manhã de formação, educadores Notre Dame refletem ...",
+        "link": "https://passofundo.notredame.org.br/em-manha-de-formacao-educadores-notre-dame-refletem-sobre-educacao-para-o-pensar/",
+        "snippet": "A atividade objetivou apresentar e promover o debate sobre questões ligadas ao material didático adotado ... Colégio Notre Dame Passo Fundo · Colégio Notre Dame ...",
+        "position": 1
+      },
+      {
+        "title": "A educação bilíngue no Colégio Notre Dame contempla a ...",
+        "link": "https://www.instagram.com/reel/DVHMFcHjxw_/",
+        "snippet": "... material didático foi entregue através de uma ... material didático foi entregue ... Colégio Notre Dame Passo Fundo NOTRE DAME -оисардо Бет fonteinas!",
+        "position": 2
+      },
+      {
+        "title": "Photo by Colégio Santa Maria Minas on February 21, 2026.",
+        "link": "https://www.instagram.com/p/DVBriabDowI/",
+        "snippet": "... Sistema de Ensino, na Unidade Coração Eucarístico. A ...",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "Notre Dame on Instagram: \"Escolher a escola certa é mais do ...",
+        "link": "https://www.instagram.com/reel/DYW8sOeAFER/",
+        "snippet": "Photo by Colégio Notre Dame Passo Fundo on July 06, 2026. May be an ... Com laptop como material didático sem custo adicional, o Miguel ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "conselho pleno 1. relatório 1.1 histórico",
+        "link": "https://www.ceesp.sp.gov.br/wp-content/uploads/2024/11/746076-cee-017-18-par-461-18.pdf",
+        "snippet": "profissional na área da educação como professora no Colégio Notre Dame de Passo Fundo, no período de ... Sistema de Ensino do. Estado de São Paulo, e ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

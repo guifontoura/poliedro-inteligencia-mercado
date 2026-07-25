@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "52020592",
+  "NO_ENTIDADE": "COLEGIO SAO FRANCISCO DE ASSIS",
+  "cidade": "Anápolis",
+  "query": "\"COLEGIO SAO FRANCISCO DE ASSIS\" \"Anápolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAO FRANCISCO DE ASSIS\" \"Anápolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "CSV",
+        "link": "https://dadosabertos.go.gov.br/datastore/dump/ed322952-5d30-4337-8d43-f8297121c153?bom=True",
+        "snippet": "... Anápolis,Urbana,\"AV DAS NACOES, 01\",JD BANDEIRANTES,62 33247894 540,2013 ... COLEGIO SAO FRANCISCO DE ASSIS,Privada,CRE Anápolis,Anápolis,Urbana,\"AV ...",
+        "position": 1
+      },
+      {
+        "title": "50+ \"Maria Fernanda Lourenço\" profiles",
+        "link": "https://www.linkedin.com/pub/dir/Maria+Fernanda/Louren%C3%A7o",
+        "snippet": "•Estudante na área de administração •21 anos •Anápolis -GO •Em busca de ... Aluno na Colegio sao francisco de assis. São Paulo, SP. Colegio sao francisco ...",
+        "position": 2
+      },
+      {
+        "title": "Empresas Parceiras - IESB - EMPREGABILIDADE",
+        "link": "http://php.iesb.br/empregabilidade/index.php?pag=parceiras",
+        "snippet": "Nome Fantasia: Sindicato dos Condutores Autônomo de Veículos Rodoviários de Anápolis ... 3428 - Razão Social: SISTEMA DE ENSINO EQUIPE LTDA Nome Fantasia ...",
+        "position": 3
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "COLEGIO SAO FRANCISCO DE ASSIS 26 Anápolis GO ESTIMULACAO DO SABER ORIENTADO ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 4
+      },
+      {
+        "title": "RESULTADO DA XV OLIMPÍADA BRASILEIRA DE ...",
+        "link": "https://www.obquimica.sertanustecnologia.com.br/arquivos/download/1667/Resultado%20da%20OBQJr%202022%20Fase%20I%20-%20Classificados%20para%20a%20Fase%20II.pdf",
+        "snippet": "COLEGIO SAO FRANCISCO DE ASSIS. ANA LUIZA DALLA VECHIA SOUZA. GO POSSE ... SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP. BÁRBARA PINHEIRO PUGET CRUZ.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

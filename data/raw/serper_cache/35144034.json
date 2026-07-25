@@ -1,0 +1,25 @@
+{
+  "codigo_escola": "35144034",
+  "NO_ENTIDADE": "GIBRAN KHALIL GIBRAN COLEGIO",
+  "cidade": "Taboão da Serra",
+  "query": "\"GIBRAN KHALIL GIBRAN COLEGIO\" \"Taboão da Serra\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"GIBRAN KHALIL GIBRAN COLEGIO\" \"Taboão da Serra\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Rui Barbosa Emefem - Taboão da Serra - SP",
+        "link": "https://www.escol.as/195845-rui-barbosa-emefem",
+        "snippet": "... material didático diversificado. Além disso, conta com profissionais ... Gibran Khalil Gibran Colegio. Parque Assuncao, Taboão da Serra - SP · Ensino ...",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "codigo_escola": "31354600",
+  "NO_ENTIDADE": "COLEGIO BATISTA MINEIRO - UNIDADE ALPHAVILLE NOVA LIMA",
+  "cidade": "Nova Lima",
+  "query": "\"COLEGIO BATISTA MINEIRO - UNIDADE ALPHAVILLE NOVA LIMA\" \"Nova Lima\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BATISTA MINEIRO - UNIDADE ALPHAVILLE NOVA LIMA\" \"Nova Lima\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [],
+    "credits": 1
+  }
+}

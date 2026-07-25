@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "29149908",
+  "NO_ENTIDADE": "COLEGIO STAR",
+  "cidade": "Alagoinhas",
+  "query": "\"COLEGIO STAR\" \"Alagoinhas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO STAR\" \"Alagoinhas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "PARCERIA SAS",
+        "link": "https://www.colegiostar.net.br/parceria-sas",
+        "snippet": "Endereço. Rua Luiz Viana, 104, Centro. Alagoinhas-Bahia. CEP-48005-420. Ícone branco do Facebook; Ícone branco do Instagram. © 2025 por Colegio Star. bottom of ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Star on Instagram: \" Lista de Aprovados ...",
+        "link": "https://www.instagram.com/reel/DQCmXn2D0pN/",
+        "snippet": "1º LUGAR EM ALAGOINHAS, 18º LUGAR DA BAHIA, ENEM 2025 Vestibulinho Colégio Star ... ✓ Material didático atualizado e focado nas provas.",
+        "date": "há 9 meses",
+        "position": 2
+      },
+      {
+        "title": "Exame de Bolsa - Colégio Star Max Inscreva-se agora e ...",
+        "link": "https://www.instagram.com/p/DN0jt0TWCvd/",
+        "snippet": "1º LUGAR EM ALAGOINHAS, 18º LUGAR DA BAHIA, ENEM 2025 Vestibulinho Colégio Star ... SISTEMA DE ENSINO SISTEMA DE ENSINO POSITIVO SISTEMA ...",
+        "date": "há 11 meses",
+        "position": 3
+      },
+      {
+        "title": "Alagoinhas: Escolas com melhores e piores notas no ...",
+        "link": "https://blogdoenem.com.br/alagoinhas-resultado-enem/",
+        "snippet": "Colégio Star e o Colégio Santíssimo Sacramento lideraram nas notas ... Alagoinhas.",
+        "date": "21 de fev. de 2014",
+        "position": 4
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... Alagoinhas. BA. 625,8. 697,3. 630,0. 604,0. 607,0. 662,0. Page 35. Posição ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "31329282",
+  "NO_ENTIDADE": "COLEGIO BATISTA MINEIRO - UNIDADE BURITIS II",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO BATISTA MINEIRO - UNIDADE BURITIS II\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BATISTA MINEIRO - UNIDADE BURITIS II\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGIO BATISTA MINEIRO - UNIDADE BURITIS II. 1,2%. COLEGIO BERNOULLI CIDADE ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA ...",
+        "position": 1
+      },
+      {
+        "title": "Minha Escola Legal",
+        "link": "http://www.minhaescolalegal.com.br/",
+        "snippet": "BELO HORIZONTE, RUA EMBARÉ, 258, GUARANI, (31) 34336115. CENTRO FORMAÇÃO ... ATUAL SISTEMA DE ENSINO, SABINÓPOLIS, RUA JOVAL DE PINHO, 101, CENTRO, (33) 34232352.",
+        "position": 2
+      },
+      {
+        "title": "Girlaine Figueiró Oliveira",
+        "link": "https://www.escavador.com/sobre/2170141/girlaine-figueiro-oliveira",
+        "snippet": "Parecer sobre renovação do reconhecimento do Ensino Médio ministrado pelo Colégio Batista Mineiro ? Unidade Buritis II, de Belo Horizonte.. 2020. OLIVEIRA ...",
+        "position": 3
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-HORIZONTAL.pdf",
+        "snippet": "... Belo Horizonte. Privada. Urbana. 25. De 1 a 30 alunos. 25. 100.00. 0. De 60% a 80 ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos. 25.",
+        "position": 4
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/31/PREMIA%C3%87%C3%83O%209%C2%BA%20ANO%20EF%20NIVEL%20A%202019.pdf",
+        "snippet": "COLEGIO BATISTA MINEIRO UNIDADE BURITIS II. MINAS GERAIS. Belo Horizonte ... ZETA SISTEMA DE ENSINO DE BIRIGUI. SÃO PAULO. Birigui. HUANG PO CHIANG. NIPO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

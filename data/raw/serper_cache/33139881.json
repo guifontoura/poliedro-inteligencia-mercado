@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "33139881",
+  "NO_ENTIDADE": "COLEGIO ATLANTICO MACAE",
+  "cidade": "Macaé",
+  "query": "\"COLEGIO ATLANTICO MACAE\" \"Macaé\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ATLANTICO MACAE\" \"Macaé\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Atlântico Macaé",
+        "link": "https://colegioatlanticomacae.com.br/",
+        "snippet": "O Bernoulli Sistema de Ensino desenvolve soluções educacionais que facilitam ... Camboriú, 257 - Praia do Pecado, Macaé - RJ, 27920-110 · Av. Atlântica ...",
+        "position": 1
+      },
+      {
+        "title": "Colegio Atlântico - Praia Do Pecado",
+        "link": "https://querobolsa.com.br/escolas/colegio-atlantico-macae",
+        "snippet": "Camboriú, 257 - Praia do Pecado, Macaé - RJ. (22) 2141-2029 ... Quem viu, viu estas bolsas também. Logo - Sistema De Ensino Fontes De Carvalho – Unidade I ...",
+        "position": 2
+      },
+      {
+        "title": "Resultados",
+        "link": "https://colegioatlanticomacae.com.br/lp/",
+        "snippet": "Sistema de Ensino Bernoulli. O Bernoulli Sistema de Ensino desenvolve soluções educacionais que facilitam a vida da escola e geram resultados de verdade.",
+        "position": 3
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3302403-macae/busca",
+        "snippet": "COLEGIO ATLANTICO MACAE. CAMBORIU, 257 - CASA. PRAIA DO PECADO. 27920110 ... SISTEMA DE ENSINO FONTES DE CARVALHO. PREFEITO EDUARDO SERRANO, 114 - CASA ...",
+        "position": 4
+      },
+      {
+        "title": "Amanda Areal - Mestre em Sociologia no PPGS-UFF. ...",
+        "link": "https://br.linkedin.com/in/amanda-areal-639285166",
+        "snippet": "Gráfico Colegio Atlantico Macae. Professor de sociologia. Colegio Atlantico Macae. fev. de 2025 - o momento 1 ano 6 meses. macae, RJ. Sistema de Ensino ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

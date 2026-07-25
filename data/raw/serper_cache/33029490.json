@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "33029490",
+  "NO_ENTIDADE": "COLEGIO VERBO DIVINO",
+  "cidade": "Barra Mansa",
+  "query": "\"COLEGIO VERBO DIVINO\" \"Barra Mansa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO VERBO DIVINO\" \"Barra Mansa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Verbo Divino: desde 1933 fazendo história 🙏🚀 Há ...",
+        "link": "https://www.instagram.com/p/DVRl1KfjmwJ/",
+        "snippet": "Colégio Verbo Divino 1º lugar no ENEM em Barra Mansa Uma conquista ... Ensino Médio forte de verdade Colégio Eduvale SISTEMA DE ENSINO anglo ...",
+        "date": "há 4 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Verbo Divino on Instagram: \"Abril ainda nem terminou e já ...",
+        "link": "https://www.instagram.com/reel/DJBullAubl8/",
+        "snippet": "Colégio Verbo Divino 1º lugar no ENEM em Barra Mansa Uma conquista ... material didático e escolar, além de muito carinho e atenção.",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "O Padre Emanuel Ramadhani visitou a Unidade Santa Helena do ...",
+        "link": "https://www.facebook.com/CVDOnLine/videos/o-padre-emanuel-ramadhani-visitou-a-unidade-santa-helena-do-col%C3%A9gio-verbo-divino/1578896076705089/",
+        "snippet": "Elas recebem ensino de excelência, material didático e escolar, além de carinho, atenção e acolhimento. Você também faz parte dessa ...",
+        "date": "há 4 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Verbo Divino - Educação Infantil",
+        "link": "https://redeverbita.com.br/unidade/colegio-verbo-divino",
+        "snippet": "Nosso material didático é adaptado ao PISM, assegurando excelência acadêmica em um ambiente acolhedor. Matricule seus filhos para uma jornada educacional ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio Verbo Divino on Instagram: \"Missa de Ação de Graças ✝️ ...",
+        "link": "https://www.instagram.com/reel/DC10-nDuM3C/",
+        "snippet": "Colégio Verbo Divino 1º lugar no ENEM em Barra Mansa Uma conquista ... material didático e escolar, além de muito carinho e atenção.",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

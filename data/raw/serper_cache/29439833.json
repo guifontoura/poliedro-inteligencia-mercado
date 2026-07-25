@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "29439833",
+  "NO_ENTIDADE": "CENTRO DE EDUCACAO MARIA CELINA",
+  "cidade": "Porto Seguro",
+  "query": "\"CENTRO DE EDUCACAO MARIA CELINA\" \"Porto Seguro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO DE EDUCACAO MARIA CELINA\" \"Porto Seguro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Educação Infantil",
+        "link": "https://cebeijaflor.com.br/cebf/educacao-infantil/",
+        "snippet": "Centro de Educação Maria Celina foi fundado no dia 05 de dezembro de 1995 na cidade de Porto Seguro ... Sistema de Ensino · Diário Online · Escola em Movimento ...",
+        "position": 1
+      },
+      {
+        "title": "Mais um resultado que enche toda a comunidade CEMAC de ...",
+        "link": "https://www.instagram.com/p/DaBe4aACRD8/",
+        "snippet": "... Porto Seguro e passou a integrar o grupo das 100 ... Centro de Educação Maria Celina ... No Sistema de Ensino Conexão, oferecemos: Material didático de qualidade",
+        "position": 2
+      },
+      {
+        "title": "CEMAC: Centro de Educação Maria Celina",
+        "link": "https://cebeijaflor.com.br/",
+        "snippet": "Centro de Educação Maria Celina foi fundado no dia 05 de dezembro de 1995 na cidade de Porto Seguro ... Sistema de Ensino · Diário Online · Escola em Movimento ...",
+        "position": 3
+      },
+      {
+        "title": "Centro de Educação Maria Celina | O CEMAC está prestes a ...",
+        "link": "https://www.instagram.com/reel/DO80y7ADRD6/",
+        "snippet": "... Porto Seguro no ENEM 2024. 1º lugar em ... Centro de Educação Maria Celina | O CEMAC está ... apostila, mostrando o que os alunos já desenvolveram.",
+        "position": 4
+      },
+      {
+        "title": "TABELA-PARA-O-PROFESSOR-LOCALIZAR-A-TURMA- ...",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/TABELA-PARA-O-PROFESSOR-LOCALIZAR-A-TURMA-DA-QUAL-DEVE-IMPRIMIR-A-CARTA-CONVITE.pdf",
+        "snippet": "... Porto Seguro. CEMAC - Centro de Educação Maria Celina. 29439833. 99356. Turma. 11 ... Sistema de Ensino Physics. 15163830. 92511. Turma. 3. PA. Benevides. Colégio ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

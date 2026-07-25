@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31180602",
+  "NO_ENTIDADE": "COLEGIO BATISTA DE VARGINHA",
+  "cidade": "Varginha",
+  "query": "\"COLEGIO BATISTA DE VARGINHA\" \"Varginha\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BATISTA DE VARGINHA\" \"Varginha\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Batista Varginha",
+        "link": "https://www.facebook.com/colegiobatistavarginha/?locale=lt_LT",
+        "snippet": "Colégio Batista Varginha, Varginha ... Página do Colégio Batista de Varginha no Facebook. ... A conversa seguiu o itinerário proposto pela apostila ...",
+        "position": 1
+      },
+      {
+        "title": "Ensino Fundamental - Colégio Batista",
+        "link": "https://batistanet.com.br/ensino-fundamental/",
+        "snippet": "O Colégio Batista de Varginha seguindo a determinação da Lei nº 10.172 ... sistema de ensino, as crianças prossigam nos estudos, alcançando maior ...",
+        "position": 2
+      },
+      {
+        "title": "No Colégio Batista, seu filho aprende com materiais ...",
+        "link": "https://www.instagram.com/p/DRZYYVLj42h/",
+        "snippet": "Material didático ATUALIZADO, ensino conectado! mie MATRÍCULAS ... Photo by Colégio Batista de Varginha on July 07, 2026. May be an ...",
+        "date": "há 8 meses",
+        "position": 3
+      },
+      {
+        "title": "Carangolina | Educação Empreendedora on Instagram: \"No ...",
+        "link": "https://www.instagram.com/reel/DOQsqimjdLt/",
+        "snippet": "No Colégio Batista de Varginha (@colegiobatista.vga), os alunos do ... Acho muito legal que na Carolina ela vai além do livro da apostila ...",
+        "date": "há 10 meses",
+        "position": 4
+      },
+      {
+        "title": "Márcia de Lima Elias Terra",
+        "link": "https://www.escavador.com/sobre/7133219/marcia-de-lima-elias-terra",
+        "snippet": "Professora do Colégio Batista de Varginha . Professora de História ... (Desenvolvimento de material didático ou instrucional - Guia de Estudos).",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "codigo_escola": "33163863",
+  "NO_ENTIDADE": "GARRA VESTIBULARES ASS EDUCACIONAL LTDA - UNID 2",
+  "cidade": "Volta Redonda",
+  "query": "\"GARRA VESTIBULARES ASS EDUCACIONAL LTDA - UNID 2\" \"Volta Redonda\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"GARRA VESTIBULARES ASS EDUCACIONAL LTDA - UNID 2\" \"Volta Redonda\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "GARRA VESTIBULARES ASS EDUCACIONAL LTDA - UNID 2, P, VOLTA REDONDA, RJ, Bronze ... SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Bronze. JOÃO LUCAS ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "GARRA VESTIBULARES ASS EDUCACIONAL LTDA - UNID 2, P, VOLTA REDONDA, RJ, Bronze ... SISTEMA DE ENSINO UNO VERTICE, P, DIVINOPOLIS, MG, Bronze. HEITOR SOARES DE ...",
+        "position": 2
+      }
+    ],
+    "credits": 1
+  }
+}

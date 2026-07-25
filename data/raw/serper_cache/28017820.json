@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "28017820",
+  "NO_ENTIDADE": "COLEGIO DO SALVADOR",
+  "cidade": "Aracaju",
+  "query": "\"COLEGIO DO SALVADOR\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DO SALVADOR\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ACP Colégio do Salvador",
+        "link": "https://www.mpse.mp.br/wp-content/uploads/2020/07/ACP-Col%C3%A9gio-do-Salvador.pdf",
+        "snippet": "educacionais privadas, vinculadas ao Sistema de Ensino do Estado de ... denúncias formalizadas na Promotoria de Defesa do Consumidor de Aracaju, por responsáveis ...",
+        "position": 1
+      },
+      {
+        "title": "1. De Portas Abertas - Colegio Salvador",
+        "link": "https://colegiodosalvador.com.br/matriculas2024/assets/pdf/edital-colegio-do-salvador.pdf",
+        "snippet": "... material didático, escolinha de esportes e programas ... Alunos já matriculados no Colégio do Salvador não podem participar do Concurso de Bolsas.",
+        "position": 2
+      },
+      {
+        "title": "Colégio do Salvador on Instagram: \"O acolhimento na ...",
+        "link": "https://www.instagram.com/reel/DaL5B7TBWrT/",
+        "snippet": "Photo by Colégio Salesiano Aracaju on June 08, 2026. May be an ... material didático, material didático excelente, que a gente pode ...",
+        "date": "há 3 semanas",
+        "position": 3
+      },
+      {
+        "title": "Nossos estudantes do Ensino Fundamental Anos Iniciais ...",
+        "link": "https://www.instagram.com/p/DN8nSdpEU7s/?img_index=8",
+        "snippet": "PROJETO BILÍNGUE CULTURA MAKER SISTEMA DE ENSINO POLIEDRO ... Photo by Colégio do Salvador on July 14, 2026. May be an image of.",
+        "date": "há 10 meses",
+        "position": 4
+      },
+      {
+        "title": "Os alunos da 3ª série do Ensino Médio participaram da Feira ...",
+        "link": "https://www.instagram.com/reel/DY5fkG4B2Qj/",
+        "snippet": "... Colégio do Salvador, acreditamos que orientação profissional ... material didático e a plataforma educacional, destacando recursos que ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "25133861",
+  "NO_ENTIDADE": "COLEGIO GGE",
+  "cidade": "João Pessoa",
+  "query": "\"COLEGIO GGE\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO GGE\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio GGE chega em João Pessoa oferecendo ensino ...",
+        "link": "https://www.gge.com.br/web/colegio-gge-chega-em-joao-pessoa-oferecendo-ensino-com-material-didatico-proprio-que-se-destaca-em-recursos-multimidia/",
+        "snippet": "Colégio GGE chega em João Pessoa oferecendo ensino com material didático ... Colégio GGE chega em João Pessoa oferecendo ensino com material didático pr...",
+        "position": 1
+      },
+      {
+        "title": "Institucional",
+        "link": "https://www.youtube.com/playlist?list=PLjvKnP7zAlErB8xLKjlbYHdBtJtl9PLhx",
+        "snippet": "#03 | Material didático: Você sabe o que um bom livro deve conter? ... Sistema GGE de Ensino realiza formação continuada com equipe do Colégio GGE de João Pessoa.",
+        "position": 2
+      },
+      {
+        "title": "Colégio GGE consegue verificar aprendizado dos alunos com ...",
+        "link": "https://g1.globo.com/pb/paraiba/especial-publicitario/gge/preparacao-para-a-vida/noticia/2023/11/21/colegio-gge-consegue-verificar-aprendizado-dos-alunos-com-ferramenta-exclusiva.ghtml",
+        "snippet": "Segundo o gestor do Colégio GGE em João Pessoa ... Colégio GGE chega em João Pessoa oferecendo ensino com material didático próprio, que se ...",
+        "date": "21 de nov. de 2023",
+        "position": 3
+      },
+      {
+        "title": "Colégio GGE ❤️ on Instagram: \"Somos o ÚNICO COLÉGIO ...",
+        "link": "https://www.instagram.com/reel/DVtGLe_FPyg/",
+        "snippet": "... João Pessoa e Petrolina. É ... Lídia Luna Coordenadora Lucas Portela Aluno GGE COLÉGIO GGE COORDENADOR PEDAGÓGICO COLÉGIO GGE ...",
+        "date": "há 4 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio GGE Chega Em João Pessoa Com Ferramenta Que ...",
+        "link": "https://sindaopcpb.org.br/index.php/2022/10/19/colegio-gge-chega-em-joao-pessoa-com-ferramenta-que-mede-com-precisao-o-aprendizado-do-aluno/",
+        "snippet": "Colégio GGE chega em João Pessoa com ferramenta que mede com precisão o aprendizado do aluno · g1 > Paraíba · 19 de outubro de 2022 · G1.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

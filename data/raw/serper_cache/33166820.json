@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "33166820",
+  "NO_ENTIDADE": "COLEGIO E CURSO PENSI",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO E CURSO PENSI\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO E CURSO PENSI\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Programa de Apoio ao Aluno do Pensi está com inscrições ...",
+        "link": "https://www.instagram.com/p/C_LY3C1zFcI/",
+        "snippet": "... Rio de Janeiro com 100% de bolsa na anuidade e com material didático. ... COLÉGIO E CURSO PENSI - TIJUCA 2, RIO DE JANEIRO Pensi colégio ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Ser o protagonista da sua própria história e bem-sucedido no ...",
+        "link": "https://www.instagram.com/reel/DN0-VS5WJsG/",
+        "snippet": "... COLÉGIO E CURSO PENSI - TIJUCA 2, RIO DE JANEIRO Pensi colégio-curso Oportunidade. pensi.alpha's profile picture. pensi.alpha. •. Follow · Alpha ...",
+        "date": "há 11 meses",
+        "position": 2
+      },
+      {
+        "title": "COLÉGIO PENSI ABRE AS PORTAS NA BARRA DA ...",
+        "link": "https://www.facebook.com/portaldaescola/posts/col%C3%A9gio-pensi-abre-as-portas-na-barra-da-tijucaum-coquetel-marcou-a-inaugura%C3%A7%C3%A3o-/859953514120700/",
+        "snippet": "... Colégio e Curso Pensi na última sexta-feira. O Colégio, que ocupou ... material didático contextualizado atualizado constantemente, os ...",
+        "date": "há 10 anos",
+        "position": 3
+      },
+      {
+        "title": "1. Introdução",
+        "link": "https://pensi.com.br/wp-content/uploads/2019/07/Edital-PAA-Pensi-2020-1.pdf",
+        "snippet": "Pensi com a Secretaria Municipal de Educação do Rio de Janeiro. Por ... podem ingressar na primeira série do Ensino Médio no Colégio e Curso Pensi ...",
+        "date": "16 de jul. de 2019",
+        "position": 4
+      },
+      {
+        "title": "Colegio E Curso Pensi - Recreio 1",
+        "link": "https://querobolsa.com.br/escolas/220963-colegio-e-curso-ponto-de-ensino",
+        "snippet": "Conheça informações completas sobre o Colegio E Curso Pensi - Recreio 1, localizada na. Avenida Das Americas, 15403 - Recreio, Rio de Janeiro - RJ ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

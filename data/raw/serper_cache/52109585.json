@@ -1,0 +1,26 @@
+{
+  "codigo_escola": "52109585",
+  "NO_ENTIDADE": "COLEGIO COPE NEXUS FILIAL",
+  "cidade": "Anápolis",
+  "query": "\"COLEGIO COPE NEXUS FILIAL\" \"Anápolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO COPE NEXUS FILIAL\" \"Anápolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Colegio Cope Nexus Filial - Anápolis - Centro - Nota: 692.10. Colegio ... Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ...",
+        "date": "23 de jun. de 2026",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

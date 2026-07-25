@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33155259",
+  "NO_ENTIDADE": "ISJB - COLEGIO SALESIANO REGIAO OCEANICA",
+  "cidade": "Niterói",
+  "query": "\"ISJB - COLEGIO SALESIANO REGIAO OCEANICA\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ISJB - COLEGIO SALESIANO REGIAO OCEANICA\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Grátis: Baixadas Litorâneas - BL - Material Claro e Objetivo ...",
+        "link": "https://www.passeidireto.com/arquivo/126470376/baixadas-litoraneas-bl",
+        "snippet": "33155259 INSPETORIA SÃO JOÃO BOSCO ISJB - COLEGIO SALESIANO REGIAO OCEANICA Niterói ... APOSTILA - ANEXO A PORTARIA BAIXADAS LITORÂNEAS ...",
+        "date": "31 de ago. de 2023",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "http://premiacao.obmep.org.br/2018/verRelatorioPremiadosBronze-RJ.privada.do.htm",
+        "snippet": "RIO DE JANEIRO, RJ, Bronze. 16, CLARA PEREIRA MARCHEZINI, ISJB - COLEGIO SALESIANO REGIAO OCEANICA, P, NITERÓI, RJ, Bronze. 17, ALEXANDRE PIMENTEL MACEDO ...",
+        "position": 2
+      },
+      {
+        "title": "Registro de Escolas nas Baixadas Litorâneas | PDF",
+        "link": "https://pt.scribd.com/document/723437320/Baixadas-Litoraneas-BL",
+        "snippet": "BAIXADAS LITORÂNEAS - SEDE COMPETENTE CURSO PREPARATÓRIO LTDA ME COLÉGIO CURSO PROGRESSÃO NITERÓI Niterói ... APOSTILA - ANEXO A PORTARIA QUE AUTORIZOU A ...",
+        "position": 3
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-HORIZONTAL.pdf",
+        "snippet": "... Niterói. Privada. Urbana. 41. De 31 a. 60 alunos. 41. 100.00. 0. De 20% a 40%. Muito ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos.",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/2018/verRelatorioPremiadosMencao-RJ.3.privada.do.htm",
+        "snippet": "SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Sim. 6, ARTHUR ROXO PY ... ISJB - COLEGIO SALESIANO REGIAO OCEANICA, P, NITERÓI, RJ, Sim. LARISSA DE ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

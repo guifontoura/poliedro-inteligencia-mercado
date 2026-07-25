@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35388786",
+  "NO_ENTIDADE": "LICEU PORTINARI DE ENSINO MEDIO",
+  "cidade": "Limeira",
+  "query": "\"LICEU PORTINARI DE ENSINO MEDIO\" \"Limeira\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LICEU PORTINARI DE ENSINO MEDIO\" \"Limeira\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Liceu Portinari de Ensino Médio - Limeira - SP",
+        "link": "https://www.escol.as/284628-liceu-portinari-de-ensino-medio",
+        "snippet": "... Limeira no bairro Jardim Aquarius, como foi o seu desempenho no IDEB ... Liceu Portinari de Ensino Médio. Liceu Portinari de Ensino Médio ... material didático ...",
+        "position": 1
+      },
+      {
+        "title": "Premiação Regional de Alunos - 18ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosGeralRegional-SP.3.do.htm",
+        "snippet": "LIMEIRA - COLEGIO TECNICO DE - UNICAMP, E, LIMEIRA, SP, Bronze. FRANCISCO ... LICEU PORTINARI DE ENSINO MEDIO, P, LIMEIRA, SP, Bronze. MANUELA FURLAN PERES ...",
+        "position": 2
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... LICEU PORTINARI DE ENSINO MEDIO. 35388786 SP. Limeira. ALUIZO FAUSTINO DO ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ano ...",
+        "position": 3
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. AL. Maceió ouro. Ana Alexandra ... LICEU PORTINARI DE ENSINO MEDIO. SP. Limeira. Certficado KAILANY LUZ FREITAS ...",
+        "position": 4
+      },
+      {
+        "title": "UNIDADE DA FEDERAÇÃO MUNICÍPIO ESCOLA ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_1_MUNICIPIOS.pdf",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE. PRIVADA. 174. 173. 587,85. 655,31. 637,97. 597,23 ... LIMEIRA. LICEU PORTINARI DE ENSINO MEDIO. PRIVADA. 27. 27. 608,66.",
+        "date": "11 de set. de 2011",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

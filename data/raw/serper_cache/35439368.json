@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35439368",
+  "NO_ENTIDADE": "COLEGIO PROGRESSO BILINGUE",
+  "cidade": "Indaiatuba",
+  "query": "\"COLEGIO PROGRESSO BILINGUE\" \"Indaiatuba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PROGRESSO BILINGUE\" \"Indaiatuba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Colégio Progresso Bilíngue- Indaiatuba",
+        "link": "https://colegio-colegio-progresso-bilingue-indaiatuba.bonde.org/",
+        "snippet": "Colégio Colégio Progresso Bilíngue- Indaiatuba. para adiar o ENEM este ano. os ... sistema de ensino. Além disso, a realização do Enem exige uma ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Sim. ENRICO D ALKIMIN MARQUES ... COLEGIO PROGRESSO BILINGUE INDAIATUBA, P, INDAIATUBA, SP, Sim. THOMAS TAKADA ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio Progresso Bilíngue chega a Itu com proposta ...",
+        "link": "https://jornalperiscopio.com.br/site/colegio-progresso-bilingue-chega-itu-com-proposta-diferenciada-e-em-local-privilegiado/",
+        "snippet": "Indaiatuba · Porto Feliz · Salto · Sorocaba · Outras Cidades · Assinaturas ... Colégio Progresso Bilíngue chega a Itu com proposta diferenciada e ...",
+        "date": "11 de out. de 2018",
+        "position": 3
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ano ... Indaiatuba. Bárbara Siegel Pedrini. 2º ano - Ensino Médio. 14. 17 Fund. Educ ...",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosGeral-SP.2.privada.do.htm",
+        "snippet": "ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, ---, Sim. ELLEN CHEN, IMACULADA ... COLEGIO PROGRESSO BILINGUE INDAIATUBA, P, INDAIATUBA, SP, ---, Sim. SOFIA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

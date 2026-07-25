@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "29200091",
+  "NO_ENTIDADE": "SARTRE ESCOLA SEB - ITAIGARA",
+  "cidade": "Salvador",
+  "query": "\"SARTRE ESCOLA SEB - ITAIGARA\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SARTRE ESCOLA SEB - ITAIGARA\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "1º lugar na região. 29ª melhor escola da Bahia. ...",
+        "link": "https://www.instagram.com/p/Da1Ak-kxi0M/",
+        "snippet": "9 - Sartre Escola Seb – Itaigara – Salvador – Itaigara – Nota: 686,82 ... COLÉGIO CESP 30 ANOS 1º LUGAR ENEM 2025 Sistema de Ensino pH O melhor da ...",
+        "date": "há 1 semana",
+        "position": 1
+      },
+      {
+        "title": "\"44 anos levando alunos do primeiro rabisco ao sucesso no ...",
+        "link": "https://www.instagram.com/colegiomontessoriano/reel/DVs8Le5jf8t/?hl=ml",
+        "snippet": "9 - Sartre Escola Seb – Itaigara – Salvador – Itaigara – Nota: 686,82 ... É o reflexo da união entre um sistema de ensino de excelência ...",
+        "date": "há 4 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio e Curso Brasil – 37 anos de dedicação à educação! 📚 ...",
+        "link": "https://www.instagram.com/reel/DQVQgRNDUX5/",
+        "snippet": "CONEXÃO SISTEMA DE ENSINO MATRÍCULAS ABERTAS 2º SEMESTRE ENSINO ... Sartre Escola Seb – Itaigara – Salvador – Itaigara – Nota: 686,82",
+        "date": "há 9 meses",
+        "position": 3
+      },
+      {
+        "title": "🎓 Matrículas Abertas na Coperil! 🎓 Venha fazer parte da nossa ...",
+        "link": "https://www.instagram.com/reel/DSayOQ4ETuS/",
+        "snippet": "... Material didático de excelência Ligue e agende sua visita! 71 98795 ... Sartre Escola Seb – Itaigara – Salvador – Itaigara – Nota: 686,82",
+        "date": "há 7 meses",
+        "position": 4
+      },
+      {
+        "title": "Os resultados individuais do Exame Nacional de Ensino ...",
+        "link": "https://www.instagram.com/p/DZ8d_fYFRH_/",
+        "snippet": "9 - Sartre Escola Seb – Itaigara – Salvador – Itaigara – Nota: 686,82 ... É o reflexo da união entre um sistema de ensino de excelência ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

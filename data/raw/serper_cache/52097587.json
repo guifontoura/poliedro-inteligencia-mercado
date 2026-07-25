@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "52097587",
+  "NO_ENTIDADE": "COLEGIO ATRIO",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO ATRIO\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ATRIO\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Átrio inova, mais uma vez, o seu método de ensino ...",
+        "link": "https://g1.globo.com/go/goias/especial-publicitario/colegio-atrio/guia-definitivo-do-ensino-medio/noticia/2021/01/07/colegio-atrio-inova-mais-uma-vez-o-seu-metodo-de-ensino-em-goiania.ghtml",
+        "snippet": "O Colégio Átrio, referência em Goiânia, foi criado em 2018 com objetivo de oferecer aos alunos um processo de ensino inovador.",
+        "date": "7 de jan. de 2021",
+        "position": 1
+      },
+      {
+        "title": "ÁtrioMed é",
+        "link": "https://atriomed.campusppa.com.br/matriculas2026",
+        "snippet": "apostila reciclada. e “estuda aí”. Ari de Sá em. Goiânia é no Átrio. É curso pré-vestibular com método. O Método ÁtrioMed. ✓ PS: 300 temas mais recorrentes e ...",
+        "position": 2
+      },
+      {
+        "title": "COLEGIO ATRIO Assunto: Escola Notificada por ...",
+        "link": "https://goias.gov.br/cee/wp-content/uploads/sites/20/2023/11/2020-14-cp-parecer.pdf",
+        "snippet": "municípios com sistema de ensino, não terão validade legal. Face ao ... Goiânia, 21 de Julho de 2020.” (Grifos nosso). Nesse contexto, destaca-se da ...",
+        "position": 3
+      },
+      {
+        "title": "Conheça o Colégio que inova na metodologia de ensino em ...",
+        "link": "https://g1.globo.com/go/goias/especial-publicitario/colegio-atrio/guia-definitivo-do-ensino-medio/noticia/2019/11/05/conheca-o-colegio-que-inova-na-metodologia-de-ensino-em-goiania.ghtml",
+        "snippet": "Criado em 2018, o Colégio Átrio já é referência no Ensino Médio em Goiânia ... Sistema de Ensino Anglo. Conheça o Colégio que inova na ...",
+        "date": "5 de nov. de 2019",
+        "position": 4
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/5208707-goiania/busca",
+        "snippet": "74482310 Goiânia - Goiás. Rede privada / Urbana · COLEGIO ATRIO. T 3, 2352. SETOR BUENO. 74210240 Goiânia - Goiás. Rede privada / Urbana · COLEGIO ATUAL 2000 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

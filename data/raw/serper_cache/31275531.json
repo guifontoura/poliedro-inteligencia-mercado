@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31275531",
+  "NO_ENTIDADE": "COLEGIO BATISTA MINEIRO",
+  "cidade": "Uberlândia",
+  "query": "\"COLEGIO BATISTA MINEIRO\" \"Uberlândia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BATISTA MINEIRO\" \"Uberlândia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Uberlândia – Granja Marileusa",
+        "link": "https://colegiobatistamineiro.com.br/uberlandia-granja-marileusa/",
+        "snippet": "“Eu recomendo o Colégio Batista Mineiro Uberlândia – Granja Marileusa para ... sistema de ensino muito eficiente”.",
+        "position": 1
+      },
+      {
+        "title": "more",
+        "link": "https://www.instagram.com/p/DTOMawcCQ4k/",
+        "snippet": "Aqui no Colégio Batista Mineiro Uberlândia – Martins, entendemos que cada estudante carrega sonhos, desafios e uma história única. Por isso, cuidamos de ...",
+        "position": 2
+      },
+      {
+        "title": "Os estudantes do 6º ano do Colégio Batista Mineiro BH",
+        "link": "https://www.instagram.com/reel/DaQwINRjTxo/",
+        "snippet": "Mais do que soletrar palavras, nossos estudantes do Colégio Batista Mineiro Uberlândia ... COLGIO SISTEMA Bernoulli Sistema de Ensino ...",
+        "date": "há 3 semanas",
+        "position": 3
+      },
+      {
+        "title": "Batista Digital",
+        "link": "https://colegiobatistamineiro.com.br/batista-digital/",
+        "snippet": "Sempre inovando quando o assunto é educação, o Colégio Batista Mineiro sai na ... Uberlândia - Granja Marileusa (34) 3199-2100 8h às 17h · Nova Contagem ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio Batista Mineiro celebra o 1º lugar no Enem - Colégio Batista ...",
+        "link": "https://redebatista.com.br/colegio-batista-mineiro-celebra-o-1o-lugar-no-enem/",
+        "snippet": "Alunos, pais e professores do Colégio Batista Mineiro (Unidade Uberlândia) [...] ... material didático inovador com o qual os ... Uberlândia no Enem 2013 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

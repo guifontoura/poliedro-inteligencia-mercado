@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33098980",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL SANMARTIN PEREZ",
+  "cidade": "Itaboraí",
+  "query": "\"CENTRO EDUCACIONAL SANMARTIN PEREZ\" \"Itaboraí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL SANMARTIN PEREZ\" \"Itaboraí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio CESP - Centro Educacional Sanmartin Perez",
+        "link": "https://www.facebook.com/ColegioCespOficial/?locale=pt_BR",
+        "snippet": "Colégio CESP - Centro Educacional Sanmartin Perez, Itaboraí. 3063 likes · 2 ... Sistema de Ensino que é referência em aprovação Sistema de Ensino pH ...",
+        "rating": 5,
+        "ratingCount": 45,
+        "position": 1
+      },
+      {
+        "title": "Conheça a nossa história!",
+        "link": "https://colegiocesp.com.br/sobre/",
+        "snippet": "O Centro Educacional Sanmartin Perez (CESP) nasceu em 1997 e, desde então ... Nair Cruz, 24, Outeiro das Pedras - Itaboraí/RJ. FUNCIONAMENTO.",
+        "position": 2
+      },
+      {
+        "title": "🥇 O PRIMEIRO LUGAR! Esse resultado não se conquista ...",
+        "link": "https://www.instagram.com/p/DaqFLn1xotF/",
+        "snippet": "Os resultados do ENEM 2025 saíram e o Colégio CEST foi o primeiro lugar absoluto em Itaboraí. Primeiro em média geral, primeiro em redação, ...",
+        "date": "há 1 semana",
+        "position": 3
+      },
+      {
+        "title": "Colégio CESP - Centro Educacional Sanmartin Perez",
+        "link": "https://www.facebook.com/ColegioCespOficial/photos/1397345282395029/",
+        "snippet": "... Sistema de Ensino que é referência em aprovação Sistema de Ensino pH ... Prefeitura de Itaboraí. . Follow. Educação Niterói. . Follow.",
+        "position": 4
+      },
+      {
+        "title": "Colégio Cesp | Bolsas de Estudo em Itaboraí - RJ",
+        "link": "https://www.melhorescola.com.br/escola/centro-educ-sanmartin-perez",
+        "snippet": "O Centro Educacional Sanmartin Perez possui trabalho voltado para a educação ... Sistema de ensino. PH (Somos). O sistema de ensino compreende o conjunto ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

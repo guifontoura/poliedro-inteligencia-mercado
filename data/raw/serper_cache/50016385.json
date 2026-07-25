@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "50016385",
+  "NO_ENTIDADE": "ESCOLA FRANCISCANA IMACULADA CONCEICAO",
+  "cidade": "Dourados",
+  "query": "\"ESCOLA FRANCISCANA IMACULADA CONCEICAO\" \"Dourados\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA FRANCISCANA IMACULADA CONCEICAO\" \"Dourados\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Após a apresentação dos 5 sentidos no material didático, foi ...",
+        "link": "https://www.instagram.com/p/C_IkfsExmJP/",
+        "snippet": "... material didático, foi explorado cada sentido ... Dourados here at the school... later we'll ... Na Escola Franciscana Imaculada Conceição, os ...",
+        "position": 1
+      },
+      {
+        "title": "Há vagas na Educação Infantil do Polo EIC",
+        "link": "https://www.escolaimaculada.com/noticias-ver/ha-vagas-na-educacao-infantil-do-polo-eic/443",
+        "snippet": "Os estudantes beneficiados recebem todo o material didático de forma ... O ArraiÃ¡ 2026 que reuniu a comunidade de Dourados-MS. O Arraiá 2026 que ...",
+        "position": 2
+      },
+      {
+        "title": "Coordenadora Pedagógica na Escola Imaculada Conceição",
+        "link": "https://jp.linkedin.com/in/rita-mizuno-rita-mizuno-64893249",
+        "snippet": "Trabalhei com sistema de ensino Positivo e Coc. Pós -graduada em ... Escola Franciscana Imaculada Conceição - Dourados / MS グラフィック. Vice ...",
+        "position": 3
+      },
+      {
+        "title": "eliane maria amaro escola franciscana imaculada ...",
+        "link": "https://files.ufgd.edu.br/arquivos/arquivos/78/MESTRADO-DOUTORADO-EDUCACAO/Eliane%20Maria%20Amaro.pdf",
+        "snippet": "material didático e livros. Como se pode observar, fica claro a ... Foto 20: Instituto Educacional de Dourados (Escola Franciscana Imaculada Conceição).",
+        "position": 4
+      },
+      {
+        "title": "Escola Imaculada Conceição on Instagram: \"Procissão ...",
+        "link": "https://www.instagram.com/reel/DLCwzp2OJya/",
+        "snippet": "ATLLET AMBIART AMBIARA Look Baby Store SKILL PERFORMANCE Brasil Cores CARVÃO DOURADOS Realização: ESCOLA FRANCISCANA IMACULADA CONCEIÇÃO APM ...",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

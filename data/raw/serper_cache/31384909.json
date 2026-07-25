@@ -1,0 +1,37 @@
+{
+  "codigo_escola": "31384909",
+  "NO_ENTIDADE": "COLEGIO OLIMPO TRIANGULO MINEIRO",
+  "cidade": "Uberlândia",
+  "query": "\"COLEGIO OLIMPO TRIANGULO MINEIRO\" \"Uberlândia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO OLIMPO TRIANGULO MINEIRO\" \"Uberlândia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3170206-uberlandia/busca",
+        "snippet": "COLEGIO OLIMPO TRIANGULO MINEIRO. CIPRIANO DEL FAVERO, 959. CENTRO. 38400106 Uberlândia - Minas Gerais. Rede privada / Urbana · COLEGIO PETRUS - EDUCACAO ...",
+        "position": 1
+      },
+      {
+        "title": "Formulários Tarifa Zero 2026 - Uberlândia",
+        "link": "https://www.ubertrans.com.br/escolar/formulario.html",
+        "snippet": "... COLEGIO OLIMPO TRIANGULO MINEIRO, COLEGIO PETRUS, COLEGIO PROFISSIONAL, COLEGIO ... SISTEMA DE ENSINO E CURSO, DOMINO - ESCOLA INFANTIL LTDA, E.E AFONSO ...",
+        "position": 2
+      },
+      {
+        "title": "Avenida Cipriano Del Favero, CEP: 38400-106 - Uberlândia",
+        "link": "https://www.procep.com.br/mg/uberlandia/centro/avenida-cipriano-del-favero-38400106",
+        "snippet": "O CEP 38400-106 pertence a Avenida Cipriano Del Favero e está localizada no bairro Centro, no município de Uberlândia ... QUALITY SISTEMA DE ENSINO LTDA.",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "52054241",
+  "NO_ENTIDADE": "COLEGIO COOPEN",
+  "cidade": "Rio Verde",
+  "query": "\"COLEGIO COOPEN\" \"Rio Verde\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO COOPEN\" \"Rio Verde\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Cooperativa de Ensino de Rio Verde (@coopen.rv)",
+        "link": "https://www.instagram.com/p/DQwxSuNDfpa/",
+        "snippet": "... COLÉGIO COOPEN Rio Verde- RioVerde-GO GO. academyenglishbr's profile ... SEGUNDO SEMESTRE 2026 MATRÍCULAS ABERTAS ENSINO FUNDAMENTAL I E II Sem ...",
+        "date": "há 8 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Classe A e Sistema de Ensino Poliedro, compromisso ...",
+        "link": "https://www.instagram.com/reel/DWbktWajqYm/",
+        "snippet": "... sistema de ensino, tecnologia, material didático. A gente está ... Colégio COOPEN Rio Verde - GO Colocação por matéria 100% de acertos ...",
+        "date": "há 3 meses",
+        "position": 2
+      },
+      {
+        "title": "Esse é o colégio Estação Final COC, se quiser vir conhecer ...",
+        "link": "https://www.instagram.com/reel/DXosVqmtce8/",
+        "snippet": "ESTAÇÃO FINAL SISTEMA DE ENSINO COC Trote 9º ano Coisas do ... Colégio COOPEN Rio Verde - GO Colocação por matéria 100% de acertos ...",
+        "date": "há 2 meses",
+        "position": 3
+      },
+      {
+        "title": "ContradicoesCooperativismoEdu...",
+        "link": "https://repositorio.ufu.br/bitstream/123456789/22309/3/ContradicoesCooperativismoEducacao.pdf",
+        "snippet": "de MAL Borges · 2017 — A COOPEN produz o seu material didático próprio ou adquire o material didático ... 1º - O Colégio Coopen, mantido e administrado pela Cooperativa de Ensino de Rio ...",
+        "position": 4
+      },
+      {
+        "title": "Cada fase da vida é um novo começo. E no Colégio Leibniz ...",
+        "link": "https://www.instagram.com/reel/DVRjbUgDt69/",
+        "snippet": "Poliedro Sistema de Ensino. 1º lugar em Anápolis e 2ª melhor ... Colégio COOPEN Rio Verde - GO Colocação por matéria 100% de acertos ...",
+        "date": "há 4 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

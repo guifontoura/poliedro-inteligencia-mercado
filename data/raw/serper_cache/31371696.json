@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31371696",
+  "NO_ENTIDADE": "COLEGIO UNIVERSITARIO",
+  "cidade": "Patos de Minas",
+  "query": "\"COLEGIO UNIVERSITARIO\" \"Patos de Minas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO UNIVERSITARIO\" \"Patos de Minas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Últimas vagas no Colégio Universitário: garanta já sua ...",
+        "link": "https://www.folhapatense.com.br/ultimas-vagas-no-colegio-universitario-garanta-ja-sua-matricula-1914",
+        "snippet": "Outro diferencial é o material didático. O Sistema de Ensino Ari de Sá (SAS) é reconhecido como um dos melhores do País. Desde 2022, o ...",
+        "date": "5 de fev. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Descubra como concorrer a bolsas do Colégio ...",
+        "link": "https://patosnoticias.com.br/descubra-como-concorrer-a-bolsas-do-colegio-universitario-do-unipam/",
+        "snippet": "O Colégio Universitário, do Centro Universitário de Patos de Minas (UNIPAM) ... Sistema de Ensino Ari de Sá (SAS). Outro diferencial é a infraestrutura ...",
+        "position": 2
+      },
+      {
+        "title": "Instituicoes_Cursos 18_09_25.xlsx",
+        "link": "https://www.confea.org.br/midias/uploads-imce/CEAP/Institui%C3%A7%C3%B5es%2018_09_25.pdf",
+        "snippet": "UNIDADE DE ENSINO TECNICO SENAC - CFP - PATOS DE MINAS-MG. MG. UNIDADE DE ... Sistema de Ensino Fundamental Médio Profissionalizante Ltda. – Colégio ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio Universitário UNIPAM está com matrículas abertas",
+        "link": "https://clubenoticia.com.br/colegio-universitario-unipam-esta-com-matriculas-abertas/",
+        "snippet": "... Colégio Universitário do Centro Universitário de Patos de Minas (UNIPAM). ... Outro diferencial é o material didático, o Sistema de Ensino Ari de ...",
+        "date": "14 de nov. de 2022",
+        "position": 4
+      },
+      {
+        "title": "Estudantes conquistaram uma medalha de ouro e duas ...",
+        "link": "https://www.instagram.com/p/DRh9hU7DN2U/",
+        "snippet": "COLEGIO UNIVERSITARIO Colégio Universitário promove projeto \"Sabores e Saberes\" com valorização da cultura de Patos de Minas. Join Itapira ...",
+        "date": "há 8 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "22144919",
+  "NO_ENTIDADE": "COLEGIO GREAT",
+  "cidade": "Teresina",
+  "query": "\"COLEGIO GREAT\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO GREAT\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Propósito | 20 alunos do Colégio Propósito foram ...",
+        "link": "https://www.instagram.com/reel/DXFlbAPDqpK/?hl=pt",
+        "snippet": "... Teresina 752,1 188 2º Colégio Propósito Dif Teresina 625,3 115 3º ... Colégio Great (10º). Os microdados do Enem, que reúnem ...",
+        "date": "há 3 meses",
+        "position": 1
+      },
+      {
+        "title": "O Colégio Propósito é Top 2 no ENEM entre as escolas de ...",
+        "link": "https://www.instagram.com/p/Daf8aNyFuRh/",
+        "snippet": "... Teresina/PI | 752,1 | 188 2 Colégio Propósito Dif | Teresina/PI ... Poliedro Sistema de Ensino. 1º lugar em Timon e entre as 15 ...",
+        "date": "há 2 semanas",
+        "position": 2
+      },
+      {
+        "title": "Aluno do colégio propósito.",
+        "link": "https://www.instagram.com/reel/DW6D3xGAUmq/",
+        "snippet": "A gente percebeu melhorias na estrutura, melhorias os, uh, sistema de ensino ... TERESINA TERESINA - PI CURTA, COMENTE E COMPARTILHE!",
+        "date": "há 3 meses",
+        "position": 3
+      },
+      {
+        "title": "Reel by CETI Inês Rocha (@ceti.inesrocha) · June 23, 2026",
+        "link": "https://www.instagram.com/reel/DZ74ejah16R/",
+        "snippet": "... Teresina Colégio Great 715,98 Fonte: INEP - ENEM 2025 ... COLÉGIO Omega SISTEMA DE ENSINO Anglo Hoje celebramos uma conquista que enche a ...",
+        "position": 4
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Teresina",
+        "link": "https://qedu.org.br/municipio/2211001-teresina/distorcao-idade-serie",
+        "snippet": "COLEGIO GREAT. 7,6%. COLEGIO GREGORIA BANDEIRA. 6,8%. COLEGIO INTEGRADO ... EINSTEIN SISTEMA DE ENSINO - UNIDADE I. 10,5%. EM ALICE PIRES DO NASCIMENTO. 2 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

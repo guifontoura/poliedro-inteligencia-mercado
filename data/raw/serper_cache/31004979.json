@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31004979",
+  "NO_ENTIDADE": "COLEGIO ESCOLAPIO SAO MIGUEL",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO ESCOLAPIO SAO MIGUEL\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ESCOLAPIO SAO MIGUEL\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Escolápio São Miguel",
+        "link": "https://saomiguelbh.com.br/colegio-escolapio-sao-miguel/",
+        "snippet": "Material Didático ... O Colégio Escolápio São Miguel nasceu do sonho e da dedicação dos primeiros religiosos escolápios que chegaram em Belo Horizonte (MG) em ...",
+        "position": 1
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGIO ESCOLAPIO SAO MIGUEL. 0,4%. COLEGIO ESPANHOL SANTA MARIA MINAS ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA - UNIDADE ...",
+        "position": 2
+      },
+      {
+        "title": "Conheça a Pastoral do Colégio Escolápio São Miguel",
+        "link": "https://saomiguelbh.com.br/noticias/conheca-a-pastoral-do-colegio-escolapio-sao-miguel/",
+        "snippet": "Material Didático · Educação Infantil · Ensino ... colégio escolápio são miguel tempo complementar colégio belo horizonte feira de ciências ...",
+        "date": "15 de mai. de 2025",
+        "position": 3
+      },
+      {
+        "title": "Nome do(a) aluno(a) Escola Modalidade Polo de aplicação",
+        "link": "https://omq.qui.ufmg.br/wp-content/uploads/2025/07/Participantes_OMQ_2025.pdf",
+        "snippet": "COLEGIO ESCOLAPIO SAO MIGUEL. A. Belo Horizonte. Ana Beatriz de Carvalho Seabra ... SISTEMA DE ENSINO FOCO. B. Montes Claros. Página 95. Page 96. Nome do(a) ...",
+        "position": 4
+      },
+      {
+        "title": "20+ perfis com “Rodrigues E Silva”",
+        "link": "https://br.linkedin.com/pub/dir/+/Rodrigues+E+Silva/br-6156-Belo-Horizonte-e-Regi%C3%A3o",
+        "snippet": "Aluno na colegio escolapio sao miguel arcanjo. Belo Horizonte, MG ... Assistente de ensino na Sistema de ensino mundo do saber. Belo Horizonte, MG.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

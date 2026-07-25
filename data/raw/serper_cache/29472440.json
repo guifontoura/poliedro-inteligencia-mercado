@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "29472440",
+  "NO_ENTIDADE": "COLEGIO E CURSO GAUSS",
+  "cidade": "Barreiras",
+  "query": "\"COLEGIO E CURSO GAUSS\" \"Barreiras\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO E CURSO GAUSS\" \"Barreiras\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "LINGU A GENS, CÓDIGOS E SU A S TECNOLOGIA S ...",
+        "link": "http://www.colegioecursogauss.com.br/wp-content/uploads/2018/06/GABARITO-SIMULAD%C3%83O-01-2018-PROVA-I.pdf",
+        "snippet": "A alternativa C está incorreta, pois as barreiras tarifárias não ... Bernoulli Sistema de Ensino, 2018. v. 1. p. 28). Portanto, a alternativa ...",
+        "position": 1
+      },
+      {
+        "title": "TABELA-PARA-O-PROFESSOR-LOCALIZAR-A-TURMA- ...",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/TABELA-PARA-O-PROFESSOR-LOCALIZAR-A-TURMA-DA-QUAL-DEVE-IMPRIMIR-A-CARTA-CONVITE.pdf",
+        "snippet": "... Barreiras. COLEGIO E CURSO GAUSS. 29472440. 98022. Turma. 3. BA. Barreiras. EE - CE ... Sistema de Ensino Physics. 15163830. 92511. Turma. 3. PA. Benevides.",
+        "position": 2
+      },
+      {
+        "title": "MENÇÃO HONROSA - 9° ANO DO ENSINO FUNDAMENTAL",
+        "link": "https://paraiba.obquimica.org/storage/files/mencoes-honrosas-quimeninas-2024.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. ALAGOAS. MACEIÓ. ANA SOPHIA GUIDA ... COLEGIO E CURSO GAUSS. BAHIA. BARREIRAS. ANA MELL RUFINO SILVA ALVES. COLEGIO ...",
+        "position": 3
+      },
+      {
+        "title": "Ficha de Inscrição",
+        "link": "https://portalfb.fariasbrito.com.br/exame-selecao/ficha-inscricao?inscricao=78325&tipo=candidato",
+        "snippet": "SISTEMA DE ENSINO UNIVERSO, ESCOLA PRESIDENTE KENNEDY, ESCOLA LAPIS DE COR ... COLEGIO E CURSO GAUSS - OLIMPO, EEMTI PROFESSORA MARIA ANTONIETA NUNES ...",
+        "position": 4
+      },
+      {
+        "title": "lista das escolas do nível 4 (ensino médio) convidadas ...",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/jf2025/TURMA%201%20A%209%20LISTA%20DAS%20ESCOLAS%20CONVIDADAS%20DO%20N4%20-%20TURMA%2001%20A%2009-compactado.pdf",
+        "snippet": "COLEGIO E CURSO GAUSS. 9. BA Barreiras. 29001498 Marcos Antonio Vieira da Silva ... Sistema de Ensino Inove. 3. PA Abaetetuba. 15064514 Dayane NegrÃo ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

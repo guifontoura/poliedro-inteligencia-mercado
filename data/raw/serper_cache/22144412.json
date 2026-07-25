@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "22144412",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL CONTEXTO",
+  "cidade": "Parnaíba",
+  "query": "\"CENTRO EDUCACIONAL CONTEXTO\" \"Parnaíba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL CONTEXTO\" \"Parnaíba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Itinerários Formativos - Centro Educacional Contexto",
+        "link": "https://www.sistemafb.com.br/itinerarios-formativos-centro-educacional-contexto-parnaiba-pi/",
+        "snippet": "Itinerários Formativos – Centro Educacional Contexto – Parnaíba-PI ... Junte-se ao sistema de ensino que transforma e prepara vencedores ...",
+        "date": "26 de jan. de 2022",
+        "position": 1
+      },
+      {
+        "title": "escolheu o Contexto para construir ...",
+        "link": "https://www.instagram.com/p/Da3jQFCvdrI/",
+        "snippet": "... Centro Educacional Contexto Mais informações: (86) 99515-7112 Seu ... Descontos especiais nas mensalidades e no material didático.",
+        "date": "há 1 semana",
+        "position": 2
+      },
+      {
+        "title": "Centro Educacional Contexto on Instagram: \" ATENÇÃO ...",
+        "link": "https://www.instagram.com/reel/DaIplVTEVg9/",
+        "snippet": "Photo by Centro Educacional Contexto on July ... Conectivo Sistema de Ensino APROVADA APROVADO CONECTIVO INTENSIVO Pré-Enem 2026 RUA CEL.",
+        "date": "há 3 semanas",
+        "position": 3
+      },
+      {
+        "title": "O Ensino Médio Capixaba está de cara nova! Com as ...",
+        "link": "https://www.instagram.com/reel/DUEZPH3jrBg/",
+        "snippet": "Hey, Parnaíba kids! This is Professor Paulo André, a math teacher ... Sistema de Ensino. vitordeangelo's profile picture · vitordeangelo.",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "cursos do ensino básico regular - autorizados pelo cee/pi",
+        "link": "http://www.ceepi.pro.br/CADASTRO%20privadas/Cadastro%20Privadas%20-%20Regular.pdf",
+        "snippet": "Mant.: Sistema de Ensino Ribeiro & Ribeiro Ltda -. ME. CNPJ ... Parnaíba - Parnaíba (PI). Ensino Fundamental anos iniciais. Res. 039 ...",
+        "date": "31 de ago. de 2018",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

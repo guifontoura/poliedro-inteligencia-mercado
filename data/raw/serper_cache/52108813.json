@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "52108813",
+  "NO_ENTIDADE": "COLEGIO TRINUS",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO TRINUS\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO TRINUS\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "no Colégio Trinus, criamos caminhos que transformam ...",
+        "link": "https://www.instagram.com/p/DOvqcPGkWkc/",
+        "snippet": "... Goiânia ... sistema de Ensino Etapa no Domus COLÉGIO DOMUS Sapiens 30 Anos Organização de conteúdo e rotina de ...",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "Venha visitar o Colégio Trinus e conhecer de perto tudo o que ...",
+        "link": "https://www.instagram.com/reel/DOvocV6EbIP/",
+        "snippet": "... Goiânia ... MATERIAL DIDÁTICO AMPLIA ONDE O ALUNO VAI PODER ESCOLHER A SUA ÁREA DE MAIOR INTERESSE INOVAÇÃO ...",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Trinus on Instagram: \"O futuro já começou: e ele ...",
+        "link": "https://www.instagram.com/reel/DT0-eD-Car-/",
+        "snippet": "Mal chegamos em Goiânia 1º COLÉGIO AZ PÉRICLES PIRES - DIRETOR DO COLÉGIO AZ GOIÂNIA ... Sabia que o material didático que seu filho usa ...",
+        "date": "há 6 meses",
+        "position": 3
+      },
+      {
+        "title": "Um café da manhã especial te espera! No dia 08 de ...",
+        "link": "https://www.instagram.com/reel/DQJlmvrgVWb/",
+        "snippet": "... Colégio Trinus Data: 08/11 Horário: a partir das 9h ... A partir do level Elementary, a apostila pedagógica é feita pela Teacher Pri!",
+        "date": "há 9 meses",
+        "position": 4
+      },
+      {
+        "title": "Quer estudar no Colégio Trinus com bolsas de até 75 ...",
+        "link": "https://www.instagram.com/p/DM8LmkuOYjF/?hl=en",
+        "snippet": "... Goiânia ... Essa é a sua oportunidade de estudar com o sistema de ensino que mais aprova nos grandes vestibulares!",
+        "date": "há 11 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

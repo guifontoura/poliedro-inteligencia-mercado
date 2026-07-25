@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "43172440",
+  "NO_ENTIDADE": "COLEGIO LEONARDO DA VINCI- BETA",
+  "cidade": "Porto Alegre",
+  "query": "\"COLEGIO LEONARDO DA VINCI- BETA\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LEONARDO DA VINCI- BETA\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Dia 08 de julho foi dia de voltar ao Colégio Leonardo da ...",
+        "link": "https://www.instagram.com/p/DaxY2jCDtJn/",
+        "snippet": "... COLÉGIO LEONARDO DA VINCI (BETA) Sala Pedro Leite COLÉGIO LEONARDO ... Porto Alegre\". Quando o autor encontra o leitor, a magia do ...",
+        "date": "há 1 semana",
+        "position": 1
+      },
+      {
+        "title": "José Antônio Matiolla Contando sobre as qualidades e o que ...",
+        "link": "https://www.instagram.com/reel/DRCpFUrDR4P/",
+        "snippet": "... Porto Alegre. Então, se você aí do Leonardo da Vinci gosta de ... SISTEMA DE ENSINO anglo 15 ANOS AQUI VOCÊ PODE SONHAR PORQUE NÓS ...",
+        "date": "há 8 meses",
+        "position": 2
+      },
+      {
+        "title": "Cristina Pires Corso",
+        "link": "https://www.escavador.com/sobre/3789700/cristina-pires-corso",
+        "snippet": "... Colégio Leonardo Da Vinci Beta, ambos em Porto Alegre-RS . Tem experiência ... 1 Congresso Raiz Sistema de Ensino on-line - O mundo pós-pandemia. 2020 ...",
+        "position": 3
+      },
+      {
+        "title": "Escolas Particulares em Porto Alegre",
+        "link": "https://www.blog.schooladvisor.com.br/escolas-porto-alegre",
+        "snippet": "Seleção de Escolas Recomendadas em Porto Alegre · >> Colégio Leonardo da Vinci Alfa​ · >> Colégio Leonardo Da Vinci Beta · >> Colégio Leonardo da Vinci Gama · >> ...",
+        "position": 4
+      },
+      {
+        "title": "“Caminhão”: percurso formativo e colaborativo de professores ...",
+        "link": "https://bdtd.ibict.br/vufind/Record/UNSP_acd59ac7ca6fb7d7de0b8011354098a5/Description?print=1",
+        "snippet": "... Porto Alegre Bayer Leverkusen x Werder Bremen Análise e Expectativas do ... Colégio Leonardo da Vinci Beta Inovação e Educação de Qualidade Apostas ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

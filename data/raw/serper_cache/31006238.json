@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31006238",
+  "NO_ENTIDADE": "COLEGIO LOYOLA",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO LOYOLA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LOYOLA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Proposta Pedagógica",
+        "link": "https://www.loyola.g12.br/wp-content/uploads/2022/09/20220127_dge_proposta_pedagogica_vfinal.pdf",
+        "snippet": "• pela aposição da apostila, quando o país de origem do intercâmbio fizer parte dos países ... Belo Horizonte, 28 de janeiro de 2021. APROVADA em 28/01/2022.",
+        "position": 1
+      },
+      {
+        "title": "O Colégio Loyola está com inscrições abertas para a ...",
+        "link": "https://www.instagram.com/p/DZnabEbgd2C/",
+        "snippet": "O Colégio Loyola está com inscrições abertas para a admissão de novos alunos a partir do 6º Ano até o final do ciclo básico.",
+        "position": 2
+      },
+      {
+        "title": "Ernani Terra",
+        "link": "https://www.facebook.com/ernani.terra/posts/leio-os-jornais-todos-os-dias-h%C3%A1-muitos-anos-e-todo-ano-quando-se-est%C3%A1-perto-do-/3487709318035572/",
+        "snippet": "Rachel Viana enfrenta uma situação parecida. A filha dela, Helena Viana, de 14, é aluna do Colégio Loyola, localizado na Região Centro-Sul de Belo Horizonte, e ...",
+        "position": 3
+      },
+      {
+        "title": "3ª SÉRIE DO ENSINO MÉDIO - Belo Horizonte",
+        "link": "https://www.loyola.g12.br/wp-content/uploads/2017/12/EM3_Lista-Material_2018.pdf",
+        "snippet": "Vocês estão recebendo a lista de livros e materiais do Colégio Loyola para o ano de 2018. ... apostila da 3ª Série. Belo Horizonte: Loyola, 2018.",
+        "date": "1 de fev. de 2018",
+        "position": 4
+      },
+      {
+        "title": "contexto e proposta da Rede Jesuíta de Educação Básica",
+        "link": "https://www.educatemagis.org/wp-content/uploads/2024/05/INOVACAO-PEDAGOGICA-contexto-e-proposta-da-RJE-1715935238.pdf",
+        "snippet": "Carlos Freitas – Diretor Acadêmico do Colégio Loyola. (Belo Horizonte ... Mas o sistema de ensino continua a estimular a repetição, a disputa, a hierarquia.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35141434",
+  "NO_ENTIDADE": "ESCOLA SEB THATHI",
+  "cidade": "Araçatuba",
+  "query": "\"ESCOLA SEB THATHI\" \"Araçatuba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA SEB THATHI\" \"Araçatuba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola Seb Thathi - Descontos, Preço das Mensalidades e ...",
+        "link": "https://querobolsa.com.br/escolas/colegio-seb-thathi",
+        "snippet": "A Escola SEB Thathi, situada no bairro Saudade em Araçatuba, São Paulo ... O sistema de ensino AZ continua presente, personalizando metas e ...",
+        "rating": 4.8,
+        "ratingCount": 1,
+        "position": 1
+      },
+      {
+        "title": "Escola Seb Thathi | Bolsas de Estudo em Araçatuba - SP",
+        "link": "https://www.melhorescola.com.br/escola/escola-seb-thathi",
+        "snippet": "Garanta sua bolsa de estudos em Escola Seb Thathi, Araçatuba - SP. Descontos ... O sistema de ensino AZ continua presente, personalizando metas e ...",
+        "position": 2
+      },
+      {
+        "title": "Escola Thathi",
+        "link": "https://www.facebook.com/escolathathi/photos/a-escola-seb-thathi-possui-forma%C3%A7%C3%A3o-completa-e-material-did%C3%A1tico-diferenciado-co/2785761708108072/",
+        "snippet": "A Escola SEB THATHI possui formação completa e material didático diferenciado com os melhores professores. ... Araçatuba e região entre as ...",
+        "date": "há 7 anos",
+        "position": 3
+      },
+      {
+        "title": "Ludmila da Silva Marques Oliveira",
+        "link": "https://www.escavador.com/sobre/1293134/ludmila-da-silva-felisberto",
+        "snippet": "... Escola SEB THATHI de Araçatuba ... (Desenvolvimento de material didático ou instrucional - Curso de Cuidador de Idosos). Prêmios. 2016. 2 prêmio SEB Mundo Leitor, ...",
+        "position": 4
+      },
+      {
+        "title": "40+ perfis com “Lislaine Santos”",
+        "link": "https://br.linkedin.com/pub/dir/Lislaine/Santos/br-0-Brasil",
+        "snippet": "SEG - Sistema de Ensino Gaúcho · LISLAINE ALVES DOS SANTOS. ASSISTENTE DE CAPTAÇÃO na Escola SEB THATHI. Araçatuba, SP. Grupo Catuay ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

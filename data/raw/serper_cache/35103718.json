@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35103718",
+  "NO_ENTIDADE": "RIO BRANCO UNIDADE HIGIENOPOLIS COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"RIO BRANCO UNIDADE HIGIENOPOLIS COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"RIO BRANCO UNIDADE HIGIENOPOLIS COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - OBMEP 2017",
+        "link": "https://premiacao.obmep.org.br/2017/verRelatorioPremiadosBronze-SP.privada.do.htm",
+        "snippet": "RIO BRANCO UNIDADE HIGIENOPOLIS COLEGIO, P, SÃO PAULO, SP, Bronze. FELIPE ... ARQUIDIOCESANO DE SAO PAULO COLEGIO MARISTA, P, SÃO PAULO, SP, Bronze. Nível 3.",
+        "position": 1
+      },
+      {
+        "title": "2014",
+        "link": "https://enem.cneceduca.com.br/2014?p=15",
+        "snippet": "São Paulo, SP, 62, 623,17, 628,75, 590,38, 664,54, 637,74, 626,71, 628,92. Politecnico de Sorocaba ... CNEC - Sistema de Ensino. ©2011-2026 Sistema de Ensino ...",
+        "position": 2
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "RIO BRANCO UNIDADE HIGIENOPOLIS COLEGIO 307928 65 São Paulo SP COLEGIO ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 3
+      },
+      {
+        "title": "Detalhado - NÃO PAGAS - Portal Gov.br",
+        "link": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pdde/media-pdde/comunicados/relao_entidadesmantenedoras_comunicado_17_cartoPDDE.xlsx",
+        "snippet": "SISTEMA DE ENSINO VESTIBULANDO, 15587983, 560, PDDE-EDUCAC?O ESPECIAL ... RIO BRANCO UNIDADE HIGIENOPOLIS COLEGIO, 35103718, 860, PDDE-EDUCAC?O ESPECIAL ...",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... SAO PAULO. Privada. VERTICE COLEGIO UNIDADE II. 715,41. 649,81. 787,28 ... SISTEMA DE ENSINO EQUIPE. 628,66. 596,47. 652,65. 612,81. 652,72. 747 ...",
+        "date": "22 de dez. de 2014",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

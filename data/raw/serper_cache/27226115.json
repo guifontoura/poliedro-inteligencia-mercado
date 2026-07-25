@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "27226115",
+  "NO_ENTIDADE": "COLEGIO MARIA MONTESSORI",
+  "cidade": "Maceió",
+  "query": "\"COLEGIO MARIA MONTESSORI\" \"Maceió\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MARIA MONTESSORI\" \"Maceió\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Hoje é dia de aplicação do Simulado FTD para nossos alunos ...",
+        "link": "https://www.instagram.com/reel/DZIFwa2SmY9/",
+        "snippet": "trilhas Um sistema de ensino FTD SIMULADO 2026 ANOS FINAIS COLÉGIO MARIA MONTESSORI ... Maceió, Alagoas, Brasil · up.escola ...",
+        "position": 1
+      },
+      {
+        "title": "Os alunos participaram do simulado do Sistema de Ensino ...",
+        "link": "https://www.instagram.com/p/DY7PtKLDsOU/",
+        "snippet": "trilhas Um sistema de ensino FTD SIMULADO 2026 ANOS FINAIS COLÉGIO MARIA MONTESSORI ... Maceió, Alagoas, Brasil. Photo by Preparatório para ...",
+        "position": 2
+      },
+      {
+        "title": "Alagoas",
+        "link": "https://www.unifal-mg.edu.br/obgeografia/wp-content/uploads/sites/191/2022/09/ALAGOAS.pdf",
+        "snippet": "COLEGIO MARIA MONTESSORI. Maceió. AL PRATA. 22651 Os Geógrafos 3.1. COLEGIO ... COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA Maceió. AL BRONZE. 17778 LYA. COLEGIO ...",
+        "position": 3
+      },
+      {
+        "title": "Parabéns aos ganhadores!  Que presentão para começar o ...",
+        "link": "https://www.instagram.com/reel/DSdT_PXjw07/",
+        "snippet": "... material didático no início do ano letivo. Com ... trilhas Um sistema de ensino FTD SIMULADO 2026 ANOS INICIAIS COLEGIO MARIA MONTESSORI ...",
+        "date": "há 7 meses",
+        "position": 4
+      },
+      {
+        "title": "Francisco Jailson Dantas de Oliveira",
+        "link": "https://www.escavador.com/sobre/8261276/francisco-jailson-dantas-de-oliveira",
+        "snippet": "... Colégio Maria Montessori, em Maceió, AL. Além disso, decidiu embarcar em um ... (Desenvolvimento de material didático ou instrucional - Material Didático - módulo) ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

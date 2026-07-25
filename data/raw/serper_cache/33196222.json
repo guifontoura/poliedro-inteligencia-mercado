@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33196222",
+  "NO_ENTIDADE": "ESCOLA NOVA BY SWISS INTERNATIONAL SCHOOL",
+  "cidade": "Rio de Janeiro",
+  "query": "\"ESCOLA NOVA BY SWISS INTERNATIONAL SCHOOL\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA NOVA BY SWISS INTERNATIONAL SCHOOL\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Manoela Paiva Flores, aluna da unidade Gávea ...",
+        "link": "https://www.instagram.com/p/DTyQXlSESZR/",
+        "snippet": "Escola Nova By Swiss International School – Gávea – Nota 642,87 ... RIO DE JANEIRO, 8º LUGAR NO ESTADO DO RIO DE JANEIRO. Rank Enem 2025 ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Saint John on Instagram: \"Há quem acredite que uma ...",
+        "link": "https://www.instagram.com/reel/DaETFQ-NTul/",
+        "snippet": "Hoje (01), o @colegiosantoinaciorj, do Rio de Janeiro (RJ), completa 123 anos! ... Escola Nova By Swiss International School – Gávea – Nota 642,87",
+        "date": "há 4 semanas",
+        "position": 2
+      },
+      {
+        "title": "O Curso Intensivo do Pré-Vestibular Social Cecierj está com ...",
+        "link": "https://www.instagram.com/reel/DZDvmWVk8lP/",
+        "snippet": "... material didático, e a interação com o corpo de tutores será ... Rio de Janeiro, Rio de Janeiro. Photo by Rodilon Teixeira on June 26 ...",
+        "position": 3
+      },
+      {
+        "title": "Escolas em Rio de Janeiro - RJ - BuscaEscola",
+        "link": "https://buscaescola.com.br/cidades/rio-de-janeiro-rj.html",
+        "snippet": "ESCOLA NOVA BY SWISS INTERNATIONAL SCHOOL. Cód INEP: 33196222 · ESCOLA NOVAES ... JGFLORENCIO SISTEMA DE ENSINO EIRELI - CENTRO EDUCACIONAL SILVA FLORENCIO.",
+        "position": 4
+      },
+      {
+        "title": "Aos 12 anos, cursando o 8º ano do ensino fundamental, ...",
+        "link": "https://www.instagram.com/p/DUnZe93AHdT/",
+        "snippet": "Rio de Janeiro, Rio de Janeiro.",
+        "date": "há 5 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

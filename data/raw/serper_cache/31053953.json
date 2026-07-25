@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31053953",
+  "NO_ENTIDADE": "COLEGIO ESCOLAPIO IBITURUNA",
+  "cidade": "Governador Valadares",
+  "query": "\"COLEGIO ESCOLAPIO IBITURUNA\" \"Governador Valadares\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ESCOLAPIO IBITURUNA\" \"Governador Valadares\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Escolápio Ibituruna (@colegioibituruna)",
+        "link": "https://www.instagram.com/colegioibituruna/",
+        "snippet": "✨ O COLÉGIO N° 1 DO ENEM 2024 EM GOVERNADOR VALADARES É O COLÉGIO ESCOLÁPIO IBITURUNA!",
+        "position": 1
+      },
+      {
+        "title": "Colégio Ibituruna: Homepage",
+        "link": "https://colegioibituruna.com.br/",
+        "snippet": "O Colégio Escolápio Ibituruna se destaca pela sua proposta pedagógica ... Governador Valadares, MG, CEP: 35010-130. Telefone: (33) 3212-5050. Facebook ...",
+        "position": 2
+      },
+      {
+        "title": "No Colégio Escolápio Ibituruna, entendemos que a Educação ...",
+        "link": "https://www.instagram.com/reel/DA1gzvjuEVE/",
+        "snippet": "... Governador Valadares para uma noite especial de reflexão, diálogo e ... Material Didático SAS (Referência no Brasil) 28 aulas semanais ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Especial Mês Calasâncio – História do Colégio Escolápio ...",
+        "link": "https://saomiguelbh.com.br/noticias/especial-mes-calasancio-historia-do-colegio-escolapio-ibituruna/",
+        "snippet": "Material Didático · Educação Infantil · Ensino Fundamental Anos Iniciais ... Colégio Escolápio Ibituruna, em Governador Valadares (MG). Uma ...",
+        "date": "14 de ago. de 2025",
+        "position": 4
+      },
+      {
+        "title": "Colégio Escolápio Ibituruna on Instagram: \" Bem-vindos ao ...",
+        "link": "https://www.instagram.com/reel/C9VrCqihHu0/",
+        "snippet": "COOPED COOPERATIVA EDUCACIONAL FIBONACCI SISTEMA DE ENSINO SISTEMA DE ENSINO ... Piracicaba, 124 - Ilha dos Araújos Governador Valadares ...",
+        "date": "há 2 anos",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

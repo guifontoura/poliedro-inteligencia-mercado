@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "22164219",
+  "NO_ENTIDADE": "ESCOLA POPULAR MADRE MARIA VILLAC",
+  "cidade": "Teresina",
+  "query": "\"ESCOLA POPULAR MADRE MARIA VILLAC\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA POPULAR MADRE MARIA VILLAC\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Instituto Dom Barreto on Instagram: \"Um resultado que enche ...",
+        "link": "https://www.instagram.com/reel/DZ72xPEO_Fp/",
+        "snippet": "... Sistema de Ensino COLÉGIO DO BOSQUE MANANCIAIS Poliedro Sistema de Ensino ... ESCOLA POPULAR MADRE MARIA VILLAC 21º LUGAR DO BRASIL MÉDIA ...",
+        "position": 1
+      },
+      {
+        "title": "O Colégio Propósito (@colegioproposito ) anunciou nessa ...",
+        "link": "https://www.instagram.com/p/DO8aXY5DXbu/",
+        "snippet": "Muito bom receber vcs aqui! July 1. OCR. COLÉGIO D. PEDRO II SISTEMA DE ENSINO POSITIVO ... 3º Teresina Escola Popular Madre Maria Villac 737,22",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "A 11ª Escola inaugurada em Imperatriz é a Frei Manoel ...",
+        "link": "https://www.instagram.com/reel/DZKlEC0OcfN/",
+        "snippet": "MARCOS VILAÇA 91.9 TERESINA FM Leônidas Júnior - vereador de Teresina JORNAL DA TERESINA ... Escola Popular Madre Maria Villac, CEV Jockey ...",
+        "position": 3
+      },
+      {
+        "title": "Ranking do Enem: Melhores escolas do Brasil na redação",
+        "link": "https://blog.imaginie.com.br/ranking-enem-redacao/",
+        "snippet": "Escola Popular Madre Maria Villac | Teresina (PI): 922,4; Colégio ... Sistema de Ensino Equipe Integrado Eireli – EPP | Belém (PA): 906 ...",
+        "date": "26 de jun. de 2026",
+        "position": 4
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Teresina",
+        "link": "https://qedu.org.br/municipio/2211001-teresina/distorcao-idade-serie",
+        "snippet": "EINSTEIN SISTEMA DE ENSINO - UNIDADE I. 10,5%. EM ALICE PIRES DO NASCIMENTO. 2 ... ESCOLA POPULAR MADRE MARIA VILLAC. 6%. ESCOLA SANTA ANGELICA LTDA. 9,5 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

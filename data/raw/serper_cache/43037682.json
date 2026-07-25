@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "43037682",
+  "NO_ENTIDADE": "COLEGIO LA SALLE",
+  "cidade": "Canoas",
+  "query": "\"COLEGIO LA SALLE\" \"Canoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LA SALLE\" \"Canoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "guia da escola 2026 - colégio la salle canoas",
+        "link": "https://lasalle.edu.br/public/uploads/files/1La%20Salle%20Canoas%202023/Site%202026/GUIA%20DA%20ESCOLA%202026%20-%20COL%C3%89GIO%20LA%20SALLE%20CANOAS.pptx.pdf",
+        "snippet": "Colégio São José de Canoas, passa a se chamar Colégio La Salle Canoas. ... apresentar o material didático solicitado, sendo registrado no sistema.",
+        "date": "2 de mar. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Conheça nossas atividades Extraclasses! No Colégio La ...",
+        "link": "https://www.instagram.com/reel/DGQ-kJaRum9/",
+        "snippet": "Os Irmãos chegaram, mas o material didático ... PANDORA COLÉGIO SALESIANO DOM BOSCO PASTORAL Antoniana COLÉGIO LA SALLE CANOAS - RS La Salle ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "✨ No Colégio La Salle Canoas, acreditamos que a ...",
+        "link": "https://www.instagram.com/p/DNyshv_5Oik/",
+        "snippet": "✨ No Colégio La Salle Canoas, acreditamos que a formação integral começa desde cedo! ... CONQUISTA SOLUÇÃO EDUCACIONAL. Nossa parceria com ...",
+        "date": "há 11 meses",
+        "position": 3
+      },
+      {
+        "title": "Aproveite a loja virtual da Editora Positivo para garantir o ...",
+        "link": "https://www.facebook.com/colegiolasalle.canoas/videos/gif-positivo-canoas/1946331072351769/",
+        "snippet": "Aproveite a loja virtual da Editora Positivo para garantir o material didático do seu filho! ... ✨ Representando o Colégio La Salle Canoas, nossos estudantes do ...",
+        "date": "há 3 semanas",
+        "position": 4
+      },
+      {
+        "title": "Material Didático 2025 - Colégio La Salle | PDF",
+        "link": "https://pt.scribd.com/document/818826508/Material-Dida-tico-2025",
+        "snippet": "Material Didático 2025 - Colégio La Salle. O documento detalha a ... Guia Escolar 2025 - Colégio La Salle Canoas. 60 páginas. Materiais para 6º Ano ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

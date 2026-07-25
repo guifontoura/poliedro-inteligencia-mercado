@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "15038513",
+  "NO_ENTIDADE": "COLEGIO SANTA ROSA",
+  "cidade": "Belém",
+  "query": "\"COLEGIO SANTA ROSA\" \"Belém\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA ROSA\" \"Belém\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "COLÉGIO SANTA ROSA - MATERIAL DIDÁTICO",
+        "link": "https://colegiosantarosa-pa.com.br/material-didatico",
+        "snippet": "O Colégio Santa Rosa adota o material didático do Bernoulli Sistema de Ensino aos alunos do Ensino Médio. ... Belém-PA. CEP 66025-230. Fones: (91) 3222-6529 ...",
+        "position": 1
+      },
+      {
+        "title": "O Santa Rosa é um segundo lar e quem vive isso todos os ...",
+        "link": "https://www.instagram.com/reel/DSDkZMtgTZp/",
+        "snippet": "Primeiramente a escolha do colégio Santa Rosa foi uma ... Sistema de Ensino 3 razões que fazem tantas famílias escolherem o Externato.",
+        "date": "há 7 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Santa Rosa (@santarosa.oficial)",
+        "link": "https://www.instagram.com/santarosa.oficial/",
+        "snippet": "Entregamos a nossa Bateria de Carnaval, uma apostila especial de exercícios ... Belém, um evento histórico que vai colocar nossa cidade no centro das ...",
+        "position": 3
+      },
+      {
+        "title": "Está chegando a melhor Bateria de Carnaval, para Estudar e ...",
+        "link": "https://www.facebook.com/colegiosantarosabelem/videos/est%C3%A1-chegando-a-melhor-bateria-de-carnaval-para-estudar-e-brilhar-entregamos-a-n/924739926638085/",
+        "snippet": "... apostila especial de exercícios para que nossos alunos aproveitem o ... O Colégio Santa Rosa vai ao teatro!... Apr 15, 2026 · 871 views.",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "Colegio Santa Rosa - Descontos, Preço das Mensalidades ...",
+        "link": "https://querobolsa.com.br/escolas/139894-colegio-santa-rosa",
+        "snippet": "Onde fica o Colegio Santa Rosa? travessa padre eutiquio, 1549 - reduto, Belém - PA.",
+        "rating": 5,
+        "ratingCount": 2,
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

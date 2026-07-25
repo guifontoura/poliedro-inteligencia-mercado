@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "52096785",
+  "NO_ENTIDADE": "COLEGIO OLIMPO GOIANIA",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO OLIMPO GOIANIA\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO OLIMPO GOIANIA\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Mais uma vez, o Galileu está no topo! O resultado do ...",
+        "link": "https://www.instagram.com/p/DZ-cQmxOkcQ/",
+        "snippet": "Colégio Olimpo (Goiânia) – 713,28 4. Colégio Arena (Goiânia) – 698 ... Bernoulli Sistema de Ensino INEP Cuidado Tradição Inovação 9º ...",
+        "position": 1
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/5208707-goiania/busca",
+        "snippet": "SISTEMA DE ENSINO MILENIO. AVENIDA 24 DE OUTUBRO, 3110 AEROVIARIO. 74435-090 Goiânia - GO. Rede privada / Urbana · SISTEMA DE ENSINO VITORIA ESCOLA OFICINA DE ...",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Colegio Olimpo Goiania - Goiânia - Setor Bueno - Nota: 713.33 ... Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ...",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Essa vitória é sua, mas o Colégio Genoma comemora ...",
+        "link": "https://www.instagram.com/p/DUV9v0gDjX7/",
+        "snippet": "... SISTEMA DE ENSINO INTENSIVO PRESENCIAL INTENSIVO PRESENCIAL . ... Apostila organiza o O estudo. Rotina que gera resultado Fonte: Franquia ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "Blog do Enem: simplificado como deve ser",
+        "link": "http://sandytagregador.blogspot.com/2014/12/blog-do-enem-simplificado-como-deve-ser_26.html",
+        "snippet": "SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL, 466 ... Goiânia é mediano, não apresentando nenhuma escola com mais de 700 ...",
+        "date": "26 de dez. de 2014",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

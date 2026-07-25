@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "32074964",
+  "NO_ENTIDADE": "COLEGIO SALESIANO JARDIM CAMBURI",
+  "cidade": "Vitória",
+  "query": "\"COLEGIO SALESIANO JARDIM CAMBURI\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SALESIANO JARDIM CAMBURI\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Salesiano Jardim Camburi",
+        "link": "https://www.salesianos.br/unidade/colegio-salesiano-jardim-camburi",
+        "snippet": "(27)3395-3000; (27)3395-3033; (27)98115-1431 (WhatsApp). secretariacsjc@salesiano.br ariela.macedo@salesiano.br. Endereço. Colégio Salesiano Jardim Camburi ...",
+        "position": 1
+      },
+      {
+        "title": "Professores do Colégio Salesiano Jardim Camburi ...",
+        "link": "https://rsb.org.br/escolas/noticias/professores-do-colegio-salesiano-jardim-camburi-avaliam-novo-material-didatico-da-edebe",
+        "snippet": "Professores do Colégio Salesiano Jardim Camburi avaliam novo material didático da Edebê ... Vitória/ES, participaram da primeira reunião ...",
+        "date": "18 de fev. de 2025",
+        "position": 2
+      },
+      {
+        "title": "Educação",
+        "link": "https://boletimsalesiano.org.br/materias/educacao/itemlist/tag/Col%C3%A9gio%20Salesiano%20Jardim%20Camburi.html",
+        "snippet": "Com a ajuda de aplicativos, filtros e muita imaginação, professor do Colégio Salesiano Jardim Camburi, em Vitória, ES, cria personagens que interagem durante as ...",
+        "position": 3
+      },
+      {
+        "title": "No sábado, 16 de agosto, o Colégio Salesiano Jardim ...",
+        "link": "https://www.instagram.com/p/DNiIXsotlIo/",
+        "snippet": "... Colégio Salesiano Jardim Camburi iniciou o Projeto Resolução ... Vitória, estão entre as 10 melhores escolas de Vitória! O resultado ...",
+        "date": "há 11 meses",
+        "position": 4
+      },
+      {
+        "title": "Apresentação Salesiano Jardim Camburi",
+        "link": "https://www.salesianos.br/institucional/apresentacao-salesiano-jardim-camburi",
+        "snippet": "... Vitória, no Espírito Santo. ‍. Inaugurado em 20 de fevereiro de 2002, o Colégio Salesiano Jardim Camburi ... Material Didático Exclusivo. A RSB-Escolas tem uma ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

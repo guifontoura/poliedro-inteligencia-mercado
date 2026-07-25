@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35119982",
+  "NO_ENTIDADE": "JARDIM SAO PAULO UNIDADE TREMEMBE COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"JARDIM SAO PAULO UNIDADE TREMEMBE COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"JARDIM SAO PAULO UNIDADE TREMEMBE COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "OBMEP 2019 - Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/2019/verRelatorioPremiadosMencao-SP.3.privada.do.htm",
+        "snippet": "JARDIM SAO PAULO UNIDADE TREMEMBE COLEGIO, P, SÃO PAULO, SP, Sim. FERNANDA LIMA ... COLEGIO KELVIN SISTEMA DE ENSINO CATANDUVA, P, CATANDUVA, SP, Sim. 317, ANDRE ...",
+        "position": 1
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... São Paulo. AGNALDO OLIVEIRA ROSA. 2º ano - Ensino Médio. 13. 11 EEB PROF MAURO ... JARDIM SAO PAULO UNIDADE TREMEMBE COLEGIO. 35119982 SP. São Paulo. Amanda ...",
+        "position": 2
+      },
+      {
+        "title": "Menção Honrosa 9º Ano Fundamental | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/800285159/1729652725671867f5084ac-mencao-honrosa",
+        "snippet": "MARIA LUIZA PINTO GUEDES JARDIM SAO PAULO UNIDADE TREMEMBE COLEGIO SÃO PAULO SÃO PAULO ... MAÍRA KEMIL SISTEMA DE ENSINO EQUIPE PARÁ BELÉM LETHÍCIA DAS ...",
+        "position": 3
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-HORIZONTAL.pdf",
+        "snippet": "... São Paulo. Privada. Urbana. 41. De 31 a. 60 alunos. 41. 100.00. 0. De 60% a 80%. Muito ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos.",
+        "position": 4
+      },
+      {
+        "title": "OBMEP 2019 - Alunos Premiados de Escolas Privadas",
+        "link": "http://premiacao.obmep.org.br/2019/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "JARDIM SAO PAULO UNIDADE TREMEMBE COLEGIO, P, SÃO PAULO, SP, Sim. CAROLINE NAOMI ... ANGLO SISTEMA DE ENSINO, P, TATUI, SP, Sim. MARIA EDUARDA NICLEVICZ DE ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

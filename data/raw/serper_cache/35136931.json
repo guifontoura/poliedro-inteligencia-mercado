@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35136931",
+  "NO_ENTIDADE": "AGOSTINIANO MENDEL COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"AGOSTINIANO MENDEL COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"AGOSTINIANO MENDEL COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "AGOSTINIANO MENDEL COLEGIO, P, SÃO PAULO, SP, Sim. SOFIA CLARA IUNES, STOCCO ... ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Sim. MARIA EDUARDA BATISTA SÁ ...",
+        "position": 1
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO DOS ... LEONARDO DA VINCI COLEGIO DE ENSINO FUNDAMENTAL E MEDIO SÃO PAULO. Jundiaí.",
+        "position": 2
+      },
+      {
+        "title": "Aprovadas - 9º Ano - Fundamental | PDF",
+        "link": "https://www.scribd.com/document/767847965/Aprovadas-9%C2%BA-Ano-Fundamental",
+        "snippet": "Maristela Keika Kimura Hashebe Agostiniano Mendel Colegio São Paulo SP ... Apostila - Teoria Dos Números - 04 PDF. 121 pages. Perfis de Candidatos nas ...",
+        "position": 3
+      },
+      {
+        "title": "2016",
+        "link": "https://enem.cneceduca.com.br/2016?p=2",
+        "snippet": "São Paulo, SP, 459, 667,43, 668,29, 644,95, 756,56, 725,40, 684,31, 692,53. Agostiniano Mendel Colegio ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line ...",
+        "position": 4
+      },
+      {
+        "title": "Ranking de escolas no ENEM na cidade de São Paulo - SP",
+        "link": "https://www.melhorescola.com.br/escola/ranking-enem/sao-paulo/sao-paulo",
+        "snippet": "Material Didático Incluso. Vagas 2026. Vagas 2026. R$ 2.847,94. R$ 1.993,56 /mês ... - agostiniano mendel colegio. Como é montado o ranking do ENEM? O ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

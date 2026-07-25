@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "33066566",
+  "NO_ENTIDADE": "COLEGIO DA COMPANHIA DE SANTA TERESA DE JESUS RJ",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO DA COMPANHIA DE SANTA TERESA DE JESUS RJ\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DA COMPANHIA DE SANTA TERESA DE JESUS RJ\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "COLEGIO DA COMPANHIA DE SANTA TERESA DE JESUS RJ, P, RIO DE JANEIRO, RJ, Bronze. ISABELA ANDRADE CARMONA, ALBERT SABIN COLEGIO, P, SAO PAULO, SP, Bronze.",
+        "position": 1
+      },
+      {
+        "title": "Escola - COLEGIO MILITAR DO RIO DE JANEIRO",
+        "link": "https://culturaeduca.cc/equipamento/escola_detalhe/33124361/",
+        "snippet": "Escola - COLEGIO MILITAR DO RIO DE JANEIRO. Ficha; Entorno; Equipamentos ... SEI - SISTEMA DE ENSINO INTERATIVO R SANTA SOFIA - 98 - TIJUCA - CEP: 20540 ...",
+        "position": 2
+      },
+      {
+        "title": "Rio de Janeiro 4912 escolas",
+        "link": "https://qedu.org.br/municipio/3304557-rio-de-janeiro/busca",
+        "snippet": "... Rio de Janeiro - Rio de Janeiro. Rede privada / Urbana · COLEGIO DA COMPANHIA DE SANTA TERESA DE JESUS RJ. RUA SAO FRANCISCO XAVIER, 11. TIJUCA. 20550010 Rio de ...",
+        "position": 3
+      },
+      {
+        "title": "Escolas em Rio de Janeiro - RJ - BuscaEscola",
+        "link": "https://buscaescola.com.br/cidades/rio-de-janeiro-rj.html",
+        "snippet": "COLEGIO DA COMPANHIA DE SANTA TERESA DE JESUS RJ. Cód INEP: 33066566 · COLEGIO ... JGFLORENCIO SISTEMA DE ENSINO EIRELI - CENTRO EDUCACIONAL SILVA FLORENCIO.",
+        "position": 4
+      },
+      {
+        "title": "Escolas em Rio de Janeiro/RJ — 3000 instituições",
+        "link": "https://www.mensalidadejusta.com.br/escolas/rj/rio-de-janeiro",
+        "snippet": "Escolas em Rio de Janeiro, RJ. 3000 escolas encontradas • 1104 privadas • 1896 ... CHAMPIGNON SISTEMA DE ENSINO LTDA. Privada · CHF - CENTRO EDUCACIONAL E ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

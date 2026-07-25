@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "42080258",
+  "NO_ENTIDADE": "COLEGIO SAO LUIZ",
+  "cidade": "Brusque",
+  "query": "\"COLEGIO SAO LUIZ\" \"Brusque\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAO LUIZ\" \"Brusque\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Histórico",
+        "link": "https://www.saoluiz.edu.br/p/historico",
+        "snippet": "... Brusque, dando início à Escola Técnica de Comércio São Luiz, dedicada à ... O reconhecimento do Colégio São Luiz pelo Ministério da Educação e Cultura ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio e Faculdade São Luiz (@colegioefaculdadesaoluiz)",
+        "link": "https://www.instagram.com/colegioefaculdadesaoluiz/",
+        "snippet": "O ... material didático Bernoulli. Em duplas, cada criança imaginou sua ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio São Luiz lança novo sistema de ensino para 2022",
+        "link": "https://omunicipio.com.br/noticia/colegio-sao-luiz-novo-sistema-de-ensino-para-2022/",
+        "snippet": "Colégio São Luiz lança novo sistema de ensino para 2022. Estudantes terão ... O Bernoulli Sistema de Ensino possui material didático organizado para o ...",
+        "position": 3
+      },
+      {
+        "title": "Ensino Fundamental",
+        "link": "https://www.saoluiz.edu.br/blog/categoria/ensino-fundamental",
+        "snippet": "Vamos brincar de casinha? Projeto “Eu canto e encanto” atividade do jacaré · Colégio São Luiz - Brusque (SC) · Pintura em movimento. Utilizamos cookies para ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio e Faculdade São Luiz on Instagram: \"Estamos com ...",
+        "link": "https://www.instagram.com/reel/DJodPZ1oeCU/",
+        "snippet": "... Sistema de Ensino Aventura no Império do Sol Assessoria pedagógica e formação ... Colégio São Luiz Brusque - SC Pe. Lúcio Tardivo, Bth ...",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "32083882",
+  "NO_ENTIDADE": "ESCOLA MADAN",
+  "cidade": "Vitória",
+  "query": "\"ESCOLA MADAN\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA MADAN\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O Madan",
+        "link": "https://www.madan.com.br/sobre/",
+        "snippet": "Nosso sistema de ensino, pautado em uma proposta pedagógica exclusiva, tem ... Quando finalizou sua graduação, veio morar em Vitória, onde começou a lecionar no ...",
+        "position": 1
+      },
+      {
+        "title": "Pelo segundo ano consecutivo, o MADAN ...",
+        "link": "https://www.instagram.com/p/DZ-3vtjlb2B/",
+        "snippet": "3º - Escola Madan (Vitória) 4º - Escola Crescer (Vitória) ... Sistema de Ensino • DESDE 2005 • 9ª POSIÇÃO entre as 138 escolas que ...",
+        "position": 2
+      },
+      {
+        "title": "Bolsão MADAN: sua chance de estudar de graça numa ...",
+        "link": "https://www.madan.com.br/bolsao-madan-sua-chance-de-estudar-de-graca-numa-escola-verdadeiramente-de-alta-performance-ultimos-dias-nao-perca/",
+        "snippet": "... material didático fica por conta do aluno/responsável. Por que estudar no MADAN? Metodologia própria: nosso sistema de ensino ... Vitória - ES, 29055-290 ...",
+        "position": 3
+      },
+      {
+        "title": "Escola São Domingos on Instagram: \"1º lugar geral no ENEM ...",
+        "link": "https://www.instagram.com/reel/DZ7hz6ZOeQb/",
+        "snippet": "... Vitória EducaçãoDeExcelência MelhorEscola ValoresParaTodaAVida ... Sistema de Ensino • DESDE 2005 • 9ª POSIÇÃO entre as 138 escolas que ...",
+        "position": 4
+      },
+      {
+        "title": "Ensino Médio MADAN: Educação de Alta Qualidade com ...",
+        "link": "https://tribunaonline.com.br/conteudoespecial/ensino-medio-madan-educacao-de-alta-qualidade-com-protagonismo-do-aluno-147803",
+        "snippet": "A parceria com o renomado Poliedro Sistema de Ensino garante ... Ícone tags Tags ENEM ensino médio es Escola MADAN Pré vestibular vitória ...",
+        "date": "21 de ago. de 2023",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

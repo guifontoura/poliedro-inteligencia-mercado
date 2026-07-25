@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "41024397",
+  "NO_ENTIDADE": "PRO C-EM",
+  "cidade": "Maringá",
+  "query": "\"PRO C-EM\" \"Maringá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PRO C-EM\" \"Maringá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Pro on Instagram: \"O professor Alisson chegou para ...",
+        "link": "https://www.instagram.com/reel/DZ-xBSyP7QK/",
+        "snippet": "... Sistema de Ensino COLÉGIO DO BOSQUE MANANCIAIS Poliedro Sistema de Ensino ... Em Maringá, a melhor colocada foi o Pro C-EM, com média geral de 644 ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Regina Mundi on Instagram",
+        "link": "https://www.instagram.com/p/DTlZwJakUL4/",
+        "snippet": "Em Maringá, a melhor colocada foi o Pro C-EM, com média geral de 644 ... ✓ Material didático incluso. A aprovação é a próxima fase ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Marista Maringá on Instagram: \"Quer saber como foi o ...",
+        "link": "https://www.instagram.com/reel/DRR3uoEjWNA/",
+        "snippet": "Em Maringá, a melhor colocada foi o Pro C-EM, com média geral de 644 ... sistema de ensino poliedro e ver como que a nossa equipe ...",
+        "date": "há 8 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Integral Maringá • Ensino Médio & ...",
+        "link": "https://www.instagram.com/p/DZIuim4Gnb_/",
+        "snippet": "... sistema de ensino poliedro e ver como que a nossa equipe ... Em Maringá, a melhor colocada foi o Pro C-EM, com média geral de 644 ...",
+        "position": 4
+      },
+      {
+        "title": "Respondendo à questão do ENEM que está fazendo sucesso ...",
+        "link": "https://www.instagram.com/reel/DRQJ6PLka23/",
+        "snippet": "Em Maringá, a melhor colocada foi o Pro C-EM, com média geral de 644,80 pontos e posição 1.149 no ranking. Na sequência aparecem: Integral ...",
+        "date": "há 8 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

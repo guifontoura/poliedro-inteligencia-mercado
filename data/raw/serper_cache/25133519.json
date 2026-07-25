@@ -1,0 +1,38 @@
+{
+  "codigo_escola": "25133519",
+  "NO_ENTIDADE": "COLEGIO MOTIVA LTDA - MOTIVA CENTRO",
+  "cidade": "Campina Grande",
+  "query": "\"COLEGIO MOTIVA LTDA - MOTIVA CENTRO\" \"Campina Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MOTIVA LTDA - MOTIVA CENTRO\" \"Campina Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Colegio Motiva Ltda - Motiva Centro - Campina Grande - Centro - Nota: 697.00 ... Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92.",
+        "date": "23 de jun. de 2026",
+        "position": 1
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. AL. Maceió ouro. Ana Alexandra ... COLEGIO MOTIVA LTDA - MOTIVA CENTRO. PB. Campina Grande. Certficado IZABELLE ...",
+        "position": 2
+      },
+      {
+        "title": "Medalhistas Quimeninas 2025 - Série 1º Ano",
+        "link": "https://pt.scribd.com/document/942349372/RESULTADO-FINAL-QUIMENINAS-1-ANO",
+        "snippet": "certificado HELOISA BATISTA CASTRO COLEGIO MOTIVA LTDA - MOTIVA CENTRO PB Campina Grande ... certificado GRAZIELA ELEUTÉRIO VICENTE SISTEMA DE ENSINO FOCO ...",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

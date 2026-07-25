@@ -1,0 +1,45 @@
+{
+  "codigo_escola": "33063710",
+  "NO_ENTIDADE": "COLEGIO SANTO ANTONIO MARIA ZACCARIA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO SANTO ANTONIO MARIA ZACCARIA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTO ANTONIO MARIA ZACCARIA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Rio de Janeiro 4912 escolas",
+        "link": "https://qedu.org.br/municipio/3304557-rio-de-janeiro/busca",
+        "snippet": "... SISTEMA DE ENSINO LTDA. RUA MAURICIO DA COSTA FARIA, 762. RECREIO DOS ... COLEGIO SANTO ANTONIO MARIA ZACCARIA. RUA DO CATETE, 113. CATETE. 22220000 Rio ...",
+        "position": 1
+      },
+      {
+        "title": "Andre Silva - Professor na Instituto Nacional de Educação ...",
+        "subtitle": "Rio de Janeiro, Rio de Janeiro, Brasil · Professor · Instituto Nacional de Educação de Surdos",
+        "link": "https://br.linkedin.com/in/andre-silva-a4158260",
+        "snippet": "Rio de Janeiro, Rio de Janeiro. Professor. Colegio Santo Antonio Maria Zaccaria. mar. de 1987 - dez. de 2008 21 anos 10 meses. Rio de Janeiro, Rio de Janeiro ...",
+        "position": 2
+      },
+      {
+        "title": "Escolas em Rio de Janeiro - RJ - BuscaEscola",
+        "link": "https://buscaescola.com.br/cidades/rio-de-janeiro-rj.html",
+        "snippet": "COLEGIO SANTO ANTONIO MARIA ZACCARIA. Cód INEP: 33063710 · COLEGIO SANTO INACIO ... JGFLORENCIO SISTEMA DE ENSINO EIRELI - CENTRO EDUCACIONAL SILVA FLORENCIO.",
+        "position": 3
+      },
+      {
+        "title": "Relatório de Empresas",
+        "link": "https://silo.tips/download/relatorio-de-empresas-4",
+        "snippet": "Presidente Vargas 844 - 8º Andar - Rio de Janeiro - Rio de Janeiro - RJ - CEP: 23860-000 ... SISTEMA DE ENSINO INTEGRADO MATER LTDA. Rua ...",
+        "date": "16 de jun. de 1994",
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

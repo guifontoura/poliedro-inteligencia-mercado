@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31349720",
+  "NO_ENTIDADE": "FIBONACCI COLEGIO",
+  "cidade": "Ipatinga",
+  "query": "\"FIBONACCI COLEGIO\" \"Ipatinga\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"FIBONACCI COLEGIO\" \"Ipatinga\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Fibonacci Educação",
+        "link": "https://www.fibonaccieducacao.com.br/",
+        "snippet": "Material Didático Intensivo 2025 ... Fibonacci Colégio Ltda - CNPJ: 07.543.413/0001-61. Av. Kiyoshi Tsunawaki 218, - Cariru - Ipatinga / MG - CEP: 35160-157.",
+        "position": 1
+      },
+      {
+        "title": "Sobre a empresa",
+        "link": "https://www.fibonaccieducacao.com.br/quem-somos",
+        "snippet": "Utilizamos um material didático próprio, desenvolvido para atender às ... O Sistema de Ensino Fibonacci, em parceria com a SOMOS Educação, é um dos ...",
+        "position": 2
+      },
+      {
+        "title": "Vagas de Emprego na FIBONACCI COLEGIO LTDA",
+        "link": "https://fibonaccieducacao.vagas.solides.com.br/",
+        "snippet": "Com a média de 691,16 pontos, o colégio de Ipatinga foi o 8º melhor de todo o país. FIBONACCI SISTEMA DE ENSINO. A história de sucesso da educação oferecida ...",
+        "position": 3
+      },
+      {
+        "title": "Parabéns a Átila Zanone pelo Prêmio Guimaraes Rosa,na ...",
+        "link": "https://www.instagram.com/p/DBwYGS_tgxU/",
+        "snippet": "... Sistema de Ensino Fibonacci, uma metodologia que nasceu em Ipatinga ... material didático, o Fibonacci Sistema. Com o tema “Tráfico Humano ...",
+        "date": "há 1 ano",
+        "position": 4
+      },
+      {
+        "title": "A empresa Fibonacci - Colégio e Pré-Vestibular está ...",
+        "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-at-fibonacci-col%C3%A9gio-e-pr%C3%A9-vestibular-4010928208",
+        "snippet": "Com a média de 691,16 pontos, o colégio de Ipatinga foi o 8º melhor de todo o país. FIBONACCI SISTEMA DE ENSINO ... material didático próprio, disponível ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

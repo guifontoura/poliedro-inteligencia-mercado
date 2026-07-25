@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "32041411",
+  "NO_ENTIDADE": "CENTRO DE ENSINO CHARLES DARWIN",
+  "cidade": "Vitória",
+  "query": "\"CENTRO DE ENSINO CHARLES DARWIN\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO DE ENSINO CHARLES DARWIN\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Centro de Ensino Charles Darwin",
+        "link": "https://www.darwin.com.br/informa-em-nov2023/",
+        "snippet": "... Sistema de Ensino. LEIA MAIS. INCENTIVO A PRÁTICA DE ESPORTES! O Darwin ... Centro de Ensino Charles Darwin. Todos os direitos reservados. Darwin Vitória.",
+        "position": 1
+      },
+      {
+        "title": "As turmas dos 1ºs anos vivenciaram uma proposta literária ...",
+        "link": "https://www.instagram.com/p/DL0wHZoviV_/",
+        "snippet": "Darwin Porto Alegre Integral BH Monitoria Darwin Bernoulli Sistema de Ensino ... Vitória e Vila Velha se transformaram em verdadeiros laboratórios ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Modelo de Ofício",
+        "link": "https://cee.es.gov.br/Media/cee/2024/CEB/16.2024.ceb.ordinaria.pdf",
+        "snippet": "Revisão da proposta de Resolução para normatizar no âmbito do Sistema de Ensino do ... INTERESSADO: Centro de Ensino Charles Darwin – Vitória. ASSUNTO: ...",
+        "position": 3
+      },
+      {
+        "title": "Informações Matrícula Pré-Vestibular 2025 | PDF",
+        "link": "https://www.scribd.com/document/826342864/2025-Informativo-JP-PV-Plano-11-Carimbo-250103-181323",
+        "snippet": "O Centro de Ensino Charles Darwin está com ... Vitória: Matutino, Vespertino e Noturno. ... O pedido de compra do material didático será efetuado no ato ...",
+        "position": 4
+      },
+      {
+        "title": "RELAÇÃO DE MATERIAL DIDÁTICO 2021 – VITÓRIA 5º ...",
+        "link": "https://www.darwin.com.br/wp-content/uploads/2020/11/Relacao-de-material-5-ano-EF-2021.pdf",
+        "snippet": "CENTRO DE ENSINO CHARLES DARWIN. RELAÇÃO DE MATERIAL DIDÁTICO 2021 – VITÓRIA. 5º ANO – ENSINO FUNDAMENTAL. Senhores Pais,. A sociedade como um todo se preocupa ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

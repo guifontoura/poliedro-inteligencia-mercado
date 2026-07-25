@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "29149860",
+  "NO_ENTIDADE": "COLEGIO DINAMO",
+  "cidade": "Alagoinhas",
+  "query": "\"COLEGIO DINAMO\" \"Alagoinhas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DINAMO\" \"Alagoinhas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Dínamo | No Colégio Dínamo, o amor é parte do ...",
+        "link": "https://www.instagram.com/reel/DIuVxtep8jK/",
+        "snippet": "Atualmente, é Diretora de Experiência do Cliente no Bernoulli Sistema de Ensino ... COLÉGIO DÍNAMO ALAGOINHAS - BAHIA Colégio Dínamo Educação que ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Colégio Dínamo (@colegiodinamo_alagoinhas)",
+        "link": "https://www.instagram.com/colegiodinamo_alagoinhas/",
+        "snippet": "48 Anos Educando Pessoas, Transformando Vidas Do Infantil ao Ensino Médio Programa Bilíngue Edify ♾️ Bernoulli Sistema de Ensino Robótica Bil. Follow.",
+        "position": 2
+      },
+      {
+        "title": "Colégio Dínamo | No Colégio Dínamo, o cuidado vai além da ...",
+        "link": "https://www.instagram.com/reel/DJCO8kRt-QS/",
+        "snippet": "Atualmente, é Diretora de Experiência do Cliente no Bernoulli Sistema de Ensino ... COLÉGIO DÍNAMO ALAGOINHAS - BAHIA Colégio Dínamo Educação que ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Colégio Dínamo | As férias terminaram, e agora demos ...",
+        "link": "https://www.instagram.com/reel/DalILVIgx1e/",
+        "snippet": "Colégio Dínamo Alagoinhas - Bahia SALA DO ENCANTO QUERIDAS CRIANÇAS JUNTOS VOAREMOS ALTO! ... Começamos o dia com atividade na apostila, um ...",
+        "date": "há 2 semanas",
+        "position": 4
+      },
+      {
+        "title": "Colegio Dinamo | Bolsas de Estudo em Alagoinhas - BA",
+        "link": "https://www.melhorescola.com.br/escola/colegio-dinamo",
+        "snippet": "Garanta sua bolsa de estudos em Colegio Dinamo, Alagoinhas - BA. Descontos ... Sistema de ensino. Moderna. O sistema de ensino compreende o conjunto de ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

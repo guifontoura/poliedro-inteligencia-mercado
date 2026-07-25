@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33183031",
+  "NO_ENTIDADE": "ESCOLA SA PEREIRA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"ESCOLA SA PEREIRA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA SA PEREIRA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "As reservas de vagas para 2027 já estão abertas. ✨ ...",
+        "link": "https://www.instagram.com/p/DbBGSjODsJU/",
+        "snippet": "As reservas de vagas para 2027 já estão abertas. ✨ Escolher uma escola é escolher como seu filho vai descobrir o mundo. Na Escola Sá Pereira ...",
+        "date": "há 4 dias",
+        "position": 1
+      },
+      {
+        "title": "Matrículas - Sá Pereira",
+        "link": "https://escolasapereira.com.br/matriculas/",
+        "snippet": "Preencha o formulário, que entraremos em contato com você. Onde estamos: Ensino Fundamental e Médio: Rua da Matriz, 25. Botafogo, Rio de Janeiro - (21) 2538- ...",
+        "position": 2
+      },
+      {
+        "title": "Terceiro Ano - F3M - Escola Sá Pereira",
+        "link": "https://www.yumpu.com/pt/document/view/12824930/terceiro-ano-f3m-escola-sa-pereira",
+        "snippet": "Terceiro Ano - F3M - Escola Sá Pereira. ... Fizemos, em sala, a apostila “Escrevendo uma partitura” e<br />.",
+        "date": "17 de abr. de 2013",
+        "position": 3
+      },
+      {
+        "title": "Permanecer na escola é desenvolver, crescer, conviver e ...",
+        "link": "https://www.instagram.com/reel/DVRnmyoESK4/",
+        "snippet": "... material didático. Um investimento que garante mais oportunidades ... Rio de Janeiro, Rio de Janeiro.",
+        "date": "há 4 meses",
+        "position": 4
+      },
+      {
+        "title": "Search - DSpace Repository",
+        "link": "https://petrus.cp2.g12.br/search?spc.page=1&f.subject=Literatura%20-%20Estudo%20e%20ensino,equals&f.type=Livro%20Digital%20(Produto%20Educacional),equals",
+        "snippet": "A pesquisa foi desenvolvida com alunos do Ensino Fundamental I da Escola Sá Pereira (Rio de Janeiro), no ano de 2018. ... material didático e instrucional, contém ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

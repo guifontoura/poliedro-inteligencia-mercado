@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "26187353",
+  "NO_ENTIDADE": "COLEGIO NUCLEO - BOA VIAGEM",
+  "cidade": "Recife",
+  "query": "\"COLEGIO NUCLEO - BOA VIAGEM\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NUCLEO - BOA VIAGEM\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Souza Leão (Cordeiro) on Instagram: \"Você ...",
+        "link": "https://www.instagram.com/reel/DRug0SNka0Q/",
+        "snippet": "... Recife (Cordeiro) e Olinda ✓ MATRÍCULAS ABERTAS PARA 2026! ⏳ As ... Além disso, o material didático de 2026 estará com desconto ...",
+        "date": "há 7 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Núcleo on Instagram: \"Cecília representará o Brasil ...",
+        "link": "https://www.instagram.com/reel/DVa_XJnAPdE/",
+        "snippet": "Na Eleva Recife, acreditamos que a verdadeira preparação vai muito ... GGE Sistema de Ensino COLÉGIO GGE. colegioetapa's profile picture ...",
+        "date": "há 4 meses",
+        "position": 2
+      },
+      {
+        "title": "Aqui comemoramos as aprovações dos nossos alunos! 🥳 ...",
+        "link": "https://www.instagram.com/p/DQ4U8OhDMDz/",
+        "snippet": "... Colégio Núcleo - Boa Viagem 703,16 7º Colégio GGE - Boa Viagem 691 ... E tudo isso no curso mais acessível de Recife, com uma entrega que ...",
+        "date": "há 8 meses",
+        "position": 3
+      },
+      {
+        "title": "Resultados da 1ª Fase - Nível 3 | PDF",
+        "link": "https://pt.scribd.com/document/758365821/Nivel-3-Resultado-Oficial-docx",
+        "snippet": "Giacomina Magliano de Morais Souto Paraíba (PB) Sistema de Ensino Conviver ... Mateus Macêdo dos Santos Câmara Pernambuco (PE) Colégio Militar do Recife.",
+        "position": 4
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "... Recife - 713,33 - Recife (Pernambuco) - Público - 97%; Colégio Núcleo - Boa Viagem ... Farina Sistema de Ensino - 668,93 - Cuiabá (Mato ...",
+        "date": "23 de jun. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

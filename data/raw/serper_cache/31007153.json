@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31007153",
+  "NO_ENTIDADE": "ESCOLA SEB UNIDADE SERRA",
+  "cidade": "Belo Horizonte",
+  "query": "\"ESCOLA SEB UNIDADE SERRA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA SEB UNIDADE SERRA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "🌟 ESCOLA SEB – UNIDADE SERRA Onde cada estudante ...",
+        "link": "https://www.instagram.com/p/DPRhP-bDYsn/",
+        "snippet": "... Belo Horizonte, 80% dos alunos alcançaram mais de 900 pontos nas ... ✓ Sistema de Ensino Positivo ✓ Sistema Bilíngue Cambridge",
+        "date": "há 9 meses",
+        "position": 1
+      },
+      {
+        "title": "Escolas Particulares em Belo Horizonte",
+        "link": "https://www.blog.schooladvisor.com.br/guia-escolas-belo-horizonte",
+        "snippet": "Conheça algumas escolas em Belo Horizonte, MG · ​​​​ · >> Escola SEB – Unidade Unimaster · ​ · >> Escola SEB - Unimaster Juniors · ​ · >> Escola SEB – Unidade Serra.",
+        "position": 2
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "ESCOLA SEB UNIDADE SERRA. 5,6%. ESCOLA SEB UNIMASTER. 1,5%. ESCOLA SESI BELO HORIZONTE SAO JOAO BATISTA. 0,7%. ESCOLA SESI BH CORACAO EUCARISTICO. 0,7%. ESCOLA ...",
+        "position": 3
+      },
+      {
+        "title": "Patricia Pimenta - Coordenadora Pedagógica | Gestão ...",
+        "link": "https://br.linkedin.com/in/patricia-pimenta-",
+        "snippet": "... Escola Seb unidade Serra · Formação acadêmica: PUC Minas · Localidade: Belo Horizonte ... Sistema de ensino Jardim. jul. de 2023 - dez. de 2024 1 ano 6 meses.",
+        "position": 4
+      },
+      {
+        "title": "Escola SEB - Unidade Serra (@escolasebserra)",
+        "link": "https://www.instagram.com/escolasebserra/",
+        "snippet": "Hoje celebramos na Escola SEB Unidade Serra a conquista dos resultados pedagógicos na 1ª etapa letiva. Os estudantes que se destacaram academicamente e em ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

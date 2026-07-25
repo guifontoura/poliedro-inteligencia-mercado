@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31074101",
+  "NO_ENTIDADE": "COLEGIO ACADEMIA",
+  "cidade": "Juiz de Fora",
+  "query": "\"COLEGIO ACADEMIA\" \"Juiz de Fora\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ACADEMIA\" \"Juiz de Fora\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Veja quais diferenciais do Colégio Academia podem ser ...",
+        "link": "https://redeverbita.com.br/blog/veja-quais-diferenciais-do-colegio-academia-podem-ser-decisivos-para-a-formacao-dos-seus-filhos",
+        "snippet": "Firmado como um dos mais tradicionais colégios de Juiz de Fora, o Colégio Academia ... No Colégio Academia, o sistema de ensino abraça crianças ...",
+        "date": "4 de dez. de 2025",
+        "position": 1
+      },
+      {
+        "title": "Sistema Degraus de Ensino",
+        "link": "https://br.linkedin.com/company/sistema-degraus-de-ensino",
+        "snippet": "Localidades. Principal. Rua Severino Meireles, nº 245 Alto dos Passos. Juiz de Fora, Minas Gerais 36025040, BR ... SEA Sistema de Ensino Avançado. Educação ...",
+        "position": 2
+      },
+      {
+        "title": "O Acervo Musical do Colégio Santa Catarina em Juiz de Fora",
+        "link": "https://revistas.ufg.br/musica/article/download/83875/44919/434773",
+        "snippet": "15 Refere-se aqui ao atual Colégio Academia de Juiz de Fora. https ... cessário o uso de material didático que fosse apropriado ao idio-.",
+        "date": "de LA Carlos · 2026",
+        "position": 3
+      },
+      {
+        "title": "Ludmila Mendes Ferreira",
+        "link": "https://www.escavador.com/sobre/224705256/ludmila-mendes-ferreira",
+        "snippet": "... Juiz de Fora (UFJF). Mestre em Linguística pela Universidade Federal de Juiz ... (Desenvolvimento de material didático ou instrucional - Material ...",
+        "position": 4
+      },
+      {
+        "title": "Relatório de Diagnostico Escolar",
+        "link": "https://relatoriodiagnostico.ensinamais.com.br/",
+        "snippet": "Juiz de Fora, Lauro de Freitas, Macapá, Mairiporã, Manaus, Marialva, Maringá, Mauá ... Zeta Sistema de Ensino de Birigui, Sesi 148 Centro Educacional, Stelio ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35138769",
+  "NO_ENTIDADE": "ASTHER COLEGIO",
+  "cidade": "Campinas",
+  "query": "\"ASTHER COLEGIO\" \"Campinas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ASTHER COLEGIO\" \"Campinas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Universo Asther",
+        "link": "https://colegioasther.com.br/universo-asther/",
+        "snippet": "... Sistema de Ensino foram pensadas de modo que proporcionem para o ... Campinas/SP. Encontre-nos em: Facebook page opens in new windowYouTube page ...",
+        "position": 1
+      },
+      {
+        "title": "o Colégio ASTHER acaba de se tornar um Cambridge ...",
+        "link": "https://www.instagram.com/p/DZr3EApptxz/",
+        "snippet": "asther COLÉGIO Temos orgulho em ser um Cambridge English Educational ... #OficinadoEstudante #Cambridge #Campinas #Colegio #FundamentalII #Ingles ...",
+        "position": 2
+      },
+      {
+        "title": "Escolas em Jardim Paraiso na cidade de Campinas",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/campinas-sp/jardim-paraiso",
+        "snippet": "Logo - asther colegio. Asther Colegio. 3.6(3). Jardim Paraiso - Campinas - SP ... Material Didático Incluso. R$ 1.553,75. R$ 776,88 /mês - 50%. Ver bolsa.",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.1.privada.do.htm",
+        "snippet": "RIO CLARO SISTEMA DE ENSINO, P, RIO CLARO, SP, Sim. ANDRE HENRIQUE ALMEIDA ... OBJETIVO COLEGIO DE CAMPINAS UNIDADE BARAO GERALDO, P, CAMPINAS, SP, Sim. LUARA ...",
+        "position": 4
+      },
+      {
+        "title": "Política de Privacidade e Proteção de Dados Pessoais do ...",
+        "link": "https://colegioasther.com.br/politicaprivacidade/",
+        "snippet": "... sistema de ensino, prestadores de serviço de fotografia, de maneira a ... Campinas/SP. Encontre-nos em: Facebook page opens in new windowYouTube page ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

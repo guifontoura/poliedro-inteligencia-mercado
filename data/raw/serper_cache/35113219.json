@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35113219",
+  "NO_ENTIDADE": "SAO VICENTE DE PAULO COLEGIO",
+  "cidade": "Jundiaí",
+  "query": "\"SAO VICENTE DE PAULO COLEGIO\" \"Jundiaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SAO VICENTE DE PAULO COLEGIO\" \"Jundiaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégios Vicentinos (@colegiosvicentinosoficial)",
+        "link": "https://www.instagram.com/colegiosvicentinosoficial/",
+        "snippet": "Com unidades em Jundiaí e São Paulo, os Colégios Vicentinos fazem parte de ... São Vicente de Paulo, Colégio São Vicente de Paulo Penha, e Colégio J.R. ...",
+        "position": 1
+      },
+      {
+        "title": "Escola Villare on Instagram: \"A Educação Infantil e o ...",
+        "link": "https://www.instagram.com/reel/DWmnZN6D5Ls/",
+        "snippet": "São Vicente de Paulo Colégio. 97 likes. colegiosvicentinosoficial. Atividades Esportivas Integral nas Férias - Colégio São Vicente- Jundiaí.",
+        "date": "há 3 meses",
+        "position": 2
+      },
+      {
+        "title": "RELATORIO DE ATIVIDADES 2022",
+        "link": "https://irmasvicentinas.com.br/arquivos/atividades2022.pdf",
+        "snippet": "Município de Jundiaí através do Termo de Colaboração 06/21 e Termos de ... O Colégio São Vicente de Paulo, Colégio Santo Antônio de Lisboa e ... material didático.",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.1.privada.do.htm",
+        "snippet": "ANGLO SISTEMA DE ENSINO, P, TATUI, SP, ---, Sim. IAN MAZZUCATTO PUCINELI ... SAO VICENTE DE PAULO COLEGIO, P, JUNDIAI, SP, ---, Sim. JULIA YUMI YOSHIDA SATO ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio Cene on Instagram: \"Hora de correr, pensar rápido e ...",
+        "link": "https://www.instagram.com/reel/DbG1_wZPFYh/",
+        "snippet": "São Vicente de Paulo Colégio. 97 likes. colegiosvicentinosoficial. Atividades Esportivas Integral nas Férias - Colégio São Vicente- Jundiaí.",
+        "date": "há 2 dias",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

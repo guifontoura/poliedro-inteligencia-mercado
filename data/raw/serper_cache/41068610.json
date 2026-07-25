@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "41068610",
+  "NO_ENTIDADE": "COLEGIO VICENTINO IMACULADO CORACAO DE MARIA",
+  "cidade": "Toledo",
+  "query": "\"COLEGIO VICENTINO IMACULADO CORACAO DE MARIA\" \"Toledo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO VICENTINO IMACULADO CORACAO DE MARIA\" \"Toledo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Visita do Colégio Vicentino Imaculado Coração de Maria ...",
+        "link": "https://colegiovsjose.com.br/visita-do-colegio-vicentino-imaculado-coracao-de-maria-incomar",
+        "snippet": "Os estudantes do 4º ano do Colégio Vicentino Imaculado Coração de Maria (Incomar), da cidade de Toledo-PR, fizeram uma visita muito especial em nossa ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas em Centro - Toledo - MG",
+        "link": "https://www.melhorescola.com.br/busca/minas-gerais/toledo/centro",
+        "snippet": "em simao de toledo ... Logo - colegio vicentino imaculado coracao de maria. Colegio Vicentino Imaculado Coracao De Maria ... Material Didático Incluso. Infantil em ...",
+        "position": 2
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "TOLEDO C COMUNITARIO EI EF M. PR. 2439. INSTITUTO EDUCACIONAL DE CATANDUVA IEC ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL. PB. 7312 ...",
+        "position": 3
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE. PA. Belém. Privada. Urbana. 306. Maior que. 90 alunos. 303 ... Toledo. Privada. Urbana. 38. De 31 a. 60 alunos. 37. 97.37. 0. De 60% a ...",
+        "position": 4
+      },
+      {
+        "title": "UNIDADE DA FEDERAÇÃO MUNICÍPIO ESCOLA ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_1_MUNICIPIOS.pdf",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE. PRIVADA. 174. 173. 587,85. 655,31. 637,97. 597,23 ... TOLEDO. LA SALLE C ED INF ENS FUND MEDIO. PRIVADA. 17. 17. 593,66.",
+        "date": "11 de set. de 2011",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

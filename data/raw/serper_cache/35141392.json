@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "35141392",
+  "NO_ENTIDADE": "DRUMMOND COLEGIO",
+  "cidade": "Ourinhos",
+  "query": "\"DRUMMOND COLEGIO\" \"Ourinhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"DRUMMOND COLEGIO\" \"Ourinhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "No Colégio Drummond Ourinhos, há 36 anos ...",
+        "link": "https://www.instagram.com/p/DF7ocTiIDu1/",
+        "snippet": "No Colégio Drummond Ourinhos, há 36 anos, transformamos a educação com excelência e inovação. Utilizando o renomado Sistema de Ensino ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Aula de Aprofundamento em Matemática – 4º e 5º anos. Na ...",
+        "link": "https://www.instagram.com/reel/DLAvJdKOMCw/",
+        "snippet": "ORGULHO DRUMMOND COLÉGIO DRUMMOND ODONTOLOGIA USP - Murilo Tavares ... OURINHOS (14) 3302-5844 SANTA CRUZ DO RIO PARDO (14) 3332-4848 ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Vem aí o Concurso de Bolsas do Colégio Drummond! Essa é ...",
+        "link": "https://www.instagram.com/reel/DOLt1OEDQDj/",
+        "snippet": "... Ourinhos. Isso é fruto de muito trabalho, dedicação e compromisso ... SISTEMA DE ENSINO anglo AQUI VOCÊ PODE SONHAR PORQUE NÓS CONHECEMOS O ...",
+        "date": "há 10 meses",
+        "position": 3
+      },
+      {
+        "title": "Da Educação Infantil ao Ensino Médio, o Drummond ...",
+        "link": "https://www.instagram.com/p/DSXLNKaDGiT/",
+        "snippet": "#ColégioDrummond #Ourinhos #Férias #Educação · July 8. OCR. O Colégio Drummond não é o mesmo sem... DRUMMOND POLIEDRO SISTEMA DE ENSINO ...",
+        "date": "há 7 meses",
+        "position": 4
+      },
+      {
+        "title": "JOSANA MOURA ASSUME A DIREÇÃO DA...",
+        "link": "https://www.ourinhos.sp.gov.br/portal/noticias/0/3/994/josana-moura-assume-a-direcao-da-biblioteca-tristao-de-athayde",
+        "snippet": "... Ourinhos, e em Ensino a Distância pela UNESP de Presidente Prudente. Em sua longa carreira na área da Educação, Josana foi professora de Língua Portuguesa ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

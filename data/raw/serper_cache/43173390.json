@@ -1,0 +1,25 @@
+{
+  "codigo_escola": "43173390",
+  "NO_ENTIDADE": "COLEGIO SANTA MONICA ALTOS DO LARANJAL",
+  "cidade": "Pelotas",
+  "query": "\"COLEGIO SANTA MONICA ALTOS DO LARANJAL\" \"Pelotas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA MONICA ALTOS DO LARANJAL\" \"Pelotas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "TABELA-PARA-O-PROFESSOR-LOCALIZAR-A-TURMA- ...",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/TABELA-PARA-O-PROFESSOR-LOCALIZAR-A-TURMA-DA-QUAL-DEVE-IMPRIMIR-A-CARTA-CONVITE.pdf",
+        "snippet": "... Pelotas. COLEGIO SANTA MONICA ALTOS DO LARANJAL. 43173390. 99467. Turma. 3. RS ... Sistema de Ensino. 35103160. 91487. Turma. 14. SP. Pompéia. Absoluto Sistema de ...",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

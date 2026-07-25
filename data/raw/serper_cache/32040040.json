@@ -1,0 +1,40 @@
+{
+  "codigo_escola": "32040040",
+  "NO_ENTIDADE": "COLEGIO PRIMEIRO MUNDO",
+  "cidade": "Vitória",
+  "query": "\"COLEGIO PRIMEIRO MUNDO\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PRIMEIRO MUNDO\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "🧦 A diversidade sendo celebrada desde cedo! Inspirados ...",
+        "link": "https://www.instagram.com/p/DWOzBSgllAx/?img_index=2",
+        "snippet": "... Vitória SISTEMA DE ENSINO anglo. colegioarcac3's profile picture ... Colégio PRIMEIRO MUNDO. A escola promove a inclusão eh quando ela ...",
+        "date": "há 4 meses",
+        "position": 1
+      },
+      {
+        "title": "Ismart publica lista de classificados para a prova ...",
+        "link": "https://www.ismart.org.br/2016/07/21/ismart-publica-lista-de-classificados-para-a-prova-presencial-do-processo-seletivo-2016/",
+        "snippet": "LARISSA VITÓRIA CARDOSO MATOS DA SILVA (EVANDRO CAVALCANTI LINS E SILVA) ... CAUÃ DE ARAUJO FERREIRA (SISTEMA DE ENSINO ELITE) CAUÃ DOS ...",
+        "date": "21 de jul. de 2016",
+        "position": 2
+      },
+      {
+        "title": "BOLETIM",
+        "link": "https://www.ba.gov.br/juceb/sites/site-juceb/files/migracao_2024/arquivos/wp-content/uploads/2019/01/bol_1217.pdf",
+        "snippet": "17/3646700 COLEGIO PRIMEIRO MUNDO EIRELI ME. 17/0362523 COMERCIAL DE ... 17/0443965 SISTEMA DE ENSINO RODRIGUES EIRELI ME. 17/3635652 SITECH SOLUCOES ...",
+        "date": "de ADDORP DE",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

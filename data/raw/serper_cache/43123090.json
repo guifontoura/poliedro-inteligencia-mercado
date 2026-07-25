@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "43123090",
+  "NO_ENTIDADE": "COLEGIO CORACAO DE MARIA",
+  "cidade": "Santa Maria",
+  "query": "\"COLEGIO CORACAO DE MARIA\" \"Santa Maria\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO CORACAO DE MARIA\" \"Santa Maria\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Não perca tempo! ⏰ Venha fazer parte de uma educação ...",
+        "link": "https://www.instagram.com/p/DURM7C8Ce1B/",
+        "snippet": "No Colégio Coração de Maria, educar é formar ... SANTA MARIA ENSINO FUNDAMENTAL - ENSINO MÉDIO TIMBAÚBA-PE GINÁSIO DE ESPORTES SANTA MARIA ...",
+        "date": "há 5 meses",
+        "position": 1
+      },
+      {
+        "title": "Material Didático - Colégio Puríssimo Coração de Maria",
+        "link": "https://redeicm.org.br/purissimo/material-didatico/",
+        "snippet": "Sistema de Ensino Poliedro · Avaliações · Aprovados · Fale com o Coordenador ... Colégio Coração de Maria – Santa Maria – RS · Colégio Stella Maris – Viamão ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio Santa Maria on Instagram: \" O que o Colégio Santa ...",
+        "link": "https://www.instagram.com/reel/DFnP4hfq3Qc/",
+        "snippet": "Com o Sistema de Ensino Polígono e uma proposta pedagógica que ... Colégio Coração de Maria, rede ICM. Matrículas abertas acesse ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Imaculada Campinas on Instagram: \"Nos Anos Iniciais do ...",
+        "link": "https://www.instagram.com/reel/DPmH1oBjlHm/",
+        "snippet": "... sistema de ensino, programa bilíngue, certificação Cambridge ... No Colégio Coração de Maria, cada estudante vive experiências que ...",
+        "date": "há 9 meses",
+        "position": 4
+      },
+      {
+        "title": "Em consonância com a missão e os valores do Colégio ...",
+        "link": "https://www.instagram.com/reel/DZadVlgESRA/",
+        "snippet": "... Santa Maria como evolução eu defino o Colégio Santa Maria como crescimento ... Colégio Coração de Maria, rede ICM. Matrículas abertas ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

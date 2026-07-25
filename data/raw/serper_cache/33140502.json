@@ -1,0 +1,18 @@
+{
+  "codigo_escola": "33140502",
+  "NO_ENTIDADE": "COLEGIO ATUACAO BILINGUE",
+  "cidade": "Niterói",
+  "query": "\"COLEGIO ATUACAO BILINGUE\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ATUACAO BILINGUE\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [],
+    "credits": 1
+  }
+}

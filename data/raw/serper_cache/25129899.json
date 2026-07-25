@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "25129899",
+  "NO_ENTIDADE": "ISO COLEGIO E CURSOS",
+  "cidade": "João Pessoa",
+  "query": "\"ISO COLEGIO E CURSOS\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ISO COLEGIO E CURSOS\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ISO Colégio e Cursos (@isocolegioecursos)",
+        "link": "https://www.instagram.com/isocolegioecursos/",
+        "snippet": "Estudar para o ENEM não significa passar as férias com a apostila aberta o dia inteiro.",
+        "position": 1
+      },
+      {
+        "title": "ISO Colégio e Cursos | João Pessoa PB",
+        "link": "https://www.facebook.com/ISOcolegioecursos/?locale=pt_BR",
+        "snippet": "ISO Colégio e Cursos, João Pessoa. 6033 likes · 6 talking about this · 959 ... Estudar para o ENEM não significa passar as férias com a apostila aberta o dia ...",
+        "rating": 4.7,
+        "ratingCount": 61,
+        "position": 2
+      },
+      {
+        "title": "Academic Experience",
+        "link": "https://www.isocolegioecursos.com.br/segmentos/academic-experience/",
+        "snippet": "João Pessoa · Campina Grande · Academic Experience; English Plus. Campina ... Material Didático – National Geographic Learning. Pathways é o nosso material ...",
+        "position": 3
+      },
+      {
+        "title": "ISO Colégio e Cursos on Instagram: \"A educação é construída ...",
+        "link": "https://www.instagram.com/reel/DI_ZZVtOi1A/",
+        "snippet": "CAMPINA GRANDE 30 DE JULHO JOÃO PESSOA 03 DE AGOSTO ISO Colégio e Cursos ... apostila aberta o dia inteiro. Significa aproveitar esse tempo ...",
+        "date": "há 1 ano",
+        "position": 4
+      },
+      {
+        "title": "ISO conta como se tornou o colégio que mais aprova na Paraíba",
+        "link": "https://sistemaggedeensino.medium.com/entrevista-iso-conta-como-se-tornou-o-col%C3%A9gio-que-mais-aprova-na-para%C3%ADba-c83ec8c243a2",
+        "snippet": "E foi o que aconteceu com a união entre o ISO Colégio e Cursos, da Paraíba … ... João Pessoa. “As melhores isoladas em um só lugar” foi o ...",
+        "date": "há 5 anos",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "15577740",
+  "NO_ENTIDADE": "E E F M ALVORADA",
+  "cidade": "Marabá",
+  "query": "\"E E F M ALVORADA\" \"Marabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"E E F M ALVORADA\" \"Marabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 17ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/17obmep/verRelatorioPremiadosMencao-PA.3.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO EQUIPE ANANINDEUA, P, ANANINDEUA, PA, Sim. RODRIGO AKIRA ... E E F M ALVORADA, P, MARABÁ, PA, Sim. 9, LUCAS ASSUNÇÃO CANTO, CENTRO DE ENSINO ...",
+        "position": 1
+      },
+      {
+        "title": "Estamos crescendo! O Einstein Preparatório e a Escola ...",
+        "link": "https://www.instagram.com/reel/DT0ypvTj05R/",
+        "snippet": "E.E.F.M. ALVORADA AS DUAS MELHORES ESCOLAS PÚBLICAS DE MARABÁ: Escola Estadual Prof. ... A apostila e o fardamento são totalmente gratuitos.",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Tenente Rego Barros atinge melhor média do PA no Enem",
+        "link": "https://www.terra.com.br/noticias/educacao/tenente-rego-barros-atinge-melhor-media-do-pa-no-enem,be6837dabd9ea310VgnCLD200000bbcceb0aRCRD.html",
+        "snippet": "... Sistema de Ensino Equipe (Particular). Belém (PA). Média: 62,28. 9 - EEFM Alvorada (Particular). Marabá (PA). Média: 61,96. Publicidade. 10 ...",
+        "date": "29 de abr. de 2009",
+        "position": 3
+      },
+      {
+        "title": "Prof. Me. Cristiano Gomes - Escolhido Secretário de ...",
+        "link": "https://www.instagram.com/p/DC6yDMrO8Rk/",
+        "snippet": "E.E.F.M. ALVORADA AS DUAS MELHORES ESCOLAS PÚBLICAS DE MARABÁ: Escola Estadual Prof. ... material didático, divulgação científica ...",
+        "date": "há 1 ano",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/17obmep/verRelatorioPremiadosMencao-PA.1.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO LOGOS LTDA, P, ANANINDEUA, PA, Sim. 5, FILIPE COSTA BORGES ... E E F M ALVORADA, P, MARABÁ, PA, Sim. PEDRO PAULO NEVES DA FONSECA, COLEGIO DOM ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

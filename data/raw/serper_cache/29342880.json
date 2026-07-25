@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "29342880",
+  "NO_ENTIDADE": "COLEGIO HELYOS",
+  "cidade": "Feira de Santana",
+  "query": "\"COLEGIO HELYOS\" \"Feira de Santana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO HELYOS\" \"Feira de Santana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Grupo 4 desbravando o Helyos, episódio da vez: a famosa ...",
+        "link": "https://www.instagram.com/reel/DWZtEUakeSt/",
+        "snippet": "... likes, 37 comments - colegio.helyos on March 27, 2026 ... Além disso, o material didático de 2026 estará com desconto especial ...",
+        "date": "há 3 meses",
+        "position": 1
+      },
+      {
+        "title": "Escolas do Nordeste se destacam entre as melhores do ...",
+        "link": "https://al1.com.br/noticias/noticias/201012-escolas-do-nordeste-se-destacam-entre-as-melhores-do-pais-no-enem-2025",
+        "snippet": "... Sistema de Ensino também conquistaram posições de destaque no ranking nacional. O Colégio Helyos, de Feira de Santana (BA), o Colégio ...",
+        "date": "há 2 dias",
+        "position": 2
+      },
+      {
+        "title": "Os resultados individuais do Exame Nacional de Ensino ...",
+        "link": "https://www.instagram.com/p/DZ8d_fYFRH_/",
+        "snippet": "2 - Colegio Helyos – Feira de Santana – Santa Mônica – Nota: 715,78 ... É o reflexo da união entre um sistema de ensino de excelência, uma ...",
+        "position": 3
+      },
+      {
+        "title": "Gesília Paiva Lopes",
+        "link": "https://www.escavador.com/sobre/3966406/gesilia-paiva-lopes",
+        "snippet": "Possui Ensino Fundamental e Médio pelo Colégio Helyos - Feira de Santana/BA -, concluídos em 2005. ... (Desenvolvimento de material didático ou instrucional - ...",
+        "position": 4
+      },
+      {
+        "title": "Poliedro Sistema de Ensino on Instagram: \"Como trazer a ...",
+        "link": "https://www.instagram.com/reel/DMYkC39xfph/",
+        "snippet": "... Feira de Santana e a 2ª melhor escola do estado da Bahia. ... Enem 2k26 1º lugar no estado do Paraná é Poliedro Sistema de Ensino COLÉGIO DO ...",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

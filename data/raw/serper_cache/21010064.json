@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "21010064",
+  "NO_ENTIDADE": "UPAON EDUCACIONAL LTDA",
+  "cidade": "São Luís",
+  "query": "\"UPAON EDUCACIONAL LTDA\" \"São Luís\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"UPAON EDUCACIONAL LTDA\" \"São Luís\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Págs. - Upaon-açu",
+        "link": "https://upaon.com.br/wp-content/uploads/2023/10/Novo-Regimento-Escolar-22-out-2020.pdf",
+        "snippet": "Ao longo de toda sua história como instituição de ensino regular, da rede privada de São Luís, a Escola Upaon-Açu primou pela excelência da educação, ... Upaon ...",
+        "position": 1
+      },
+      {
+        "title": "AÇÃO CIVIL PÚBLICA • Estabelecimentos de Ensino ...",
+        "link": "https://www.jusbrasil.com.br/jurisprudencia/tj-ma/1357823304/inteiro-teor-1357823307",
+        "snippet": "... São Luis do Tribunal de Justiça do Maranhão. Pesquise e consulte ... UPAON EDUCACIONAL LTDA (REU) VALERIA LAUANDE CARVALHO COSTA ...",
+        "date": "24 de jan. de 2022",
+        "position": 2
+      },
+      {
+        "title": "O Colégio Militar apareceu entre as MELHORES escolas de ...",
+        "link": "https://www.instagram.com/reel/DMOSNVlK3IC/",
+        "snippet": "... (São Luis) Posição Nome LC CH 1 CN RF ENSINO MEDIO LTDA 9.7 6C 2 ... UPAON EDUCACIONAL LTDA A 566.1 588.9 55 COLEGIO 5 MILITAR ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Grupo Salta Educação S.A. - Mziq",
+        "link": "https://api.mziq.com/mzfilemanager/v2/d/f30c49d6-208a-433b-b8aa-4df95a1fab30/1c0171bf-2a48-324e-2920-c75f8e032835?origin=2",
+        "snippet": "A Upaon Educacional Ltda. fica localizada em São Luís/MA. com uma ... Sistema de ensino' (Origem do passivo diferido). Assim, o passivo ...",
+        "date": "31 de dez. de 2024",
+        "position": 4
+      },
+      {
+        "title": "Colégio Vimasa S.A.",
+        "link": "https://arquivos-vx-informa.vortx.com.br/3407aab8-626e-42e0-afb3-4412ac3cb036/COLEGIO+VIMASA+SA+-+DF+2024.pdf?Expires=1809079189&Signature=kWNYHZnp~wGRx-Vku4QHZSbfWyrXWvigY-c2k-hKSlcYzNOl6~rKSMzeuyWA2OaIYETPRpbUPakcXOjqVcfHSW1ZhClOrI9T8sIeMzo6AseEQgCbMC~ho7XeIA71MQUid2P~SzdAF0Zh0Idu~nnjKMHRRDh9~2LYNOEUnpN4v3gIB7y2cAayuNcg6bFjvr4kMdzO4HPRbrgPukhKEetlACJM2-FFrbDZc2c9tK2XU6GsLIjCtfj3aXi8GWP4KhOhsxHpVIR8Xdts3Ioy7x9aPQqaFFIcWxKdnQbWODc1O2mbuKEcMgnSwfhTpuixUztVYXqiqPnSPHOL3V0wWVkVVw__&Key-Pair-Id=K2WX7VOC6R3NL0",
+        "snippet": "A Companhia adquiriu 100% das ações da Upaon Educacional Ltda. em 01 de outubro de 2024. A Upaon Educacional Ltda. fica localizada em São Luís/ ...",
+        "date": "31 de dez. de 2024",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

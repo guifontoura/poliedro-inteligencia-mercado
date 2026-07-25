@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "28031563",
+  "NO_ENTIDADE": "COLEGIO MAGNUS",
+  "cidade": "Itabaiana",
+  "query": "\"COLEGIO MAGNUS\" \"Itabaiana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MAGNUS\" \"Itabaiana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Magnus on Instagram: \" Intensivão de Natureza e ...",
+        "link": "https://www.instagram.com/reel/DV6K_SFxN3b/",
+        "snippet": "Rayan Química Colégio Magnus ITABAIANA - SE ENSINO MÉDIO ... Por isso, vale observar sistema de ensino, acompanhamento, direção pedagógica ...",
+        "date": "há 4 meses",
+        "position": 1
+      },
+      {
+        "title": "Ser Magnus vai muito além de estudar",
+        "link": "https://www.instagram.com/reel/DN3BonJWsAH/",
+        "snippet": "... itabaiana #sergipe # ... Colégio Magnus? O que eu acho de mais importante aqui no Magnus é o incentivar, o ...",
+        "date": "há 11 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Magnus on Instagram: \" Chegou a sua chance de ...",
+        "link": "https://www.instagram.com/reel/DQNM8wQj18h/",
+        "snippet": "... SISTEMA DE ENSINO anglo LEÃO DE OURO 2019-2020-2021-2022-2023-2024-2025 ... COLÉGIO MAGNUS ITABAIANA-SE VOLTA ÀS AULAS DO MAGNUS Que a ...",
+        "date": "há 9 meses",
+        "position": 3
+      },
+      {
+        "title": "Nem sempre as coisas saem como planejado… Magnus ...",
+        "link": "https://www.instagram.com/reel/DWCbOD7AeuH/",
+        "snippet": "COLÉGIO MAGNUS ITABAIANA - SE SABEDORIA, VALORES, CONHECIMENTO ... ANASTÁCIO SISTEMA DE ENSINO anglo TAMBÉM SOMOS 1º LUGAR NA REDAÇÃO ...",
+        "date": "há 4 meses",
+        "position": 4
+      },
+      {
+        "title": "É motivo de orgulho! Alunos do Colégio Magnus comemoram ...",
+        "link": "https://www.instagram.com/reel/DUJsLokiL1c/",
+        "snippet": "COLÉGIO MAGNUS ITABAIANA - SE SABEDORIA, VALORES, CONHECIMENTO ... ANASTÁCIO SISTEMA DE ENSINO anglo TAMBÉM SOMOS 1º LUGAR NA REDAÇÃO ...",
+        "date": "há 5 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

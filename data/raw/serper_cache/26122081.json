@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "26122081",
+  "NO_ENTIDADE": "COLEGIO DAS DAMAS DA INSTRUCAO CRISTA",
+  "cidade": "Recife",
+  "query": "\"COLEGIO DAS DAMAS DA INSTRUCAO CRISTA\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DAS DAMAS DA INSTRUCAO CRISTA\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O Colégio Pontual se orgulha imensamente de ver os ...",
+        "link": "https://www.instagram.com/p/DTlc9wJkQUM/",
+        "snippet": "... Sistema de Ensino 73. 3215 0055 www.colegioieprol.com.br ... Recife, Colegio de Aplicacao do CE da UFPE, Colegio GGE, Colegio Saber ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-PE.3.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões · Apostilas do PIC ... COLEGIO DAS DAMAS DA INSTRUCAO CRISTA, P, RECIFE, PE, Sim. BIANCA DUARTE SANTOSA ...",
+        "position": 2
+      },
+      {
+        "title": "Revista História da Educação",
+        "link": "https://dialnet.unirioja.es/descarga/articulo/9688535.pdf",
+        "snippet": "de KZ Braghini · 2023 · Citado por 1 — Colégio das Damas da Instrução Cristã. Recife, PE. 5. Liceu Nóbrega de Artes e ... material didático desde o final do século XIX; 2) O museu que ao longo ...",
+        "position": 3
+      },
+      {
+        "title": "Materiais de estudo de Escola Pedro Celso - Recife - PE",
+        "link": "https://www.studocu.com/pt-br/high-school/escola-pedro-celso/468175",
+        "snippet": "Escola Do Recife - Fcap Upe · Colegio Das Damas Da Instrucao Crista · Escola De Referencia Em Ensino Medio Professora Irene Maria Ramos Coelho · Escola Estadual ...",
+        "position": 4
+      },
+      {
+        "title": "Medalhistas 9º Ano Ensino Fundamental | PDF | Brasil",
+        "link": "https://pt.scribd.com/document/803012133/17317021156737ad63c93b6-resultado-opeq-em1-9-ano-241115-204110",
+        "snippet": "DAVI BOCKHOLT FERREIRA 9° ano COLEGIO DAS DAMAS DA INSTRUCAO CRISTA Recife ... Apostila Ceia Natalina. 35 páginas. Calendário Acadêmico 2026 - IFPB Santa ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

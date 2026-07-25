@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "13031767",
+  "NO_ENTIDADE": "FUNDACAO MATIAS MACHLINE",
+  "cidade": "Manaus",
+  "query": "\"FUNDACAO MATIAS MACHLINE\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"FUNDACAO MATIAS MACHLINE\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Fundação Matias Machline implanta sistema de aulas ...",
+        "link": "https://www.fundacaomatiasmachline.org.br/fundacao-matias-machline-implanta-sistema-de-aulas-virtuais-para-garantir-calendario-academico/",
+        "snippet": "... material didático, atendimento ... Feira de Tecnologia e Inovação da Fundação Matias Machline ocorre nos dias 27 e 28 de junho em Manaus ...",
+        "date": "27 de mar. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Fundação Matias Machline (@FMatiasMachline) - Mentions",
+        "link": "https://www.facebook.com/FMatiasMachline/mentions/",
+        "snippet": "Fundação Matias Machline, Manaus ... O programa foi desenvolvido pelo ICBEU Manaus, com metodologia, material didático e equipe de profissionais altamente ...",
+        "position": 2
+      },
+      {
+        "title": "Convênio com a Fundação Matias Machline garante ...",
+        "link": "https://tveradioencontrodasaguas.com.br/convenio-com-a-fundacao-matias-machline-garante-formacao-tecnica-a-estudantes-da-rede-publica-no-amazonas/",
+        "snippet": "Convênio com a Fundação Matias Machline garante formação técnica a estudantes da rede pública no Amazonas ... Material Didático. On Demand.",
+        "date": "30 de jan. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Fundação Matias Machline abre 368 vagas gratuitas para ...",
+        "link": "https://portalamazonia.com/educacao/fundacao-matias-machline-abre-368-vagas-gratuitas-para-ensino-medio-tecnico/",
+        "snippet": "... Manaus. Para participar do Processo Seletivo, o candidato deve estar ... material didático e uniforme. Todo esse ensino de Excelência e ...",
+        "date": "28 de set. de 2020",
+        "position": 4
+      },
+      {
+        "title": "Fundação Matias Machline garante excelência no ensino ...",
+        "link": "https://www.icbeu.com/2022/03/11/fundacao-matias-machline-garante-excelencia-no-ensino-de-ingles-aos-seus-alunos-com-programa-do-icbeu-manaus/",
+        "snippet": "A Fundação Matias Machline ... O programa foi desenvolvido pelo ICBEU Manaus, com metodologia, material didático e equipe de profissionais",
+        "date": "11 de mar. de 2022",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

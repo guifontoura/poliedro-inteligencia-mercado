@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33064393",
+  "NO_ENTIDADE": "INSTITUTO NOSSA SENHORA DA PIEDADE",
+  "cidade": "Rio de Janeiro",
+  "query": "\"INSTITUTO NOSSA SENHORA DA PIEDADE\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INSTITUTO NOSSA SENHORA DA PIEDADE\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "INSP Unidade Flamengo",
+        "link": "https://insp1.com.br/",
+        "snippet": "Instituto Nossa Senhora da Piedade 1 – RJ · Colégio São José e São Geraldo ... Flamengo – Rio de Janeiro – RJ CEP: 22230-040. (21) 2552-3348 / (21) 2552 ...",
+        "position": 1
+      },
+      {
+        "title": "Instituto N. Sra. da Piedade | A primeira escola de um filho é ...",
+        "link": "https://www.instagram.com/reel/DWZGTY9DsSs/",
+        "snippet": "INSP - Instituto Nossa Senhora da Piedade AMO ESSE COLÉGIO!!! ... Rio de Janeiro, Rio de Janeiro. Photo by Jornal Rio São Gonçalo ...",
+        "date": "há 3 meses",
+        "position": 2
+      },
+      {
+        "title": "INSP Jacarepaguá | Educação que vai além dos ...",
+        "link": "https://insp2.com.br/",
+        "snippet": "Trabalhe conosco! O Instituto Nossa Senhora da Piedade abre inscrições ...",
+        "position": 3
+      },
+      {
+        "title": "INSPCast - Como funciona o PLINSP?🎙 Em breve, ...",
+        "link": "https://www.instagram.com/reel/C95FVZYPXzl/?hl=fr",
+        "snippet": "... apostila. Pelo menos de quinze em quinze dias tem uma leitura a ser ... INSP Instituto Nossa Senhora da Piedade Flamengo Rio de Janeiro ...",
+        "date": "há 1 ano",
+        "position": 4
+      },
+      {
+        "title": "Instituto N. Sra. da Piedade | 🏆✨ É com imenso orgulho que ...",
+        "link": "https://www.instagram.com/reel/DaBWQGmzvR6/",
+        "snippet": "... Rio de Janeiro. Mais do que excelentes posições nos rankings ... INSP Instituto Nossa Senhora da Piedade Entre as 10 melhores escolas particulares ...",
+        "date": "há 4 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

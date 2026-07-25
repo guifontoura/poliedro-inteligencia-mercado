@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31184349",
+  "NO_ENTIDADE": "COLEGIO LOSANGO DE UBA",
+  "cidade": "Ubá",
+  "query": "\"COLEGIO LOSANGO DE UBA\" \"Ubá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LOSANGO DE UBA\" \"Ubá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colegio Losango De Uba | Bolsas de Estudo em Ubá - MG",
+        "link": "https://www.melhorescola.com.br/escola/colegio-losango-de-uba",
+        "snippet": "Garanta sua bolsa de estudos em Colegio Losango De Uba, Ubá - MG. Descontos ... Banda larga; Internet. Sistema de ensino. Bernoulli. O sistema de ensino ...",
+        "position": 1
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "COLEGIO LOSANGO DE UBA 71 Ubá MG MIGUEL DE CERVANTES COLEGIO 60 São Paulo SP ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 2
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... Ubá. Privada. Urbana. 27. De 1 a 30 alunos. 26. 96.30. 1. 80% ou mais. Alto. Maior que ... SISTEMA DE ENSINO EQUIPE. PA. Belém. Privada. Urbana. 306. Maior que.",
+        "position": 3
+      },
+      {
+        "title": "Relação das Concedentes Ativas - 2026",
+        "link": "https://www.unip.br/estagiosecarreiras/assets/download/estagio_concedentes_ativas.pdf",
+        "snippet": "... Ubá. CNPJ. 17.988.999/0001-21 COLEGIO LOSANGO DE UBA LTDA. OBRIGATORIO - LETRAS ... SISTEMA DE ENSINO R & H LTDA. OBRIGATORIO - PEDAGOGIA. 226. Coordenação ...",
+        "position": 4
+      },
+      {
+        "title": "ATOS ADMINISTRATIVOS PROCURADOR-GERAL DE ...",
+        "link": "https://www.mpmg.mp.br/diariooficial/DO-20200821.PDF",
+        "snippet": "Expedindo apostila declaratória de alteração de nome a favor de ... Reclamado(s): SESI UBÁ ESCOLA JOSÉ ALENCAR GOMES DA SILVA.",
+        "date": "20 de ago. de 2020",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

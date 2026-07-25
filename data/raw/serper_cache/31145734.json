@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31145734",
+  "NO_ENTIDADE": "COLEGIO FRANCISCANO REGINA PACIS",
+  "cidade": "Sete Lagoas",
+  "query": "\"COLEGIO FRANCISCANO REGINA PACIS\" \"Sete Lagoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO FRANCISCANO REGINA PACIS\" \"Sete Lagoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ensino Médio",
+        "link": "https://www.redecf.com.br/colegio-franciscano-regina-pacis/ensino-medio/",
+        "snippet": "Os jovens do Ensino Médio do Colégio Franciscano Regina Pacis têm, no currículo, aula de Projeto de Vida com material didático do Bernoulli Sistema de Ensino.",
+        "position": 1
+      },
+      {
+        "title": "Colégio Franciscano Regina Pacis: 94 anos de tradição, fé ...",
+        "link": "https://revistafanzini.com.br/colegio-franciscano-regina-pacis-94-anos-de-tradicao-fe-e-excelencia-educacional-em-sete-lagoas/",
+        "snippet": "O Colégio Franciscano Regina Pacis é parte essencial da história educacional de Sete Lagoas. ... sistema de ensino Bernoulli, com jornada integral e ...",
+        "position": 2
+      },
+      {
+        "title": "No dia 20 de abril, o Colégio Franciscano Regina Pacis ...",
+        "link": "https://www.instagram.com/p/C7CqrS8A2ul/",
+        "snippet": "... Sistema de Ensino lideraram debates cruciais sobre o papel ... Sete Lagoas, MG COLÉGIO FRANCISCANO REGINA PACIS REDE CLARISSAS FRANCISCANAS ...",
+        "date": "há 2 anos",
+        "position": 3
+      },
+      {
+        "title": "Fundamental I – Anos Iniciais",
+        "link": "https://www.redecf.com.br/colegio-franciscano-regina-pacis/fundamental-i-anos-iniciais/",
+        "snippet": "Aqui no Colégio Franciscano Regina Pacis, as crianças são reconhecidas como sujeitos que observam, descobrem, avaliam, se interessam, dialogam, argumentam, ...",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 17ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/17obmep/verRelatorioPremiadosMencao-MG.3.privada.do.htm",
+        "snippet": "COL N SRA DE LOURDES, P, LAVRAS, MG, Sim. MARCOS VINICIUS DE CAMPOS MENEZES, COLEGIO FRANCISCANO REGINA PACIS, P, SETE LAGOAS, MG, Sim ... SISTEMA DE ENSINO FOCO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

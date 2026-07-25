@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35117547",
+  "NO_ENTIDADE": "CRIATIVO COLEGIO",
+  "cidade": "Marília",
+  "query": "\"CRIATIVO COLEGIO\" \"Marília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CRIATIVO COLEGIO\" \"Marília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Semana de Conhecimento e Planejamento 2026! 🗂️ A ...",
+        "link": "https://www.instagram.com/reel/DT5IW00ih1l/",
+        "snippet": "a COLLECTO CRIATIVO . COLEGIO CRIATIVO . A COLLEGIO CRIATIVO ... O melhor material didático. A melhor tecnologia. Mas, sem pessoas ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "Uma noite para guardar no coração A formatura do nosso 9º ...",
+        "link": "https://www.instagram.com/reel/DSQq-PWDiCZ/",
+        "snippet": "Agradecemos ao Colégio Marília Mattoso e a todas as famílias pela confiança. ... Cruz e Sousa Sistema de Ensino Tudo pronto para iniciarmos ...",
+        "date": "há 7 meses",
+        "position": 2
+      },
+      {
+        "title": "Transformando educação em resultados, Colégio Criativo ...",
+        "link": "https://g1.globo.com/pe/caruaru-regiao/especial-publicitario/colegio-criativo/colegio-criativo-20-anos/noticia/2022/10/31/transformando-educacao-em-resultados-colegio-criativo-investe-no-futuro-dos-alunos-e-tem-aprovacao-nos-melhores-vestibulares.ghtml",
+        "snippet": "“O sistema de ensino adotado pelo Colégio Criativo foi de ... Marília: O outro lado da sofrência · Abuso · À Mão Armada · Bem Estar · Cadê meu ...",
+        "date": "31 de out. de 2022",
+        "position": 3
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... CRIATIVO COLEGIO. Marília. SP. 626,9. 795,2. 631,0. 603,0. 605,0. 669,0. 515.",
+        "position": 4
+      },
+      {
+        "title": "https://apigatewayolinda.mec.gov.br/api/olinda/con...",
+        "link": "https://apigatewayolinda.mec.gov.br/api/olinda/consultar-olinda-csv?token_acesso=n66pOqP3U0y2e4J98ICfIsdWaeZ72gIS1HovmNsijBVY0lP4dRS2BUnrlesJTE3gVpq4oDJYDoHBCYcmyv9MqELFPsKTcxKlgTUi&servico=PDA_SETEC%23Regulacao_Escolas",
+        "snippet": "... MARÍLIA,17509021,\"AV PEDRO DE TOLEDO\",1388,FURACAOCRIS@BOL.COM.BR,1434334941 ... SISTEMA DE ENSINO - CTEM - CASTANHAL\",PRIVADA,,PA,1502400,CASTANHAL ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "29459230",
+  "NO_ENTIDADE": "COLEGIO MARIZIA MAIOR",
+  "cidade": "Salvador",
+  "query": "\"COLEGIO MARIZIA MAIOR\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MARIZIA MAIOR\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Marizia Maior firma acordo com MP para divulgar ...",
+        "link": "https://www.mpba.mp.br/noticia/64703",
+        "snippet": "Colégio Marizia Maior firma acordo com MP para divulgar lista de material didático antes da matrícula dos alunos. O Ministério Público ...",
+        "date": "19 de set. de 2022",
+        "position": 1
+      },
+      {
+        "title": "Marizia Maior firma acordo com MP para divulgar lista de ...",
+        "link": "https://www.bahianoticias.com.br/justica/noticia/66321-marizia-maior-firma-acordo-com-mp-para-divulgar-lista-de-materiais-antes-da-matricula",
+        "snippet": "O Colégio Marizia Maior, do bairro de Stella Maris, em Salvador ... material didático e de taxas diversas, assegurando que tais informações ...",
+        "date": "20 de set. de 2022",
+        "position": 2
+      },
+      {
+        "title": "O queridinho das escolas particulares",
+        "link": "https://www.bernoulli.com.br/quem-somos/acontece-no-bernoulli/o-queridinho-das-escolas-particulares/",
+        "snippet": "Em Salvador, uma das primeiras escolas a implementar o Bernoulli Sistema de Ensino foi o Colégio Marízia Maior, ainda em 2011. Com 40 anos de existência, a ...",
+        "position": 3
+      },
+      {
+        "title": "MP obriga escola a divulgar lista de material didático antes da ...",
+        "link": "https://mnoticia.com.br/2022/09/20/mp-obriga-escola-a-divulgar-lista-de-material-didatico-antes-da-matricula",
+        "snippet": "MP obriga escola a divulgar lista de material didático antes da matrícula ... colégio Marizia Maior, no bairro de Stella Maris, em Salvador ... material didático e ...",
+        "position": 4
+      },
+      {
+        "title": "O queridinho das escolas particulares",
+        "link": "https://www.pressreader.com/brazil/correio-da-bahia/20240810/281801404258948?srsltid=AfmBOorsJkX5oMabJYIDvOZcOjZ981MivOJ5ggHpUrkZ3WoJxmmN8w2n",
+        "snippet": "Em Salvador, uma das primeiras escolas a implementar o Bernoulli Sistema de Ensino foi o Colégio Marízia Maior, ainda em 2011. Com 40 anos ...",
+        "date": "10 de ago. de 2024",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

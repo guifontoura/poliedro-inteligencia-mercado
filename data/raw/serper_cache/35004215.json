@@ -1,0 +1,31 @@
+{
+  "codigo_escola": "35004215",
+  "NO_ENTIDADE": "COESO EDUC",
+  "cidade": "São José do Rio Preto",
+  "query": "\"COESO EDUC\" \"São José do Rio Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COESO EDUC\" \"São José do Rio Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Programa Nacional Olimpíadas de Química ...",
+        "link": "https://educacional.sesc-am.com.br/wp-content/uploads/2020/09/classificados_obqjr_2020_1.pdf",
+        "snippet": "... Sistema De Ensino Equipe Cristal. 8° ano. PARÁ. Belém. Gabriel Santiago Silva ... São José Do Rio Preto. Victoria Gabrielle Carvalho Franco. Vem Ser Colegio.",
+        "position": 1
+      },
+      {
+        "title": "Obqjr 2021 classificados maior 12",
+        "link": "https://obquimica.org/storage/olympiads/result-files/Obqjr%202021%20classificados%20maior%2012.pdf",
+        "snippet": "São José do Rio Preto. MARIANA GONÇALVES DE GODOY. COLÉGIO VILLA LOBOS ... Sistema de Ensino Equipe Canaã dos CarajásPARÁ. Canaã dos Carajás. WILLIAM DE ...",
+        "position": 2
+      }
+    ],
+    "credits": 1
+  }
+}

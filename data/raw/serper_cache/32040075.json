@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "32040075",
+  "NO_ENTIDADE": "COLEGIO SAGRADO CORACAO DE MARIA",
+  "cidade": "Vitória",
+  "query": "\"COLEGIO SAGRADO CORACAO DE MARIA\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAGRADO CORACAO DE MARIA\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Vitória on Instagram: \"O Colégio Sagrado Coração de Maria ...",
+        "link": "https://www.instagram.com/reel/DTKyDXAlTtG/",
+        "snippet": "... Colégio Sagrado Coração de Maria de Vitória. Acesse matriculasagrado ... SISTEMA DE ENSINO SAE DIGITAL Cambridge Assessment English pes ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "Parabéns, Isabela! 🌟 No Colégio Sagrado Coração de ...",
+        "link": "https://www.instagram.com/p/DTvkIfYATEx/",
+        "snippet": "Essa vitória também reforça a qualidade do Sistema de Ensino ... A equipe do Colégio Sagrado Coração de Maria de Vitória está muito ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Seja bem-vindo(a) à Rede Sagrado! Em Vitória há 81 anos, o ...",
+        "link": "https://www.instagram.com/reel/DE2vIJmBrWp/",
+        "snippet": "O Colégio Sagrado Coração de Maria de Vitória conquistou, por dois ... material didático, a possibilidade de horário e os horários de ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Há 115 anos, o Sagrado iniciou uma história de educação ...",
+        "link": "https://www.instagram.com/reel/DaT0SG-tTcx/",
+        "snippet": "... COLÉGIO SAGRADO CORAÇÃO DE MARIA Sacré-Coeur de Marie AUDITORIO GAILHAC ... Essa vitória também reforça a qualidade do Sistema de Ensino ...",
+        "date": "há 3 semanas",
+        "position": 4
+      },
+      {
+        "title": "Fabiola Machado da Silva Bernardo",
+        "link": "https://www.escavador.com/sobre/1004807/fabiola-machado-da-silva-bernardo",
+        "snippet": "Atualmente é professora - Colégio Sagrado Coração de Maria - Vitória e Colégio Marista Nossa Senhora da Penha ... (Desenvolvimento de material didático ou ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

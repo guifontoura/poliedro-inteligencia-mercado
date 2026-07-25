@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35007668",
+  "NO_ENTIDADE": "DELTA EDUCACIONAL",
+  "cidade": "Araçatuba",
+  "query": "\"DELTA EDUCACIONAL\" \"Araçatuba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"DELTA EDUCACIONAL\" \"Araçatuba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Delta Educacional",
+        "link": "https://br.linkedin.com/company/delta-educacional",
+        "snippet": "Delta Educacional. Educação infantil, ensino fundamental e ensino médio. Araçatuba, São Paulo 67 seguidores. Sistema de Ensino Poliedro + Dedicação + ...",
+        "position": 1
+      },
+      {
+        "title": "Delta Educacional (@educacionaldelta)",
+        "link": "https://www.instagram.com/educacionaldelta/",
+        "snippet": "1º LUGAR NO ENEM 2025 EM ARAÇATUBA É DO DELTA EDUCACIONAL! Com imenso orgulho ...",
+        "position": 2
+      },
+      {
+        "title": "O segredo por trás da escola recordista em aprovação na ...",
+        "link": "https://www.hojemais.com.br/aracatuba/noticia/conteudo-patrocinado/o-segredo-por-tras-da-escola-recordista-em-aprovacao-na-regiao",
+        "snippet": "O Delta Educacional está redefinindo o cenário educacional com ... O Sistema de Ensino Poliedro, adotado pelo Delta, garante uma ...",
+        "date": "28 de mai. de 2024",
+        "position": 3
+      },
+      {
+        "title": "ora mesmo sua visita! Estamos te esperando! #escola # ...",
+        "link": "https://www.facebook.com/educacionaldelta/videos/ora-mesmo-sua-visita-estamos-te-esperandoescola-ensinom%C3%A9dio-ara%C3%A7atuba-cursinho-p/1455084599417466/",
+        "snippet": "#escola #ensinomédio #araçatuba #cursinho #prévestibular - at Araçatuba - SP. ... A Mentoria Delta Educacional ... Nosso material didático é Poliedro, se quiser vim ...",
+        "position": 4
+      },
+      {
+        "title": "Delta Educacional is at Araçatuba - SP.",
+        "link": "https://www.facebook.com/educacionaldelta/posts/1659376375009926/",
+        "snippet": "Delta Educacional is at Araçatuba - SP.",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35499067",
+  "NO_ENTIDADE": "INSPIRE COLEGIO",
+  "cidade": "São José dos Campos",
+  "query": "\"INSPIRE COLEGIO\" \"São José dos Campos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INSPIRE COLEGIO\" \"São José dos Campos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "Escola de Aplicação São José dos Campos Ltda, P, SÃO JOSÉ DOS CAMPOS, SP ... ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Sim. MARIA EDUARDA BATISTA SÁ ...",
+        "position": 1
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... São José dos Campos. 35137170 SP. São José dos Campos. Adriano de Assis Lessa ... INSPIRE COLEGIO. 35499067 SP. São José dos Campos. ANA BEATRIZ DE SOUSA ...",
+        "position": 2
+      },
+      {
+        "title": "RESULTADO DA XV OLIMPÍADA BRASILEIRA DE ...",
+        "link": "https://www.obquimica.sertanustecnologia.com.br/arquivos/download/1667/Resultado%20da%20OBQJr%202022%20Fase%20I%20-%20Classificados%20para%20a%20Fase%20II.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP. BÁRBARA PINHEIRO PUGET CRUZ ... SP SÃO JOSÉ DOS CAMPOS. CURSO ALBERTO SANTOS DUMONT. ÁGATHA IVO DANTAS DA ...",
+        "position": 3
+      },
+      {
+        "title": "Desempenho de Alunos do Ensino Médio | PDF | Faculdade",
+        "link": "https://pt.scribd.com/document/897959944/OBB-Alunos-Fase-2-Geral",
+        "snippet": "... INSPIRE COLEGIO 35499067 SP São José dos Campos ANA BEATRIZ DE SOUSA CARDOSO ... SISTEMA DE ENSINO 35159013 SP Rio Claro ANA CLARA ALVES DE OLIVEIRA 3º ...",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.3.privada.do.htm",
+        "snippet": "Escola de Aplicação São José dos Campos Ltda, P, SÃO JOSÉ DOS CAMPOS, SP ... COLEGIO KELVIN SISTEMA DE ENSINO CATANDUVA, P, CATANDUVA, SP, ---, Sim. VINICIUS ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

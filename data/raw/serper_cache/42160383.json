@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "42160383",
+  "NO_ENTIDADE": "COLEGIO AZ FLORIPA",
+  "cidade": "Florianópolis",
+  "query": "\"COLEGIO AZ FLORIPA\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO AZ FLORIPA\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Integral Itajaí on Instagram: \"O Colégio Integral está entre os 5 ...",
+        "link": "https://www.instagram.com/reel/DM7vQV9RnL5/",
+        "snippet": "... material didático ... ENEM 2025 Colégio Universo entre os destaques de Florianópolis 23º LUGAR entre as 54 escolas em Florianópolis COLÉGIO ...",
+        "date": "há 11 meses",
+        "position": 1
+      },
+      {
+        "title": "O primeiro lugar das escolas estaduais no Enem 2024 ...",
+        "link": "https://www.instagram.com/p/DNiNhjbx5FY/",
+        "snippet": "... Colégio AZ Floripa – Florianópolis; 2ª, Colégio Energia – Chapecó ... Sistema de Ensino Equipe Integrado - PA Média: 760,2 | N: 38 ...",
+        "date": "há 11 meses",
+        "position": 2
+      },
+      {
+        "title": "Colegio Coc Floripa",
+        "link": "https://www.tiktok.com/discover/colegio-coc-floripa",
+        "snippet": "... Florianópolis.Veja mais vídeos sobre Colegio Az Floripa ... Florianópolis, cultura escolar no Brasil ... Material didático completo e atualizado ‍ ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio Liceu Catarinense | Balneário Camboriú",
+        "link": "https://www.instagram.com/p/DQXjjbFkcdz/",
+        "snippet": "Além da excelente colocação, conquistamos uma Média Geral TRI de 606,9 pontos, superando a média das escolas de Florianópolis (580,9 pontos).",
+        "date": "há 8 meses",
+        "position": 4
+      },
+      {
+        "title": "TOP 20 ESCOLAS DE SANTA CATARINA | ENEM 2025 ...",
+        "link": "https://www.instagram.com/p/DZ8tYCEAHFd/",
+        "snippet": "... Colégio AZ Floripa ... ENEM 2025 Colégio Universo entre os destaques de Florianópolis 23º LUGAR entre as 54 escolas em Florianópolis COLÉGIO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "41379110",
+  "NO_ENTIDADE": "PGD C - EI EF M",
+  "cidade": "Londrina",
+  "query": "\"PGD C - EI EF M\" \"Londrina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PGD C - EI EF M\" \"Londrina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "FTD Sistema de Ensino FTD Sistema de Ensino",
+        "link": "https://sistema-ensino.ftd.com.br/",
+        "snippet": "APRENDIZAGEM CONSISTENTE PARA FORMAR BASES FORTES! Uma coleção que conecta repertório e prática, impulsionando resultados desde os primeiros anos.",
+        "position": 1
+      },
+      {
+        "title": "Sistema de Ensino - CESC",
+        "link": "https://cescsjc.com.br/sistema-de-ensino/",
+        "snippet": "Anos Iniciais · 4 volumes bimestrais integrados em 5 componentes curriculares (Língua Portuguesa, Matemática, Ciências, Geografia e História). · 2 volumes ...",
+        "position": 2
+      },
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "+1.800 escolas, +260 mil alunos. A Conquista é a solução educacional que acolhe sua escola da Educação Infantil ao Ensino Médio. Solicite o material.",
+        "position": 3
+      },
+      {
+        "title": "Ensino Médio - Londrina - Colégio PGD",
+        "link": "https://www.pgd.com.br/ensinomedio/",
+        "snippet": "Aqui no PGD, além de aprofundar e ampliar as competências gerais da Base Nacional Comum Curricular (BNCC), as habilidades das áreas do conhecimento e a formação ...",
+        "position": 4
+      },
+      {
+        "title": "Sucesso Sistema de Ensino",
+        "link": "https://www.sistemadeensinosucesso.com.br/",
+        "snippet": "Institucional · Catálogo · Contato · Sucesso Digital · Sucesso Digital. ‹ › Veja os destaques. Nosso catálogo. Educação Infantil · Ensino Fundamental I ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

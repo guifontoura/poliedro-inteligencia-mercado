@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "43105017",
+  "NO_ENTIDADE": "COL NOSSA SENHORA DO BOM CONSELHO",
+  "cidade": "Porto Alegre",
+  "query": "\"COL NOSSA SENHORA DO BOM CONSELHO\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL NOSSA SENHORA DO BOM CONSELHO\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Matrícula Inicial por etapa e/ou modalidade de ensino - 2013",
+        "link": "http://www.educacao.rs.gov.br/dados/estatisticas_mi_par_2013.pdf",
+        "snippet": "PORTO ALEGRE. 43104991 COL MARIA IMACULADA. Urbana. 18. 57. 582. 233. 0. 0. 0. 890. 1. PORTO ALEGRE. 43105017 COL NOSSA SENHORA DO BOM CONSELHO. Urbana. 46. 65.",
+        "position": 1
+      },
+      {
+        "title": "Detalhado - NÃO PAGAS - Portal Gov.br",
+        "link": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pdde/media-pdde/comunicados/relao_entidadesmantenedoras_comunicado_17_cartoPDDE.xlsx",
+        "snippet": "SISTEMA DE ENSINO VESTIBULANDO, 15587983, 560, PDDE-EDUCAC?O ESPECIAL ... COL NOSSA SENHORA DO BOM CONSELHO, 43105017, 1010, PDDE-EDUCAC?O ESPECIAL ...",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosPrata.privada.do.htm",
+        "snippet": "COL NOSSA SENHORA DO BOM CONSELHO, P, PORTO ALEGRE, RS, Prata. LUAN MONTERO USUI ... RIO CLARO SISTEMA DE ENSINO, P, RIO CLARO, SP, Prata. EDUARDO FABIANO NEVES ...",
+        "position": 3
+      },
+      {
+        "title": "LISTA DOS ALUNOS DO NONO ANO COM NOTA MAIOR ...",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/TABELA%20NIVEL%203%20NONO%20ANO%20CORRETA%20SO%20COM%204%20COLUNAS-compressed-compactado.pdf",
+        "snippet": "Col. Nossa Senhora do Bom Conselho. SARAH ALFAIX LIMA. GOIÁS. Jussara. Col ... Zeta Sistema de Ensino de Birigui. GABRIEL MARCENTE FADIL. SÃO PAULO. Birigüi.",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... PORTO ALEGRE. Federal. COLEGIO MILITAR DE PORTO ALEGRE. 646,73. 594,73 ... SISTEMA DE ENSINO EQUIPE. 628,66. 596,47. 652,65. 612,81. 652,72. 747 ...",
+        "date": "22 de dez. de 2014",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

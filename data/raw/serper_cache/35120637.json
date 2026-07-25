@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35120637",
+  "NO_ENTIDADE": "PADRE ANCHIETA COLEGIO",
+  "cidade": "Osasco",
+  "query": "\"PADRE ANCHIETA COLEGIO\" \"Osasco\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PADRE ANCHIETA COLEGIO\" \"Osasco\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Padre Anchieta Colegio - Osasco - SP",
+        "link": "https://www.escol.as/279497-padre-anchieta-colegio",
+        "snippet": "... Osasco - SP; ›; Centro; ›; Padre Anchieta Colegio ... material didático, promovendo uma experiência de aprendizado rica e diversificada. ... Material Didático. com ...",
+        "position": 1
+      },
+      {
+        "title": "dbo_TS_ESCOLA",
+        "link": "https://www.al.sp.gov.br/spl/2015/09/Acessorio/1278971_50269504_Acessorio.xlsx",
+        "snippet": "... OSASCO INSTITUTO EDUCACIONAL, SP, 1, 1, 0, 1, 0, 0, 0, 1. 489, 2014, 35103081, ALBERT ... SISTEMA DE ENSINO, SP, 1, 1, 0, 1, 0, 0, 0, 1. 1273, 2014, 35394142 ...",
+        "position": 2
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "OSASCO II ETEC. SP. 4457. COLEGIO ADVENTISTA DE IMPERATRIZ. MA. 4458. UNIDADE ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL. PB. 7312. SUELI ...",
+        "position": 3
+      },
+      {
+        "title": "Formulário de interesse",
+        "link": "https://cad-fund1.colband.net.br/",
+        "snippet": "ANGLO SISTEMA DE ENSINO, ANGLOSCHOOL, ANGUELOS MONTESSORI ESCOLA, ANHANGUERA ... DIOCESANO PADRE ANCHIETA COLEGIO, DIOCESANO PAULO VI COLEGIO, DIRECIONAL ...",
+        "position": 4
+      },
+      {
+        "title": "E-metodo",
+        "link": "https://emetodo60.unisa.br/formulario/ficha/inscricao/2452",
+        "snippet": "ANGLO SISTEMA DE ENSINO, ANHANGUERA, ANHEMBI MORUMBI COLEGIO, ANIBAL DE FREITAS ... DIOCESANO PADRE ANCHIETA COLEGIO, DIOGENES ALMEIDA MARINS PROFESSOR ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

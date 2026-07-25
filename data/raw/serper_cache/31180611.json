@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31180611",
+  "NO_ENTIDADE": "COLEGIO DOS SANTOS ANJOS",
+  "cidade": "Varginha",
+  "query": "\"COLEGIO DOS SANTOS ANJOS\" \"Varginha\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DOS SANTOS ANJOS\" \"Varginha\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "A Educação Católica se reinventa sem perder sua essência, e ...",
+        "link": "https://www.instagram.com/reel/DHO4KMZxc-v/",
+        "snippet": "... material didático e tudo o que faz do nosso Colégio uma referência ... COLEGIO DOS SANTOS ANJOS RIO DE JANEIRO RJ Colégio dos Santos Anjos ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosGeral-MG.2.privada.do.htm",
+        "snippet": "MG, Bronze, ---. RAFAEL DOS SANTOS SILVA ZATI, COLEGIO DOS SANTOS ANJOS, P, VARGINHA, MG, ---, Sim. RAFAEL GANNAM PEDREIRA DE CASTRO, COL IMACULADO CORACAO DE ...",
+        "position": 2
+      },
+      {
+        "title": "ENEM ESCOLA Page 1 SIGLA NO_MUNICIPIO ...",
+        "link": "http://fw.atarde.com.br/2012/11/1293042.pdf",
+        "snippet": "... SISTEMA DE ENSINO LTDA. Privada. 487,1512195 514,9707317 553,6134146 539 ... COLEGIO DOS SANTOS ANJOS. Privada. 574,0282051 577,9179487 595,5461538 664 ...",
+        "position": 3
+      },
+      {
+        "title": "ENEM ESCOLA SIGLA NO_MUNICIPIO NO_ENTIDADE ...",
+        "link": "https://estaticog1.globo.com/2012/11/22/notasEnem2011.pdf",
+        "snippet": "... SISTEMA DE ENSINO LTDA. Privada. 487,1512195 514,9707317 553,6134146 ... COLEGIO DOS SANTOS ANJOS. Privada. 574,0282051 577,9179487 595 ...",
+        "date": "22 de nov. de 2012",
+        "position": 4
+      },
+      {
+        "title": "Juliana Cardoso Azevedo Ávila",
+        "link": "https://www.escavador.com/sobre/710892/juliana-cardoso-azevedo",
+        "snippet": "COLEGIO DOS SANTOS ANJOS ... Produção de Material Didático: práticas sociais, proposta metodológica e design. ... Varginha, Descrição: Estudo voltado à aplicação ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

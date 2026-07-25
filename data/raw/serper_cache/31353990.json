@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31353990",
+  "NO_ENTIDADE": "SISTEMA EDUCACIONAL BATISTA CASTRO",
+  "cidade": "Juiz de Fora",
+  "query": "\"SISTEMA EDUCACIONAL BATISTA CASTRO\" \"Juiz de Fora\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SISTEMA EDUCACIONAL BATISTA CASTRO\" \"Juiz de Fora\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ALESSANDRO MARQUES CALIL",
+        "link": "https://www.escavador.com/sobre/5034143/alessandro-marques-calil",
+        "snippet": "... Juiz de Fora (UFJF), com dissertação defendida em junho de 2011, linha de ... Sistema Educacional Batista Castro.Tem experiência na área do Magistério ...",
+        "position": 1
+      },
+      {
+        "title": "INSCRICAO PESSOA RAZAO SOCIAL CNPJ 119.383/00-4 ...",
+        "link": "https://www.pjf.mg.gov.br/e_atos/anexos/DET_SF_II_170703.pdf",
+        "snippet": "... JUIZ DE FORA VIGILANCIA & SEGURANCA FEF LTDA. 04.514.387/0001-55. 119.446/00-6 ... SISTEMA DE ENSINO LTDA. 12.343.871/0001-97. 122.867/00-9. JURIDICA MARIA ...",
+        "position": 2
+      },
+      {
+        "title": "Edital Vestibular SP Alphaville",
+        "link": "https://www.mackenzie.br/fileadmin/ARQUIVOS/Public/1-mackenzie/universidade/outros/cpa/Relat%C3%B3rios_2022/20222S/PDI_2020-2024.pdf",
+        "snippet": "material didático para os alunos EaD. Organiza o ambiente virtual de ... SISTEMA DE ENSINO MACKENZIE. Disponível em: https://www ...",
+        "date": "15 de dez. de 2022",
+        "position": 3
+      },
+      {
+        "title": "Premiação da II Olimpíada de Ciências Humanas | PDF",
+        "link": "https://pt.scribd.com/document/709007566/Premiados-II-OBCH",
+        "snippet": "Fernando Junior RIO CLARO SISTEMA DE ENSINO. Francisco Eduardo Jerônimo De ... Maria Eduarda Castro COLEGIO MILITAR DE JUIZ DE FORA Maria Eduarda Donini ...",
+        "position": 4
+      },
+      {
+        "title": "Escola em Juiz de Fora: Conheça as diversas formas de ensino",
+        "link": "https://www.ombrelo.com.br/variedades/escola-em-juiz-de-fora-conheca-as-diversas-formas-de-ensino/",
+        "snippet": "... Sistema Educacional Batista Castro (Ensino Médio), em Juiz de Fora, com trinta e cinco anos dedicados à educação com amor, desde o berçário até o pré ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

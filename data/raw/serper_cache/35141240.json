@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35141240",
+  "NO_ENTIDADE": "VERTICE COLEGIO UNIDADE II",
+  "cidade": "São Paulo",
+  "query": "\"VERTICE COLEGIO UNIDADE II\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"VERTICE COLEGIO UNIDADE II\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.1.privada.do.htm",
+        "snippet": "VERTICE COLEGIO UNIDADE II, P, SÃO PAULO, SP, ---, Sim. FELIPE MARTINS DE LIMA ... ANGLO SISTEMA DE ENSINO, P, TATUI, SP, ---, Sim. IAN MAZZUCATTO PUCINELI ...",
+        "position": 1
+      },
+      {
+        "title": "Desigualdade-racial-nas-escolas-privadas-de-alto ... - gemaa",
+        "link": "https://gemaa.iesp.uerj.br/wp-content/uploads/2021/05/Desigualdade-racial-nas-escolas-privadas-de-alto-desempenho-v2-1.pdf",
+        "snippet": "de LA CAMPOS · Citado por 4 — O Colégio Catamarã Referência, de São Paulo, registrou 0% de pretos e pardos ... SISTEMA DE ENSINO EQUIPE. COLEGIO DOM AMANDO. COLEGIO GENTIL BITTENCOURT.",
+        "position": 2
+      },
+      {
+        "title": "CNEC Educação - ENEM",
+        "link": "https://enem.cneceduca.com.br/",
+        "snippet": "Vertice Colegio Unidade II, Privada, São Paulo, SP, 43 ; Escola Villare, Privada, São Caetano do Sul, SP, 33 ...",
+        "position": 3
+      },
+      {
+        "title": "Desempenho de Escolas no ENEM | PDF | São Paulo | Brasil",
+        "link": "https://pt.scribd.com/doc/187329377/As-30-Escolas-Enem",
+        "snippet": "... SISTEMA DE ENSINO LTDA COLEGIO DIOCESANO DE PENEDO COLEGIO SAO TOMAS DE ... VERTICE COLEGIO UNIDADE II. Privada. 93,85. 705,6. SP. COLEGIO ANGLO LEONARDO DA ...",
+        "position": 4
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. AL. Maceió ouro. Ana Alexandra ... JARDIM SAO PAULO UNIDADE TREMEMBE COLEGIO. SP. São Paulo. Certficado MELISSA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

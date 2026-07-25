@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "26190451",
+  "NO_ENTIDADE": "COLEGIO GGE",
+  "cidade": "Recife",
+  "query": "\"COLEGIO GGE\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO GGE\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Sistema GGE de Ensino (@sistemaggedeensino)",
+        "link": "https://www.instagram.com/sistemaggedeensino/",
+        "snippet": "O Sistema GGE de Ensino vai além do material didático. É uma solução integrada que combina metodologia, tecnologia educacional, avaliação contínua, formação ...",
+        "position": 1
+      },
+      {
+        "title": "CONHEÇA O SISTEMA GGE DE ENSINO - Portal",
+        "link": "https://sistemaggedeensino.com.br/portal/conheca-o-sistema-gge-de-ensino/",
+        "snippet": "Material didático multissensorial, com conteúdo aprofundado e atualizado ... Nascemos com o Colégio GGE, líder em aprovações e com mais de 27 anos de ...",
+        "position": 2
+      },
+      {
+        "title": "Sistema GGE de Ensino | Recife PE",
+        "link": "https://www.facebook.com/sistemaggedeensino/?locale=it_IT",
+        "snippet": "Potrebbe essere un'immagine raffigurante il seguente testo \"Colégio GGE (RECIFE/PE ... Um sistema de ensino completo, com soluções ... O Sistema GGE de Ensino, além ...",
+        "position": 3
+      },
+      {
+        "title": "Lista de Material Didático para o Ensino Médio do Colégio ...",
+        "link": "https://gge.com.br/web/lista-de-material-didatico-para-o-ensino-medio-do-colegio-gge-em-2021/",
+        "snippet": "Confira a seguir a lista de material didático do Ensino Médio do Colégio GGE para 2021: ... Recife participa da Olimpíada Internacional de Matemática ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio GGE ❤️ on Instagram: \"Somos o ÚNICO COLÉGIO ...",
+        "link": "https://www.instagram.com/reel/DVtGLe_FPyg/",
+        "snippet": "... Sistema de Ensino Material didático - Completo e atualizado ... Photo by Colégio GGE ❤️ on July 02, 2026. May be an image. 130 likes.",
+        "date": "há 4 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

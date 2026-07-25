@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "17056446",
+  "NO_ENTIDADE": "COLEGIO OLIMPO PALMAS INTEGRAL",
+  "cidade": "Palmas",
+  "query": "\"COLEGIO OLIMPO PALMAS INTEGRAL\" \"Palmas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO OLIMPO PALMAS INTEGRAL\" \"Palmas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "em uma escola que acredita no poder transformador ...",
+        "link": "https://www.instagram.com/p/DRxcp8-AS5i/",
+        "snippet": "RANKING ENEM 2025 DO TOCANTINS 1 Colegio Olimpo Palmas Integral - Palmas ... Poliedro Sistema de Ensino. 1º lugar em Anápolis e 2ª melhor ...",
+        "date": "há 7 meses",
+        "position": 1
+      },
+      {
+        "title": "Tradição integrada com o futuro é no CIE. Da Educação ...",
+        "link": "https://www.instagram.com/reel/DSvE4VYCEiE/",
+        "snippet": "RANKING ENEM 2025 DO TOCANTINS 1 Colegio Olimpo Palmas Integral - Palmas ... O Sistema de Ensino COC faz parte da formação dos nossos ...",
+        "date": "há 7 meses",
+        "position": 2
+      },
+      {
+        "title": "Batista Ipatinga | No Colégio Batista de Ipatinga temos ...",
+        "link": "https://www.instagram.com/reel/DN0kioj2qOo/",
+        "snippet": "... Sistema de Ensino COC com ênfase em resultados de excelência ... RANKING ENEM 2025 DO TOCANTINS 1 Colegio Olimpo Palmas Integral - Palmas ...",
+        "date": "há 11 meses",
+        "position": 3
+      },
+      {
+        "title": "Enem 2024: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.bernoulli.com.br/quem-somos/acontece-no-bernoulli/enem-conheca-as-15-escolas-com-as-maiores-notas-por-estado/",
+        "snippet": "Farina Sistema de Ensino – Cuiabá – Unidade: Jardim Guanabara ... Colégio Olimpo Palmas Integral – Palmas – Unidade: Plano Diretor ...",
+        "date": "11 de jul. de 2025",
+        "position": 4
+      },
+      {
+        "title": "Escola particular: as melhores do Norte e como escolher uma",
+        "link": "https://sistemadeensinoequipe.com.br/escola-particular-as-melhores-do-norte-e-como-escolher-uma/",
+        "snippet": "Sistema de Ensino Equipe Integrado Eireli – EPP, em Belém, no Pará. 2º. Lato Sensu, em Manaus, no Amazonas. 3º. Colégio Olimpo Palmas Integral, em Palmas, no ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

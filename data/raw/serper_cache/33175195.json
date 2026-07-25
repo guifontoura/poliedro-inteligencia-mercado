@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "33175195",
+  "NO_ENTIDADE": "REDE AZ COLEGIO E CURSO UNIDADE LICENCIADA ILHA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"REDE AZ COLEGIO E CURSO UNIDADE LICENCIADA ILHA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"REDE AZ COLEGIO E CURSO UNIDADE LICENCIADA ILHA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Rio de Janeiro 4912 escolas",
+        "link": "https://qedu.org.br/municipio/3304557-rio-de-janeiro/busca",
+        "snippet": "... SISTEMA DE ENSINO FILTELMAM. RUA LUIS SA, 205. ILHA DO GOVERNADOR. 21931580 ... REDE AZ COLEGIO E CURSO UNIDADE LICENCIADA ILHA. CAMBAUBA, 281. JARDIM ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas em Rio de Janeiro - RJ - BuscaEscola",
+        "link": "https://buscaescola.com.br/cidades/rio-de-janeiro-rj.html",
+        "snippet": "JGFLORENCIO SISTEMA DE ENSINO EIRELI - CENTRO EDUCACIONAL SILVA FLORENCIO ... REDE AZ COLEGIO E CURSO UNIDADE LICENCIADA ILHA. Cód INEP: 33175195 · REDE ...",
+        "position": 2
+      },
+      {
+        "title": "Escola - COLEGIO E CURSO SONNART",
+        "link": "https://culturaeduca.cc/equipamento/escola_detalhe/33135380/",
+        "snippet": "Brasil / RJ / Rio de Janeiro / Entorno de Escola. CAMADAS. LIMPAR. Divisões ... REDE AZ COLEGIO E CURSO UNIDADE LICENCIADA ILHA R CAMBAUBA - 281 - JARDIM ...",
+        "position": 3
+      },
+      {
+        "title": "instituto guanabara e colegio itamarati",
+        "link": "https://culturaeduca.cc/equipamento/escola_detalhe/33067830/",
+        "snippet": "Brasil / RJ / Rio de Janeiro / Entorno de Escola. CAMADAS. LIMPAR. Divisões ... REDE AZ COLEGIO E CURSO UNIDADE LICENCIADA ILHA R CAMBAUBA - 281 - JARDIM ...",
+        "position": 4
+      },
+      {
+        "title": "Ponto de cultura - Programa Social Crescer e Viver",
+        "link": "https://culturaeduca.cc/equipamento/pontocultura_detalhe/1435/",
+        "snippet": "Rio de Janeiro - RJ. Endereço, Rua Benedito Hipólito, S/N (Lona Circo), Cidade ... REDE AZ COLEGIO E CURSO UNIDADE LICENCIADA ILHA R CAMBAUBA - 281 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

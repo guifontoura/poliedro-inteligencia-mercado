@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35114066",
+  "NO_ENTIDADE": "CLARETIANO COLEGIO",
+  "cidade": "Rio Claro",
+  "query": "\"CLARETIANO COLEGIO\" \"Rio Claro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CLARETIANO COLEGIO\" \"Rio Claro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Rio Claro / SP",
+        "link": "https://claretianocolegio.com.br/rioclaro",
+        "snippet": "Equipe muito qualificada, infraestrutura riquíssima, material didático excelente, ambiente acolhedor e humanizado. ... Fale com a unidade de Rio Claro no WhatsApp ...",
+        "position": 1
+      },
+      {
+        "title": "Claretiano - Colégio Rio Claro (@claretianocolegiorc)",
+        "link": "https://www.instagram.com/claretianocolegiorc/",
+        "snippet": "Claretiano Colégio destaca-se no Campeonato Estudantil de Xadrez de ...",
+        "position": 2
+      },
+      {
+        "title": "Claretiano - Rede de Educação",
+        "link": "https://claretiano.edu.br/",
+        "snippet": "Em uma conquista recente, a graduação alcançou a melhor avaliação da região de Rio Claro ... Recursos. Biblioteca · Blog · Claretiano Colégio · Portal do Aluno ...",
+        "position": 3
+      },
+      {
+        "title": "Claretiano - Colégio Rio Claro | Claretiano + Sistema Anglo: a ...",
+        "link": "https://www.instagram.com/reel/DQXy3pUDTbr/",
+        "snippet": "... material didático atualizado, a metodologia “Aula Dada, Aula ... apostila. Estamos falando de um material cuidadosamente pensado para ...",
+        "date": "há 8 meses",
+        "position": 4
+      },
+      {
+        "title": "[Claretiano] Colégio Rio Claro",
+        "link": "https://claretianos.com.br/rede_de_educacao/claretiano-colegio-rio-claro/",
+        "snippet": "... material didático em sintonia com as novas diretrizes do Ministério da ... [Claretiano] Colégio Rio Claro. Endereço: Av. Santo Antonio Maria Claret ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

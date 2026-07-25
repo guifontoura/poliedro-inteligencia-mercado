@@ -1,0 +1,38 @@
+{
+  "codigo_escola": "53015789",
+  "NO_ENTIDADE": "COLEGIO OLIMPO AGUAS CLARAS",
+  "cidade": "Brasília",
+  "query": "\"COLEGIO OLIMPO AGUAS CLARAS\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO OLIMPO AGUAS CLARAS\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "GOVERNO DO DISTRITO FEDERAL SECRETARIA DE ...",
+        "link": "https://www.educacao.df.gov.br/documents/d/seedf/172-2014-cedf-colegio-olimpo-aguas-claras-pdf",
+        "snippet": "Colégio Olimpo – Águas Claras, situado na Rua 7 Sul, Lote 4, Lojas 4, 5, 6 e 7, Salas 101, 102 e. 202, Águas Claras - Distrito Federal, mantido pelo Colégio ...",
+        "position": 1
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ... Colegio Olimpo Aguas Claras - Brasília - Sul Aguas Claras - Nota: 716.06.",
+        "date": "23 de jun. de 2026",
+        "position": 2
+      },
+      {
+        "title": "CEDF – Pareceres - Secretaria de Estado de Educação",
+        "link": "https://www.educacao.df.gov.br/cedf-pareceres",
+        "snippet": "Agência Brasília · Portal do Governo de Brasília · Dados Abertos · LGPD · Maria da ... 225 2022 CEDF Colégio Olimpo Águas Claras Cons. Clayton · 226 2022 CEDF ...",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "22146636",
+  "NO_ENTIDADE": "BRIGHT SCHOOL",
+  "cidade": "Teresina",
+  "query": "\"BRIGHT SCHOOL\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"BRIGHT SCHOOL\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Esses são os 5 pilares que sustentam a proposta pedagógica ...",
+        "link": "https://www.instagram.com/reel/DOOKe2HjSc_/",
+        "snippet": "Brightbee Bright SCHOOL . Brightbee Bright SCHOOL ... Teresina que é uma referência educacional esse é um dos pilares chaves que nos ...",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "Nossos alunos aprendem com um material didático ...",
+        "link": "https://www.instagram.com/p/DRvL9CFAKnB/",
+        "snippet": "Nossos alunos aprendem com um material didático diferenciado, construído para dialogar com as metodologias ativas que aplicamos no dia a dia ...",
+        "date": "há 7 meses",
+        "position": 2
+      },
+      {
+        "title": "Bright School on Instagram: \"O ENEM está cada vez mais ...",
+        "link": "https://www.instagram.com/reel/DZ4r2EYRTlz/",
+        "snippet": "Quarto lugar: material didático impecável, aquele material que tem seções ... sistema de ensino Bernoulli. Estamos muito felizes porque ...",
+        "position": 3
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2211001-teresina/busca",
+        "snippet": "BRIGHT SCHOOL. ANFRISIO LOBAO, 1794. JÓQUEI. 64049280 Teresina - Piauí. Rede ... CPI SISTEMA DE ENSINO. HEITOR CASTELO BRANCO, 3090. FREI SERAFIM ...",
+        "position": 4
+      },
+      {
+        "title": "Na Bright Bee, ver a evolução dos nossos alunos é o que ...",
+        "link": "https://www.instagram.com/reel/DNoWukUu4cr/",
+        "snippet": "... Bright School estamos prontos para novos desafios, podemos discutir ... Teresina que é uma referência educacional esse é um dos pilares ...",
+        "date": "há 11 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

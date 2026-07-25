@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31054135",
+  "NO_ENTIDADE": "COLEGIO FRANCISCANO IMACULADA CONCEICAO",
+  "cidade": "Governador Valadares",
+  "query": "\"COLEGIO FRANCISCANO IMACULADA CONCEICAO\" \"Governador Valadares\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO FRANCISCANO IMACULADA CONCEICAO\" \"Governador Valadares\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Educação Infantil",
+        "link": "https://www.redecf.com.br/colegio-franciscano-imaculada-conceicao/educacao-infantil/",
+        "snippet": "Seja bem-vindo(a) à Educação Infantil do Colégio Franciscano Imaculada Conceição! ... b, em parceria com o Bernoulli Sistema de Ensino, nossas crianças do ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Franciscano Imaculada Conceição (@cficgv)",
+        "link": "https://www.instagram.com/cficgv/reels/",
+        "snippet": "85 anos formando gerações que fazem a diferença! Sistema de Ensino Bernoulli Governador Valadares-MG Infantil ao Ensino Médio Acesse nosso canais.",
+        "position": 2
+      },
+      {
+        "title": "O professor Rinaldo, ou melhor, o grande Rina, do Colégio ...",
+        "link": "https://www.instagram.com/p/C8XxLXECPuJ/",
+        "snippet": "O professor Rinaldo, ou melhor, o grande Rina, do Colégio Franciscano Imaculada Conceição em Governador Valadares (MG), mandou um papo reto, sem parábolas, para ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio Franciscano Imaculada Conceição",
+        "link": "https://gt.linkedin.com/company/col%C3%A9gio-franciscano-imaculada-concei%C3%A7%C3%A3o",
+        "snippet": "Ubicaciones. Principal. Rua Tiradentes, 312 - Centro. Governador Valadares, Minas Gerais 35020-610, BR ... Genoma Sistema de Ensino. Comercio al por menor de ...",
+        "position": 4
+      },
+      {
+        "title": "O professor Rinaldo, ou melhor, o grande Rina, do Colégio ...",
+        "link": "https://www.facebook.com/bernoullisistema/videos/o-professor-rinaldo-ou-melhor-o-grande-rina-do-col%C3%A9gio-franciscano-imaculada-con/985958553273017/",
+        "snippet": "O professor Rinaldo, ou melhor, o grande Rina, do Colégio Franciscano Imaculada Conceição em Governador Valadares (MG), mandou um papo reto, ...",
+        "date": "há 2 anos",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

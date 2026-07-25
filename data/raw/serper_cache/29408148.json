@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "29408148",
+  "NO_ENTIDADE": "COLEGIO MATISSE",
+  "cidade": "Jequié",
+  "query": "\"COLEGIO MATISSE\" \"Jequié\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MATISSE\" \"Jequié\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Matisse | Bolsas de Estudo em Jequié - BA",
+        "link": "https://www.melhorescola.com.br/escola/colegio-matisse",
+        "snippet": "Garanta sua bolsa de estudos em Colégio Matisse, Jequié - BA. Descontos ... Sistema de ensino. SAS. O sistema de ensino compreende o conjunto de métodos ...",
+        "position": 1
+      },
+      {
+        "title": "Secretaria Municipal de Educação de Jequié | Na edição de ...",
+        "link": "https://www.instagram.com/reel/DXjncrJkSXN/",
+        "snippet": "Além disso, o material didático de 2026 estará com ... Jequié se orgulha de ter no Colégio Matisse um verdadeiro diferencial na educação.",
+        "date": "há 3 meses",
+        "position": 2
+      },
+      {
+        "title": "🌟 Agora o futuro começa aos 2 anos. O Colégio Social de ...",
+        "link": "https://www.instagram.com/reel/DTLwC7pDfJQ/",
+        "snippet": "Além disso, o material didático de 2026 estará com ... Jequié se orgulha de ter no Colégio Matisse um verdadeiro diferencial na educação.",
+        "date": "há 6 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Anísio Teixeira | CAT on Instagram: \"O melhor lugar ...",
+        "link": "https://www.instagram.com/reel/DUVpEtljRy3/",
+        "snippet": "Jequié se orgulha de ter no Colégio Matisse um verdadeiro diferencial na educação. ... 5 Sistema de ensino de ponta. Sistemas de ensino ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "EDITAL MATISSE",
+        "link": "https://querosermatisse.com.br/wp-content/uploads/2024/08/Edital-Concurso-de-bolsas_Matisse_2025.pdf",
+        "snippet": "1.2 O percentual de desconto máximo será de 100% no valor das mensalidades, não incluindo o material didático e afins, como consta no item 7.3.",
+        "date": "15 de ago. de 2024",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

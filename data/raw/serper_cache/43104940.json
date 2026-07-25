@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "43104940",
+  "NO_ENTIDADE": "COLEGIO BATISTA BRASIL",
+  "cidade": "Porto Alegre",
+  "query": "\"COLEGIO BATISTA BRASIL\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BATISTA BRASIL\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Materiais Didáticos",
+        "link": "https://colegiobatistabrasil.com/materiais-didaticos/",
+        "snippet": "Utilizando o material didático do Programa de Formação Ética e Socioemocional Bene, o Colégio Batista Brasil investe na formação socioemocional dos seus ...",
+        "position": 1
+      },
+      {
+        "title": "🎶🙏Os estudantes do Colégio Batista Brasil Porto Alegre que ...",
+        "link": "https://www.facebook.com/colegiobatistabrasil/videos/os-estudantes-do-col%C3%A9gio-batista-brasil-porto-alegre-que-fazem-parte-do-coral-da/3601982426780637/",
+        "snippet": "Os estudantes do Colégio Batista Brasil Porto Alegre que fazem parte ... No photo description available. Colégio Pio XI - ANGLO Sistema de Ensino ...",
+        "date": "há 2 anos",
+        "position": 2
+      },
+      {
+        "title": "Colégio Batista Mineiro | 💡⚙Os estudantes do 4º ano do ...",
+        "link": "https://www.instagram.com/reel/C74vK1GJy4T/",
+        "snippet": "... Material Didático Infinito do COC. Não entregamos apenas apostilas ... Colégio Batista BRASIL RELEVOS PRINCIPAIS CAATINGA QUAL BIOMA PREDOMINA A ...",
+        "date": "há 2 anos",
+        "position": 3
+      },
+      {
+        "title": "Colégio Batista Mineiro | 📚❤️A biblioteca, que geralmente ...",
+        "link": "https://www.instagram.com/p/DXwkFAIG6sK/?img_index=5&hl=en",
+        "snippet": "Porto Alegre Colégio Batista Brasil Nice! ACRILEX. colegiobatista ... apostila. Para finalizar, os pequenos encaixaram as letras nos ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Ensino Médio - Rede Batista de Educação",
+        "link": "https://colegiobatistabrasil.com/ensino-medio/",
+        "snippet": "Pensando nisso, o Colégio Batista Brasil tem o plano pedagógico fundamental no Programa de Formação Socioemocional. Utilizando o material didático do ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31005622",
+  "NO_ENTIDADE": "COLEGIO NOSSA SENHORA DAS DORES - UNIDADE POMPEIA",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO NOSSA SENHORA DAS DORES - UNIDADE POMPEIA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NOSSA SENHORA DAS DORES - UNIDADE POMPEIA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "escolas de educação infantil - Prefeitura de Belo Horizonte",
+        "link": "https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/educacao/2021/escolas_educinfantil-versao-site-validado.pdf",
+        "snippet": "CSJB - COLÉGIO NOSSA SENHORA DAS DORES UNIDADE POMPEIA. SECRETARIA ... SISTEMA DE ENSINO SEJE -EIRELI- ME. SECRETARIA MUNICIPAL DE EDUCAÇÃO - BH.",
+        "position": 1
+      },
+      {
+        "title": "Pedro Ivo Silva Capucho Ferreira",
+        "subtitle": "Contagem, Minas Gerais, Brasil · Coordenador Pedagógico · Colégio Nossa Senhora das Dores",
+        "link": "https://br.linkedin.com/in/pedro-ivo-silva-capucho-ferreira-376a3b1a2",
+        "snippet": "Coordenador Pedagógico no Colégio Nossa Senhora das Dores - Unidade Pompéia ... nov. de 2024 - o momento 1 ano 9 meses. Belo Horizonte, Minas Gerais, Brasil.",
+        "position": 2
+      },
+      {
+        "title": "OBMEP 2019 - Alunos Premiados de Escolas Privadas",
+        "link": "http://premiacao.obmep.org.br/2019/verRelatorioPremiadosGeral-MG.1.privada.do.htm",
+        "snippet": "COLEGIO NOSSA SENHORA DAS DORES - UNIDADE POMPEIA, P, BELO HORIZONTE, MG, ---, Sim. EDUARDO PEIXOTO DE MELO, ESCOLA TECNICA DE DIVINOPOLIS, P, DIVINOPOLIS, MG ...",
+        "position": 3
+      },
+      {
+        "title": "Minha Escola Legal",
+        "link": "http://www.minhaescolalegal.com.br/",
+        "snippet": "BELO HORIZONTE, RUA EMBARÉ, 258, GUARANI, (31) 34336115. CENTRO FORMAÇÃO ... ATUAL SISTEMA DE ENSINO, SABINÓPOLIS, RUA JOVAL DE PINHO, 101, CENTRO, (33) 34232352.",
+        "position": 4
+      },
+      {
+        "title": "Belo Horizonte 2231 escolas",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/busca",
+        "snippet": "COLEGIO NOSSA SENHORA DAS DORES - UNIDADE POMPEIA. ANTONIO JUSTINO, 280 ... Belo Horizonte - Minas Gerais. Rede privada / Urbana · SISTEMA DE ENSINO RENASCER.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

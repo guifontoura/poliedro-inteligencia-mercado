@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "24088846",
+  "NO_ENTIDADE": "COLEGIO PORTO",
+  "cidade": "Natal",
+  "query": "\"COLEGIO PORTO\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PORTO\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Explore o Colégio Porto: Uma Escola de Qualidade",
+        "link": "https://www.tiktok.com/@colegio.porto/video/7402344543921818886",
+        "snippet": "som original - Sistema de Ensino Equipe. 213Curtidas. 10Comentários ... Colegio Interno Natal Rn · Colegio Ciudad Montes · Colegio Lima Villa ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "A reserva de vagas para 2027 já começou. Garanta agora ...",
+        "link": "https://www.instagram.com/p/DVjsrI4AAt_/",
+        "snippet": "Se você quer seu filho na melhor escola de Natal, a decisão começa agora. O Colégio Porto abriu as reservas de vagas para 2027.",
+        "date": "há 4 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Porto festeja aprovados no SISU e conquista mais ...",
+        "link": "https://colegioporto.com.br/colegio-porto-festeja-aprovados-no-sisu-e-conquista-mais-de-20-vagas-em-medicina-em-universidades-publicas-no-enem-2023/",
+        "snippet": "Colégio Porto festeja aprovados no SISU e conquista mais de 20 vagas em Medicina em universidades públicas no Enem 2023. 2 anos atrás; 2 minutos.",
+        "date": "30 de jan. de 2024",
+        "position": 3
+      },
+      {
+        "title": "Colégio Pentágono on Instagram: \"Entre os dias 19 e 21 de ...",
+        "link": "https://www.instagram.com/reel/DT_DHuqCQHG/",
+        "snippet": "... NATAL-RN A ExpoEduc, um dos principais congressos educacionais do Nordeste, traz ... Colégio PORTO RICO Colégio PORTO RICO Sistema ETAPA ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Porto celebra 6 anos consolidado pela excelência ...",
+        "link": "http://blogdajuliska.com.br/colegio-porto-celebra-6-anos-consolidado-pela-excelencia-academica-e-formacao-de-cidadaos-para-o-futuro",
+        "snippet": "O mês de setembro marca os 6 anos do Colégio Porto, em Natal, e ... material didático de alta qualidade e uma cultura de disciplina ...",
+        "date": "22 de set. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

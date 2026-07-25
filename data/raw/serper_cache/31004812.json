@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31004812",
+  "NO_ENTIDADE": "COLEGIO SANTO ANTONIO",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO SANTO ANTONIO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTO ANTONIO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Reunião de acolhida do Programa de Bolsas de Estudo",
+        "link": "https://www.colegiosantoantonio.com.br/reuniao-de-acolhida-do-programa-de-bolsas-de-estudo/",
+        "snippet": "2017, belo horizonte, BH, bolsa de estudos, crianças, Santo Antônio ... Colégio Santo Antônio para um momento de reflexão, com oração, café da manhã ...",
+        "position": 1
+      },
+      {
+        "title": "Conheça a história e os diferenciais do @csa. ...",
+        "link": "https://www.instagram.com/reel/DYNwHyOGAP0/",
+        "snippet": "O Colégio Santo Antônio de Belo Horizonte ficou ... Material Didático Fibonacci. Será que ele gostou ... sistema de ensino Fibonacci, ver que a ...",
+        "position": 2
+      },
+      {
+        "title": "Nossas escolas parceiras mostram que um sistema de ...",
+        "link": "https://www.instagram.com/p/DW7X_o9DVzu/?img_index=2",
+        "snippet": "Lindos resultados de um sistema de ensino que não pensa nas diferenças e na real inclusão. Nem sequer abre espaço para um diálogo com os ...",
+        "date": "há 3 meses",
+        "position": 3
+      },
+      {
+        "title": "No último episódio da nossa série documental, voltamos ao ...",
+        "link": "https://www.facebook.com/cognaedu/videos/no-%C3%BAltimo-epis%C3%B3dio-da-nossa-s%C3%A9rie-documental-voltamos-ao-ponto-de-partida-para-e/1450950853435641/",
+        "snippet": "... Colégio Santo Antônio. Eu estava no quinto ano de ... Belo Horizonte, que teria recebido uma ... material didático de plataformas, inclusive vendemos ...",
+        "position": 4
+      },
+      {
+        "title": "Escolas Conveniadas | CSA",
+        "link": "https://www.colegiosantoantonio.com.br/escolas-conveniadas/",
+        "snippet": "Escola Infantil Montessori de Belo Horizonte. 12, Escola Infantil Villa Cata ... 2025 - CSA | COLÉGIO SANTO ANTÔNIO TODOS OS DIREITOS RESERVADOS.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

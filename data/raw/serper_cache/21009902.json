@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "21009902",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL MONTESSORIANO REINO INFANTIL",
+  "cidade": "São Luís",
+  "query": "\"CENTRO EDUCACIONAL MONTESSORIANO REINO INFANTIL\" \"São Luís\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL MONTESSORIANO REINO INFANTIL\" \"São Luís\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ocupamos 10 vezes o 1º lugar no Ranking ENEM nas ...",
+        "link": "https://www.instagram.com/p/DMtS4X4PxHc/",
+        "snippet": "... São Luís. CRITÉRIO: Média das 5 notas do ENEM: CN + CH + Linguagens ... Centro Educacional Montessoriano Reino Infantil 688,89 3 RF ...",
+        "date": "há 12 meses",
+        "position": 1
+      },
+      {
+        "title": "Regras do Sorteio do Material Didático • Quem pode ...",
+        "link": "https://www.instagram.com/reel/DQby2pmDLpZ/",
+        "snippet": "Regras do Sorteio do Material Didático • Quem ... Centro Educacional Montessoriano Reino Infantil – São Luís – Renascença II – Nota: 688.91",
+        "date": "há 8 meses",
+        "position": 2
+      },
+      {
+        "title": "Os Microdados do ENEM mostram quais instituições ...",
+        "link": "https://www.instagram.com/reel/Da3Bwd6u7m6/",
+        "snippet": "Centro Educacional Montessoriano Reino Infantil – São Luís – Renascença II – Nota: 688.91. Rf Ensino Medio Ltda – São Luís – Calhau – Nota: ...",
+        "date": "há 1 semana",
+        "position": 3
+      },
+      {
+        "title": "Colégio Dom Bosco Balsas on Instagram: \"Nos Colégios Dom ...",
+        "link": "https://www.instagram.com/reel/DSm6mWuDsaQ/",
+        "snippet": "... São Luís 705,2 2 Centro Educacional Montessoriano Reino Infantil 687 ... O matéria didática 'Apostila' nesse Benefício fica que valor!?",
+        "date": "há 7 meses",
+        "position": 4
+      },
+      {
+        "title": "Eliane Oliveira de Abreu",
+        "link": "https://www.escavador.com/sobre/560488674/eliane-oliveira-de-abreu",
+        "snippet": "I Conferência Metropolitana de Meio Ambiente de São Luís.O Maranhão e as Mudanças Climáticas. ... (Desenvolvimento de material didático ou instrucional - Caderno ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

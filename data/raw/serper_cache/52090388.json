@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "52090388",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL IMPACTO LTDA- COLEGIO EXITO",
+  "cidade": "Jataí",
+  "query": "\"CENTRO EDUCACIONAL IMPACTO LTDA- COLEGIO EXITO\" \"Jataí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL IMPACTO LTDA- COLEGIO EXITO\" \"Jataí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Baixar",
+        "link": "https://dadosabertos.go.gov.br/dataset/773b17ff-757c-4e71-bc3b-7f1c8cd4dbeb/resource/f649807d-b91e-44b0-bab6-573833e6c9d3/download/7.matriculas_por_etapa_seduc_2025.csv",
+        "snippet": "... Jataí;Aparecida do Rio Doce;52051684;COLEGIO ESTADUAL SAO JOAO;Estadual ... SISTEMA DE ENSINO MILENIO;Privada;Urbana;183;0;0;70;113;0;0;; 2013;CRE ...",
+        "position": 1
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "CENTRO EDUCACIONAL IMPACTO LTDA- COLEGIO EXITO 12 Jataí GO INSTITUTO SAMUEL ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 2
+      },
+      {
+        "title": "Colegio Estadual Serafim de Carvalho - Jataí - GO",
+        "link": "https://www.escol.as/263507-colegio-estadual-serafim-de-carvalho",
+        "snippet": "Além disso, promove a sustentabilidade com áreas verdes e separação de resíduos, e oferece material didático ... Centro Educacional Impacto Ltda- Colegio Exito.",
+        "position": 3
+      },
+      {
+        "title": "CSV",
+        "link": "https://dadosabertos.go.gov.br/it/datastore/dump/f649807d-b91e-44b0-bab6-573833e6c9d3?bom=True",
+        "snippet": "... Jataí,Aparecida do Rio Doce,52051684,COLEGIO ESTADUAL SAO JOAO,Estadual ... SISTEMA DE ENSINO MILENIO,Privada,Urbana,183,0,0,70,113,0,0 3156,2013,CRE ...",
+        "position": 4
+      },
+      {
+        "title": "CSV",
+        "link": "https://dadosabertos.go.gov.br/datastore/dump/ed322952-5d30-4337-8d43-f8297121c153?bom=True",
+        "snippet": "... Jataí,Aparecida do Rio Doce,Urbana,\"AV BUENOS AIRES, 650\",CENTRO,64 36371536 ... SISTEMA DE ENSINO MILENIO,Privada,CRE Goiânia,Goiânia,Urbana,\"AVENIDA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

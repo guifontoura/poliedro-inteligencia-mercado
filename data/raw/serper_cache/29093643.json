@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "29093643",
+  "NO_ENTIDADE": "COLEGIO SANTO ANTONIO",
+  "cidade": "Feira de Santana",
+  "query": "\"COLEGIO SANTO ANTONIO\" \"Feira de Santana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTO ANTONIO\" \"Feira de Santana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Santo Antônio: 62 anos de tradição, ensino de ...",
+        "link": "https://www.acordacidade.com.br/educacao/colegio-santo-antonio-62-anos-de-tradicao-ensino-de-qualidade-e-valores-humanistas/",
+        "snippet": "O tradicional Colégio Santo Antônio (CSA), em Feira de Santana, vem se destacando pela qualidade no ensino. A instituição, que há 62 anos ...",
+        "date": "24 de dez. de 2024",
+        "position": 1
+      },
+      {
+        "title": "Colégio @colegiometha no topo da educação em Mato ...",
+        "link": "https://www.instagram.com/reel/DM5m6qPsAv2/",
+        "snippet": "... Material didático baseado na TRI (mesma do ENEM) ‍ Corpo docente ... o Colegio Santo Antonio, de Minas Gerais, teve uma média maior ...",
+        "date": "há 11 meses",
+        "position": 2
+      },
+      {
+        "title": "Antonio Vilas Boas",
+        "link": "https://www.escavador.com/sobre/486840/antonio-vilas-boas",
+        "snippet": "... material didático.. 2019. (Simpósio). V ENCONTRO ESTADUAL DE ENSINO DE ... COLÉGIO SANTO ANTONIO EM FEIRA DE SANTANA-BA. 2005. (Apresentação de ...",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "COLEGIO NOBRE DE FEIRA DE SANTANA, P, FEIRA DE SANTANA, BA, Bronze. GUILHERME ... SISTEMA DE ENSINO UNO VERTICE, P, DIVINOPOLIS, MG, Bronze. HEITOR SOARES DE ...",
+        "position": 4
+      },
+      {
+        "title": "2º lugar em Linguagens e Ciências Humanas 🥉 3º ...",
+        "link": "https://www.instagram.com/p/DbBCXh8hd-t/",
+        "snippet": "... COLEGIO SANTO ANTONIO 31004812 3 COL PODION ENS FUND E MEDIO ... Feira de Santana, os colégios Helyos e Acesso. As melhores escolas do ...",
+        "date": "há 4 dias",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

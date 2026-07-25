@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "23025255",
+  "NO_ENTIDADE": "CENTRO DE EDUCACAO BASICA E PROFISSIONAL PROFESSOR LUCIANO FEIJAO",
+  "cidade": "Sobral",
+  "query": "\"CENTRO DE EDUCACAO BASICA E PROFISSIONAL PROFESSOR LUCIANO FEIJAO\" \"Sobral\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO DE EDUCACAO BASICA E PROFISSIONAL PROFESSOR LUCIANO FEIJAO\" \"Sobral\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 9° ANO",
+        "link": "https://obquimica.org/storage/files/01K92D8X8J0CBEC6S5CFDQXAWT.pdf",
+        "snippet": "CENTRO DE EDUCACAO BASICA E PROFISSIONAL PROFESSOR LUCIANO FEIJAO. CE. Sobral certificado NATÁLIA MALISKI MOREIRA. COLEGIO POSITIVO MASTER - EDUCACAO INFANTIL ...",
+        "position": 1
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... CENTRO DE EDUCACAO BASICA E PROFISSIONAL PROFESSOR LUCIANO FEIJAO. 23025255 CE. Sobral ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA.",
+        "position": 2
+      },
+      {
+        "title": "05/mai/99 03/mai/99 21/set/98 19/dez/99 16/mar/00 14/nov ...",
+        "link": "https://www.darwin.com.br/wp-content/uploads/2019/05/Resultados-Olimpiada-Brasileira-de-Biologia-2016.pdf",
+        "snippet": "CENTRO DE EDUCACAO BASICA E PROFISSIONAL PROFESSOR LUCIANO FEIJAO. CE. 24/nov ... SISTEMA DE ENSINO EQUIPE. PA. 978 RAFAEL SILVA LEMOS. 50. E E I F M TENENTE ...",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-CE.3.privada.do.htm",
+        "snippet": "CENTRO DE EDUCACAO BASICA E PROFISSIONAL PROFESSOR LUCIANO FEIJAO, P, SOBRAL, CE, Sim. HELBERT VALERIO CARNEIRO, CENTRO DE EDUCACAO BASICA E PROFISSIONAL ...",
+        "position": 4
+      },
+      {
+        "title": "Notas de Alunos por Escola e Município | PDF | Brasil",
+        "link": "https://pt.scribd.com/document/648033627/Docspike-com-Clique-Aqui-Para-Fazer-o-Da-Lista-Em-PDF",
+        "snippet": "LEÃ”NCIO RIKELME MEDEIROS CARNEIRO 25 CENTRO DE EDUCACAO BASICA E PROFISSIONAL PROFESSOR LUCIANO FEIJAO SOBRAL JEFFERSON LUCAS DE SOUSA 25 EEFM DE CAMPOS ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

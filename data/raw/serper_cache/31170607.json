@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31170607",
+  "NO_ENTIDADE": "INSTITUTO TERESA VALSE",
+  "cidade": "Uberlândia",
+  "query": "\"INSTITUTO TERESA VALSE\" \"Uberlândia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INSTITUTO TERESA VALSE\" \"Uberlândia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "educação infantil - Uberlândia",
+        "link": "https://www.teresavalse.com.br/instituto-teresa-valse/pagina/educacao-infantil3",
+        "snippet": "A Educação Infantil no Instituto Teresa Valsé promove o desenvolvimento ... O material didático Girolhar, de bases vivenciais, é o eixo norteador dessa ...",
+        "position": 1
+      },
+      {
+        "title": "Você já conhece o Instituto Teresa Valsé? Vem com a gente ...",
+        "link": "https://www.instagram.com/reel/CvryQr0PXZ3/",
+        "snippet": "... material didático da Editora EDB, que faz parte da rede salesiana, nas ... INSTITUTO TERESA VALSÉ UBERLÂNDIA-MG O SACI ESTAVA AQUI?",
+        "date": "há 2 anos",
+        "position": 2
+      },
+      {
+        "title": "INSTITUTO TERESA VALSÉ PANTELLINI",
+        "link": "https://seer.ufu.br/index.php/che/article/download/3718/2738/13819",
+        "snippet": "de HPHLGD FLGDGH · Citado por 2 — ... Instituto Teresa Valsé Pantellini em Uberlândia,. MG, com a finalidade de ... ] o material didático era mais o treino da gente, o que a gente tinha ...",
+        "position": 3
+      },
+      {
+        "title": "Instituto Teresa Valsé",
+        "link": "https://www.patronatogo.com.br/instituto-teresa-valse/pagina/ensino-medio1",
+        "snippet": "... material didático digital, aplicativos, dentre outras, que são recursos ... Uberlândia - MG; CEP: 38400724; Veja no Mapa. Telefone. Fixo: (34) 3228-6500 ...",
+        "position": 4
+      },
+      {
+        "title": "Instituto Teresa Valsé",
+        "link": "https://www.imaonline.com.br/instituto-teresa-valse/informes/17435",
+        "snippet": "Apresentamos o material didático – ROTAS, a grade curricular, falamos sobre ... Endereço. AVENIDA MATO GROSSO, 1625; Bairro: BRASIL; Uberlândia - MG; CEP ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

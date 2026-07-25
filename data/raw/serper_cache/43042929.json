@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "43042929",
+  "NO_ENTIDADE": "COLEGIO SAO JOAO BATISTA",
+  "cidade": "Caxias do Sul",
+  "query": "\"COLEGIO SAO JOAO BATISTA\" \"Caxias do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAO JOAO BATISTA\" \"Caxias do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Rede Particular - 2015 - Secretaria da Educação",
+        "link": "https://servicos.educacao.rs.gov.br/dados/estatisticas_cad_par_2015.pdf",
+        "snippet": "4 Caxias do Sul. 43042929 COLEGIO SAO JOAO BATISTA. Urbana. RUA JOSE DE CARLI. 850. UNIVERSITARIO. 95041290 54 32045300 SECRETARIA@COLEGIOSJBCAXIAS.COM.BR. 4 ...",
+        "position": 1
+      },
+      {
+        "title": "Detalhado - NÃO PAGAS - Portal Gov.br",
+        "link": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pdde/media-pdde/comunicados/relao_entidadesmantenedoras_comunicado_17_cartoPDDE.xlsx",
+        "snippet": "SISTEMA DE ENSINO VESTIBULANDO, 15587983, 560, PDDE-EDUCAC?O ESPECIAL ... COLEGIO SAO JOAO BATISTA, 43042929, 680, PDDE-EDUCAC?O ESPECIAL, PARTICULAR, 6. 1594 ...",
+        "position": 2
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/",
+        "snippet": "COLEGIO SAO JOAO BATISTA NOVA FRIBURGO, NOVA FRIBURGO ... CENTRO TECNOLOGICO UNIVERSIDADE CAXIAS DO SUL - UNIDADE DE ENSINO DE CAXIAS DO SUL ...",
+        "date": "5 de ago. de 2015",
+        "position": 3
+      },
+      {
+        "title": "Lista de Colégios Privados no Brasil | PDF | São Paulo",
+        "link": "https://pt.scribd.com/doc/273617459/Ranking-Brasil",
+        "snippet": "CAXIAS DO SUL UNIDADE DE ENSINO DE VERANOPOLIS IFES - CAMPUS PIUMA. SP. SAO ... SISTEMA DE ENSINO MESON PI. PA. CASTANHAL. Privada. Urbana. 102. INSTITUTO ...",
+        "position": 4
+      },
+      {
+        "title": "Tudo o que você precisa saber sobre as regras do Enem ...",
+        "link": "https://exame.com/brasil/tudo-o-que-voce-precisa-saber-sobre-as-regras-do-enem-2015/",
+        "snippet": "SISTEMA DE ENSINO MESON PI, 551,33, 653,47. 30º, PARAUAPEBAS, Privada ... COLEGIO SAO JOAO BATISTA NOVA FRIBURGO, 650,76, 737,00. 38º, RIO DE ...",
+        "date": "14 de mai. de 2015",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

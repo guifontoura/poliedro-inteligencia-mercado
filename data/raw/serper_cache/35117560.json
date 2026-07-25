@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35117560",
+  "NO_ENTIDADE": "BEZERRA DE MENEZES COLEGIO EIFM E TECNICO",
+  "cidade": "Marília",
+  "query": "\"BEZERRA DE MENEZES COLEGIO EIFM E TECNICO\" \"Marília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"BEZERRA DE MENEZES COLEGIO EIFM E TECNICO\" \"Marília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "BEZERRA DE MENEZES COLEGIO EIFM E TECNICO 300610 48 Marília SP COLEGIO ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 1
+      },
+      {
+        "title": "Oracina Correa de Moraes Rodine Profa - Marília - SP",
+        "link": "https://www.escol.as/193008-oracina-correa-de-moraes-rodine-profa",
+        "snippet": "O material didático inclui jogos educativos, acervo multimídia e equipamentos esportivos. ... Bezerra de Menezes Colegio Eifm e Tecnico. Alto Cafezal ...",
+        "position": 2
+      },
+      {
+        "title": "Abel Augusto Fragata - Marília - SP",
+        "link": "https://www.escol.as/192287-abel-augusto-fragata",
+        "snippet": "... material didático diversificado como jogos educativos e instrumentos musicais. ... Bezerra de Menezes Colegio Eifm e Tecnico. Alto Cafezal, Marília - SP.",
+        "position": 3
+      },
+      {
+        "title": "EMEI Sitio do Pica Pau Amarelo - Marília - SP",
+        "link": "https://www.escol.as/196363-sitio-do-pica-pau-amarelo",
+        "snippet": "O contato com a tecnologia é facilitado por meio de internet banda larga, material didático e brinquedos pedagógicos. A alimentação é oferecida com cuidado ...",
+        "position": 4
+      },
+      {
+        "title": "Baltazar de Godoy Moreira Prof - Marília - SP",
+        "link": "https://www.escol.as/192289-baltazar-de-godoy-moreira-prof",
+        "snippet": "A Escola Baltazar de Godoy Moreira Prof está localizada em Marília - SP, no endereço Vinte e Quatro de Dezembro, 2687, no bairro de Somenzari.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

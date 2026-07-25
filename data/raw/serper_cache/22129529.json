@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "22129529",
+  "NO_ENTIDADE": "CEV COLEGIO UNIDADE JOCKEY",
+  "cidade": "Teresina",
+  "query": "\"CEV COLEGIO UNIDADE JOCKEY\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CEV COLEGIO UNIDADE JOCKEY\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "CEV Colégio on Instagram: \"Agora, o CEV Kennedy passa a ...",
+        "link": "https://www.instagram.com/reel/DTtXxlHDupd/",
+        "snippet": "... Teresina/PI 737,2 33 +0,9% 3º CEV Colégio Unidade Jockey Teresina/PI ... Conectivo Sistema de Ensino APROVADA APROVADO CONECTIVO ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "objetivo.teresina",
+        "link": "https://www.instagram.com/p/DbBPFLIBicT/",
+        "snippet": "... CEV Colégio Unidade Jockey Teresina/PI 731,8 34 +1,8% 4º Anbeas ... Sistema de Ensino anglo APROVADO EM 6 UNIVERSIDADES! ODONTOLOGIA ...",
+        "date": "há 4 dias",
+        "position": 2
+      },
+      {
+        "title": "Nossos alunos marcaram presença no ENEM ON FIRE em ...",
+        "link": "https://www.instagram.com/reel/DQ-p8T2EWiY/",
+        "snippet": "... Teresina! Uma super revisão cheia de energia, foco e aprendizado ... CEV Colégio Unidade Jockey Teresina/PI 731,8 34 +1,8% 4º Anbeas ...",
+        "date": "há 8 meses",
+        "position": 3
+      },
+      {
+        "title": "Ranking do Enem: Melhores escolas do Brasil na redação",
+        "link": "https://blog.imaginie.com.br/ranking-enem-redacao/",
+        "snippet": "Sistema de Ensino Equipe Integrado Eireli – EPP | Belém (PA): 906 ... CEV Colégio Unidade Jockey | Teresina (PI): 894,1; Colégio Olimpo ...",
+        "date": "26 de jun. de 2026",
+        "position": 4
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2211001-teresina/busca",
+        "snippet": "CENTRO MUNICIPAL DE EDUCACAO INFANTIL LIMOEIRO. RURAL, S/N. AREA RURAL DE TERESINA. 64099899 Teresina - Piauí. Rede municipal / Rural ... CPI SISTEMA DE ENSINO.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

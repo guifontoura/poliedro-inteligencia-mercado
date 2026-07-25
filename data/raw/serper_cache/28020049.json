@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "28020049",
+  "NO_ENTIDADE": "LICEU DE ESTUDOS INTEGRADOS",
+  "cidade": "Aracaju",
+  "query": "\"LICEU DE ESTUDOS INTEGRADOS\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LICEU DE ESTUDOS INTEGRADOS\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Educação Infantil - Colégio Liceu",
+        "link": "https://colegioliceuaju.com.br/infantil/",
+        "snippet": "Por tudo isso, o LICEU DE ESTUDOS INTEGRADOS recebe cada um de seus alunos da Educação Infantil, e suas famílias, com um abraço acolhedor e fraterno.",
+        "position": 1
+      },
+      {
+        "title": "Milton Gomes Coelho",
+        "link": "https://www.escavador.com/sobre/2200552/milton-gomes-coelho",
+        "snippet": "Extensão universitária em I MOSTRA CULTURAL DO LICEU DE ESTUDOS INTEGRADOS. (Carga horária: 20h). , LICEU DE ESTUDOS INTEGRADOS, LICEU, Brasil. 2000 - 2000.",
+        "position": 2
+      },
+      {
+        "title": "MÓDULO II - BOLETIM N° 004",
+        "link": "https://www.fsde.com.br/2025_boletim/2025_JETVSE_M2_Boletim_0004.pdf",
+        "snippet": "Aracaju, SE, quinta-feira, 02 de outubro de 2025. FSDE – www.fsde.com.br. Página 1 ... JOÃO FLÁVIO CARNEIRO LEÃO BRAGA SISTEMA DE ENSINO INTELLECTUS.",
+        "position": 3
+      },
+      {
+        "title": "Ada Augusta - Curriculum Vitae",
+        "link": "https://unit.academia.edu/AdaAugusta/CurriculumVitae",
+        "snippet": "... ARACAJU/SE - Brasil CPF 033.744.595-87 ... (Desenvolvimento de material didático ou instrucional) 4. BEZERRA, Ada Augusta Celestino; NOBRE, L. M. ...",
+        "position": 4
+      },
+      {
+        "title": "JOGOS ESCOLARES TV SERGIPE",
+        "link": "https://sge-aquaticos.bigmidia.com/_uploads/piscina/40203/054020300000000000000000000000000000891.pdf",
+        "snippet": "LICEU DE ESTUDOS INTEGRADOS. 1223. 214. 3. 7. 6º. SALVADOR. COLÉGIO DO ... SISTEMA DE ENSINO INTELLECTUS. 0101. 010. 0. 1. 17º. BABYLÂNDIA. JARDIM ...",
+        "date": "12 de set. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

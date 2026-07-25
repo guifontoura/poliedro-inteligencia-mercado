@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35120285",
+  "NO_ENTIDADE": "MIGUEL DE CERVANTES COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"MIGUEL DE CERVANTES COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"MIGUEL DE CERVANTES COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.1.privada.do.htm",
+        "snippet": "RIO CLARO SISTEMA DE ENSINO, P, RIO CLARO, SP, Sim. ANDRE HENRIQUE ALMEIDA ... MIGUEL DE CERVANTES COLEGIO, P, SAO PAULO, SP, Sim. GABRIEL HIDEO TSUTSUI, REGGIO ...",
+        "position": 1
+      },
+      {
+        "title": "Publicação de Màrcos Talarico",
+        "link": "https://pt.linkedin.com/posts/m%C3%A0rcos-talarico-033b1b24_existe-uma-diferen%C3%A7a-importante-entre-uma-activity-7478065330725064704-Mc6X",
+        "snippet": "... Miguel de Cervantes - Colégio Antônio Vieira - Colégio Anchieta - Salvador/Bahia - Colégio São Paulo ... O mercado de material didático pode ...",
+        "date": "há 3 semanas",
+        "position": 2
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO DOS ... LEONARDO DA VINCI COLEGIO DE ENSINO FUNDAMENTAL E MEDIO SÃO PAULO. Jundiaí.",
+        "position": 3
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536524033/Premiacao-3%C2%BA-Ano-Em-Nivel-d-2019-1",
+        "snippet": "FRANCISCO RIBEIRO STELZER MIGUEL DE CERVANTES COLEGIO SÃO PAULO São Paulo ... LUCA DE FREITAS GARCIA SEI - SISTEMA DE ENSINO INTERATIVO RIO DE JANEIRO Rio de ...",
+        "position": 4
+      },
+      {
+        "title": "Leila Rentroia Iannone",
+        "link": "https://www.escavador.com/sobre/885068/leila-rentroia-iannone",
+        "snippet": "O Estado de São Paulo - Cultura, São Paulo, , v. N. 451, p. 12 - 12, 11 mar ... O material didático como material de estudo.. 1996 (Palestra) . IANNONE ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

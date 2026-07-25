@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "13099981",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL LATO SENSU III",
+  "cidade": "Manaus",
+  "query": "\"CENTRO EDUCACIONAL LATO SENSU III\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL LATO SENSU III\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ac24horas on Instagram: \"Durante entrevista ao programa Bar ...",
+        "link": "https://www.instagram.com/reel/DUl-5g5lZEm/",
+        "snippet": "... material didático de qualidade. #bardovaz # ... O debate se amplia pelo valor das mensalidades em Manaus, semelhantes ou superiores às de ...",
+        "date": "há 5 meses",
+        "position": 1
+      },
+      {
+        "title": "Encerrando um lindo ciclo! Os alunos do 9º ano finalizam ...",
+        "link": "https://www.instagram.com/reel/DSqBKaTEZ9F/",
+        "snippet": "O Sistema de Ensino SEI Incentivo conquistou o 1º lugar entre as ... MANAUS Figue Ligado Manaus Fique Ligado @manausfiqueligado DISPUTA ...",
+        "date": "há 7 meses",
+        "position": 2
+      },
+      {
+        "title": "O Mangueirinho foi palco de mais um grande momento ...",
+        "link": "https://www.instagram.com/p/DRpJatzDWPq/",
+        "snippet": "... Manaus. A aplicação das provas, nos dois domingos, terá início às ... Centro Educacional Lato Sensu III (Santo Agostinho) – 687,01 4.",
+        "date": "há 7 meses",
+        "position": 3
+      },
+      {
+        "title": "10 melhores escolas particulares em Manaus - Revista ME",
+        "link": "https://www.melhorescola.com.br/artigos/as-10-melhores-escolas-particulares-de-manaus-segundo-pais-alunos-e-professores",
+        "snippet": "Quais são as melhores escolas particulares de Manaus pelo Enem? ; 1. Centro Educacional Lato Sensu III. Manaus ; 2. Centro Educacional Lato Sensu.",
+        "date": "2 de mai. de 2025",
+        "position": 4
+      },
+      {
+        "title": "Viralizou um vídeo na web citando as melhores escolas do ...",
+        "link": "https://www.instagram.com/reel/DVTik0TDtl0/",
+        "snippet": "E em primeiríssimo lugar, o sistema de ensino Equipe do Pará ... Manaus) 695,51 3º Centro Educacional Lato Sensu III (Santo Agostinho ...",
+        "date": "há 4 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

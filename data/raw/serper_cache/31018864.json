@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "31018864",
+  "NO_ENTIDADE": "CENTRO DE EDUCACAO ANGHER",
+  "cidade": "Barbacena",
+  "query": "\"CENTRO DE EDUCACAO ANGHER\" \"Barbacena\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO DE EDUCACAO ANGHER\" \"Barbacena\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Aqui no Angher, nosso objetivo é garantir que a escola seja um ...",
+        "link": "https://www.instagram.com/reel/DGd1qNYshQW/",
+        "snippet": "Photo by Centro de Educaçao Angher | Barbacena on July 20, 2026. May ... Hoje aconteceu a 1ª Avaliação EDROS do Sistema de Ensino ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Seu filho merece a educação que o levará ao topo. 🏆 ...",
+        "link": "https://www.instagram.com/p/DRhY93HDGGC/?hl=ms",
+        "snippet": "... MATERIAL DIDÁTICO MAXI INCLUSO Tire suas dúvidas: 18 ... Photo by Centro de Educaçao Angher | Barbacena on July 08, 2026. Mungkin imej.",
+        "date": "há 8 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Gibran ✨ Parabéns ao nosso ex-aluno Cauã Benzatti ...",
+        "link": "https://www.instagram.com/reel/DOgsW5aD9c-/",
+        "snippet": "Photo by Centro de Educaçao Angher | Barbacena on July 08, 2026. May ... GABARITO UNIDADE LICENCIADA SISTEMA DE ENSINO VEM PRO GABARITO ...",
+        "date": "há 10 meses",
+        "position": 3
+      },
+      {
+        "title": "O Ensino Médio da Escola Barão tem entre seus ...",
+        "link": "https://www.instagram.com/p/DPUVzE5jxQS/",
+        "snippet": "Photo by Centro de Educaçao Angher | Barbacena on July 01, 2026. May be.",
+        "date": "há 9 meses",
+        "position": 4
+      },
+      {
+        "title": "Somos PRIMEIRO lugar no ENEM nas cidades de Jaú e Barra ...",
+        "link": "https://www.instagram.com/reel/DMqUJumxd02/",
+        "snippet": "Photo by Centro de Educaçao Angher | Barbacena on July 08, 2026. May ... Sistema de Ensino Fonte: Radar Enem Bernoulli ...",
+        "date": "há 12 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

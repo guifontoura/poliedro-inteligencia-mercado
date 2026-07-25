@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35125436",
+  "NO_ENTIDADE": "SAPIENS CURSO E COLEGIO",
+  "cidade": "São Carlos",
+  "query": "\"SAPIENS CURSO E COLEGIO\" \"São Carlos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SAPIENS CURSO E COLEGIO\" \"São Carlos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Collegium Sapiens on Instagram: \"Você conhece o Sapiens ...",
+        "link": "https://www.instagram.com/reel/DIU0JjVg3L4/",
+        "snippet": "430 87 1 35125436 SAPIENS CURSO E COLÉGIO Privada SP São Carlos 38 ... Material didático de excelência Professores especializados e o ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "O CASDinho é formado por uma equipe incrível ...",
+        "link": "https://www.instagram.com/p/Da1E5_0mIPT/",
+        "snippet": "sistema de Ensino Etapa no Domus COLÉGIO DOMUS Sapiens 30 Anos ... Entre todas as redes de ensino de São Carlos, o Sapiens Curso e Colégio ...",
+        "date": "há 1 semana",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "SAPIENS CURSO E COLEGIO, P, SÃO CARLOS, SP, Sim. PEDRO AKIRA NORONHA OIKAWA ... ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Sim. MARIA EDUARDA BATISTA SÁ ...",
+        "position": 3
+      },
+      {
+        "title": "Senac Campinas on Instagram: \"Durante o sábado letivo do ...",
+        "link": "https://www.instagram.com/reel/DXjgW7Ima16/",
+        "snippet": "Entre todas as redes de ensino de São Carlos, o Sapiens Curso e Colégio obteve a maior média geral no Enem 2025, com 670,84 pontos, segundo ...",
+        "date": "há 3 meses",
+        "position": 4
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... São Carlos. Agatha Rebeca Valadares Barbosa. 3º ano - Ensino Médio. 13. 10 IFMA ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

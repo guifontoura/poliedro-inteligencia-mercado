@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "31005975",
+  "NO_ENTIDADE": "INSTITUTO CORACAO DE JESUS",
+  "cidade": "Belo Horizonte",
+  "query": "\"INSTITUTO CORACAO DE JESUS\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INSTITUTO CORACAO DE JESUS\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "BHTRANS - Belo Horizonte",
+        "link": "http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S09F03-escolar5a.asp?lingua=",
+        "snippet": "INSTITUTO CORACAO DE JESUS · INSTITUTO DE EDUCACAO DE MINAS GERAIS - IEMG ... SISTEMA DE ENSINO RENASCER · SISTEMA PIAGET DE ENSINO · UMEI BRAUNAS · UMEI ...",
+        "position": 1
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "INSTITUTO CORACAO DE JESUS. 1,2%. INSTITUTO CRISTAO ARCA DA ALIANCA. 24,1 ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA - UNIDADE ...",
+        "position": 2
+      },
+      {
+        "title": "UF Município Código Escola no INEP CNPJ Entidade ...",
+        "link": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/financiamento/fundeb/2025-1/InstituiesconveniadasFundeb2025v2.pdf",
+        "snippet": "... INSTITUTO CORACAO DE JESUS. PRÉ-ESCOLA PARCIAL CONVENIADA CAMPO. 35 ... BELO HORIZONTE. 31252751. APAE ESCOLA OFICINA SOFIA ANTIPOFF. EDUCAÇÃO ESPECIAL ...",
+        "position": 3
+      },
+      {
+        "title": "Instituto Coracao de Jesus Ltda em Belo Horizonte, MG",
+        "link": "https://www.econodata.com.br/consulta-empresa/17258229000123-instituto-coracao-de-jesus-ltda",
+        "snippet": "Consulte Instituto Coracao de Jesus Ltda: CNPJ 17.258.229/0001-23, sede em Belo Horizonte/MG ... Sistema de Ensino Bernoulli. Ao longo de sua história ...",
+        "position": 4
+      },
+      {
+        "title": "Vagas de Estagio De Pedagogia em Belo Horizonte, MG",
+        "link": "https://br.indeed.com/q-estagio-de-pedagogia-l-belo-horizonte,-mg-vagas.html",
+        "snippet": "ESTAGIÁRIA DE PEDAGOGIA (manhã). INSTITUTO CORACAO DE JESUS LTDA. Belo Horizonte, MG. Descrição Se você gosta de desafios e está buscando um ambiente de muito ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

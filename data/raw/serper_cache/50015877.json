@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "50015877",
+  "NO_ENTIDADE": "ESCOLA PRESBITERIANA ERASMO BRAGA",
+  "cidade": "Dourados",
+  "query": "\"ESCOLA PRESBITERIANA ERASMO BRAGA\" \"Dourados\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA PRESBITERIANA ERASMO BRAGA\" \"Dourados\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "A Escola Presbiteriana Erasmo Braga, uma instituição com 85 ...",
+        "link": "https://www.facebook.com/escolapresbiterianaerasmobraga/videos/a-escola-presbiteriana-erasmo-braga-uma-institui%C3%A7%C3%A3o-com-85-anos-de-tradi%C3%A7%C3%A3o-em-e/1699967140835690/",
+        "snippet": "Nosso sistema de ensino é baseado no renomado ... Há 87 anos, a Escola Presbiteriana Erasmo Braga faz parte da história de Dourados,.",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Preparação de verdade acontece com prática. Na Escola ...",
+        "link": "https://www.instagram.com/reel/DZ53Z8nlLMt/",
+        "snippet": "... Dourados #DouradosMS #Simulado #ENEM #Vestibular #EnsinoMédio ... Na Escola Presbiteriana Erasmo Braga, os alunos realizam simulados ...",
+        "position": 2
+      },
+      {
+        "title": "Escola Erasmo Braga completa 75 anos Matéria do dia 27 ...",
+        "link": "https://www.facebook.com/groups/douradosrecantoshistorias/posts/953630558135017/",
+        "snippet": "... material didático utilizado em sala de aula é do ... Escola Presbiteriana Erasmo Braga ... Escola Presbiteriana Erasmo Braga, a mais antiga de Dourados, completa 75 ...",
+        "position": 3
+      },
+      {
+        "title": "educar com fé, valores e excelência. Desde os primeiros ...",
+        "link": "https://www.instagram.com/p/DXKxc49n_Hk/",
+        "snippet": "... Escola Presbiteriana Erasmo Braga nasceu em 1939, a partir de um ... Dourados, até a conquista de sua sede própria e o crescimento ao ...",
+        "date": "há 3 meses",
+        "position": 4
+      },
+      {
+        "title": "Há 87 anos, a Escola Presbiteriana Erasmo Braga faz parte ...",
+        "link": "https://www.instagram.com/reel/DajEIhXlSND/",
+        "snippet": "Há 87 anos, a Escola Presbiteriana Erasmo Braga faz parte da história de Dourados ... Material didático 100% digital Mensalidade ZERO ...",
+        "date": "há 2 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

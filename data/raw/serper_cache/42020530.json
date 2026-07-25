@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "42020530",
+  "NO_ENTIDADE": "ASSOCIACAO EDUCACIONAL LUTERANA BOM JESUS IELUSC",
+  "cidade": "Joinville",
+  "query": "\"ASSOCIACAO EDUCACIONAL LUTERANA BOM JESUS IELUSC\" \"Joinville\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ASSOCIACAO EDUCACIONAL LUTERANA BOM JESUS IELUSC\" \"Joinville\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SC.2.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões · Apostilas do PIC ... ASSOCIACAO EDUCACIONAL LUTERANA BOM JESUS-IELUSC, P, JOINVILLE, SC, ---, Sim.",
+        "position": 1
+      },
+      {
+        "title": "Repasses_2017",
+        "link": "https://www.fnde.gov.br/Fies/Repasse_2017_fevereiro.xlsx",
+        "snippet": "ASSOCIACAO EDUCACIONAL LUTERANA BOM JESUS/IELUSC, SC, JOINVILLE, 1014, INSTITUTO ... SISTEMA DE ENSINO SUPERIOR CIDADE DE BELO HORIZONTE LTDA - ME, MG, BELO ...",
+        "position": 2
+      },
+      {
+        "title": "efeitos de um programa de exercício físico na recuperação ...",
+        "link": "https://www.researchgate.net/publication/355763799_EFEITOS_DE_UM_PROGRAMA_DE_EXERCICIO_FISICO_NA_RECUPERACAO_DE_PACIENTE_COM_LESAO_TOTAL_DO_TENDAO_CALCANEO_UM_ESTUDO_DE_CASO",
+        "snippet": "... Joinville · Marilda Morais da Costa at Associacao Educacional Luterana - Bom Jesus/IELUSC ... material didático útil e viável, visto que os ...",
+        "date": "14 de mai. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Anuzia Ramos de Araujo Viana - Processos",
+        "link": "https://www.escavador.com/nomes/anuzia-ramos-de-araujo-viana-3a29ad3ef7",
+        "snippet": "Anuzia Ramos de Araujo Viana,Juízo de Direito da 7ª Vara Cível da Comarca de Joinville - Sc, Associacao Educacional Luterana Bom Jesus/Ielusc . Ver processo.",
+        "position": 4
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/31/PREMIA%C3%87%C3%83O%209%C2%BA%20ANO%20EF%20NIVEL%20A%202019.pdf",
+        "snippet": "ASSOCIACAO EDUCACIONAL LUTERANA BOM JESUS-IELUSC. SANTA CATARINA. Joinville ... ZETA SISTEMA DE ENSINO DE BIRIGUI. SÃO PAULO. Birigui. HUANG PO CHIANG. NIPO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33027404",
+  "NO_ENTIDADE": "ESCOLA CANTO DOS PASSAROS",
+  "cidade": "Cabo Frio",
+  "query": "\"ESCOLA CANTO DOS PASSAROS\" \"Cabo Frio\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA CANTO DOS PASSAROS\" \"Cabo Frio\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Nossos alunos do Year 3 foram oficialmente nomeados ...",
+        "link": "https://www.instagram.com/reel/DIPWYMLxvUH/",
+        "snippet": "... material didático ... CANTO NO ENEM 2025 1º COLOCADO NA CIDADE DE CABO FRIO Escola Canto dos pássaros PRIMEIRO LUGAR EM 5 DOS ÚLTIMOS 6 ANOS.",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Escola Canto dos Pássaros (@escolacantodospassaros)",
+        "link": "https://www.instagram.com/escolacantodospassaros/",
+        "snippet": "... Cabo Frio, RJ. ... Não é só material didático. É onde o aprendizado ...",
+        "position": 2
+      },
+      {
+        "title": "Ontem celebramos a formatura da 3ª série! Vocês encerraram ...",
+        "link": "https://www.instagram.com/reel/DDPZcpnRJJR/",
+        "snippet": "Nosso material didático é próprio, desenvolvido pelo Canto dos ... Photo by Escola Canto dos Pássaros on June 02, 2026. May be an image.",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Escola Canto Dos Pássaros",
+        "link": "https://www.facebook.com/escola.cantodospassaros/photos/d41d8cd9/1412601130905502/",
+        "snippet": "Escola Canto Dos Pássaros added a new photo ... Nosso material didático é próprio ... Clube Náutico de Cabo Frio · . Follow · Colégio Potencial · . Follow.",
+        "position": 4
+      },
+      {
+        "title": "NEP on Instagram: \"Já reparou que um NEP é azul e o outro é ...",
+        "link": "https://www.instagram.com/reel/DC61Zx7xRv_/",
+        "snippet": "Unindo o melhor sistema de ensino ... CANTO NO ENEM 2025 1º COLOCADO NA CIDADE DE CABO FRIO Escola Canto dos pássaros PRIMEIRO LUGAR EM 5 DOS ...",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "32077610",
+  "NO_ENTIDADE": "UP CENTRO EDUCACIONAL",
+  "cidade": "Vitória",
+  "query": "\"UP CENTRO EDUCACIONAL\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"UP CENTRO EDUCACIONAL\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "UP - Educando para Sempre (@upvix)",
+        "link": "https://www.instagram.com/upvix/",
+        "snippet": "UP Centro Educacional Ensino Fundamental II | Ensino Médio | Pré-vestibular. Vila Velha | P. do Canto | J. da Penha | J. Camburi Sobre matrículas.",
+        "position": 1
+      },
+      {
+        "title": "Juiz de Fora agora conta com um novo espaço para formação ...",
+        "link": "https://www.instagram.com/reel/DTyTu9IjgMR/",
+        "snippet": "A proposta é oferecer uma educação com estrutura moderna, equipe qualificada, material didático atualizado e um ambiente pensado para o ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Tá difícil focar nos estudos? Só na Escola SEB você pode ...",
+        "link": "https://www.facebook.com/sebvitoria/videos/t%C3%A1-dif%C3%ADcil-focar-nos-estudos-s%C3%B3-na-escola-seb-voc%C3%AA-pode-contar-com-a-metodologia/778044025869427/",
+        "snippet": "Escola SEB - Sistema de Ensino COC. 00:21. Escola SEB - Sistema ... Hospital Vitória Apart. Emergency Room. No photo description available ...",
+        "date": "há 7 anos",
+        "position": 3
+      },
+      {
+        "title": "Colégio UP comemora 25 anos e anuncia nova unidade ...",
+        "link": "https://www.agazeta.com.br/conteudo-de-marca/colegio-up-comemora-25-anos-e-anuncia-nova-unidade-na-serra-0925",
+        "snippet": "... UP Centro Educacional conta com quase 4 mil estudantes e planeja ampliar a atuação na Grande Vitória ... material didático para o próximo ano ...",
+        "date": "3 de set. de 2025",
+        "position": 4
+      },
+      {
+        "title": "Começando a semana do jeito que a gente gosta",
+        "link": "https://www.instagram.com/p/DZ5uaVhmaqv/?img_index=4",
+        "snippet": "#vempranova · June 22. OCR. Escola São Domingos UP Centro Educacional ... É vitória, é? É vitória. Doce sabor da vitória. Tecer a vida com ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

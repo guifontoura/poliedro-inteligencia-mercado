@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35172959",
+  "NO_ENTIDADE": "DIVINO SALVADOR COLEGIO ITU",
+  "cidade": "Itu",
+  "query": "\"DIVINO SALVADOR COLEGIO ITU\" \"Itu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"DIVINO SALVADOR COLEGIO ITU\" \"Itu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Setor -Supervisão.xlsx",
+        "link": "https://midiasstoragesec.blob.core.windows.net/001/2025/02/superviso-privadas.pdf",
+        "snippet": "Sistema e Caracol Colégio e Sistema de Ensino e Colégio (Marli). Itu ... Divino Salvador Colegio - Itu. Itu. Mere Marie Theodore Voiron Colégio (CEUNSP).",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.1.privada.do.htm",
+        "snippet": "DIVINO SALVADOR COLEGIO ITU, P, ITU, SP, Bronze, ---. AMANDA STIEFELMANN BRODER ... ANGLO SISTEMA DE ENSINO, P, TATUI, SP, ---, Sim. IAN MAZZUCATTO PUCINELI ...",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3523909-itu/busca",
+        "snippet": "DIVINO SALVADOR COLEGIO ITU. DIVINO SALVADOR, 51 - AVENIDA. JARDIM PARAISO ... SISTEMA DE ENSINO COLEGIO. SILVIO FLEMING CAPITAO, 331 - RUA. VILA NOVA ...",
+        "position": 3
+      },
+      {
+        "title": "Ranking de escolas no ENEM na cidade de Itú - SP",
+        "link": "https://www.melhorescola.com.br/escola/ranking-enem/sao-paulo/itu",
+        "snippet": "divino salvador colegio itu. Sem avaliações. Chácaras Primavera • Itu - SP ... sistema de ensino colegio. Sem avaliações. vila nova • Itu - SP. Nota ENEM ...",
+        "position": 4
+      },
+      {
+        "title": "2018",
+        "link": "https://enem.cneceduca.com.br/2018?p=30",
+        "snippet": "Divino Salvador Colegio Itu, Privada, Itu, SP, 38, 590,14, 662,79, 604,59, 669,29 ... CNEC - Sistema de Ensino. ©2011-2026 Sistema de Ensino CNEC.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

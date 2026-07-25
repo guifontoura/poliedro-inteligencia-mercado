@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31118320",
+  "NO_ENTIDADE": "COL IMACULADA CONCEICAO",
+  "cidade": "Passos",
+  "query": "\"COL IMACULADA CONCEICAO\" \"Passos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL IMACULADA CONCEICAO\" \"Passos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "OBMEP 2019 - Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/2019/verRelatorioPremiadosGeral-MG.2.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO ERIDA DURAES, P, BELO HORIZONTE, MG, ---, Sim. BRUNA CABBAVAN ... COL IMACULADA CONCEICAO, P, PASSOS, MG, ---, Sim. JOAO PAULO MOURA FURTADO ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "https://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/minas-gerais/",
+        "snippet": "ATUAL SISTEMA DE ENSINO, SABINOPOLIS, MG, Privada, 80% ou mais, Alto ... COL IMACULADA CONCEICAO, PASSOS, MG, Privada, 80% ou mais, Muito Alto ...",
+        "date": "5 de ago. de 2015",
+        "position": 2
+      },
+      {
+        "title": "Escolas na cidade de Leopoldina - MG",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/leopoldina-mg",
+        "snippet": "col imaculada conceicao · colegio cidade de leopoldina · epel escola politecnica ... Sistema De Ensino Fontes De Carvalho – Unidade I. 5.0(2). Ensino ...",
+        "position": 3
+      },
+      {
+        "title": "ENEM ESCOLA Page 1 SIGLA NO_MUNICIPIO ...",
+        "link": "http://fw.atarde.com.br/2012/11/1293042.pdf",
+        "snippet": "... SISTEMA DE ENSINO LTDA. Privada. 487,1512195 514,9707317 553,6134146 539 ... PASSOS. Estadual. 418,8111111 440,5851852 492,0037037 437,7333333. 538 ...",
+        "position": 4
+      },
+      {
+        "title": "Escolas em Centro - Leopoldina - MG",
+        "link": "https://www.melhorescola.com.br/busca/minas-gerais/leopoldina/centro",
+        "snippet": "col imaculada conceicao; colegio cidade de leopoldina; epel escola politecnica ... Logo - Sistema De Ensino Fontes De Carvalho – Unidade I. Sistema De ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

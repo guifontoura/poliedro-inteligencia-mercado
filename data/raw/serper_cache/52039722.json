@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "52039722",
+  "NO_ENTIDADE": "COLEGIO APHONSIANO",
+  "cidade": "Trindade",
+  "query": "\"COLEGIO APHONSIANO\" \"Trindade\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO APHONSIANO\" \"Trindade\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O Bernoulli 360° chegou a Goiás e reuniu educadores em ...",
+        "link": "https://www.instagram.com/p/DW_3-aNoPWd/",
+        "snippet": "No Colégio Aphonsiano, em Trindade, vivenciamos momentos potentes ... Bernoulli Sistema de Ensino Bernoulli 360° em Trindade. B360 ...",
+        "date": "há 3 meses",
+        "position": 1
+      },
+      {
+        "title": "Lista-2026_1.pdf",
+        "link": "https://www.aphonsiano.edu.br/wp-content/uploads/2025/10/Lista-2026_1.pdf",
+        "snippet": "Este livro será disponibilizado para venda no Colégio Aphonsiano a partir do mês de novembro. ... • Moda Pequena – Constantino Xavier (Praça da Prefeitura) – ...",
+        "position": 2
+      },
+      {
+        "title": "Faculdades e Colégio APHONSIANO on Instagram ...",
+        "link": "https://www.instagram.com/reel/DJ1Yhqbth4F/",
+        "snippet": "... Trindade. Um momento especial de fé, gratidão e celebração ... Colégio Aphonsiano.",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "As transferências de outras Escolas para o segundo semestre ...",
+        "link": "https://www.instagram.com/reel/DZ7UdI7xQPQ/",
+        "snippet": "... Trindade. Get in touch and come see our facilities! OCR. AINDA DÁ TEMPO TRANSFERÊNCIAS ABERTAS! COLÉGIO APHONSIANO Maternal Ens. Médio Seja ...",
+        "position": 4
+      },
+      {
+        "title": "Matrículas Abertas 2025 No Colégio Aphonsiano, o Ensino ...",
+        "link": "https://www.instagram.com/reel/DBq9EYLuvG8/",
+        "snippet": "... material didático de excelência e ... É esse equilíbrio que faz do Colégio Aphonsiano o n°1 no ENEM e em aprovações em Trindade e região.",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

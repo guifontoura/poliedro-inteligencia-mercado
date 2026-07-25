@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "41386329",
+  "NO_ENTIDADE": "ALDEIA DO SOL CEI EF M",
+  "cidade": "Guarapuava",
+  "query": "\"ALDEIA DO SOL CEI EF M\" \"Guarapuava\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ALDEIA DO SOL CEI EF M\" \"Guarapuava\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Aldeia do Sol - Ensino Fundamental",
+        "link": "https://redesolarisedu.com.br/aldeia/",
+        "snippet": "O Colégio é especializado na educação básica completa, oferecendo toda a estrutura necessária para que o desenvolvimento seja pleno da educação infantil, anos ...",
+        "position": 1
+      },
+      {
+        "title": "Ensino Fundamental",
+        "link": "https://aldeiadosol.net.br/ensino-fundamental-90/",
+        "snippet": "Utilizamos o material didático de apoio da editora Santillana e adotamos a nossa metodologia ativa para integrar o currículo às práticas de ensino. A ...",
+        "position": 2
+      },
+      {
+        "title": "O sistema modular de ensino em escolas do campo do ...",
+        "link": "https://revistapos.cruzeirodosul.edu.br/rencima/article/download/4362/1858",
+        "snippet": "de R dos Santos · 2022 · Citado por 1 — O sistema modular de ensino em escolas do campo do. Sistema Organizacional Modular, Alternância e projetos interdisciplinares de ensino- ...",
+        "position": 3
+      },
+      {
+        "title": "Rede de Escolas Aldeia do Sol expande e passa a chamar ...",
+        "link": "https://redesuldenoticias.com.br/noticias/rede-de-escolas-aldeia-do-sol-expande-e-passa-a-chamar-se-rede-educacional-solaris/",
+        "snippet": "A Escola Aldeia do Sol está localizada no bairro Boqueirão, em Guarapuava. Com uma proposta diferenciada de ensino, a instituição tem o foco de atividades ...",
+        "position": 4
+      },
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "Apoio na gestão escolar, eventos de formação presenciais e a distância, além de materiais e recursos na Plataforma ConX, que ajudam na gestão escolar. Para as ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

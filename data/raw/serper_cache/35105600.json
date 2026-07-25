@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35105600",
+  "NO_ENTIDADE": "SANTO AMERICO COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"SANTO AMERICO COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SANTO AMERICO COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "📚✨ Hoje foi dia de muito treino! 🔹 No Colégio Santo ...",
+        "link": "https://www.instagram.com/p/DNbdlUiSzgk/",
+        "snippet": "... Santo Américo, Colégio Visconde de Porto Seguro e Colégio Vera Cruz ... São Paulo, são 169 aprovações do CPV. Quando a FGV publica uma ...",
+        "date": "há 11 meses",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.1.privada.do.htm",
+        "snippet": "RIO CLARO SISTEMA DE ENSINO, P, RIO CLARO, SP, Sim. ANDRE HENRIQUE ALMEIDA GIANETTI DE SOUZA, ARQUIDIOCESANO DE SAO PAULO COLEGIO MARISTA ... SANTO AMERICO ...",
+        "position": 2
+      },
+      {
+        "title": "SUMÁRIO",
+        "link": "https://www.ceesp.sp.gov.br/wp-content/uploads/2024/11/477-01-integra-bradesco.doc",
+        "snippet": "Confirmando esta experiência, anexou documentos procedentes de órgãos oficiais do sistema de ensino do Estado de São Paulo, empresas conveniadas e reportagens ...",
+        "position": 3
+      },
+      {
+        "title": "Atuação das associações de pais é determinante em ...",
+        "link": "https://revistaeducacao.com.br/2020/04/01/escolas-associacoes-pais/",
+        "snippet": "As APMs provam sua importância também na rede pública municipal da cidade de São Paulo. ... No Santo Américo, colégio católico paulistano ...",
+        "date": "1 de abr. de 2020",
+        "position": 4
+      },
+      {
+        "title": "Marcia Melo - Professora da Educação Infantil ao Ensino Médio",
+        "link": "https://br.linkedin.com/in/pedagogamarcia-melo",
+        "snippet": "Professora da Educação Infantil ao Ensino Médio. Prefeitura do Município de Osasco Estácio. São Paulo, São Paulo, Brasil ... Sistema de Ensino Objetivo ... Gráfico ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

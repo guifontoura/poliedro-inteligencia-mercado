@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "22131027",
+  "NO_ENTIDADE": "COLEGIO PRO CAMPUS JUNIOR",
+  "cidade": "Teresina",
+  "query": "\"COLEGIO PRO CAMPUS JUNIOR\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PRO CAMPUS JUNIOR\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Grupo Educacional Pro Campus (@colegioprocampus)",
+        "link": "https://www.instagram.com/colegioprocampus/",
+        "snippet": "... Teresina ...",
+        "position": 1
+      },
+      {
+        "title": "🚀 Teste Seletivo 2026 – Prova 23 de novembro! No Pro Campus ...",
+        "link": "https://www.facebook.com/GrupoEducacionalProCampus/videos/-teste-seletivo-2026-prova-23-de-novembrono-pro-campus-j%C3%BAnior-o-ensino-m%C3%A9dio-%C3%A9-v/843974374794722/",
+        "snippet": "... Material didático Ari de Sá; ✓ Turmas voltadas ... Os alunos do Colégio Pro Campus Júnior realizaram a d... ... No photo description available. Sol Turismo ...",
+        "position": 2
+      },
+      {
+        "title": "Tradição, talento e muita animação marcaram mais uma ...",
+        "link": "https://www.instagram.com/reel/DaF7M6UxIEq/",
+        "snippet": "... Colégio Pro Campus Júnior! ✨ Os alunos do Ensino Fundamental II e ... PRAIA DE VERÃO Sesc Fecomércio Senac Teresina - PI AMERICAN PARK ...",
+        "date": "há 3 semanas",
+        "position": 3
+      },
+      {
+        "title": "DOCUMENTOS NORMATIVOS DO CEE",
+        "link": "http://www.ceepi.pro.br/Resolu%C3%A7%C3%B5es%20%20%202022/0%20resolu%C3%A7%C3%A3o%202022.htm",
+        "snippet": "Credencia a UNIDADE ESCOLAR CENECISTA POPULAR DE TERESINA ,rede privada, em Teresina (PI) como instituição integrante do Sistema de Ensino do Estado do ...",
+        "position": 4
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2211001-teresina/busca",
+        "snippet": "CENTRO MUNICIPAL DE EDUCACAO INFANTIL LIMOEIRO. RURAL, S/N. AREA RURAL DE TERESINA. 64099899 Teresina - Piauí. Rede municipal / Rural ... CPI SISTEMA DE ENSINO.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

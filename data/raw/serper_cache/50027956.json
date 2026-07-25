@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "50027956",
+  "NO_ENTIDADE": "COLEGIO HARMONIA - UNIDADE I",
+  "cidade": "Campo Grande",
+  "query": "\"COLEGIO HARMONIA - UNIDADE I\" \"Campo Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO HARMONIA - UNIDADE I\" \"Campo Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ENSINO MÉDIO Prezadas famílias, Informamos que ...",
+        "link": "https://www.instagram.com/p/DTwDjEBjABe/",
+        "snippet": "... Campo Grande, 23 de junho de 2026. COMUNICADO Senhores Pais e/ou ... 5° COLEGIO HARMONIA - UNIDADE I 675,66. 6° COLEGIO MAESTRIA - ENEM ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "🏆 Adivinha quem está em 1º lugar no ENEM de Maringá ...",
+        "link": "https://www.instagram.com/p/DZ8NlaRPVA9/",
+        "snippet": "5° COLEGIO HARMONIA - UNIDADE I 675,66. 6° COLEGIO MAESTRIA - ENEM E ... Photo by Sou Campo Grande on July 20, 2026. May be an image of.",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Colegio Harmonia - Unidade I - Campo Grande - Jardim dos Estados - Nota: 675.68. Colegio Maestria - Enem e Vestibulares - Campo Grande ...",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Premiados OBF 2022 - 2ª Série",
+        "link": "https://www.sbfisica.org.br/v1/olimpiada/2022/index.php/328-premiados-obf-2022-2-serie.html",
+        "snippet": "COLÉGIO MILITAR DE CAMPO GRANDE, MS, MENÇÃO HONROSA. CAIQUE ASSIS ALBUQUERQUE ... RIO CLARO SISTEMA DE ENSINO, SP, MEDALHA DE PRATA. CICERO HENRYQUE DA SILVA ...",
+        "position": 4
+      },
+      {
+        "title": "Pelo segundo ano consecutivo, o Colégio Alta Floresta ...",
+        "link": "https://www.instagram.com/p/DaSvvQ6FnIU/",
+        "snippet": "Sistema de Ensino voltado para resultados reais e excelência ... 5° COLEGIO HARMONIA - UNIDADE I 675,66. 6° COLEGIO MAESTRIA - ENEM E ...",
+        "date": "há 3 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

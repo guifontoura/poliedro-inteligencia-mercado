@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "26122090",
+  "NO_ENTIDADE": "COLEGIO PRESBITERIANO AGNES ERSKINE",
+  "cidade": "Recife",
+  "query": "\"COLEGIO PRESBITERIANO AGNES ERSKINE\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PRESBITERIANO AGNES ERSKINE\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Eduardo Azevedo - Diretor/Advogado/Professor",
+        "subtitle": "Recife e Região · Superintendente de Suprimentos · Instituto Presbiteriano Mackenzie",
+        "link": "https://br.linkedin.com/in/eduardo-azevedo-3ab602125",
+        "snippet": "Colegio Presbiteriano Agnes Erskine. jun. de 2019 - jan. de 2022 2 anos 8 meses. Recife.",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Bronze. JOÃO LUCAS ... COLEGIO PRESBITERIANO AGNES ERSKINE, P, RECIFE, PE, Bronze. DAVI GAIOSO MANSO ...",
+        "position": 2
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 1° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DAA25DGW9E54FSE2QMDYT.pdf",
+        "snippet": "COLEGIO PRESBITERIANO AGNES ERSKINE. PE. Recife certificado FLÁVIA QUEIROZ ... SISTEMA DE ENSINO AUTHENTICO. PA. Belém certificado CLARYSSA BARROS DE ...",
+        "position": 3
+      },
+      {
+        "title": "Raquel Soares - Professora do Bilíngue",
+        "subtitle": "Recife, Pernambuco, Brasil · Professor · Colegio Presbiteriano Agnes Erskine",
+        "link": "https://br.linkedin.com/in/raquel-soares-8b6bb522",
+        "snippet": "... Colegio Presbiteriano Agnes Erskine · Formação acadêmica: Unyleya · Localidade: Recife ... material didático e nivelamento de alunos. Com facilidade de ...",
+        "position": 4
+      },
+      {
+        "title": "Apesar de novo piso, salário de professor continua baixo",
+        "link": "https://exame.com/brasil/apesar-de-novo-piso-salario-de-professor-continua-baixo/",
+        "snippet": "SISTEMA DE ENSINO MESON PI, 551,33, 653,47. 30º, PARAUAPEBAS, Privada ... COLEGIO PRESBITERIANO AGNES ERSKINE, 590,98, 609,86. 26º, RECIFE ...",
+        "date": "7 de jan. de 2015",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

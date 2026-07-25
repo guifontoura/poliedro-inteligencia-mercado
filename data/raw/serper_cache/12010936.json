@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "12010936",
+  "NO_ENTIDADE": "ESC CENTRO EDUCACIONAL E CULTURAL - META",
+  "cidade": "Rio Branco",
+  "query": "\"ESC CENTRO EDUCACIONAL E CULTURAL - META\" \"Rio Branco\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESC CENTRO EDUCACIONAL E CULTURAL - META\" \"Rio Branco\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Esc Centro Educacional E Cultural - Meta",
+        "link": "https://www.melhorescola.com.br/escola/esc-centro-educacional-e-culturalmeta",
+        "snippet": "Garanta sua bolsa de estudos em Esc Centro Educacional E Cultural - Meta, Rio Branco - AC ... Internet. Sistema de ensino. Positivo. O sistema de ensino ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas na Educação Infantil no Vila Acre - Rio Branco",
+        "link": "https://querobolsa.com.br/escolas/etapa-de-ensino/educacao-infantil/rio-branco-ac/vila-acre",
+        "snippet": "esc centro educacional e cultural - meta; esc colegio lato sensu. Filtros: Limpar ... Logo - sistema de ensino fundamentel e medio hr. Sistema De Ensino ...",
+        "position": 2
+      },
+      {
+        "title": "Detalhado - NÃO PAGAS - Portal Gov.br",
+        "link": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pdde/media-pdde/comunicados/relao_entidadesmantenedoras_comunicado_17_cartoPDDE.xlsx",
+        "snippet": "ESC CENTRO EDUCACIONAL E CULTURAL - META, 12010936, 740, PDDE-EDUCAC?O ... RIO BRANCO DO IVAI E EI EF MOD ED ESP, 41398823, 1610, PDDE-EDUCAC?O ESPECIAL ...",
+        "position": 3
+      },
+      {
+        "title": "Desempenho de Escolas no ENEM | PDF | São Paulo | Brasil",
+        "link": "https://pt.scribd.com/doc/187329377/As-30-Escolas-Enem",
+        "snippet": "... ESC CENTRO EDUCACIONAL E CULTURAL - META ESC INST ORFANOLOGICO SANTA ... RIO BRANCO ESC 15 DE JUNHO ESC ALCIMAR NUNES LEITAO ESC DOM HENRIQUE RUTH ESC ...",
+        "position": 4
+      },
+      {
+        "title": "ENEM ESCOLA Page 1 SIGLA NO_MUNICIPIO ...",
+        "link": "http://fw.atarde.com.br/2012/11/1293042.pdf",
+        "snippet": "... RIO BRANCO. ESC ALCIMAR NUNES LEITAO. Estadual. 426,9076923 441,5230769 486 ... ESC CENTRO EDUCACIONAL E CULTURAL - META. Privada. 518,0162338 525,9175325.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

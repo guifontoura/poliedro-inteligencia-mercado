@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33115460",
+  "NO_ENTIDADE": "COL BAHIENSE - CAMPO GRANDE",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COL BAHIENSE - CAMPO GRANDE\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL BAHIENSE - CAMPO GRANDE\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola - COL BAHIENSE - CAMPO GRANDE",
+        "link": "https://culturaeduca.cc/equipamento/escola_detalhe/33115460/",
+        "snippet": "Brasil / RJ / Rio de Janeiro / Entorno de Escola. CAMADAS. LIMPAR. Divisões ... SISTEMA DE ENSINO RAION LTDA ESTR BENVINDO DE NOVAES - 1350 - RECREIO DOS ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/rio-de-janeiro/",
+        "snippet": "RIO DE JANEIRO, RJ, Privada, 80% ou mais, Muito Alto, 611.59, 580.73, 636.19, 600.74, 628.68, 663.79. 119, 760, COL BAHIENSE - CAMPO GRANDE, RIO ...",
+        "date": "5 de ago. de 2015",
+        "position": 2
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... Rio de Janeiro. Privada. Urbana. 75. De 61 a. 90 alunos. 74. 98.67. 0. 80% ou mais ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos. 25.",
+        "position": 3
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "COL BAHIENSE - CAMPO GRANDE 55748 44 Rio de Janeiro RJ COL LAIS FARNETTI 40 ... SEI - SISTEMA DE ENSINO INTERATIVO 26 Rio de Janeiro RJ COLEGIO CASTELO ...",
+        "position": 4
+      },
+      {
+        "title": "Instituições",
+        "link": "https://www.tjrj.jus.br/documents/1017893/1294906/instituicoes-capital.xls",
+        "snippet": "RIO DE JANEIRO, IRAJA, COL ATLAS, RUA CAOBI, 161, 21361470. 644, RIO DE JANEIRO, CAMPO GRANDE, COL BAHIENSE - CAMPO GRANDE, RUA CANDIDO MAGALHAES, 177, 23050270.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

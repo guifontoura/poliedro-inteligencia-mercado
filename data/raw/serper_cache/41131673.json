@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "41131673",
+  "NO_ENTIDADE": "COLEGIO BOM JESUS NOSSA SENHORA DE LOURDES ED INF ENS FUND E MEDIO",
+  "cidade": "Curitiba",
+  "query": "\"COLEGIO BOM JESUS NOSSA SENHORA DE LOURDES ED INF ENS FUND E MEDIO\" \"Curitiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BOM JESUS NOSSA SENHORA DE LOURDES ED INF ENS FUND E MEDIO\" \"Curitiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-PR.2.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões · Apostilas do PIC ... COLEGIO BOM JESUS NOSSA SENHORA DE LOURDES ED INF ENS FUND E MEDIO, P, CURITIBA ...",
+        "position": 1
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... Curitiba. AISHA SOUZA PEREIRA MACEDO. 3º ano - Ensino Médio. 14. 19 CENTRO DE ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 2
+      },
+      {
+        "title": "Desempenho de Escolas no ENEM | PDF | São Paulo | Brasil",
+        "link": "https://pt.scribd.com/doc/187329377/As-30-Escolas-Enem",
+        "snippet": "... SISTEMA DE ENSINO LTDA COLEGIO DIOCESANO DE PENEDO COLEGIO SAO TOMAS DE ... COLEGIO BOM JESUS NOSSA SENHORA DE LOURDES - ED INF ENS FUND E MEDIO.",
+        "position": 3
+      },
+      {
+        "title": "UNIDADE DA FEDERAÇÃO MUNICÍPIO ESCOLA ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_1_MUNICIPIOS.pdf",
+        "snippet": "... CURITIBA. COLEGIO BOM JESUS ED INFANTIL ENSINO FUNDAMENTAL E MEDIO ... SISTEMA DE ENSINO EQUIPE. PRIVADA. 174. 173. 587,85. 655,31. 637,97. 597 ...",
+        "date": "11 de set. de 2011",
+        "position": 4
+      },
+      {
+        "title": "Apesar de novo piso, salário de professor continua baixo",
+        "link": "https://exame.com/brasil/apesar-de-novo-piso-salario-de-professor-continua-baixo/",
+        "snippet": "CURITIBA, Privada, COLEGIO BOM JESUS NOSSA SENHORA DE LOURDES - ED INF ENS FUND E MEDIO, 627,84, 698,77. 12º, FOZ DO IGUACU, Privada, COLEGIO ...",
+        "date": "7 de jan. de 2015",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35104991",
+  "NO_ENTIDADE": "BENJAMIN CONSTANT COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"BENJAMIN CONSTANT COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"BENJAMIN CONSTANT COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "International Baccalaureate no Brasil: ensino com ...",
+        "link": "https://www.instagram.com/p/DZnl_7en4F2/",
+        "snippet": "#InternationalBaccalaureateBrasil · June 15. OCR. COLÉGIO BENJAMIN CONSTANT COLEGIO ... Eu sou São Paulo Cambridge English Teatro São Paulo ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Benjamin Constant | Bolsas de Estudo em São ...",
+        "link": "https://www.melhorescola.com.br/escola/benjamin-constant-colegio",
+        "snippet": "Boa infraestrutura, bom material didático, esportes e funcionários atenciosos. ... Parque Grajau - São Paulo - SP. Bolsas a partir de: R$ 82,87- 30%. Logo ...",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "SAO PAULO DA CRUZ COLEGIO PASSIONISTA, P, SÃO PAULO, SP, Sim. JOÃO PEDRO ALVES DA ... ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Sim. MARIA EDUARDA ...",
+        "position": 3
+      },
+      {
+        "title": "Preparar seu filho para o futuro exige muito mais do que ...",
+        "link": "https://www.instagram.com/p/DaviNRakgKd/",
+        "snippet": "... material didático que conecta o conhecimento à vida real. Da ... Sistema de Ensino Bilíngue”, com o prêmio TOP Educação nos anos de ...",
+        "date": "há 1 semana",
+        "position": 4
+      },
+      {
+        "title": "dbo_TS_ESCOLA",
+        "link": "https://www.al.sp.gov.br/spl/2015/09/Acessorio/1278971_50269504_Acessorio.xlsx",
+        "snippet": "... São Paulo. 2, Fonte: Censo Escolar - 2014. 4, ANO_CENSO, COD_ESCOLA, NOME_ESCOLA ... SISTEMA DE ENSINO, SP, 1, 1, 0, 1, 0, 0, 0, 1. 1273, 2014, 35394142 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

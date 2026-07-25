@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "42000645",
+  "NO_ENTIDADE": "COLEGIO SANTA CATARINA",
+  "cidade": "Florianópolis",
+  "query": "\"COLEGIO SANTA CATARINA\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA CATARINA\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Bolsas de Estudo Colégio Santa Catarina",
+        "link": "https://www.educamaisbrasil.com.br/escolas/colegio-santa-catarina-florianopolis",
+        "snippet": "O Colégio Santa Catarina, localizado em Florianópolis, Santa Catarina, é uma ... material didático do Grupo Positivo, colaboradores especializados ...",
+        "rating": 5,
+        "ratingCount": 43,
+        "position": 1
+      },
+      {
+        "title": "História",
+        "link": "https://www.csc.g12.br/historia",
+        "snippet": "... sistema de ensino avançado e abordagem pedagógica acolhedora, incorporando valores humanos e cristãos. ... Material didático. img/timeline/material-didatico ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio Santa Catarina | Bolsas de Estudo em Florianópolis",
+        "link": "https://www.melhorescola.com.br/escola/colegio-santa-catarina-5",
+        "snippet": "Garanta sua bolsa de estudos em Colégio Santa Catarina, Florianópolis - SC ... Sala de professores; Pátio Descoberto; Banda larga; Internet. Sistema de ensino.",
+        "position": 3
+      },
+      {
+        "title": "O segundo trimestre já começou, e o professor Guilherme ...",
+        "link": "https://www.instagram.com/reel/DZaDxDpRO4g/",
+        "snippet": "... Florianópolis, e acompanharam de perto como a comunicação acontece ... Cruz e Sousa Sistema de Ensino ESTUDO em AÇÃO 6º ANO Quais são planetas ...",
+        "position": 4
+      },
+      {
+        "title": "O Santa entrou na trend! 2016 x 2026: alguns dos nossos ...",
+        "link": "https://www.instagram.com/p/DT53eQpgQwX/",
+        "snippet": "... material didático, conhecendo de perto metodologias, soluções ... COLEGIO SANTA CATARINA MENÇÃO HONROSA ESTUDANTE DESTAQUE Educar para ...",
+        "date": "há 6 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

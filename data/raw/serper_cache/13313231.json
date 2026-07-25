@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "13313231",
+  "NO_ENTIDADE": "ESCOLAS IDAAM",
+  "cidade": "Manaus",
+  "query": "\"ESCOLAS IDAAM\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLAS IDAAM\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "REGIMENTO ESCOLAR",
+        "link": "https://www.idaam.com.br/wp-content/uploads/2022/08/Regimento_Escolar_-_Escolas_IDAAM.pdf",
+        "snippet": "§ 2º - Em caso de necessidade de inclusão as Escolas Idaam seguirão o disposto na Resolução n. ... Manaus - AM, 18 de dezembro de 2015.",
+        "position": 1
+      },
+      {
+        "title": "🚨ÚLTIMAS VAGAS 2026 Nossas turmas já estão com mais ...",
+        "link": "https://www.instagram.com/p/DTQ58PxkTQU/",
+        "snippet": "É PRIMEIRO LUGAR NO AMAZONAS! Com muito orgulho, compartilhamos que as Escolas IDAAM conquistaram o 1º lugar no Amazonas no Ranking Enem 2025 ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Escolas Idaam - Parque Dez",
+        "link": "https://anajustrabeneficios.com.br/convenio/Escolas-Idaam--Parque-Dez/26606",
+        "snippet": "Contam com infraestrutura moderna, material didático de ponta e uma equipe ... José Lopes, 29, Parque Dez de Novembro, Manaus-AM, CEP: 69055-290. Esse ...",
+        "position": 3
+      },
+      {
+        "title": "Idaam disponibiliza aos alunos práticas e conteúdos gravados ...",
+        "link": "https://www.acritica.com/manaus/idaam-disponibiliza-aos-alunos-praticas-e-conteudos-gravados-em-estudio-1.40804",
+        "snippet": "Conteúdo digital das Escolas Idaam também é integrado ao material didático. ... Manaus. Canais no YouTube. As Escolas Idaam têm ... Manaus · Esportes.",
+        "position": 4
+      },
+      {
+        "title": "Orgulho que vem da nossa sala de aula! Manaus acaba de ...",
+        "link": "https://www.instagram.com/reel/DNG9TbQuIkV/",
+        "snippet": "... Escolas Idaam (Cidade Nova, Manaus) 695,51 3º Centro Educacional ... SISTEMA DE ENSINO SEI INCENTIVO ORGULHO QUE NOS INSPIRA! 1º LUGAR ...",
+        "date": "há 11 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

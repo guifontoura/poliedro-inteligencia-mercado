@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31184331",
+  "NO_ENTIDADE": "COLEGIO SAGRADO CORACAO DE MARIA",
+  "cidade": "Ubá",
+  "query": "\"COLEGIO SAGRADO CORACAO DE MARIA\" \"Ubá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAGRADO CORACAO DE MARIA\" \"Ubá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-HORIZONTAL.pdf",
+        "snippet": "... COLEGIO SAGRADO CORACAO DE MARIA. ES. Vitória. Privada. Urbana. 30. De 1 a 30 ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos. 25.",
+        "position": 1
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/31/PREMIA%C3%87%C3%83O%209%C2%BA%20ANO%20EF%20NIVEL%20A%202019.pdf",
+        "snippet": "COLEGIO SAGRADO CORACAO DE MARIA. ESPÍRITO SANTO. Vitória. HELENA RUAS ... ZETA SISTEMA DE ENSINO DE BIRIGUI. SÃO PAULO. Birigui. HUANG PO CHIANG. NIPO ...",
+        "position": 2
+      },
+      {
+        "title": "As 100 escolas com as maiores notas no Enem 2015",
+        "link": "https://exame.com/brasil/as-100-escolas-com-as-maiores-notas-no-enem-2015/",
+        "snippet": "CPI SISTEMA DE ENSINO, PI, Teresina, Privada, 691,41. RECANTO INF ... COLEGIO SAGRADO CORACAO DE MARIA, MG, Ubá, Privada, 690,7. LEONARDO ANGLO ...",
+        "date": "4 de out. de 2016",
+        "position": 3
+      },
+      {
+        "title": "exercicios de biologia | Exercícios Biologia",
+        "link": "https://www.docsity.com/pt/docs/exercicios-de-biologia-10/5870529/",
+        "snippet": "... COLEGIO SAGRADO CORACAO DE MARIA ESPÍRITO SANTO Vitória HELENA RUAS BRANDES COLEGIO MARIA MONTESSORI ... Ubá GABRIEL SANTOS FARIA ESC N SRA AUXILIADORA MINAS ...",
+        "position": 4
+      },
+      {
+        "title": "Programa Nacional Olimpíadas de Química ...",
+        "link": "https://educacional.sesc-am.com.br/wp-content/uploads/2020/09/classificados_obqjr_2020_1.pdf",
+        "snippet": "... Colegio Sagrado Coracao De Maria. 8° ano. ESPÍRITO SANTO. Vitória. Ana Lara De ... Ubá. João Pedro Raimundo Felizardo. Col Equipe De Tocantins. 9° ano. MINAS ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

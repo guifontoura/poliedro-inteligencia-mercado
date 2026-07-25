@@ -1,0 +1,44 @@
+{
+  "codigo_escola": "41151844",
+  "NO_ENTIDADE": "SANTO ANGELO E - EI EF",
+  "cidade": "Ponta Grossa",
+  "query": "\"SANTO ANGELO E - EI EF\" \"Ponta Grossa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SANTO ANGELO E - EI EF\" \"Ponta Grossa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Santo Ângelo E - EI EF - 659,75 - Ponta Grossa (Paraná) - Particular - 91%; Colégio Marista Santa Maria EI EF EM - 657,60 - Curitiba (Paraná) ...",
+        "date": "23 de jun. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Menção Honrosa 9º Ano Fundamental | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/800285159/1729652725671867f5084ac-mencao-honrosa",
+        "snippet": "HADASSA CARVALHO DOS SANTOS SANTO ANGELO E - EI EF PARANÁ PONTA GROSSA ... MAÍRA KEMIL SISTEMA DE ENSINO EQUIPE PARÁ BELÉM LETHÍCIA DAS NEVES PINHEIRO DA ...",
+        "position": 2
+      },
+      {
+        "title": "MENÇÕES HONROSAS",
+        "link": "https://obquimica.sertanustecnologia.com.br/arquivos/download/1986/RESULTADO%20-%20MEN%C3%87%C3%95ES%20HONROSAS.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. ALAGOAS. MACEIÓ. 1665445 LÍVIA ... SANTO ANGELO E - EI EF. PARANÁ. PONTA GROSSA. 1712291 SOFIA SOKOLOWSKI GALVANI.",
+        "position": 3
+      },
+      {
+        "title": "Menções Honrosas por Escola e Estado | PDF | Brasil",
+        "link": "https://pt.scribd.com/document/696761255/Unido-20240105-0158",
+        "snippet": "... SISTEMA DE ENSINO LTDA ALAGOAS MACEIÓ 1665445 LÍVIA STEFANY PEREIRA DOS ... 1712306 MARIELE BREDA 1º ANO/EM SANTO ANGELO E - EI EF PARANÁ PONTA GROSSA",
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

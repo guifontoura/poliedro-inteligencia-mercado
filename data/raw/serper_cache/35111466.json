@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "35111466",
+  "NO_ENTIDADE": "SANTA MARCELINA COLEGIO",
+  "cidade": "Botucatu",
+  "query": "\"SANTA MARCELINA COLEGIO\" \"Botucatu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SANTA MARCELINA COLEGIO\" \"Botucatu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Formar quem ensina é investir em quem aprende. No Santa ...",
+        "link": "https://www.instagram.com/reel/DaNpLTMxghz/",
+        "snippet": "... Santa Marcelina COLÉGIO BOTUCATU do Santa para a Vida ... material didático. Ela escuta, apoia, soma e cresce junto com a escola. É isso ...",
+        "date": "há 3 semanas",
+        "position": 1
+      },
+      {
+        "title": "É 980 na redação do ENEM! 📝 Parabéns, Ana Beatriz. O ...",
+        "link": "https://www.instagram.com/p/DTk8RH4kyCS/",
+        "snippet": "Santa Marcelina COLÉGIO BOTUCATU REDAÇÃO ENEM ENEM REDAÇÃO REDAÇÃO ENEM ENEM REDAÇÃO Parabens, Laylah! Laylah Marjuli Nascimento Sekiguchi ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Marista Santa Marta | Dizem que o Ensino Médio do ...",
+        "link": "https://www.instagram.com/reel/DXKBvjAkdIA/",
+        "snippet": "✓ Desconto no material didático. ✓ Ensino de qualidade ... Santa Marcelina COLÉGIO BOTUCATU Congelamento. salesianosantamaria's ...",
+        "date": "há 3 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Santa Madalena Sofia on Instagram: \"2025 foi um ...",
+        "link": "https://www.instagram.com/reel/DS5QkdaEfh8/",
+        "snippet": "Colégio Santa Mônica OBJETIVO SISTEMA DE ENSINO 17 anos 17 anos ... Santa Marcelina COLÉGIO BOTUCATU Congelamento. cda_edu's profile ...",
+        "date": "há 6 meses",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.1.privada.do.htm",
+        "snippet": "SANTA MARCELINA COLEGIO, P, BOTUCATU, SP, Sim. LUISA PALMEIRA KUSSUKI MENEZES ... ANGLO SISTEMA DE ENSINO, P, TATUI, SP, Sim. BENICIO ROSA CAMEJO, PITANGUEIRAS ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

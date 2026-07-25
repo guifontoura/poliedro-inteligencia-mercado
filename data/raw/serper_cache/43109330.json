@@ -1,0 +1,32 @@
+{
+  "codigo_escola": "43109330",
+  "NO_ENTIDADE": "SISTEMA EDUCACIONAL BOA VISTA",
+  "cidade": "Porto Alegre",
+  "query": "\"SISTEMA EDUCACIONAL BOA VISTA\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SISTEMA EDUCACIONAL BOA VISTA\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "EXEMPLAR DE ASSINANTE DA IMPRENSA NACIONAL",
+        "link": "https://transparencia.mpf.mp.br/conteudo/diarios-e-boletins/diario-oficial-da-uniao-1/2013/dou3_2013_12_19.pdf",
+        "snippet": "... Porto Alegre/RS, de 2ª a 6ª feira. (dias úteis), das 8:00 às 12:00 e ... Sistema Educacional Boa Vista Ltda. -. Colégio Monteiro Lobato ...",
+        "date": "19 de dez. de 2013",
+        "position": 1
+      },
+      {
+        "title": "Larissa Corrêa Firmino",
+        "link": "https://www.escavador.com/sobre/6559156/larissa-correa-firmino",
+        "snippet": "... Porto Alegre/RS. 2025. Trabalho de Conclusão de Curso (Graduação em ... Material Didático - PNLD 2021 a partir das coleções mais escolhidas e ...",
+        "position": 2
+      }
+    ],
+    "credits": 1
+  }
+}

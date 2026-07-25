@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "53020600",
+  "NO_ENTIDADE": "COL FLEMING AGUAS CLARAS",
+  "cidade": "Brasília",
+  "query": "\"COL FLEMING AGUAS CLARAS\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL FLEMING AGUAS CLARAS\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O Ensino Médio é uma etapa decisiva na formação ...",
+        "link": "https://www.instagram.com/reel/DS2EvhokRN1/",
+        "snippet": "... Brasília (UnB) é reflexo de uma trajetória construída com excelência ... Sistema de Ensino, em uma conversa sobre a importância da ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "Mais uma conquista para celebrar! Parabenizamos nossa ...",
+        "link": "https://www.instagram.com/p/DagZHzEKikH/",
+        "snippet": "... Brasília, por meio da nota do ENEM. Que esta nova etapa seja ... EM 2º LUGAR COL FLEMING AGUAS CLARAS (ATUAL ESCRITA ÚNICA) NO ...",
+        "date": "há 2 semanas",
+        "position": 2
+      },
+      {
+        "title": "Colégio Futura on Instagram: \"Uma redação pode ser o ...",
+        "link": "https://www.instagram.com/reel/Da3FChiMDJS/",
+        "snippet": "TOP 9 DE BRASÍLIA EU ESTUDANTE Enem 1. Colégio Levorsse (antigo ... EM 2º LUGAR COL FLEMING AGUAS CLARAS (ATUAL ESCRITA ÚNICA) NO ...",
+        "date": "há 1 semana",
+        "position": 3
+      },
+      {
+        "title": "No último domingo realizamos o Exame de Bolsas do Ensino ...",
+        "link": "https://www.instagram.com/reel/DPCXtuZiDQl/",
+        "snippet": "Enem 2k26 1º lugar no estado do Paraná é Poliedro Sistema de Ensino COLÉGIO DO BOSQUE MANANCIAIS Poliedro Sistema de Ensino ... material didático ...",
+        "date": "há 10 meses",
+        "position": 4
+      },
+      {
+        "title": "Na Escola Vereda, entregamos o pacote educacional mais ...",
+        "link": "https://www.instagram.com/p/DNOsFO5RhT2/",
+        "snippet": "... material didático do Sistema de Ensino pH, o melhor e mais ... 195 Colégio Brasília MATRÍCULAS ABERTAS TODO SONHO TEM UM COMEÇO. AQUI ...",
+        "date": "há 11 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

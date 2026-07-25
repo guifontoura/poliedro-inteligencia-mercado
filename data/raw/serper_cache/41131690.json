@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "41131690",
+  "NO_ENTIDADE": "COLEGIO NOSSA SENHORA MEDIANEIRA",
+  "cidade": "Curitiba",
+  "query": "\"COLEGIO NOSSA SENHORA MEDIANEIRA\" \"Curitiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NOSSA SENHORA MEDIANEIRA\" \"Curitiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Nossa Senhora Medianeira | Guia de Matrículas",
+        "link": "https://especiais.gazetadopovo.com.br/guia-escolas-e-matriculas/escolas/colegio-nossa-senhora-medianeira/",
+        "snippet": "... material didático da geração Z. Ferramentas tecnológicas se transformam em ... Curitiba · Ensino Fundamental. Escola Keluc – Educação Fundamental · Educação ...",
+        "position": 1
+      },
+      {
+        "title": "Os componentes de Filosofia e Sociologia ...",
+        "link": "https://pedagogiaignaciana.com/biblioteca-digital/biblioteca-general?view=file&id=4191:os-componentes-de-filosofia-e-sociologia-como-mediadores-da-formacao-integral-dos-estudantes-no-colegio-nossa-senhora-medianeira&catid=8&filename=Martins%20A.%202024%20Formao%20integral%20dos%20estudantes.pdf",
+        "snippet": "Humanas, o Colégio Nossa Senhora Medianeira, localizado em Curitiba, demonstrou um ... estudantes, de um modo geral, no sistema de ensino ...",
+        "date": "1 de ago. de 2024",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-PR.2.privada.do.htm",
+        "snippet": "COLEGIO NOSSA SENHORA MEDIANEIRA, P, CURITIBA, PR, Bronze, ---. LETÍCIA DA CUNHA ... CURITIBA, PR, ---, Sim. PEDRO TANAKA FERRO, ESCOLA PROJETO ED INFANTIL E ...",
+        "position": 3
+      },
+      {
+        "title": "2016",
+        "link": "https://enem.cneceduca.com.br/2016?p=16",
+        "snippet": "Colegio Nossa Senhora Medianeira, Privada, Curitiba, PR, 142, 603,35, 643,07, 608 ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line Alexandria CNEC Provas ...",
+        "position": 4
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... Curitiba. Privada. Urbana. 67. De 61 a. 90 alunos. 62. 92.54. 0. De 60% a 80%. Muito ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

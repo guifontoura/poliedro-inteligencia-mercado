@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35439599",
+  "NO_ENTIDADE": "PARQUE ECOLOGICO INSTITUTO EDUCACIONAL",
+  "cidade": "Indaiatuba",
+  "query": "\"PARQUE ECOLOGICO INSTITUTO EDUCACIONAL\" \"Indaiatuba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PARQUE ECOLOGICO INSTITUTO EDUCACIONAL\" \"Indaiatuba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "PARQUE ECOLOGICO INSTITUTO EDUCACIONAL, P, INDAIATUBA, SP, Sim. JOÃO RAFAEL ... ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Sim. MARIA EDUARDA BATISTA SÁ ...",
+        "position": 1
+      },
+      {
+        "title": "OURO PRATA",
+        "link": "https://antigo.onciencias.org/resultados/download/16",
+        "snippet": "PARQUE ECOLOGICO INSTITUTO EDUCACIONAL. INDAIATUBA. SP. 42,02. Ana Luiza de ... SISTEMA DE ENSINO EQUIPE ANANINDEUA EIRELLI. ANANINDEUA. PA. 25,21. Maria Luisa ...",
+        "position": 2
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536524033/Premiacao-3%C2%BA-Ano-Em-Nivel-d-2019-1",
+        "snippet": "YAOHENG WU LIANG PARQUE ECOLOGICO INSTITUTO EDUCACIONAL SÃO PAULO Indaiatuba ... LUCA DE FREITAS GARCIA SEI - SISTEMA DE ENSINO INTERATIVO RIO DE JANEIRO Rio de ...",
+        "position": 3
+      },
+      {
+        "title": "Alunos classificados-primeira-fase | PDF",
+        "link": "https://es.slideshare.net/slideshow/alunos-classificadosprimeirafase/33690120",
+        "snippet": "... PARQUE ECOLOGICO INSTITUTO EDUCACIONAL INDAIATUBA 25 ANA BEATRIZ GIROTTO EMBRAER JUAREZ WANDERLEY COLEGIO SÃO JOSÉ DOS CAMPOS 25 ANA LUIZA MACHADO TANO ...",
+        "position": 4
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ano ... PARQUE ECOLOGICO INSTITUTO EDUCACIONAL. 35439599 SP. Indaiatuba. Bárbara ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

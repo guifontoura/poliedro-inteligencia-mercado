@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "23165901",
+  "NO_ENTIDADE": "COLEGIO MODULO",
+  "cidade": "Juazeiro do Norte",
+  "query": "\"COLEGIO MODULO\" \"Juazeiro do Norte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MODULO\" \"Juazeiro do Norte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola de Ensino Fundamental e Médio Juvêncio Barreto",
+        "link": "https://www.ce.gov.br/cge/wp-content/uploads/sites/85/2023/01/PAR.N%C2%B0-259.2023-Colegio-Modulo-Revisado-Aurila-17_07_23.pdf",
+        "snippet": "EMENTA: Recredencia o Colégio Módulo, no município de Juazeiro do Norte, ... no âmbito do Sistema de Ensino do Estado do Ceará, e deu outras providências.A.",
+        "position": 1
+      },
+      {
+        "title": "Colegio Modulo | Bolsas de Estudo em Juazeiro do Norte",
+        "link": "https://www.melhorescola.com.br/escola/colegio-modulo",
+        "snippet": "Garanta sua bolsa de estudos em Colegio Modulo, Juazeiro do Norte - CE ... Banda larga; Internet. Sistema de ensino. Objetivo. O sistema de ensino compreende ...",
+        "position": 2
+      },
+      {
+        "title": "O ano letivo está quase começando. Preparados?! 💙👑🦁",
+        "link": "https://www.instagram.com/p/DUGy8j4jyhc/",
+        "snippet": "Photo by Colégio Módulo on June 12, 2026. May be an image of ... SISTEMA DE ENSINO anglo Rua Eunides Volpe 1295 Residencial Modelo 67 ...",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "Nossa Escola",
+        "link": "https://objetivojuazeiro.com.br/nossa-escola",
+        "snippet": "Floro Bartolomeu, 776 – Bairro São Miguel, na cidade de Juazeiro do Norte – CE. ... Material Didático. O que diferencia o material didático do Objetivo é a ...",
+        "position": 4
+      },
+      {
+        "title": "educação ambiental escolar: estudando teorias e ...",
+        "link": "https://dialnet.unirioja.es/descarga/articulo/5548105.pdf",
+        "snippet": "de SG da Silva · 2015 · Citado por 10 — EDUCAÇÃO AMBIENTAL ESCOLAR: ESTUDANDO TEORIAS E VISUALIZANDO. INICIATIVAS REALIZADAS NO COLÉGIO MÓDULO EM JUAZEIRO DO NORTE- ... apostila do aluno e orientação ao ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

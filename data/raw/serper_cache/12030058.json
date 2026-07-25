@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "12030058",
+  "NO_ENTIDADE": "ESC DE ENSINO MEDIO E TECNICO PLACIDO DE CASTRO",
+  "cidade": "Rio Branco",
+  "query": "\"ESC DE ENSINO MEDIO E TECNICO PLACIDO DE CASTRO\" \"Rio Branco\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESC DE ENSINO MEDIO E TECNICO PLACIDO DE CASTRO\" \"Rio Branco\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ENEM ESCOLA Page 1 SIGLA NO_MUNICIPIO ...",
+        "link": "http://fw.atarde.com.br/2012/11/1293042.pdf",
+        "snippet": "... RIO BRANCO. ESC ALCIMAR NUNES LEITAO. Estadual. 426,9076923 441,5230769 486 ... ESC DE ENSINO MEDIO E TECNICO PLACIDO DE CASTRO. Privada. 514,0533333 521 ...",
+        "position": 1
+      },
+      {
+        "title": "Notas de Alunos por Escola e Município | PDF | Brasil",
+        "link": "https://pt.scribd.com/document/648033627/Docspike-com-Clique-Aqui-Para-Fazer-o-Da-Lista-Em-PDF",
+        "snippet": "MELYSSA SILVA SOUZA 22 ESC DE ENSINO MEDIO E TECNICO PLACIDO DE CASTRO RIO BRANCO ... MarÃ-lia Martins dos Santos 19 SISTEMA DE ENSINO EQUIPE BELÉM Samira ...",
+        "position": 2
+      },
+      {
+        "title": "ENEM ESCOLA SIGLA NO_MUNICIPIO NO_ENTIDADE ...",
+        "link": "https://estaticog1.globo.com/2012/11/22/notasEnem2011.pdf",
+        "snippet": "... RIO BRANCO. ESC ALCIMAR NUNES LEITAO. Estadual. 426,9076923 441,5230769 ... ESC DE ENSINO MEDIO E TECNICO PLACIDO DE CASTRO. Privada. 514 ...",
+        "date": "22 de nov. de 2012",
+        "position": 3
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "ESC DE ENSINO MEDIO E TECNICO PLACIDO DE CASTRO. AC. Rio Branco ouro. ANNAH ... COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. AL. Maceió ouro. Ana Alexandra ...",
+        "position": 4
+      },
+      {
+        "title": "Apesar de novo piso, salário de professor continua baixo",
+        "link": "https://exame.com/brasil/apesar-de-novo-piso-salario-de-professor-continua-baixo/",
+        "snippet": "ESC DE ENSINO MEDIO E TECNICO PLACIDO DE CASTRO, 554,70, 626,45 ... RIO BRANCO, Privada, ESC ASSOCIACAO MODELAR DE ENSINO A M E, 520,08, 538 ...",
+        "date": "7 de jan. de 2015",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31123544",
+  "NO_ENTIDADE": "COLEGIO LEONARDO DA VINCI",
+  "cidade": "Patos de Minas",
+  "query": "\"COLEGIO LEONARDO DA VINCI\" \"Patos de Minas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LEONARDO DA VINCI\" \"Patos de Minas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O 1º lugar no ENEM 25/26 é fruto de uma engrenagem que ...",
+        "link": "https://www.instagram.com/p/Da21sFvDsMc/",
+        "snippet": "COLEGIO LEONARDO DA VINCI Patos de Minas Minas Gerais Privada Urbana Posição Escola Cidade ...",
+        "date": "há 1 semana",
+        "position": 1
+      },
+      {
+        "title": "Bolsas de Estudo Colégio Leonardo da Vinci",
+        "link": "https://www.educamaisbrasil.com.br/escolas/colegio-leonardo-da-vinci-caetite",
+        "snippet": "O material didático, alinhado à Base Nacional Comum Curricular (BNCC) ... Em resumo, o Colégio Leonardo da Vinci de Patos de Minas busca formar ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio Padrão on Instagram: \" O TOPO É NOSSO! É com ...",
+        "link": "https://www.instagram.com/reel/DZ7z0aCxpbc/",
+        "snippet": "... Patos de Minas, né, a Olimpíada Brasileira de Matemática das escolas ... Poliedro Sistema de Ensino. 1º lugar em Anápolis e 2ª melhor ...",
+        "position": 3
+      },
+      {
+        "title": "MODELO DE MUSSNICH ADAPTADO À REALIDADE DO ...",
+        "link": "https://efecadepatos.com.br/modelo-de-mussnich-adaptado-a-realidade-do-colegio-leonardo-da-vinci/",
+        "snippet": "EFECADEPATOS · MODELO DE MUSSNICH ADAPTADO À REALIDADE DO COLÉGIO LEONARDO DA VINCI · Agência Propagando.",
+        "position": 4
+      },
+      {
+        "title": "Maria Clara concluiu sua formação no Colégio Loyola e ...",
+        "link": "https://www.instagram.com/reel/DY73PI_BFpM/",
+        "snippet": "COLEGIO LEONARDO DA VINCI Patos de Minas Minas Gerais Privada Urbana Posição Escola Cidade ... o ensino de qualidade pautado ali em professores, ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

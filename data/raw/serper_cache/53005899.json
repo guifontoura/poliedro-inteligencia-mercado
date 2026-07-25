@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "53005899",
+  "NO_ENTIDADE": "INSTITUTO EDUCACIONAL SANTO ELIAS",
+  "cidade": "Brasília",
+  "query": "\"INSTITUTO EDUCACIONAL SANTO ELIAS\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INSTITUTO EDUCACIONAL SANTO ELIAS\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O futuro começa AGORA! O IESE tem projetos, tem valores ...",
+        "link": "https://www.instagram.com/reel/DRz-uVYD2LF/",
+        "snippet": "... Instituto Educacional Santo Elias: Uma proposta de valores para a ... Colégio La Salle Brasília. Follow · escolasesi.joinville's profile ...",
+        "date": "há 7 meses",
+        "position": 1
+      },
+      {
+        "title": "Instituto Educacional Santo Elias on ...",
+        "link": "https://www.instagram.com/reel/DChEBuwBqLH/",
+        "snippet": "Brasília DF. Photo by Instituto Educacional Santo Elias on July 03, 2026. May be ... INSTITUTO EDUCACIONAL SANTO ELIAS FTD Sistema de Ensino ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Bem-vindos ao Instituto Educacional Santo Elias, o lugar onde ...",
+        "link": "https://www.instagram.com/reel/DFU4QUPxAw9/",
+        "snippet": "Brasília DF. Photo by Instituto Educacional Santo Elias on July 03, 2026. May be ... INSTITUTO EDUCACIONAL SANTO ELIAS FTD Sistema de Ensino ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "CIEC - Secretaria de Educação",
+        "link": "https://www.educacao.df.gov.br/documents/d/seedf/instituicoes-credenciadas-14-de-marco-de-2026-pdf",
+        "snippet": "ASSOCIAÇÃO PESTALOZZI DE BRASÍLIA (EX: PESTALOZZI BRASÍLIA; CEE DR. ... LC SISTEMA DE ENSINO DE EXCELÊNCIA LTDA. ENSINO MÉDIO. 31/07/2028. 26.",
+        "date": "31 de dez. de 2025",
+        "position": 4
+      },
+      {
+        "title": "FTD Educação on Instagram: \"Coordenadoras, educadoras e ...",
+        "link": "https://www.instagram.com/reel/DM-CaY2Mmi3/",
+        "snippet": "... material didático que une aprendizado, afeto e confiança ... INSTITUTO EDUCACIONAL SANTO ELIAS 1º SIMULADO FTD 2026 FTD Sistema de Ensino ...",
+        "date": "há 11 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

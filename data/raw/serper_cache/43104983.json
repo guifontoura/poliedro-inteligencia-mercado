@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "43104983",
+  "NO_ENTIDADE": "COLEGIO ISRAELITA BRASILEIRO",
+  "cidade": "Porto Alegre",
+  "query": "\"COLEGIO ISRAELITA BRASILEIRO\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ISRAELITA BRASILEIRO\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Maurício Casarin - Educação | Língua Portuguesa | Literatura",
+        "link": "https://br.linkedin.com/in/mauriciogcasarin",
+        "snippet": "... Material Didático. Colegio Israelita Brasileiro Universidade Federal do Rio Grande do Sul. Porto Alegre, Rio Grande do Sul, Brasil. 421 seguidores 421 conexões.",
+        "position": 1
+      },
+      {
+        "title": "Matrícula Inicial por etapa e/ou modalidade de ensino - 2014",
+        "link": "https://servicos.educacao.rs.gov.br/dados/estatisticas_mi_par_2014.pdf",
+        "snippet": "43104983 COLEGIO ISRAELITA BRASILEIRO. Urbana. 101. 80. 413. 145. 0. 0. 0. 739. 1 ... 43250009 FACULDADE TECNOLOGIA TECBRASIL - UNIDADE PORTO ALEGRE. Urbana. 0. 0.",
+        "position": 2
+      },
+      {
+        "title": "Vagas de Auxiliar Sala De Aula em Porto Alegre, RS",
+        "link": "https://br.indeed.com/q-auxiliar-sala-de-aula-l-porto-alegre,-rs-vagas.html",
+        "snippet": "Professor (a) de Atendimento Educacional Especializado. Muitas vezes responde em 1 dia. Colegio Israelita Brasileiro. Porto Alegre, RS. Assistência médica.",
+        "position": 3
+      },
+      {
+        "title": "Ana Margarida Chiavaro Machado",
+        "link": "https://repositorio.jesuita.org.br/bitstream/UNISINOS/3630/1/Ana+Margarida+Chiavaro+Machado.pdf",
+        "snippet": "Level B at Colegio Israelita Brasileiro, Porto Alegre / RS. Data collection ... mundo real (e não simplesmente com o uso de material didático de aula),.",
+        "position": 4
+      },
+      {
+        "title": "professor auxiliar i - enfermagem - estácio centro (rs)",
+        "link": "https://www.glassdoor.com/job-listing/professor-auxiliar-i-enfermagem-est%C3%A1cio-centro-rs-universidade-est%C3%A1cio-de-s%C3%A1-JV_IC2417359_KO0,49_KE50,76.htm?jl=1010209538432",
+        "snippet": "Colegio Israelita Brasileiro. 3.8. Professor (a) de Atendimento ... Educadora Assistente - Educação Infantil - Porto Alegre/RS. Porto Alegre, Rio ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

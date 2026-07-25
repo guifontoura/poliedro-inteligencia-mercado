@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "15096831",
+  "NO_ENTIDADE": "COLEGIO ATITUDE",
+  "cidade": "Cametá",
+  "query": "\"COLEGIO ATITUDE\" \"Cametá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ATITUDE\" \"Cametá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Entrega do Material Didático do 1º bimestre – Sistema Objetivo ...",
+        "link": "https://www.instagram.com/reel/DVJPTyfjkD3/",
+        "snippet": "Photo by Colégio Atitude Cametá on April 17, 2026. May be an image of.",
+        "position": 1
+      },
+      {
+        "title": "Brincar é bom! - Colégio Atitude - Cametá - PA",
+        "link": "https://www.sistemafb.com.br/brincar-e-bom-colegio-atitude-cameta-pa/",
+        "snippet": "– Colégio Atitude – Cametá – PA. Boas Práticas SFB tem o […] 12 de ... Junte-se ao sistema de ensino que transforma e prepara vencedores ...",
+        "date": "12 de jul. de 2022",
+        "position": 2
+      },
+      {
+        "title": "Colegio Atitude - Descontos, Preço das Mensalidades e ...",
+        "link": "https://querobolsa.com.br/escolas/243573-colegio-atitude",
+        "snippet": "Travessa Eneas Martins, 351 - Central, Cametá - PA. Quer descobrir mais ... Logo de êxito Sistema De Ensino. êxito Sistema De Ensino. A partir de. R$ 385 ...",
+        "rating": 3.9,
+        "ratingCount": 6,
+        "position": 3
+      },
+      {
+        "title": "Colégio Pentagunum Objetivo | O Desafio está lançado. ...",
+        "link": "https://www.instagram.com/p/DZnqkx5iRu3/",
+        "snippet": "Essa é a sua oportunidade de estudar com o sistema de ensino que mais aprova nos grandes vestibulares! ... Photo by Colégio Atitude Cametá on June ...",
+        "position": 4
+      },
+      {
+        "title": "Escolas particulares em Cametá - PA",
+        "link": "https://www.melhorescola.com.br/escola/por-mensalidade/para/cameta",
+        "snippet": "Escolas mais procuradas em Cametá - PA. Instituto Nossa Senhora Auxiliadora · êxito Sistema De Ensino · colegio atitude · instituto papa joao xxiii · instituto ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

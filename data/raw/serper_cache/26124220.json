@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "26124220",
+  "NO_ENTIDADE": "COLEGIO SANTA MARIA",
+  "cidade": "Recife",
+  "query": "\"COLEGIO SANTA MARIA\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA MARIA\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Proposta Pedagógica | Colégio Santa Maria",
+        "link": "https://www.colegiosantamaria.com.br/pt/proposta-pedagogica/",
+        "snippet": "O Colégio Santa Maria ... Já no Ensino Médio, incluindo o 9º ano do Fundamental anos finais, utilizamos como apoio didático o Sistema de Ensino do Farias Brito.",
+        "position": 1
+      },
+      {
+        "title": "Colégio Santa Maria começa nova era e anuncia projetos",
+        "link": "https://www.folhape.com.br/noticias/colegio-santa-maria-comeca-nova-era-e-anuncia-projetos/351951/",
+        "snippet": "... sistema pedagógico. Eles foram recebidos por José Américo ... Colégio Santa Maria anuncia nova unidade na Zona Norte do Recife até 2026.",
+        "date": "31 de jul. de 2024",
+        "position": 2
+      },
+      {
+        "title": "COLÉGIO SANTA MARIA on Instagram: \"MATRÍCULAS ABERTAS",
+        "link": "https://www.instagram.com/reel/DEc8DdrRlie/",
+        "snippet": "... Recife nas eleições de 2028 pra tirar o PT da Prefeitura ... A) COLÉGIO SANTA MARIA TODAS AS ALTERNATIVAS COLÉGIO SANTA MARIA Abreu e Lima ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Matrícula condicionada à compra de material didático: Venda ...",
+        "link": "https://www.reclameaqui.com.br/colegio-santa-maria-paiva/matricula-condicionada-a-compra-de-material-didatico-venda-casada-em-instituicao-de-ensino_o7mZLMQeqqneTCBX/",
+        "snippet": "Recife - PE. 17/03/2026 às 18:51. ID: 243560105. RA ... material didático vendido pela própria instituição. ... Está com problema com Colégio Santa Maria - Paiva?",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-PE.3.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões · Apostilas do PIC ... RECIFE, PE, Sim. 63, ARTHUR BEZERRA MELO, COLEGIO SANTA MARIA, P, RECIFE, PE, Sim.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

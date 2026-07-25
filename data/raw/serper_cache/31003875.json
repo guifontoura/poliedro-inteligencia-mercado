@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31003875",
+  "NO_ENTIDADE": "COL MAXIMUS STA INES",
+  "cidade": "Belo Horizonte",
+  "query": "\"COL MAXIMUS STA INES\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL MAXIMUS STA INES\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COL MAXIMUS STA INES. 0,4%. COL MAXIMUS UNID PALMARES. 1%. COLEGIO ABGAR ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA - UNIDADE ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "https://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/minas-gerais/",
+        "snippet": "ATUAL SISTEMA DE ENSINO, SABINOPOLIS, MG, Privada, 80% ou mais, Alto ... COL MAXIMUS STA INES, BELO HORIZONTE, MG, Privada, 80% ou mais, Muito ...",
+        "date": "5 de ago. de 2015",
+        "position": 2
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO DOS ... COL MAXIMUS STA INES. MINAS GERAIS. Belo Horizonte. RODRIGO ROMANHOL ...",
+        "position": 3
+      },
+      {
+        "title": "Nome do(a) aluno(a) Escola Modalidade Polo de aplicação",
+        "link": "https://omq.qui.ufmg.br/wp-content/uploads/2025/08/participantes_OMQ_2025_atualizado.pdf",
+        "snippet": "COL MAXIMUS STA INES. A. Belo Horizonte. ANA JULIA DOS SANTOS PADILHA SIQUEIRA ... SISTEMA DE ENSINO FOCO. B. Montes Claros. BEATRIZ SOARES CALDEIRA VELOSO.",
+        "position": 4
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536524033/Premiacao-3%C2%BA-Ano-Em-Nivel-d-2019-1",
+        "snippet": "LUCA DE FREITAS GARCIA SEI - SISTEMA DE ENSINO INTERATIVO RIO DE JANEIRO Rio de Janeiro ... MATEUS RIBEIRO COL MAXIMUS STA INES MINAS GERAIS Belo Horizonte",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

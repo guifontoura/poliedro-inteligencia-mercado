@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "51039877",
+  "NO_ENTIDADE": "COLEGIO SALESIANO SAO GONCALO - ESCOLA DE EDUCACAO BASICA",
+  "cidade": "Cuiabá",
+  "query": "\"COLEGIO SALESIANO SAO GONCALO - ESCOLA DE EDUCACAO BASICA\" \"Cuiabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SALESIANO SAO GONCALO - ESCOLA DE EDUCACAO BASICA\" \"Cuiabá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/5103403-cuiaba/busca",
+        "snippet": "COLEGIO SALESIANO SAO GONCALO - ESCOLA DE EDUCACAO BASICA. DOM BOSCO, 605. DOM AQUINO. 78015180 Cuiabá - Mato Grosso. Rede privada / Urbana · COLEGIO SAO MATEUS ...",
+        "position": 1
+      },
+      {
+        "title": "RESULTADO POR REGIÃO",
+        "link": "https://ceara.obquimica.org/storage/files/resultado-do-i-quimeninas-2023-9-ano-ef.pdf",
+        "snippet": "COLEGIO SALESIANO SAO GONCALO - ESCOLA DE EDUCACAO BASICA. MATO GROSSO. CUIABÁ ... SISTEMA DE ENSINO PHYSICS AMAPÁ LTDA. AMAPÁ. MACAPÁ. PRATA. 25. 1698188 ...",
+        "position": 2
+      },
+      {
+        "title": "Plan1",
+        "link": "https://www.fapemat.mt.gov.br/documents/8125245/9122067/NUMERO+DE+SALAS+EXISTENTES+UTILIZADAS_2016.xls/84cd3234-35be-0a8e-18aa-e90db71239e6",
+        "snippet": "COLEGIO SALESIANO SAO GONCALO - ESCOLA DE EDUCACAO BASICA, 91, 72. 949, 2016, 51 ... SISTEMA DE ENSINO SAO BENEDITO, 16, 16. 983, 2016, 51, Cuiabá, 51038811, EMEB ...",
+        "position": 3
+      },
+      {
+        "title": "Plan1",
+        "link": "https://www.pm.mt.gov.br/documents/8125245/22247734/TAXAS_REND_ESCOLAS_2019.xls/ba5e30cc-db38-79ac-5c94-ac1d7b86d9ca",
+        "snippet": "... Cuiabá, 51020890, ESCOLA DE EDUCACAO INFANTIL E ENSINO FUNDAMENTAL CRESCER ... COLEGIO SALESIANO SAO GONCALO - ESCOLA DE EDUCACAO BASICA, Urbana, Privada ...",
+        "position": 4
+      },
+      {
+        "title": "Resultado Enem de Cuiabá: escolas com melhores e ...",
+        "link": "https://blogdoenem.com.br/resultado-enem-cuiaba/",
+        "snippet": "FARINA SISTEMA DE ENSINO, 599.91. 4, COLEGIO NOTRE DAME DE LOURDES, 595.33. 5, COLEGIO SALESIANO SAO GONCALO – ESCOLA DE EDUCACAO BASICA, 594.03.",
+        "date": "27 de ago. de 2018",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "43105149",
+  "NO_ENTIDADE": "COLEGIO BOM JESUS SEVIGNE",
+  "cidade": "Porto Alegre",
+  "query": "\"COLEGIO BOM JESUS SEVIGNE\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BOM JESUS SEVIGNE\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Bom Jesus Un. Sévigné - Porto Alegre - RS",
+        "link": "https://www2.bomjesus.br/unidades/?rio-grande-do-sul/sevigne/=BSEVRS",
+        "snippet": "- Material Didático Próprio · - Proximidade com a ... - Material Didático Próprio ... O Colégio Bom Jesus Sévigné, localizado na região central de Porto Alegre ...",
+        "position": 1
+      },
+      {
+        "title": "Blog Colégio Bom Jesus | Isso é Amorografia",
+        "link": "https://www2.bomjesus.br/blog",
+        "snippet": "Colégio Bom Jesus Sévigné - Porto Alegre. Rio Grande. Colégio Bom Jesus Joana ... - Material Didático Próprio · - Proximidade com a Família · - Preparação ...",
+        "position": 2
+      },
+      {
+        "title": "Os alunos dos 1º períodos da Educação Infantil viveram ...",
+        "link": "https://www.instagram.com/p/DXH2VkCH4l5/",
+        "snippet": "... material didático do Bernoulli Sistema de Ensino ... material didático do Bernoulli Sistema de Ensino ... Colégio Bom Jesus Sévigné, em Porto Alegre (RS) ...",
+        "position": 3
+      },
+      {
+        "title": "Educação de Referência em Florianópolis no Colégio Bom ...",
+        "link": "https://www.tiktok.com/@colegiobomjesus/video/7589597807556775184",
+        "snippet": "O Bom Jesus Sévigné, em Porto Alegre (RS), é um colégio com estrutura completa. ... material didático\",\"crianças e jovens\",\"aprendizado ...",
+        "date": "há 6 meses",
+        "position": 4
+      },
+      {
+        "title": "Matrícula Inicial por etapa e/ou modalidade de ensino - 2014",
+        "link": "https://servicos.educacao.rs.gov.br/dados/estatisticas_mi_par_2014.pdf",
+        "snippet": "PORTO ALEGRE. 43105130 COLEGIO MARISTA SAO PEDRO. Urbana. 15. 44. 429. 120. 0. 0. 0. 608. 1. PORTO ALEGRE. 43105149 COLEGIO BOM JESUS SEVIGNE. Urbana. 0. 53.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

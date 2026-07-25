@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "31007111",
+  "NO_ENTIDADE": "COLEGIO SAGRADO CORACAO DE JESUS",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO SAGRADO CORACAO DE JESUS\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAGRADO CORACAO DE JESUS\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosMencao-MG.2.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO FOCO, P, MONTES CLAROS, MG, Sim. MARIA BEATRIZ S. BERGO ... COLEGIO SAGRADO CORACAO DE JESUS, P, BELO HORIZONTE, MG, Sim. PETRUS SCHNEIDER ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Sagrado Coração De Jesus | Bolsas de Estudo em ...",
+        "link": "https://www.melhorescola.com.br/escola/colegio-sagrado-coracao-de-jesus-contagem",
+        "snippet": "Sistema de ensino. FTD Educação. O sistema de ensino compreende o conjunto de ... Lindeia - Belo Horizonte - MG. Bolsas a partir de: R$ 284,90- 30%. Logo ...",
+        "position": 2
+      },
+      {
+        "title": "BHTRANS - Belo Horizonte",
+        "link": "http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S09F03-escolar5a.asp?lingua=",
+        "snippet": "COLEGIO SAGRADO CORACAO DE JESUS · COLEGIO SAGRADO CORACAO DE MARIA · COLEGIO ... SISTEMA DE ENSINO RENASCER · SISTEMA PIAGET DE ENSINO · UMEI BRAUNAS · UMEI ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio Adventista de Itaboraí on Instagram: \"Aprender ...",
+        "link": "https://www.instagram.com/reel/DZ5jTbnTFqw/",
+        "snippet": "Material didático, projeto, coordenação, diretoria e muito mais. ... 393 Colégio Sagrado Coração de Jesus . Colégio Coca Corađe-ade-lesus ...",
+        "position": 4
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGIO SAGRADO CORACAO DE JESUS. 3,2%. COLEGIO SANTA AMELIA. 3,2%. COLEGIO ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA - UNIDADE ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

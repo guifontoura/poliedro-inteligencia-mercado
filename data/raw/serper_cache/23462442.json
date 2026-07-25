@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "23462442",
+  "NO_ENTIDADE": "COLEGIO CHRISTUS UNIDADE SUL",
+  "cidade": "Fortaleza",
+  "query": "\"COLEGIO CHRISTUS UNIDADE SUL\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO CHRISTUS UNIDADE SUL\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola - Colegio Christus Unidade Sul - Fortaleza - CE",
+        "link": "https://www.escol.as/298484-colegio-christus-unidade-sul",
+        "snippet": "O Colégio Christus Unidade Sul, localizado na vibrante cidade de Fortaleza ... material didático diversificado complementam a ... Material Didático. com ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-CE.2.privada.do.htm",
+        "snippet": "FORTALEZA, CE, Bronze, ---. ARTUR TIN LUN DAI LIMA, ODILON BRAVEZA COL, P ... COLEGIO CHRISTUS UNIDADE SUL, P, FORTALEZA, CE, ---, Sim. MARIA JÚLIA ARAÚJO DE O ...",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2304400-fortaleza/busca",
+        "snippet": "60442642 Fortaleza - Ceará. Rede privada / Urbana · ALTERNATIVO SISTEMA DE ENSINO. RUA DOUTOR RIBAMAR LOBO, 363 PAPICU. 60176-145 Fortaleza - CE. Rede privada ...",
+        "position": 3
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "COLEGIO CHRISTUS UNIDADE SUL. CE. 778. COL BATISTA MINEIRO. MG. 779. COC ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL. PB. 7312. SUELI ...",
+        "position": 4
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 1° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DAA25DGW9E54FSE2QMDYT.pdf",
+        "snippet": "COLEGIO CHRISTUS UNIDADE SUL. CE. Fortaleza certificado GIOVANNA BARROS ... SISTEMA DE ENSINO AUTHENTICO. PA. Belém certificado CLARYSSA BARROS DE FARIAS.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

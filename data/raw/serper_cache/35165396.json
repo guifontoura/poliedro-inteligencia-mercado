@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35165396",
+  "NO_ENTIDADE": "SANTA BARBARA COLEGIO",
+  "cidade": "Bragança Paulista",
+  "query": "\"SANTA BARBARA COLEGIO\" \"Bragança Paulista\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SANTA BARBARA COLEGIO\" \"Bragança Paulista\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas em Jardim Do Lago na cidade de Bragança Paulista",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/braganca-paulista-sp/jardim-do-lago",
+        "snippet": "Material Didático Incluso. Infantil em alta! R$ 1.196,76. R$ 897,57 /mês - 25 ... Confira aqui escolas com bolsa de estudos com as mensalidades mais baratas em ...",
+        "position": 1
+      },
+      {
+        "title": "Bolsas de Estudo nas Melhores Escolas em Bragança - PA",
+        "link": "https://www.melhorescola.com.br/bolsas-de-estudo/para/braganca",
+        "snippet": "Logo - Colégio Integral Bragança Paulista - Unidade Ii. Colégio Integral ... Logo - sistema de ensino evolucao. Sistema De Ensino Evolucao. 5.0(1). Saiba ...",
+        "position": 2
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... SANTA BARBARA COLEGIO. 35165396 SP. Bragança Paulista. Alex Fernando de Castro ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 3
+      },
+      {
+        "title": "Escolas na Educação Infantil no Parque Dos Estados",
+        "link": "https://querobolsa.com.br/escolas/etapa-de-ensino/educacao-infantil/braganca-paulista-sp/parque-dos-estados",
+        "snippet": "Bolsas para Educação Infantil no Parque Dos Estados - Bragança Paulista. Mensalidades a partir de R ... Logo - santa barbara colegio. Santa Barbara ...",
+        "position": 4
+      },
+      {
+        "title": "Escolas em Tanque Do Moinho - Bragança Paulista - SP",
+        "link": "https://www.melhorescola.com.br/busca/sao-paulo/braganca-paulista/tanque-do-moinho",
+        "snippet": "Colégio Integral Bragança Paulista - Unidade I; Colégio Integral ... Material Didático Incluso. Infantil em alta! Vagas 2026. R$ 1.150,79. R$ 863,09 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

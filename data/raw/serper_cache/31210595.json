@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31210595",
+  "NO_ENTIDADE": "COL QUELUZ DE MINAS",
+  "cidade": "Conselheiro Lafaiete",
+  "query": "\"COL QUELUZ DE MINAS\" \"Conselheiro Lafaiete\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL QUELUZ DE MINAS\" \"Conselheiro Lafaiete\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Você sabia? O Colégio Losango conquistou o 1º lugar no ...",
+        "link": "https://www.instagram.com/p/DaeHj1Ft2Uf/",
+        "snippet": "1° LUGAR NO ENEM em Conselheiro Lafaiete e região iemar Instituto ... Com o apoio do Sistema de Ensino Anglo, seguimos preparando ...",
+        "date": "há 2 semanas",
+        "position": 1
+      },
+      {
+        "title": "Escolas em Conselheiro Lafaiete - INEP | PDF",
+        "link": "https://pt.scribd.com/document/782977749/INEP-ESCOLAS",
+        "snippet": "31210595 COL QUELUZ DE MINAS. 31321745 COL STA RITA FASAR. 31339938 ... Análise do Material Didático e Políticas Públicas. 3 páginas. O Processo ...",
+        "position": 2
+      },
+      {
+        "title": "ENEM ESCOLA Page 1 SIGLA NO_MUNICIPIO ...",
+        "link": "http://fw.atarde.com.br/2012/11/1293042.pdf",
+        "snippet": "... SISTEMA DE ENSINO LTDA. Privada. 487,1512195 514,9707317 553,6134146 539 ... CONSELHEIRO LAFAIETE. COL N SRA DE NAZARE. Privada. 588,9333333. 580,572549 597 ...",
+        "position": 3
+      },
+      {
+        "title": "UNIDADE DA FEDERAÇÃO MUNICÍPIO ESCOLA ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_1_MUNICIPIOS.pdf",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE. PRIVADA. 174. 173. 587,85. 655,31. 637,97. 597,23 ... CONSELHEIRO LAFAIETE. COL N SRA DE NAZARE. PRIVADA. 53. 53. 591,59.",
+        "date": "11 de set. de 2011",
+        "position": 4
+      },
+      {
+        "title": "Coração leve e mente focada! O Colégio Nazaré está com ...",
+        "link": "https://www.instagram.com/p/DQm7qBbEl3B/",
+        "snippet": "... Conselheiro Lafaiete/MG ... PASSE PRO LADO 1º LUGAR NA REDAÇÃO COL QUELUZ DE MINAS UM GRANDE FEITO PELOS NOSSOS ...",
+        "date": "há 8 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

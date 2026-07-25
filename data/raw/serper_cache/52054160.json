@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "52054160",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL QUASAR",
+  "cidade": "Rio Verde",
+  "query": "\"CENTRO EDUCACIONAL QUASAR\" \"Rio Verde\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL QUASAR\" \"Rio Verde\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Protágoras Rio Verde on Instagram: \" Matrículas ...",
+        "link": "https://www.instagram.com/reel/DQKAMMJjW9i/",
+        "snippet": "... Rio Verde-0o Verde- . EU GOSTO P Pecoiares Petug Isabela Barroso ... Acabamos de receber a notícia maravilhosa: o Centro Educacional Quasar em ...",
+        "date": "há 9 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Integrado on Instagram: \"Você sabia? O sistema de ...",
+        "link": "https://www.instagram.com/reel/DJ4JvGiu1cW/",
+        "snippet": "Sas. OCR. + Qual é o melhor material didático/ sistema de ensino? . ... Acabamos de receber a notícia maravilhosa: o Centro Educacional Quasar em ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "diA) I",
+        "link": "https://www.fe.ufg.br/nedesc/cmv/controle/DocumentoControle.php?oper=download&cod=2077",
+        "snippet": "Prorroga autorização de funcionamento e valida os atos pedagógicos praticados do. Centro Educacional Quasar . ... Federação organizarão seu sistema de ensino.",
+        "position": 3
+      },
+      {
+        "title": "Fabiane Cristine Leal Araujo",
+        "link": "https://www.escavador.com/sobre/224554824/fabiane-cristine-leal-araujo",
+        "snippet": "Atualmente é professor do Centro Educacional Quasar ... Título: Proposta de Formulação de Material Didático para o Ensino de Biologia´por Meio de Imagens ...",
+        "position": 4
+      },
+      {
+        "title": "Thiago foi aprovado em Matemática na UFSCar em 1º ...",
+        "link": "https://www.instagram.com/p/DULkRMwjnXq/",
+        "snippet": "Acabamos de receber a notícia maravilhosa: o Centro Educacional Quasar em primeiro lugar no ENEM em matemática. ... apostila da mesma forma, ...",
+        "date": "há 5 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

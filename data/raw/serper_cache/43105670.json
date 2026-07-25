@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "43105670",
+  "NO_ENTIDADE": "COLEGIO SINODAL DO SALVADOR",
+  "cidade": "Porto Alegre",
+  "query": "\"COLEGIO SINODAL DO SALVADOR\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SINODAL DO SALVADOR\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Lista de Materiais – 2026 – Colégio Sinodal do Salvador",
+        "link": "https://sinodalsalvador.org.br/ensino/listademateriais/",
+        "snippet": "Porto Alegre / RS - CEP 91370-050. Contato: Telefone: (51) 3340.5509 / (51) 3344.3777. E-mail: salvador@salvador.org.br. Colégio Sinodal do Salvador. WordPress ...",
+        "position": 1
+      },
+      {
+        "title": "Perguntas e respostas para entender melhor a parceria ...",
+        "link": "https://sinodalsalvador.org.br/parceria-sas/",
+        "snippet": "... solução educacional possibilita que o professor estabeleça a melhor ... Como é realizada a escolha de material didático no Colégio Sinodal do Salvador?",
+        "position": 2
+      },
+      {
+        "title": "e o Colégio Sinodal da Paz marcou presença no evento ...",
+        "link": "https://www.instagram.com/p/DYz9Q0hDVgZ/",
+        "snippet": "... Porto Alegre. O evento reuniu lideranças educacionais para debater temas relacionados à cidadania global e ao desenvolvimento sustentável. A ...",
+        "position": 3
+      },
+      {
+        "title": "Formação para professores do AEE será promovida pelo ...",
+        "link": "https://www.sinepe-rs.org.br/noticias/formacao-para-professores-do-aee-sera-promovida-pelo-sinepers",
+        "snippet": "A programação inicia com palestras técnicas, a primeira delas conduzida por André Sträher, diretor do Colégio Sinodal do Salvador ...",
+        "date": "1 de jun. de 2026",
+        "position": 4
+      },
+      {
+        "title": "Cultura e educação andam juntas! Entre uma agenda e outra ...",
+        "link": "https://www.instagram.com/reel/DYHfxP4Bros/",
+        "snippet": "... Porto Alegre, vivenciando um dia repleto de conhecimento, cultura e novas experiências. ... material didático. Mais do que uma visita, este ...",
+        "date": "há 2 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

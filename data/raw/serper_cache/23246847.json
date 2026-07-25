@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "23246847",
+  "NO_ENTIDADE": "FARIAS BRITO COLEGIO DE APLICACAO",
+  "cidade": "Fortaleza",
+  "query": "\"FARIAS BRITO COLEGIO DE APLICACAO\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"FARIAS BRITO COLEGIO DE APLICACAO\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "A Prefeitura de Fortaleza abriu, nesta quinta-feira (23/07) ...",
+        "link": "https://www.instagram.com/p/DbJXbnLDXY9/",
+        "snippet": "... material didático, laboratório de redação, passagem de ônibus, lanche e ... Farias Brito Colégio de Aplicação (Fortaleza) – 793,33 pontos",
+        "date": "há 1 dia",
+        "position": 1
+      },
+      {
+        "title": "Ranking do Enem: Melhores escolas do Brasil na redação",
+        "link": "https://blog.imaginie.com.br/ranking-enem-redacao/",
+        "snippet": "Sistema de Ensino Equipe Integrado Eireli – EPP | Belém (PA): 906,7; Farias Brito Colégio de Aplicação | Fortaleza (CE): 906,0; Colégio Galileu ...",
+        "date": "26 de jun. de 2026",
+        "position": 2
+      },
+      {
+        "title": "Multitude Sistema de Ensino on Instagram: \"Multitude e o ...",
+        "link": "https://www.instagram.com/reel/DPjgKXKET2w/",
+        "snippet": "Photo by Multitude Sistema de Ensino on June 24, 2026. May be an ... Farias Brito Colégio de Aplicação Fortaleza/CE 793,30 3º Christus ...",
+        "date": "há 9 meses",
+        "position": 3
+      },
+      {
+        "title": "Quanto custa estudar nas 10 escolas com melhor nota no ...",
+        "link": "https://exame.com/invest/minhas-financas/quanto-custa-estudar-nas-10-escolas-com-melhor-nota-no-enem/",
+        "snippet": "... material didático Média geral no Enem: 742,96 Os três anos do ... 2º lugar: Farias Brito Colégio de Aplicação – Fortaleza (CE) zoom_out_map.",
+        "date": "5 de ago. de 2015",
+        "position": 4
+      },
+      {
+        "title": "Todo ano, o ranking do ENEM ganha destaque e muita gente ...",
+        "link": "https://www.instagram.com/reel/DbCDd__OScz/",
+        "snippet": "... Fortaleza (CE) 2) Farias Brito Colégio de Aplicação - 793,33 - Fortaleza (CE) 3) Christus Colégio Pré-Universitário - 779,39 - Fortaleza (CE)",
+        "date": "há 3 dias",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

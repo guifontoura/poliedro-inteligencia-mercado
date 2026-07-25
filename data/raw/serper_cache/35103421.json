@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35103421",
+  "NO_ENTIDADE": "LICEU DE ARTES E OFICIOS DE SAO PAULO",
+  "cidade": "São Paulo",
+  "query": "\"LICEU DE ARTES E OFICIOS DE SAO PAULO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LICEU DE ARTES E OFICIOS DE SAO PAULO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Liceu de Artes e Ofícios de São Paulo",
+        "link": "https://teses.usp.br/teses/disponiveis/16/16133/tde-16102019-160703/publico/MEFERNANDAMARIADASCHAGASCARVALHO_rev.pdf",
+        "snippet": "demasiado supor que fosse a base de todo o sistema de ensino”. Ana Maria ... • Liceu de Artes e Ofícios de São Paulo de São Paulo. Quadro de. Formandos ...",
+        "position": 1
+      },
+      {
+        "title": "Liceu de Artes e Ofícios de São Paulo (1873)",
+        "link": "https://www.arrematearte.com.br/artistas/liceu-de-artes-e-oficios-de-sao-paulo-1873",
+        "snippet": "O Liceu de Artes e Ofícios de São Paulo (São Paulo, SP, 1873) é uma ... Fornece ainda material didático, assistência médica e uma biblioteca pública.",
+        "position": 2
+      },
+      {
+        "title": "Liceu de Artes e Ofícios de São Paulo (Laosp)",
+        "link": "https://enciclopedia.itaucultural.org.br/instituicoes/70069-liceu-de-artes-e-oficios-de-sao-paulo-laosp",
+        "snippet": "Liceu de Artes e Ofícios de São Paulo; Sociedade Propagadora da ... Fornece ainda material didático, assistência médica e uma biblioteca pública.",
+        "date": "19 de fev. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Cultura Artística no Liceu de São Paulo | PDF | Urbanismo",
+        "link": "https://pt.scribd.com/document/535301007/Fernanda-Maria-das-Chagas-Carvalho-Liceu-de-Artes-e-Oficios-de-Sao-Paulo",
+        "snippet": "demasiado supor que fosse a base de todo o sistema de ensino”. Ana Maria ... • Liceu de Artes e Ofícios de São Paulo de São Paulo. Quadro de. Formandos ...",
+        "position": 4
+      },
+      {
+        "title": "Liceu de Artes e Ofícios de São Paulo - Processos",
+        "link": "https://www.escavador.com/nomes/liceu-de-artes-e-oficios-de-sao-paulo-197c3a649b",
+        "snippet": "Material Didático Especializado, Tecnologias Assistivas e Suporte. Origem ... Estado de São Paulo, Liceu de Artes e Ofícios de São Paulo, Marcelo Scaff ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

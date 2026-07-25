@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "29487250",
+  "NO_ENTIDADE": "COLEGIO SAO PAULO",
+  "cidade": "Salvador",
+  "query": "\"COLEGIO SAO PAULO\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAO PAULO\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ensino - Colégio São Paulo",
+        "link": "https://www.cspba.com.br/ensino/",
+        "snippet": "Colégio São Paulo - Salvador · Admissão · Novos Alunos · Rematrícula. O Colégio. Filosofia · História · Estrutura · Nosso Hino · Projeto Político Pedagógico ...",
+        "position": 1
+      },
+      {
+        "title": "MPBA aciona Colégio São Paulo por venda casada de ...",
+        "link": "https://www.mpba.mp.br/noticia/76573",
+        "snippet": "... Colégio São Paulo quanto à adoção do sistema de ensino e à venda relativa ao material didático por essa unidade escolar. Atenção, jornalista ...",
+        "date": "19 de mar. de 2025",
+        "position": 2
+      },
+      {
+        "title": "MP-BA aciona Colégio São Paulo por venda casada de ...",
+        "link": "https://www.bahianoticias.com.br/noticia/302939-mp-ba-aciona-colegio-sao-paulo-por-venda-casada-de-material-didatico-em-salvador",
+        "snippet": "... Colégio São Paulo por venda casada de material didático em Salvador. Foto: Reprodução ... material didático do sistema de ensino Poliedro.",
+        "date": "19 de mar. de 2025",
+        "position": 3
+      },
+      {
+        "title": "Pais de alunos do Colégio São Paulo procuram MP para ...",
+        "link": "https://www.portalsalvadorfm.com.br/salvador/pais-de-alunos-do-colegio-sao-paulo-procuram-mp-para-denunciar-suposta-venda-casada-de-material-didatico/",
+        "snippet": "... Colégio São Paulo procuram MP para denunciar suposta venda casada de material didático ... Siga o Portal Salvador ...",
+        "date": "6 de fev. de 2025",
+        "position": 4
+      },
+      {
+        "title": "Ministério Público aciona colégio tradicional em Salvador ...",
+        "link": "https://www.correio24horas.com.br/minha-bahia/ministerio-publico-aciona-colegio-tradicional-em-salvador-por-venda-casada-de-material-didatico-0325",
+        "snippet": "... Salvador por venda casada de material didático ... material didático do sistema de ensino Poliedro adotado pelo colégio São Paulo.",
+        "date": "19 de mar. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

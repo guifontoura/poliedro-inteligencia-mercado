@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "43105084",
+  "NO_ENTIDADE": "COL LA SALLE SANTO ANTONIO",
+  "cidade": "Porto Alegre",
+  "query": "\"COL LA SALLE SANTO ANTONIO\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL LA SALLE SANTO ANTONIO\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Matrícula Inicial por etapa e/ou modalidade de ensino - 2013",
+        "link": "http://www.educacao.rs.gov.br/dados/estatisticas_mi_par_2013.pdf",
+        "snippet": "PORTO ALEGRE. 43105076 COLEGIO SANTA TERESA DE JESUS. Urbana. 14. 57. 670. 178. 0. 0. 0. 919. 1. PORTO ALEGRE. 43105084 COL LA SALLE SANTO ANTONIO. Urbana. 22.",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "COL LA SALLE SANTO ANTONIO, P, PORTO ALEGRE, RS, Bronze. BARBARA NOBUE SUZUKI ... SISTEMA DE ENSINO UNO VERTICE, P, DIVINOPOLIS, MG, Bronze. HEITOR SOARES DE ...",
+        "position": 2
+      },
+      {
+        "title": "UNIDADE DA FEDERAÇÃO MUNICÍPIO ESCOLA ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_1_MUNICIPIOS.pdf",
+        "snippet": "... PORTO ALEGRE. COLEGIO MILITAR DE PORTO ALEGRE. PUBLICA. 129. 124. 640,59 ... SISTEMA DE ENSINO EQUIPE. PRIVADA. 174. 173. 587,85. 655,31. 637,97.",
+        "date": "11 de set. de 2011",
+        "position": 3
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-HORIZONTAL.pdf",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE. PA. Belém. Privada. Urbana. 306. Maior que. 90 alunos. 303 ... Porto Alegre. Estadual. Urbana. 65. De 61 a. 90 alunos. 63. 96.92. 0. De ...",
+        "position": 4
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "JARDIM PORTO ALEGRE C E EF M PROFIS. PR. 5867. CENTRO DE EDUC MODERNA. RJ ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL. PB. 7312. SUELI ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

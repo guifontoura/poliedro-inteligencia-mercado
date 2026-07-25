@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35004369",
+  "NO_ENTIDADE": "COLEGIO PLANCK",
+  "cidade": "São José dos Campos",
+  "query": "\"COLEGIO PLANCK\" \"São José dos Campos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PLANCK\" \"São José dos Campos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Quem somos",
+        "link": "https://colegioplanck.com.br/quem-somos/",
+        "snippet": "O Colégio Planck é tudo isso e muito mais. Aqui, quando dizemos que você ... São José dos Campos – SP | 12240-540. Email: contato@colegioplanck.com.br",
+        "position": 1
+      },
+      {
+        "title": "Os 15 melhores colégios de São José dos Campos em 2026",
+        "link": "https://blog.i9vale.com.br/melhores-colegios-particulares-de-sjcampos/",
+        "snippet": "O Colégio Cassiano Ricardo em São José dos Campos desde 1978, com à qualidade do sistema de ensino Anglo e ao conhecimento dos professores ...",
+        "date": "8 de jun. de 2020",
+        "position": 2
+      },
+      {
+        "title": "Melhor escola para seu filho: 9 dicas para escolher",
+        "link": "https://colegioplanck.com.br/melhor-escola/",
+        "snippet": "Já no Ensino Médio, é preciso entender se esse material didático ... Colégio Planck. Desenvolvido por GS2. Consentimento Detalhes Sobre × ...",
+        "position": 3
+      },
+      {
+        "title": "Alexandra Lohse Rezende - Professora na secretaria estadual ...",
+        "link": "https://br.linkedin.com/in/alexandra-lohse-rezende-5382792a",
+        "snippet": "... Colegio Planck Einstein, Instituto Santo Antonio ... material didático, treinamento de pessoal e ... Colegio Planck Einstein, Instituto Santo Antonio de Pádua.",
+        "position": 4
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... São José dos Campos. 35137170 SP. São José dos Campos. Adriano de Assis Lessa ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

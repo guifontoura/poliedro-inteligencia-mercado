@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "29456096",
+  "NO_ENTIDADE": "COLEGIO IEPROL",
+  "cidade": "Itabuna",
+  "query": "\"COLEGIO IEPROL\" \"Itabuna\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO IEPROL\" \"Itabuna\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Arquivo de Destaques - Colégio Ieprol",
+        "link": "https://colegioieprol.com.br/category/destaques/",
+        "snippet": "O Colégio IEPROL alcançou um marco histórico no cenário educacional de Itabuna ... Com a força do Sistema de Ensino Poliedro, desenvolvemos uma metodologia ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio IEPROL Itabuna on Instagram: \"Se liga nesse aviso ...",
+        "link": "https://www.instagram.com/reel/DFVSGmWOFOB/",
+        "snippet": "Photo by Colégio IEPROL Itabuna on June 25, 2026. May be an ... COLÉGIO IEPROL UMA EDUCAÇÃO QUE SABE CRESCER Poliedro Sistema de Ensino 73.",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "1° lugar do ENEM em Itabuna! 🏆✨ Mais do que um número ...",
+        "link": "https://www.instagram.com/p/DL-OhK_s00w/",
+        "snippet": "Photo by Colégio IEPROL Itabuna ... Vem conferir APROVADOS III OLIMPÍADA NACIONAL DE ASTRONOMIA D1G1TAL COLÉGIO IEPROL Poliedro Sistema de Ensino ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Colegio Ieprol, Autor em Colégio Ieprol",
+        "link": "https://colegioieprol.com.br/author/colegio-ieprol/",
+        "snippet": "O Colégio IEPROL alcançou um marco histórico no cenário educacional de Itabuna ... Com a força do Sistema de Ensino Poliedro, desenvolvemos uma metodologia ...",
+        "position": 4
+      },
+      {
+        "title": "Frases clássicas de mãe: trend do 5º ano para o Dia das Mães",
+        "link": "https://www.tiktok.com/@colegiouppenapolis/video/7637175108037070101",
+        "snippet": "... Itabuna. Principais frases e quando aparecem 1. “Come direitinho ... sistema de ensino reconhecido em todo o Brasil por formar alunos ...",
+        "date": "há 2 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

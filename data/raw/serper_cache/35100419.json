@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35100419",
+  "NO_ENTIDADE": "ZETA SISTEMA DE ENSINO DE BIRIGUI",
+  "cidade": "Birigui",
+  "query": "\"ZETA SISTEMA DE ENSINO DE BIRIGUI\" \"Birigui\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ZETA SISTEMA DE ENSINO DE BIRIGUI\" \"Birigui\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Zeta Sistema De Ensino De Birigui",
+        "link": "https://querobolsa.com.br/escolas/zeta-sistema-de-ensino-de-birigui",
+        "snippet": "O Zeta Sistema De Ensino De Birigui possui ótima avaliação, o que reflete o preparo e a preocupação da instituição com um ensino de qualidade. A avaliação, que ...",
+        "rating": 4.6,
+        "ratingCount": 2,
+        "position": 1
+      },
+      {
+        "title": "ZETA SISTEMA DE ENSINO DE BIRIGUI",
+        "link": "https://qedu.org.br/escola/35100419-zeta-sistema-de-ensino-de-birigui",
+        "snippet": "São Paulo Birigui. Zeta Sistema De Ensino De Birigui. ZETA SISTEMA DE ENSINO DE BIRIGUI. Escola Privada. São Paulo / Birigui. Publicidade. Informações. VER TUDO.",
+        "position": 2
+      },
+      {
+        "title": "Zeta Sistema de Ensino de Birigui Ltda - Processos",
+        "link": "https://www.jusbrasil.com.br/processos/nome/47003478/zeta-sistema-de-ensino-de-birigui-ltda",
+        "snippet": "O Jusbrasil encontrou 22 processos que mencionam o nome Zeta Sistema de Ensino de Birigui LTDA. A maioria é do TJSP, seguido por TRT15.",
+        "position": 3
+      },
+      {
+        "title": "Zeta Sistema De Ensino De Birigui | Bolsas de Estudo em ...",
+        "link": "https://www.melhorescola.com.br/escola/zeta-sistema-de-ensino-de-birigui",
+        "snippet": "O Zeta Sistema De Ensino De Birigui é bem avaliado por pais, alunos e funcionários da escola, com uma avaliação média de 4.6, que reflete o preparo e qualidade ...",
+        "position": 4
+      },
+      {
+        "title": "ZETA SISTEMA DE ENSINO DE BIRIGUI LTDA - ME",
+        "link": "https://empresas.serasaexperian.com.br/consulta-gratis/ZETA-SISTEMA-DE-ENSINO-DE-BIRIGUI-LTDA-ME-05928545000186",
+        "snippet": "O CNPJ da empresa ZETA SISTEMA DE ENSINO DE BIRIGUI LTDA - ME COLEGIO ZETA é 05.928.545/0001-86. Com sede em BIRIGUI, SP, possui 22 anos, 6 meses e 26 dias e ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

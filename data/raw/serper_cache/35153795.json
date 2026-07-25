@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "35153795",
+  "NO_ENTIDADE": "ELITE REDE DE ENSINO",
+  "cidade": "Jaú",
+  "query": "\"ELITE REDE DE ENSINO\" \"Jaú\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ELITE REDE DE ENSINO\" \"Jaú\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Elite Rede de Ensino on Instagram: \"Você já conhece os ...",
+        "link": "https://www.instagram.com/reel/DV1Zk2bkucJ/",
+        "snippet": "ELITE REDE DE ENSINO Histórias de vitória Luiza Duarte Aluna do ... Jaú TOP 3 Melhores escolas da cidade Elite Madureira TOP 20 ...",
+        "date": "há 4 meses",
+        "position": 1
+      },
+      {
+        "title": "Partiu garantir sua bolsa no Elite? 🎓✨ Nossa próxima ...",
+        "link": "https://www.instagram.com/p/DUJfz7zlcQz/",
+        "snippet": "... Jaú TOP 3 Melhores escolas da cidade Elite Madureira TOP 20 Melhores ... Colégio Albert Sabin Poliedro Sistema de Ensino Chame no WhatsApp na bio ...",
+        "date": "há 5 meses",
+        "position": 2
+      },
+      {
+        "title": "Primeiro lugar conquistado com dedicação, fé e muito esforço ...",
+        "link": "https://www.instagram.com/reel/DS2znIzjrlT/",
+        "snippet": "... Jaú TOP 3 Melhores escolas da cidade Elite Madureira TOP 20 Melhores ... CONCEITO A UERJ 2027 UERJ ELITE REDE DE ENSINO TROPA DO ELITE QUE A FORÇA ...",
+        "date": "há 6 meses",
+        "position": 3
+      },
+      {
+        "title": "Elite Jau em Jaú, SP - 14.011.425/0073-85",
+        "link": "https://www.econodata.com.br/consulta-empresa/14011425007385-sistema-elite-de-ensino-sa",
+        "snippet": "Consulte Elite Jau: CNPJ 14.011.425/0073-85, sede em Jaú/SP. Atividade: Ensino fundamental. Veja sócios, decisores e faturamento.",
+        "position": 4
+      },
+      {
+        "title": "Renata Alves - Diretora de Unidade em Elite Rede de Ensino",
+        "subtitle": "São Paulo, São Paulo, Brasil · Diretora de unidade · Elite Rede de Ensino",
+        "link": "https://br.linkedin.com/in/renata-alves-aa58a6145",
+        "snippet": "Diretora de Unidade em Elite Rede de Ensino · Gestão de equipes, desenvolvimento ... Preparo e atualização de material didático para cursos customizados.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

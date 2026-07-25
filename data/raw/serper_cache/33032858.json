@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33032858",
+  "NO_ENTIDADE": "COLEGIO ARCOVERDE - UNIDADE MACEDO SOARES",
+  "cidade": "Volta Redonda",
+  "query": "\"COLEGIO ARCOVERDE - UNIDADE MACEDO SOARES\" \"Volta Redonda\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ARCOVERDE - UNIDADE MACEDO SOARES\" \"Volta Redonda\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Arcoverde Unidade Macedo Soares ...",
+        "link": "https://www.instagram.com/colegioarcoverdems/",
+        "snippet": "... Sistema de Ensino Bernoulli ‍♂️ Programa Bilíngue Cambridge Press Volta Redonda – RJ. ... 80 anos de histórias ...",
+        "position": 1
+      },
+      {
+        "title": "Mariana Coura Ribeiro - COLÉGIO ARCOVERDE",
+        "link": "https://br.linkedin.com/in/mariana-coura",
+        "snippet": "Diretora Escolar | COLÉGIO ARCOVERDE - UNIDADE MACEDO SOARES. Colégio Arcoverde UGB - Centro Universitário Di Biase. Volta Redonda, Rio de Janeiro, Brasil. 484 ...",
+        "position": 2
+      },
+      {
+        "title": "20+ \"Mariana Coura\" profiles",
+        "link": "https://www.linkedin.com/pub/dir/Mariana/Coura/br-0-Brasil",
+        "snippet": "Diretora Escolar | COLÉGIO ARCOVERDE - UNIDADE MACEDO SOARES. Volta Redonda, RJ. Colégio Arcoverde, +3 more. UGB - Centro Universitário Di Biase, +2 more ...",
+        "position": 3
+      },
+      {
+        "title": "José Rogério Neto (@joserogerioneto)",
+        "link": "https://www.instagram.com/joserogerioneto/",
+        "snippet": "Inauguração do Colégio Arcoverde - Unidade Macedo Soares!",
+        "position": 4
+      },
+      {
+        "title": "Carlos Celino Gonçalves Bastos Lisboa",
+        "subtitle": "Paty do Alferes, Rio de Janeiro, Brasil · Produtor de Teknobeat · Teknobeat",
+        "link": "https://br.linkedin.com/in/djcelino",
+        "snippet": "Graduado em Pedagogia pelo Centro de Ensino Superior de Valença – CESVA/FAA (2015/18), licenciado em História pela UNIRIO (2016/21) e pós-graduado em ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "24091260",
+  "NO_ENTIDADE": "COLEGIO SIMPLES",
+  "cidade": "Mossoró",
+  "query": "\"COLEGIO SIMPLES\" \"Mossoró\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SIMPLES\" \"Mossoró\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Núcleo on Instagram: \"MAIS UMA VEZ, SOMOS ...",
+        "link": "https://www.instagram.com/reel/DaF9Dtvg0U0/",
+        "snippet": "COLÉGIO Omega SISTEMA DE ENSINO Anglo Hoje celebramos uma ... O Colégio Simples, de Mossoró-RN, aparece entre os dez melhores no ...",
+        "date": "há 3 semanas",
+        "position": 1
+      },
+      {
+        "title": "O @colegiosimples no topo! 1º lugar em Mossoró ...",
+        "link": "https://www.instagram.com/p/DaDd3e5EXiw/",
+        "snippet": "O Colégio Simples, de Mossoró-RN, aparece entre os dez melhores no ... material didático, que dão suporte necessário para que o aluno ...",
+        "date": "há 4 semanas",
+        "position": 2
+      },
+      {
+        "title": "Colégio Diocesano Santa Luzia on Instagram: \"O Colégio ...",
+        "link": "https://www.instagram.com/reel/DY2uD0Ivn_O/",
+        "snippet": "... Mossoró. Esse resultado reflete o compromisso de uma equipe ... O Colégio Simples aparece pela primeira vez entre os destaques da ...",
+        "position": 3
+      },
+      {
+        "title": "✅ O Colégio Montessori é reconhecido por oferecer o melhor ...",
+        "link": "https://www.instagram.com/reel/DXPxSasiCZr/",
+        "snippet": "SISTEMA DE ENSINO anglo Educação do futuro, Orgulho das famílias ... O Colégio Simples, de Mossoró-RN, aparece entre os dez melhores no ...",
+        "date": "há 3 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Diocesano Santa Luzia on Instagram: \"O Colégio ...",
+        "link": "https://www.instagram.com/reel/DS51eQajmuf/",
+        "snippet": "... Mossoró. A área de Linguagens é referência em nossa escola ... Colégio Simples, agradecer por essa conquista! Em nosso primeiro ano de ...",
+        "date": "há 6 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

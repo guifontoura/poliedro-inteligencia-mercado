@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "33147809",
+  "NO_ENTIDADE": "COLEGIO PALAS",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO PALAS\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PALAS\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Palas | ✨ Conhecer o Colégio Palas é sempre uma ...",
+        "link": "https://www.instagram.com/reel/DOzMT0CEWvr/",
+        "snippet": "Recreio Dos Bandeirantes, Rio De Janeiro, Brazil. 212 likes ... ✓ Sistema de ensino líder em aprovação e excelência nos conteúdos @saseducacao",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "Aprender com o Polígono é viver o conhecimento! ✨ Cada ...",
+        "link": "https://www.instagram.com/reel/DURSTdMD-IA/",
+        "snippet": "Um sistema de ensino que proporciona espaço para a criatividade ... COLEGIO PALAS DESDE 1960 Um momento, um aprendizado. Pequenos ...",
+        "date": "há 5 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Palas | Com pincéis em mãos, nossos alunos ...",
+        "link": "https://www.instagram.com/reel/C5qlBV-LzZo/",
+        "snippet": "PARTE 2 COLÉGIO PALAS DESDE 1960 UERJ UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO ... Sistema de Ensino. colegiopalas's profile picture ...",
+        "date": "há 2 anos",
+        "position": 3
+      },
+      {
+        "title": "Colégio Palas | 🌎✨ Neste mês, as Unidades Tijuca e Recreio ...",
+        "link": "https://www.instagram.com/reel/DQ-OJvkkfB-/",
+        "snippet": "... Rio de Janeiro, aproximando os alunos da natureza por meio de vivências práticas. ... apostila de Ciências: a compostagem. Cada estudante ...",
+        "date": "há 8 meses",
+        "position": 4
+      },
+      {
+        "title": "Julianne Fernandes - Professor de inglês no Colégio Palas",
+        "link": "https://br.linkedin.com/in/julianne-fernandes-2313a112b",
+        "snippet": "... Rio de Janeiro · 94 conexões no LinkedIn. Veja o ... Professor de inglês no Colégio Palas. Colégio Palas Estácio ... Gráfico Colégio Palas. Professor.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

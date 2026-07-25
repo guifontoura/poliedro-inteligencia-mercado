@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "42141036",
+  "NO_ENTIDADE": "COLEGIO ENERGIA",
+  "cidade": "Chapecó",
+  "query": "\"COLEGIO ENERGIA\" \"Chapecó\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ENERGIA\" \"Chapecó\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Sistema de Ensino Energia Ltda em Recuperacao Judicial",
+        "link": "https://www.econodata.com.br/consulta-empresa/06233257000250-sistema-de-ensino-energia-ltda-em-recuperacao-judicial",
+        "snippet": "COLEGIO ENERGIA · 88.015-110. Rua Antonio Dib Mussi, 460 - Centro ... Empresas em Águas de Chapecó · Empresas em Águas Frias · Empresas em Águas ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Energia de Itajaí diz que não faz parte de pedido ...",
+        "link": "https://diarinho.net/materia/663211/Colegio-Energia-de-Itajai-diz-que-nao-faz-parte-de-pedido-de-recuperacao-judicial",
+        "snippet": "No pedido de recuperação do grupo Energia estão as empresas Sistema de Ensino ... Material Didático Energia, Enerpar Participações, Sociedade ...",
+        "date": "8 de jul. de 2025",
+        "position": 2
+      },
+      {
+        "title": "Lesados com o fechamento do Colégio Energia em ...",
+        "link": "https://ndmais.com.br/educacao/lesados-com-o-fechamento-colegio-energia-em-tubarao-vao-receber-indenizacoes/",
+        "snippet": "... Colégio Energia, o que, aliado à precária situação financeira das instituições que compunham aquele sistema de ensino, resultou no ...",
+        "date": "24 de mai. de 2023",
+        "position": 3
+      },
+      {
+        "title": "universidade federal de santa catarina",
+        "link": "https://repositorio.ufsc.br/bitstream/handle/123456789/179408/Trabalho_de_Conclus%C3%A3o_de_Curso_Giovanna_Santana.pdf?sequence=1&isAllowed=y",
+        "snippet": "... sistema-de-ensino/>. Acesso: 26.10.2015. Page 30 ... Material didático exclusivo e de alto padrão. ... apostila.66 Sobre este último, Andrade (2008) ...",
+        "position": 4
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... COLEGIO ENERGIA. Florianópolis. SC. 639,0. 707,6. 639,0. 615,0. 617,0. 685,0.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "codigo_escola": "32083343",
+  "NO_ENTIDADE": "SEB ESCOLAS DE ALTA PERFORMANCE S A",
+  "cidade": "Vila Velha",
+  "query": "\"SEB ESCOLAS DE ALTA PERFORMANCE S A\" \"Vila Velha\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SEB ESCOLAS DE ALTA PERFORMANCE S A\" \"Vila Velha\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Nepes Sistema de Ensino LTDA - Jurídico Online",
+        "link": "https://juridicoonline.com.br/empresa/08892332000130-nepes-sistema-de-ensino-ltda",
+        "snippet": "Nepes Sistema de Ensino LTDA ... Outras empresas de Educação Infantil - Pré-Escola em VILA VELHA/ES. Seb Escolas de Alta Performance S.A..",
+        "date": "18 de jun. de 2007",
+        "position": 1
+      },
+      {
+        "title": "Vila Velha - Escolas",
+        "link": "https://qedu.org.br/municipio/3205200-vila-velha/busca",
+        "snippet": "SEB ESCOLAS DE ALTA PERFORMANCE S A. RUA C, 200. COQUEIRAL DE ITAPARICA. 29102903 Vila Velha - Espírito Santo. Rede privada / Urbana · SENAI ES - ...",
+        "position": 2
+      },
+      {
+        "title": "ranking de reclamações fundamentadas 2025",
+        "link": "https://procon.es.gov.br/Media/procon/Cadastro%20de%20Reclama%C3%A7%C3%B5es%20Fundamentadas/RANKING%20geral%20de%20Fundamentadas%202025.pdf",
+        "snippet": "MULTIVIX VILA VELHA - ENSINO, PESQUISA E EXTENSAO LTDA. 3. 525. N V SANTORIO ... SEB ESCOLAS DE ALTA PERFORMANCE S.A.. 1. 702. SEBASTIAO MONTTI DE ALMEIDA ...",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 19ª OBMEP 2024",
+        "link": "https://premiacao.obmep.org.br/19obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "ANGLO SISTEMA DE ENSINO, P, TATUI, SP, Bronze. 15, ALEX BERENSTEIN BARTFELD, SANTA ... SEB ESCOLAS DE ALTA PERFORMANCE SA, P, VITORIA, ES, Bronze. RAFAEL ALMEIDA ...",
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

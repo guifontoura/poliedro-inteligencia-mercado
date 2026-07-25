@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35109708",
+  "NO_ENTIDADE": "CARMO COLEGIO",
+  "cidade": "Santos",
+  "query": "\"CARMO COLEGIO\" \"Santos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CARMO COLEGIO\" \"Santos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.1.privada.do.htm",
+        "snippet": "RIO CLARO SISTEMA DE ENSINO, P, RIO CLARO, SP, Sim. ANDRE HENRIQUE ALMEIDA ... CARMO COLEGIO, P, SANTOS, SP, Sim. CAROLINA SCHIAVONI SOBRINHO, AGOSTINIANO MENDEL ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio do Carmo (@colegio.carmounai)",
+        "link": "https://www.instagram.com/colegio.carmounai/",
+        "snippet": "Com material didático próprio e uma metodologia pensada para cada ...",
+        "position": 2
+      },
+      {
+        "title": "dbo_TS_ESCOLA",
+        "link": "https://www.al.sp.gov.br/spl/2015/09/Acessorio/1278971_50269504_Acessorio.xlsx",
+        "snippet": "... SANTOS PELEGRINI PROFESSOR, SP, 1, 0, 0, 0, 1, 1, 0, 1. 126, 2014, 35056054, ACACIO PAULA ... SISTEMA DE ENSINO, SP, 1, 1, 0, 1, 0, 0, 0, 1. 1273, 2014, 35394142 ...",
+        "position": 3
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... Santos. 2º ano - Ensino Médio. 14. 10 EEEP PROFESSORA ELSA MARIA PORTO COSTA ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 4
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... SANTOS ANJOS. Juiz de Fora. MG. 639,1. 681,7. 652,0. 614,0. 609,0. 682,0.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

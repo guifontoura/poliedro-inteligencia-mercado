@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31376442",
+  "NO_ENTIDADE": "COLEGIO LIVRE APRENDER",
+  "cidade": "Uberaba",
+  "query": "\"COLEGIO LIVRE APRENDER\" \"Uberaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LIVRE APRENDER\" \"Uberaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Livre Aprender (@livreaprender) · Uberaba, MG",
+        "link": "https://www.instagram.com/livreaprender/reels/",
+        "snippet": "Nosso cursinho pré-vestibular utiliza o material didático da Anglo, uma ... Projeto Geoparque - Uberaba ...",
+        "position": 1
+      },
+      {
+        "title": "Novo Material Didático Hoje foi um dia marcante para o ...",
+        "link": "https://www.instagram.com/reel/DDaervbySIx/",
+        "snippet": "... likes, 7 comments - livreaprender on December 10, 2024: \"✨ Novo Material Didático ✨ Hoje foi um dia ... enem2025 Uberaba #3º LUGAR GERAL Colégio ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "E assim foi o primeiro dia de aula do Fundamental 1 ...",
+        "link": "https://www.instagram.com/reel/DFpqJ0pRoRY/",
+        "snippet": "... uberaba #crianças # ... MATERIAL DIDÁTICO COM SISTEMA pitágoras 34 99145-0117 No laboratório de ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Convênios - OAB Uberaba - 14ª Subseção - MG",
+        "link": "https://www.oabuberaba.org.br/convenios",
+        "snippet": "O Colégio Livre Aprender oferece descontos especiais de 15% para advogados(as) inscritos(as) na OAB Uberaba. Apresente sua carteira da Ordem e solicite o ...",
+        "position": 4
+      },
+      {
+        "title": "Universidade do Agro lança projeto Amiguinhos ...",
+        "link": "https://universidadedoagro.com.br/noticia/universidade-do-agro-lanca-projeto-amiguinhos-do-agro-em-uberaba",
+        "snippet": "... Colégio Livre Aprender, que receberam em primeira mão os materiais do projeto ... Uberaba, o projeto Amiguinhos do Agro. A iniciativa reúne arte, agronegócio ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

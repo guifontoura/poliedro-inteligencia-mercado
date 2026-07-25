@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "24003662",
+  "NO_ENTIDADE": "COLEGIO MENINO DEUS LTDA",
+  "cidade": "Mossoró",
+  "query": "\"COLEGIO MENINO DEUS LTDA\" \"Mossoró\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MENINO DEUS LTDA\" \"Mossoró\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "PRIMEIRO ANO. PRIMEIRO LUGAR. O Colégio Simples ...",
+        "link": "https://www.instagram.com/reel/DZ733gLTYzr/",
+        "snippet": "1º LUGAR EM MOSSORÓ MAIOR MÉDIA DO ENEM 2025 ENTRE AS ESCOLA DE MOSSORÓ Jean Bezerra ... Colégio Menino Deus LTDA Média: 622,23 | N: 13 ...",
+        "position": 1
+      },
+      {
+        "title": "Mais uma máxima em Ciências da Natureza! 🎖️ O aluno ...",
+        "link": "https://www.instagram.com/p/DTsRbPrjoz_/",
+        "snippet": "... Mossoró 28 4 653,27 132 5 Centro Educacional de Aprendizagem Moderna 644,56 CPP -Colégio Principe 29 6 636,43 Colégio Menino Deus LTDA ... Mossoró ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Reel by CEDAE • Pré Enem • Pré Vestibular (@cedaepre ...",
+        "link": "https://www.instagram.com/reel/DaJ5ZT-sNUN/",
+        "snippet": "... COLÉGIO MENINO DEUS LTDA 622,23 7 INSTITUTO EDUCACIONAL SEMENTES 599,09 8 INSTITUTO SANTA MARIA GORETTI 594,60 9 SESI ESCOLA MOSSORÓ 594,29 ...",
+        "date": "há 3 semanas",
+        "position": 3
+      },
+      {
+        "title": "Colégio Moriah on Instagram: \"Hoje é a vez da Professora ...",
+        "link": "https://www.instagram.com/reel/DQmd4fsAO-l/",
+        "snippet": "... COLEGIO MENINO DEUS LTDA 813,85 6 CEAMO - CENTRO EDUCACIONAL DE ... MOSSORÓ 744,36 10 IFRN - CAMPUS MOSSORO 741,62 Romero Curso de ...",
+        "date": "há 8 meses",
+        "position": 4
+      },
+      {
+        "title": "Vamos falar de dados? A Mentoria LUZ analisou os ...",
+        "link": "https://www.instagram.com/reel/DN1Uwc7XFhc/",
+        "snippet": "... COLÉGIO MENINO DEUS LTDA 622,23 7 INSTITUTO EDUCACIONAL SEMENTES 599,09 8 INSTITUTO SANTA MARIA GORETTI 594,60 9 SESI ESCOLA MOSSORÓ 594,29 ...",
+        "date": "há 11 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

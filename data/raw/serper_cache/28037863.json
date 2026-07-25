@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "28037863",
+  "NO_ENTIDADE": "REDE DE ENSINO LIBERTAR LTDA",
+  "cidade": "Lagarto",
+  "query": "\"REDE DE ENSINO LIBERTAR LTDA\" \"Lagarto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"REDE DE ENSINO LIBERTAR LTDA\" \"Lagarto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Sistema Educar - Gestão Escolar",
+        "link": "https://sistemaeducar.com.br/",
+        "snippet": "Oferecemos as ferramentas para uma gestão completa dos seus alunos, como informações pessoais, responsável didático e financeiro, além do contrato do aluno, ...",
+        "position": 1
+      },
+      {
+        "title": "Sistema de ensino: O que é, e como escolher",
+        "link": "https://www.sistemapositivo.com.br/o-que-e-um-sistema-de-ensino/",
+        "snippet": "Sistema de ensino: é uma solução completa que inclui a metodologia, estratégias, avaliação plataformas digitais, formação de professores e ...",
+        "date": "3 de jun. de 2025",
+        "position": 2
+      },
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "Apoio na gestão escolar, eventos de formação presenciais e a distância, além de materiais e recursos na Plataforma ConX, que ajudam na gestão escolar. Para as ...",
+        "position": 3
+      },
+      {
+        "title": "Sucesso Sistema de Ensino",
+        "link": "https://www.sistemadeensinosucesso.com.br/",
+        "snippet": "Institucional · Catálogo · Contato · Área do professor · Área do aluno · Área do Gestor. ‹ › MULTI MARCAS EDITORIAIS LTDA. | CNPJ- 00.726.498 / 0001-74.",
+        "position": 4
+      },
+      {
+        "title": "Sistema ETAPA",
+        "link": "https://www.sistemaetapa.com.br/",
+        "snippet": "Sistema Etapa oferece soluções educacionais completas, com materiais didáticos, tecnologia educacional e apoio à escola parceira para todas as etapas de ensino.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

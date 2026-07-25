@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "33065195",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL DA LAGOA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"CENTRO EDUCACIONAL DA LAGOA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL DA LAGOA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "2024 INFORMATIVO",
+        "link": "https://cel.com.br/wp-content/uploads/2024/05/2024-INFORMATIVO.pdf",
+        "snippet": "O Centro Educacional da Lagoa - CEL tem uma equipe de gestores e de ... Estado do Rio de Janeiro. A renovação da matrícula só é efetivada, não havendo ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas particulares no Rio com mensalidade entre R$ ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/07/23/escolas-particulares-no-rio-com-mensalidade-entre-r-3001-a-r-5000-veja-lista.ghtml",
+        "snippet": "Centro Educacional da Lagoa (CEL - Barra da Tijuca); Centro ... sistema de ensino. Há ainda o detalhamento sobre quais atividades ...",
+        "date": "há 2 dias",
+        "position": 2
+      },
+      {
+        "title": "falta de acesso a plataforma digital SAS por exigência ...",
+        "link": "https://www.reclameaqui.com.br/cel-centro-educacional-da-lagoa/falta-de-acesso-a-plataforma-digital-sas-por-exigencia-de-compra-de-livros-na-propria-escola_-5AKO-cPhCMTtsA8/",
+        "snippet": "Como o material didático ... Seja cessada a prática abusiva de vinculação do acesso ao sistema de ensino à compra exclusiva de livros na escola. ... CEL Centro ...",
+        "position": 3
+      },
+      {
+        "title": "1ª escola IB em Niterói! 📰✨ O Instituto GayLussac foi ...",
+        "link": "https://www.instagram.com/p/DVyeGAzDYZT/",
+        "snippet": "... Rio de Janeiro, compartilha seu depoimento sobre a importância da ... Centro Educacional da Lagoa - 677,82 8. Escola Eleva - Barra da ...",
+        "date": "há 4 meses",
+        "position": 4
+      },
+      {
+        "title": "Lucio Sebastião Coelho da Silva",
+        "link": "https://www.escavador.com/sobre/6289276/lucio-sebastiao-coelho-da-silva",
+        "snippet": "... Rio de Janeiro e em turmas de Ensino Médio do CEL (Centro Educacional da Lagoa) ... Apostila de Matemática da 3ª Série do Ensino Médio. 2017 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "codigo_escola": "31193038",
+  "NO_ENTIDADE": "COLEGIO CATOLICA PADRE DE MAN",
+  "cidade": "Coronel Fabriciano",
+  "query": "\"COLEGIO CATOLICA PADRE DE MAN\" \"Coronel Fabriciano\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO CATOLICA PADRE DE MAN\" \"Coronel Fabriciano\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Redação ENEM 2024: Ranking de Escolas",
+        "link": "https://enemranking-sdx7pmwy.manus.space/",
+        "snippet": "Ranking de Escolas 2024 ; 33º. COLEGIO CATOLICA PADRE DE MAN. #6 (60+)65 alunosMG · Coronel Fabriciano. MG, Coronel Fabriciano. 907.4 ; 35º. COLEGIO LEROTE LTDA.",
+        "position": 1
+      },
+      {
+        "title": "Vaga para Professor Educação Infantil (Inglês) - Colégio Católica ...",
+        "link": "https://employed.com.br/vagas/coronel-fabriciano/educacao/professor-educacao-infantil-ingles-colegio-catolica-padre-de-man/",
+        "snippet": "... CORONEL FABRICIANO. Oportunidades atualizadas. ... Colégio Católica Padre de Man CORONEL ... Preparar o material didático que será aplicado nas ...",
+        "position": 2
+      }
+    ],
+    "credits": 1
+  }
+}

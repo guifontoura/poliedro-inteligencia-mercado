@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "42112796",
+  "NO_ENTIDADE": "ESCOLA AUTONOMIA",
+  "cidade": "Florianópolis",
+  "query": "\"ESCOLA AUTONOMIA\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA AUTONOMIA\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ensino Médio",
+        "link": "https://www.autonomia.com.br/ensinos/ensino-medio/",
+        "snippet": "... Escola Autonomia a escola ... Rua Salvatina Feliciana dos Santos, 513 - Itacorubi - Florianópolis - 88034-600 - Santa Catarina - Brasil ...",
+        "date": "16 de jul. de 2021",
+        "position": 1
+      },
+      {
+        "title": "Em 2026, a Escola da Ilha passa a utilizar, no Ensino ...",
+        "link": "https://www.instagram.com/p/DTycVJujwBr/",
+        "snippet": "... material didático do Sistema Poliedro. Esta parceria traz mais cores ... Florianópolis a cidadãos nascidos ou criados na cidade que se ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "ESCOLA AUTONOMIA PROPOSTA POLÍTICO PEDAGÓGICA",
+        "link": "https://f.hubspotusercontent20.net/hubfs/7233321/Escola%20Autonomia/site/PPP-2020-v02-10.pdf",
+        "snippet": "A Escola Autonomia, localizada na Rua Salvatina Feliciana dos Santos, no bairro. Itacorubi, em Florianópolis, SC, CGC nº. 85.110.211/0001, é um ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio Identidade on Instagram: \" De cima, vemos a ...",
+        "link": "https://www.instagram.com/reel/DVwqJBSjhjD/",
+        "snippet": "... Florianópolis #EducaçãoQueInspira ... sistema de ensino que une conhecimento, inovação e aprendizagem significativa ...",
+        "date": "há 4 meses",
+        "position": 4
+      },
+      {
+        "title": "Honan Esteves - Professor de Matemática / Autor de ...",
+        "subtitle": "Ribeirão Preto, São Paulo, Brasil · Professor de matemática · Liceu Contemporâneo",
+        "link": "https://br.linkedin.com/in/honan-esteves-514a5a43",
+        "snippet": "Gráfico Escola Autonomia. Professor de matemática / Autor material didático. Escola Autonomia. jan. de 2021 - jan. de 2025 4 anos 1 mês. Florianópolis, Santa ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

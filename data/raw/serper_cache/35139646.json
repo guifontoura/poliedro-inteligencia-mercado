@@ -1,0 +1,18 @@
+{
+  "codigo_escola": "35139646",
+  "NO_ENTIDADE": "COLEGIO RIO BRANCO - UNIDADE GRANJA VIANNA",
+  "cidade": "Cotia",
+  "query": "\"COLEGIO RIO BRANCO - UNIDADE GRANJA VIANNA\" \"Cotia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO RIO BRANCO - UNIDADE GRANJA VIANNA\" \"Cotia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33055416",
+  "NO_ENTIDADE": "COLEGIO E CURSO ZEROHUM ICARAI",
+  "cidade": "Niterói",
+  "query": "\"COLEGIO E CURSO ZEROHUM ICARAI\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO E CURSO ZEROHUM ICARAI\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "Cada material é cuidadosamente elaborado, atualizado e alinhado com as diretrizes da BNCC, oferecendo uma base sólida para a formação integral de nossos ...",
+        "position": 1
+      },
+      {
+        "title": "Unidade Icaraí/RJ | Zerohum",
+        "link": "https://colegioecursozerohum.com.br/unidade-icarai-rj-zerohum/",
+        "snippet": "Av. Almirante Ary Parreiras, 73 Icaraí - Niterói - RJ CEP 24230320. Contato. (21) 2608-3471 (21) 97220-6690 · (21) 97220-6690 · zerohumicarai@gmail.com ...",
+        "position": 2
+      },
+      {
+        "title": "Ensino Médio",
+        "link": "https://colegioecursozerohum.com.br/medio/",
+        "snippet": "O Ensino Médio Vestibular da Rede Zerohum oferece uma plataforma de ensino completa, com ferramentas avançadas que aliadas ao material didático e nossa proposta ...",
+        "position": 3
+      },
+      {
+        "title": "Material didático de alto custo e baixa qualidade no ...",
+        "link": "https://www.reclameaqui.com.br/colegio-e-curso-zero-hum/material-didatico-de-alto-custo-e-baixa-qualidade-no-colegio-curso-zerohum_lc4rdiI4LVK7ITXc/",
+        "snippet": "O material didático do colégio curso zerohum tem um alto valor de custo, e entrega pouco, em quantidade e em quantidade. Minha filha passou para o ...",
+        "date": "10 de fev. de 2026",
+        "sitelinks": [
+          {
+            "title": "4 respostas",
+            "link": "https://www.reclameaqui.com.br//colegio-e-curso-zero-hum/material-didatico-de-alto-custo-e-baixa-qualidade-no-colegio-curso-zerohum_lc4rdiI4LVK7ITXc/"
+          }
+        ],
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "28018109",
+  "NO_ENTIDADE": "CURSO COLEGIO MODULO LTDA",
+  "cidade": "Aracaju",
+  "query": "\"CURSO COLEGIO MODULO LTDA\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CURSO COLEGIO MODULO LTDA\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Folha 15 Sigla: ATEB-CEE Página 1 de 34 YXTZ-BIE7-ZA9M ...",
+        "link": "https://colegiomodulo.com/wp-content/uploads/2023/09/regimento20232203.pdf",
+        "snippet": "CONMEA (Conselho Municipal de Educação de Aracaju) ... zelar pelo edifício, instalações escolares, material didático, móveis e utensílios da escola, ... 01° A ...",
+        "position": 1
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Núcleo Avançado de Ensino G8 Ltda - 686,34 - Aracaju (Sergipe) - Particular - 144% ... Curso Colégio Módulo Ltda - 665,38 - Aracaju ...",
+        "date": "23 de jun. de 2026",
+        "position": 2
+      },
+      {
+        "title": "Melhores escolas particulares de Aracaju: veja a lista",
+        "link": "https://www.melhorescola.com.br/artigos/veja-quais-sao-as-melhores-escolas-particulares-de-aracaju",
+        "snippet": "Curso Colégio Módulo Ltda. Nota: 677. Endereço: Praça Guadalupe Amado Mendonca, 247- Inácio Barbosa, Aracaju - Sergipe. 3) Col. De Ciências Pura E Aplicada.",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "CURSO COLEGIO MODULO LTDA, P, ARACAJU, SE, Bronze. CAUÃ FINOTI DA CRUZ, COPERNICO ... SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Bronze. JOÃO ...",
+        "position": 4
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Curso Colegio Modulo Ltda - Aracaju - Inacio Barbosa - Nota: 665.38 ... Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ...",
+        "date": "23 de jun. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

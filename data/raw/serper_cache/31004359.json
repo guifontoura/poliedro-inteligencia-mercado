@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "31004359",
+  "NO_ENTIDADE": "COLEGIO ESPANHOL SANTA MARIA MINAS - UNIDADE CIDADE NOVA",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO ESPANHOL SANTA MARIA MINAS - UNIDADE CIDADE NOVA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ESPANHOL SANTA MARIA MINAS - UNIDADE CIDADE NOVA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGIO ESPANHOL SANTA MARIA MINAS - UNIDADE CIDADE NOVA. 0,3%. COLEGIO ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA - UNIDADE ...",
+        "position": 1
+      },
+      {
+        "title": "Nome do(a) aluno(a) Escola Modalidade Polo de aplicação",
+        "link": "https://omq.qui.ufmg.br/wp-content/uploads/2025/07/Participantes_OMQ_2025.pdf",
+        "snippet": "COLEGIO ESPANHOL SANTA MARIA MINAS - UNIDADE CIDADE NOVA. A. Belo Horizonte ... SISTEMA DE ENSINO FOCO. B. Montes Claros. Página 95. Page 96. Nome do(a) aluno ...",
+        "position": 2
+      },
+      {
+        "title": "Escolas em Belo Horizonte/MG — 2016 instituições",
+        "link": "https://www.mensalidadejusta.com.br/escolas/mg/belo-horizonte",
+        "snippet": "Escolas em Belo Horizonte, MG. 2016 escola(s) encontrada(s). ABV ETEC MG ... SISTEMA DE ENSINO ALPHONSUS DE GUIMARAENS. JARDIM AMERICA. Privada · SISTEMA DE ...",
+        "position": 3
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. AL. Maceió ouro. Ana Alexandra ... COLEGIO ESPANHOL SANTA MARIA MINAS - UNIDADE CIDADE NOVA. MG. Belo Horizonte.",
+        "position": 4
+      },
+      {
+        "title": "instituto educacional acalanto - Escola",
+        "link": "https://culturaeduca.cc/equipamento/escola_detalhe/31004740/",
+        "snippet": "Brasil / MG / Belo Horizonte / Entorno de Escola. CAMADAS. LIMPAR. Divisões ... COLEGIO ESPANHOL SANTA MARIA MINAS - UNIDADE CIDADE NOVA R PROFESSOR COSTA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

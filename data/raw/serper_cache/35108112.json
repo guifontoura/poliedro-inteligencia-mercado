@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35108112",
+  "NO_ENTIDADE": "AUGUSTO RUSCHI COLEGIO",
+  "cidade": "Guarulhos",
+  "query": "\"AUGUSTO RUSCHI COLEGIO\" \"Guarulhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"AUGUSTO RUSCHI COLEGIO\" \"Guarulhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.1.privada.do.htm",
+        "snippet": "ANGLO SISTEMA DE ENSINO, P, TATUI, SP, ---, Sim. IAN MAZZUCATTO PUCINELI ... AUGUSTO RUSCHI COLEGIO, P, GUARULHOS, SP, ---, Sim. MARIA CLARA GIARRANTE CHAVES ...",
+        "position": 1
+      },
+      {
+        "title": "dbo_TS_ESCOLA",
+        "link": "https://www.al.sp.gov.br/spl/2015/09/Acessorio/1278971_50269504_Acessorio.xlsx",
+        "snippet": "... SISTEMA DE ENSINO, SP, 1, 1, 0, 1, 0, 0, 0, 1. 1273, 2014, 35394142, ANGLOSCHOOL, SP, 1, 0, 0 ... AUGUSTO RUSCHI COLEGIO, SP, 1, 1, 0, 1, 0, 0, 1, 0. 2444, 2014 ...",
+        "position": 2
+      },
+      {
+        "title": "Notas Médias do ENEM 2010 dos alunos concluintes do ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_2_MUNICIPIOS.pdf",
+        "snippet": "... GUARULHOS. MATER AMABILIS COLEGIO. PRIVADA. 94. 94. 634,97. 695,48. 726,98 ... AUGUSTO RUSCHI COLEGIO. PRIVADA. 11. 11. 574,4. 620,17. 654,82. 611 ...",
+        "date": "11 de set. de 2011",
+        "position": 3
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "AUGUSTO RUSCHI COLEGIO 21 Guarulhos SP INST NS AUXILIADORA 13 Rio de Janeiro ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 4
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos. 25. 100.00. 0 ... Guarulhos. Privada. Urbana. 27. De 1 a 30 alunos. 24. 88.89. 0. 80% ou ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

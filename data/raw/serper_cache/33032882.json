@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33032882",
+  "NO_ENTIDADE": "COL NS DO ROSARIO",
+  "cidade": "Volta Redonda",
+  "query": "\"COL NS DO ROSARIO\" \"Volta Redonda\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL NS DO ROSARIO\" \"Volta Redonda\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas Particulares",
+        "link": "https://www.coseacuff.net.br/vest99/escpart.htm",
+        "snippet": "2372 - COL NS DO ROSÁRIO 2373 - COL OITO DE JULHO 2374 - COL OLAVO BILAC ... 2500 - SISTEMA DE ENSINO INTEGRADO SEIS LTDA 2501 - SOC EDUC BOTAFOGO LTDA ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/rio-de-janeiro/",
+        "snippet": "COL NS DO ROSARIO, RIO DE JANEIRO, RJ, Privada, 80% ou mais, Muito Alto ... SOMEC SISTEMA DE ENSINO, RIO DE JANEIRO, RJ, Privada, De 20% a 40 ...",
+        "date": "5 de ago. de 2015",
+        "position": 2
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... VOLTA REDONDA. Volta Redonda RJ. 649,3. 683,5. 637,0. 613,0. 601,0. 746,0.",
+        "position": 3
+      },
+      {
+        "title": "UFF 2006 Vestibular Edital",
+        "link": "https://arquivos.qconcursos.com/regulamento/arquivo/1462/uff-2006-vestibular-edital.pdf",
+        "snippet": "Em Volta Redonda estão disponíveis os laboratórios de Ensaios Mecânicos ... conhecimento de geometria elementar e na produção de material didático-pedagógico.",
+        "position": 4
+      },
+      {
+        "title": "Lista de Escolas Estaduais em Angra dos Reis | PDF",
+        "link": "https://pt.scribd.com/document/673011324/CadastroEscolasRJ2001",
+        "snippet": "DUQUE DE CAXIAS Privada SISTEMA DE ENSINO INTEGR. OMICRON LTDA DUQUE DE ... VOLTA REDONDA Privada COL NS DO ROSARIO VOLTA REDONDA Privada COL PLURAL DE ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

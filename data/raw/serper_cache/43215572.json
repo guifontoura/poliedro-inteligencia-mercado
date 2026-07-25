@@ -1,0 +1,26 @@
+{
+  "codigo_escola": "43215572",
+  "NO_ENTIDADE": "COLEGIO FLEMING PELOTAS",
+  "cidade": "Pelotas",
+  "query": "\"COLEGIO FLEMING PELOTAS\" \"Pelotas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO FLEMING PELOTAS\" \"Pelotas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Diário Oficial Eletrônico do Estado do Rio Grande do Sul",
+        "link": "https://www.pge.rs.gov.br/upload/arquivos/202204/26102620-doe-2022-04-26.pdf",
+        "snippet": "APOSTILA Nº 108/2022. O DIRETOR ADMINISTRATIVO, no uso de suas ... Credencia o Colégio Fleming Pelotas para a oferta do Ensino Médio ...",
+        "date": "26 de abr. de 2022",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

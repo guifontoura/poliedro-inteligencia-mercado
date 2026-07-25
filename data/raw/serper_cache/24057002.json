@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "24057002",
+  "NO_ENTIDADE": "COLGIO CONTEMPORANEO",
+  "cidade": "Natal",
+  "query": "\"COLGIO CONTEMPORANEO\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLGIO CONTEMPORANEO\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "amais educação on Instagram: \"Satisfação é a palavra que ...",
+        "link": "https://www.instagram.com/reel/DQEbkHzDgA3/",
+        "snippet": "... Colégio Contemporâneo| Natal/RN RN . . evoluindo e de fato dominando ... POV: quando a parceira explica o material didático da Amplia tão bem que ...",
+        "date": "há 9 meses",
+        "position": 1
+      },
+      {
+        "title": "O Colégio Contato mais uma vez é destaque nacional no ...",
+        "link": "https://www.instagram.com/p/DN8XP0MDYH6/",
+        "snippet": "Photo by Colégio Contemporâneo on July 21, 2026. May be an image ... Sistema de Ensino Poliedro, um importante momento de atualização ...",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "amais educação on Instagram: \"O aplus vem transformando a ...",
+        "link": "https://www.instagram.com/reel/DPwoGMlkSQ-/",
+        "snippet": "... Colégio Contemporâneo| Natal/RN RN . do que o aluno consegue ... POV: quando a parceira explica o material didático da Amplia tão bem que parece ...",
+        "date": "há 9 meses",
+        "position": 3
+      },
+      {
+        "title": "Inscrições em cursos preparatórios do Enem terminam nesta 4ª ... - G1",
+        "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2013/09/inscricoes-em-cursos-preparatorios-do-enem-terminam-nesta-4-em-natal.html",
+        "snippet": "... Natal no Colégio Contemporâneo, parceiro na iniciativa. Tanto as aulas quanto o material didático são totalmente gratuitos. A lista com os estudantes ...",
+        "position": 4
+      },
+      {
+        "title": "OPEN DOORS",
+        "link": "https://www.sindsemprn.org.br/convenios.php?codigo=30",
+        "snippet": "Open Doors- Descontos de 10% no material didático e 5% nas mensalidades dos cursos oferecidos ... Lagoa Nova | Natal/RN | CEP: 59.062-480. Tel.|WhatsApp: (84) ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

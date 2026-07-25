@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33110034",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL ESPACO INTEGRADO",
+  "cidade": "Rio de Janeiro",
+  "query": "\"CENTRO EDUCACIONAL ESPACO INTEGRADO\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL ESPACO INTEGRADO\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "A preparação para os desafios do Ensino Médio começa ...",
+        "link": "https://www.instagram.com/p/DZ7lTUWEZxt/",
+        "snippet": "A preparação para os desafios do Ensino Médio começa muito antes da 3ª série! Os resultados conquistados pelos nossos estudantes da 1ª e da ...",
+        "position": 1
+      },
+      {
+        "title": "Resultados que enchem a 2ª CRE de orgulho! A Prova Rio ...",
+        "link": "https://www.instagram.com/reel/DX9_DSap_WX/",
+        "snippet": "Com uma metodologia consolidada, material didático em constante atualização, estrutura moderna e tradição da Rede Objetivo, nossos alunos ...",
+        "date": "há 2 meses",
+        "position": 2
+      },
+      {
+        "title": "Renata Sobrino Porto de Oliveira",
+        "link": "https://www.escavador.com/sobre/397707/renata-sobrino-porto-de-oliveira",
+        "snippet": "... Rio de Janeiro e foi aprovada no exame de qualificação sobre sua pesquisa ... material didático, política linguística, educação brasileira. Foi ...",
+        "position": 3
+      },
+      {
+        "title": "Anais XI Encontro Nacional Perspectivas do ...",
+        "link": "https://www.abeh.org.br/conteudo/view?ID_CONTEUDO=429",
+        "snippet": "ARMÁRIO DE PROFESSORA: a reconstrução das aulas de história através da coleção de material didático no espaço escolar. ... Rio de Janeiro), Hérika ...",
+        "position": 4
+      },
+      {
+        "title": "Rede PEA Unesco -SP - HOME | peaunesco",
+        "link": "https://www.peaunesco.com.br/associadas.asp",
+        "snippet": "ATCHIM JARDIM ESCOLA LTDA. CENTRO EDUCACIONAL CASULO · CENTRO EDUCACIONAL DA LAGOA · CENTRO EDUCACIONAL ESPAÇO INTEGRADO ... SISTEMA DE ENSINO RIO CLARO LTDA ( ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

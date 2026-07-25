@@ -1,0 +1,32 @@
+{
+  "codigo_escola": "42160073",
+  "NO_ENTIDADE": "COLEGIO FORMULA",
+  "cidade": "Palhoça",
+  "query": "\"COLEGIO FORMULA\" \"Palhoça\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO FORMULA\" \"Palhoça\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Amigo Fórmula",
+        "link": "https://www.colegioformula.com.br/amigo",
+        "snippet": "... material didático, taxas ou serviços adicionais • Os benefícios são pessoais, intransferíveis e não podem ser convertidos em dinheiro. • O Colégio Fórmula ...",
+        "position": 1
+      },
+      {
+        "title": "O colégio que não deixava minha filha correr no recreio, e ...",
+        "link": "https://www.instagram.com/reel/DTirKsEDjP7/",
+        "snippet": "... colégio Fórmula aqui do Pedra Branca aonde eu matriculei a Maria. Eh ... apostila que o colégio ele obrigava que as apostilas fossem do ...",
+        "date": "há 6 meses",
+        "position": 2
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "33120986",
+  "NO_ENTIDADE": "COOPERATIVA EDUCACIONAL ESCOLA FRIBOURG",
+  "cidade": "Nova Friburgo",
+  "query": "\"COOPERATIVA EDUCACIONAL ESCOLA FRIBOURG\" \"Nova Friburgo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COOPERATIVA EDUCACIONAL ESCOLA FRIBOURG\" \"Nova Friburgo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola Fribourg | Escola em Nova Friburgo on Instagram ...",
+        "link": "https://www.instagram.com/reel/DaiS4N_tpVy/",
+        "snippet": "... Sistema de Ensino Poliedro ... Concurso Cultural Amigos da Água NOVA FRIBURGO PREFEITURA Olhar Ambiental EDUCAÇÃO Águas de Nova Friburgo ...",
+        "date": "há 2 semanas",
+        "position": 1
+      },
+      {
+        "title": "Ao longo dos seus 16 anos de Escola Fribourg, Esther ...",
+        "link": "https://www.instagram.com/p/C-5V6JchvAd/",
+        "snippet": "... sistema de ensino ... Maximiliano Falck, 380 - Ypu, Nova Friburgo. escolafribourg's profile picture · escolafribourg. •. Follow · Nova Friburgo.",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Julho é o Mês do Cooperativismo, e para celebrar essa data ...",
+        "link": "https://www.instagram.com/reel/DaYA7ORPCSh/",
+        "snippet": "Foi dessa união que nasceu a Cooperativa Educacional Escola Fribourg. ... Photo by Escola Fribourg | Escola em Nova Friburgo on March 13, 2026.",
+        "date": "há 2 semanas",
+        "position": 3
+      },
+      {
+        "title": "PROJETO HELP | Não te julgo, te ajudo! 🎗️ on Instagram: \"A ...",
+        "link": "https://www.instagram.com/reel/DYGRQpNkwrD/",
+        "snippet": "... Nova Friburgo. Foi um momento especial para conhecer de perto o ... Foi dessa união que nasceu a Cooperativa Educacional Escola Fribourg.",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Foi uma alegria receber os alunos do Colégio Único na ...",
+        "link": "https://www.instagram.com/reel/DaBhjdvylFc/",
+        "snippet": "Foi dessa união que nasceu a Cooperativa Educacional Escola Fribourg. Desde então, seguimos acreditando que as melhores decisões são construídas ...",
+        "date": "há 4 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

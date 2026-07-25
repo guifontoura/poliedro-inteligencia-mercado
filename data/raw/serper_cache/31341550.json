@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31341550",
+  "NO_ENTIDADE": "COLEGUIUM - UNIDADE JARDIM CANADA",
+  "cidade": "Nova Lima",
+  "query": "\"COLEGUIUM - UNIDADE JARDIM CANADA\" \"Nova Lima\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGUIUM - UNIDADE JARDIM CANADA\" \"Nova Lima\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colegium Jardim Canadá: Demora Excessiva e Descaso na ...",
+        "link": "https://www.reclameaqui.com.br/coleguium-rede-de-ensino/colegium-jardim-canada-demora-excessiva-e-descaso-na-emissao-de-transferencia-escolar_e4vmiYCfKOuuoX5U/",
+        "snippet": "Total desrespeito da equipe do COLEGUIUM unidade JARDIM CANADÁ em Nova Lima - MG. ... Retenção de material didático e constrangimento de aluna. 28/04/2026 ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-MG.3.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO FOCO, P, MONTES CLAROS, MG, Sim. FERNANDO DE MORAES FAQUIM, COLEGIO ... COLEGUIUM - UNIDADE JARDIM CANADA, P, NOVA LIMA, MG, Sim. SARA KATHRYN ...",
+        "position": 2
+      },
+      {
+        "title": "Últimas avaliações sobre a empresa Coleguium",
+        "link": "https://br.indeed.com/cmp/Coleguium-1/reviews",
+        "snippet": "Nova Lima, MG ... Não há muito espaço para inovação, e atualização de métodos. Professores atuam como aplicadores de material didático; pouco espaço para ...",
+        "rating": 3.6,
+        "ratingCount": 14,
+        "position": 3
+      },
+      {
+        "title": "Minha Escola Legal",
+        "link": "http://www.minhaescolalegal.com.br/",
+        "snippet": "COLÉGIO SISTEMA DE ENSINO - UNIDADE II, BELO HORIZONTE, RUA ICO, 336, SAUDADE ... COLEGUIUM - UNIDADE JARDIM CANADÁ, NOVA LIMA, RUA RAINHA ELIZABETH, 531 ...",
+        "position": 4
+      },
+      {
+        "title": "Água é vida",
+        "link": "http://jornal.iof.mg.gov.br/xmlui/bitstream/handle/123456789/139535/caderno1_2015-03-11%2037.pdf?sequence=1",
+        "snippet": "Nova Lima, pelo prazo de 05 (cinco) anos . Este é o parecer . Belo ... CECON – Sistema de Ensino Síntese Ltda e renovação do reconhe-.",
+        "date": "11 de mar. de 2015",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

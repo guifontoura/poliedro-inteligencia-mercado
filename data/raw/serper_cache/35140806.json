@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "35140806",
+  "NO_ENTIDADE": "CANADA COLEGIO",
+  "cidade": "Guarulhos",
+  "query": "\"CANADA COLEGIO\" \"Guarulhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CANADA COLEGIO\" \"Guarulhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "De aluno para aluno, o Colégio Canadá ganha ainda mais ...",
+        "link": "https://www.instagram.com/reel/DOhO3SXgIna/",
+        "snippet": "Salgado Filho, 3975 - Guarulhos/SP eduall SISTEMA DE ENSINO anglo ...",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "O Colégio Canadá agora é oficialmente um Great Place to ...",
+        "link": "https://www.instagram.com/p/DbJoDgwGis_/",
+        "snippet": "... Guarulhos a receber o renomado selo de excelência educacional e de ... Sistema de Ensino Poliedro, referência nacional em qualidade e ...",
+        "date": "há 1 dia",
+        "position": 2
+      },
+      {
+        "title": "Colégio Canadá on Instagram: \"Uma jornada fascinante pelo ...",
+        "link": "https://www.instagram.com/reel/CzrUjUcurUh/",
+        "snippet": "... Guarulhos ... Sistema de Ensino Poliedro na cidade de São José dos Campos-SP, na qual estudantes assumem o papel de ...",
+        "date": "há 2 anos",
+        "position": 3
+      },
+      {
+        "title": "Um dia de muito aprendizado, descobertas e conexões ...",
+        "link": "https://www.instagram.com/reel/DYqFYUWhGc3/",
+        "snippet": "Eles conheceram a escola, receberam o material didático ... COLÉGIO CANADÁ Rotary Club de Guarulhos Maia Poliedro Sistema de Ensino ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Canadá on Instagram: \"Hoje completamos 38 anos ...",
+        "link": "https://www.instagram.com/reel/DWhl0mBgM-N/",
+        "snippet": "... Guarulhos, na Grande São Paulo, conquistaram uma vaga na fase ... Sistema de Ensino Poliedro, referência nacional em qualidade e líder ...",
+        "date": "há 3 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

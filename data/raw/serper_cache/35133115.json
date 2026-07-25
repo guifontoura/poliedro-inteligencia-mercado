@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35133115",
+  "NO_ENTIDADE": "COLEGIO PARTHENON BOM CLIMA",
+  "cidade": "Guarulhos",
+  "query": "\"COLEGIO PARTHENON BOM CLIMA\" \"Guarulhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PARTHENON BOM CLIMA\" \"Guarulhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "NOVO PARCEIRO OAB GUARULHOS ...",
+        "link": "https://www.instagram.com/reel/DVOxwoyk4EB/",
+        "snippet": "NOVO PARCEIRO OAB GUARULHOS (@colegioparthenonbomclima) QUEM SOMOS: O Colégio Parthenon Bom Clima ... SISTEMA DE ENSINO anglo COLÉGIO ...",
+        "date": "há 4 meses",
+        "position": 1
+      },
+      {
+        "title": "Infantil (@parthenonbomclimainfantil)",
+        "link": "https://www.instagram.com/parthenonbomclimainfantil/",
+        "snippet": "Colégio Parthenon Bom Clima - Infantil. 9,361 followers. 2 following. Educação Infantil Bilíngue em Guarulhos | A partir de 14 meses. Cuidado individualizado ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio Parthenon Bom Clima on Instagram: \"No Parthenon ...",
+        "link": "https://www.instagram.com/reel/DZI77XkMKjf/",
+        "snippet": "Oi, eu sou a professora Amanda do Colégio Parthenon Bom Clima. Lembro ... Sistema de Ensino Positivo, além de realizar atividades que ...",
+        "position": 3
+      },
+      {
+        "title": "Roteiro: Hora de escolher a escola",
+        "link": "https://www.clickguarulhos.com.br/2021/10/21/roteiro-hora-de-escolher-a-escola/",
+        "snippet": "... sistema de ensino e, assim, prepara jovens estudantes para que ... O Colégio Parthenon Bom Clima completa neste ano 42 anos de ...",
+        "date": "21 de out. de 2021",
+        "position": 4
+      },
+      {
+        "title": "MATRÍCULAS GRÁTIS ATÉ 11/10/17. O método Kumon tem ...",
+        "link": "https://www.facebook.com/kumonparquecontinental/videos/matr%C3%ADculas-gr%C3%A1tis-at%C3%A9-111017o-m%C3%A9todo-kumon-tem-orienta%C3%A7%C3%A3o-individualizada-seu-fi/1494812633938140/",
+        "snippet": "... Material didático incluso no valor da mensalidade ... No photo description available. Colégio Parthenon - Bom Clima. Colégio Parthenon - Bo... Education ... Kumon ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

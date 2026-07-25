@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "43037690",
+  "NO_ENTIDADE": "COLEGIO MARIA AUXILIADORA",
+  "cidade": "Canoas",
+  "query": "\"COLEGIO MARIA AUXILIADORA\" \"Canoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MARIA AUXILIADORA\" \"Canoas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Paola Ferreira Feijó - Área da Psicopedagogia, como Assistente ...",
+        "link": "https://br.linkedin.com/in/paola-ferreira-feij%C3%B3-b310794a",
+        "snippet": "... Colegio Maria Auxiliadora · Formação acadêmica: Universidade La Salle · Localidade: Canoas ... Canoas, Rio Grande do Sul, Brasil ... material didático, recepcionava ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - OBMEP 2019",
+        "link": "https://premiacao.obmep.org.br/2019/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "COLEGIO MARIA AUXILIADORA, P, CANOAS, RS, Bronze. LUIS FERNANDO REZENDE SILVA, JEAN PIAGET COLEGIO, P, FRANCA, SP, Bronze. LUISA LOPES SILVA, COLEGIO BERNOULLI ...",
+        "position": 2
+      },
+      {
+        "title": "Natália Marchioro Machado",
+        "link": "https://www.escavador.com/sobre/841465903/natalia-marchioro-machado",
+        "snippet": "... Colegio Maria Auxiliadora(2016). Atualmente é da Universidade La Salle - Canoas ... Atualmente é da Universidade La Salle - Canoas. ... material didático para a ...",
+        "position": 3
+      },
+      {
+        "title": "JOGOS ESCOLARES DA JUVENTUDE - 12 A 14",
+        "link": "https://sge-aquaticos.bigmidia.com/_uploads/piscina/33534/093353400000000000000000000000000000980.pdf?x=1611741913",
+        "snippet": "SISTEMA DE ENSINO UNIVERSO./PA. 1. 1. 0. 2. Total de Clubes: Pará: 14. 8. 9. 1 ... COLEGIO MARIA AUXILIADORA-CANOAS/RS. 0. 1. 0. 1. MARISTA PIO. MARISTA PIO XII/ ...",
+        "position": 4
+      },
+      {
+        "title": "A Congregação Filhas de Maria Auxiliadora e a Formação ...",
+        "link": "https://ppgedufpa.com.br/arquivos/File/maria%20lucirene%20sousa%20callou%20filhas%20de%20maria%20auxiliadora%20.pdf",
+        "snippet": "de MLS CALLOU · 2023 — em seguida, Manaus, Colégio Maria Auxiliadora, e depois em Recife, onde faleceu. ... sistema de ensino. Rio de Janeiro: Francisco Alves Editora.1975. BRAGA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "28033450",
+  "NO_ENTIDADE": "ALTERNATIVO CURSO E COLEGIO",
+  "cidade": "Itabaiana",
+  "query": "\"ALTERNATIVO CURSO E COLEGIO\" \"Itabaiana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ALTERNATIVO CURSO E COLEGIO\" \"Itabaiana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alternativo Curso e Colégio on Instagram: \"O Alternativo está ...",
+        "link": "https://www.instagram.com/reel/DRNQjYND9wu/",
+        "snippet": "... itabaiana #sergipe #alternativo #colégioalternativo # ... Em 2026 vem novidade: sistema de ensino Pitágoras, com tecnologia, conteúdo atualizado e ...",
+        "date": "há 8 meses",
+        "position": 1
+      },
+      {
+        "title": "Alternativo Curso e Colégio (@alternativocc)",
+        "link": "https://www.instagram.com/alternativocc/",
+        "snippet": "... Material didático incluso ✓ Aberto para alunos ... Nossos pequenos do Projeto Arrudinando Itabaiana tiveram um dia cheio de descobertas na Itabaiana FM.",
+        "position": 2
+      },
+      {
+        "title": "Alternativo Online – Live Home School",
+        "link": "https://online.prealternativo.com.br/",
+        "snippet": "O material didático mais forte e completo para quem ambiciona a aprovação na ... O Alternativo Curso e Colégio é a instituição de ensino que mais ...",
+        "position": 3
+      },
+      {
+        "title": "Alternativo Curso e Colégio on Instagram: \" No Ensino ...",
+        "link": "https://www.instagram.com/reel/DW6XWEXjqaF/",
+        "snippet": "... Itabaiana #Sergipe #Lagarto ... Em 2026 vem novidade: sistema de ensino Pitágoras, com tecnologia, conteúdo atualizado e resultados ainda melhores ...",
+        "date": "há 3 meses",
+        "position": 4
+      },
+      {
+        "title": "Alternativo Curso e Colégio on Instagram: \" Ficou com ...",
+        "link": "https://www.instagram.com/reel/DE6M42cBBMU/",
+        "snippet": "... Alternativo Curso e Colégio aqui da cidade de Itabaiana é destaque mais uma vez está entre as dez melhores escolas do estado de Sergipe ...",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

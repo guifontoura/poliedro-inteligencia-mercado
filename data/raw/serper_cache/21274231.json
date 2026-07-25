@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "21274231",
+  "NO_ENTIDADE": "D PEDRO II EMPREENDIMENTOS EDUCACIONAIS LTDA",
+  "cidade": "São Luís",
+  "query": "\"D PEDRO II EMPREENDIMENTOS EDUCACIONAIS LTDA\" \"São Luís\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"D PEDRO II EMPREENDIMENTOS EDUCACIONAIS LTDA\" \"São Luís\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Regras do Sorteio do Material Didático • Quem pode ...",
+        "link": "https://www.instagram.com/reel/DQby2pmDLpZ/",
+        "snippet": "Regras do Sorteio do Material Didático • Quem pode ... D Pedro II Empreendimentos Educacionais Ltda – São Luís – Cohama – Nota: 653.66",
+        "date": "há 8 meses",
+        "position": 1
+      },
+      {
+        "title": "A Prefeitura de Timon, por meio da Fundação João Emílio ...",
+        "link": "https://www.instagram.com/p/DNJ92m7ggJP/",
+        "snippet": "... apostila, bloco de notas e caneta, incentivando a ... D Pedro II Empreendimentos Educacionais Ltda – São Luís – Cohama – Nota: 653.66",
+        "date": "há 11 meses",
+        "position": 2
+      },
+      {
+        "title": "Reel by CETI Inês Rocha (@ceti.inesrocha) · June 23, 2026",
+        "link": "https://www.instagram.com/reel/DZ74ejah16R/",
+        "snippet": "COLÉGIO Omega SISTEMA DE ENSINO Anglo Hoje celebramos ... D Pedro II Empreendimentos Educacionais Ltda – São Luís – Cohama – Nota: 653.66",
+        "position": 3
+      },
+      {
+        "title": "Os Microdados do ENEM mostram quais instituições ...",
+        "link": "https://www.instagram.com/reel/Da3Bwd6u7m6/",
+        "snippet": "Audaz Colegio Ltda – São Luís – Calhau – Nota: 657.97. D Pedro II Empreendimentos Educacionais Ltda – São Luís – Cohama – Nota: 653.66",
+        "date": "há 1 semana",
+        "position": 4
+      },
+      {
+        "title": "Escola Cristã Ebenézer | 🏆 O topo é resultado de propósito ...",
+        "link": "https://www.instagram.com/reel/DaEHb_ixx4l/",
+        "snippet": "COLÉGIO Omega SISTEMA DE ENSINO Anglo Hoje celebramos ... D Pedro II Empreendimentos Educacionais Ltda – São Luís – Cohama – Nota: 653.66",
+        "date": "há 4 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

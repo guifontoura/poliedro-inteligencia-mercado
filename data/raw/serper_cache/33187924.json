@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33187924",
+  "NO_ENTIDADE": "QI QUALIDADE INTEGRAL DE ENSINO LTDA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"QI QUALIDADE INTEGRAL DE ENSINO LTDA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"QI QUALIDADE INTEGRAL DE ENSINO LTDA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colegio Qi e Qi Pre Vestibular em Rio de Janeiro, RJ",
+        "link": "https://www.econodata.com.br/consulta-empresa/86704160000137-qi-qualidade-integral-de-ensino-ltda",
+        "snippet": "... material didático próprio, e atividades extracurriculares. Seu ... 86.704.160/0013-70QI - QUALIDADE INTEGRAL DE ENSINO LTDARio de Janeiro, RJ • Serviços.",
+        "position": 1
+      },
+      {
+        "title": "REGIMENTO INTERNO",
+        "link": "https://cms.raizeducacao.com.br/colegioqi/wp-content/uploads/sites/9/2024/11/Regimento-Escolar-do-Colegio-Qi.pdf",
+        "snippet": "... Rio de Janeiro e estado o Rio de Janeiro, CEP 20271-062. Artigo 6. O Colégio ... O material didático do aluno é de uso pessoal e intransferível, sendo utilizado ...",
+        "position": 2
+      },
+      {
+        "title": "Qi - Qualidade Integral de Ensino Ltda em Rio de Janeiro, RJ",
+        "link": "https://www.econodata.com.br/consulta-empresa/86704160001109-qi-qualidade-integral-de-ensino-ltda",
+        "snippet": "Consulte a empresa Qi - Qualidade Integral de Ensino Ltda que tem CNPJ 86704160001109 e sede em Rio de Janeiro, RJ. Sua atividade principal é Ensino médio ...",
+        "position": 3
+      },
+      {
+        "title": "Felipe Moraes Pereira x Qi Qualidade Integral de Ensino Ltda e ...",
+        "link": "https://www.escavador.com/processos-judiciais/010xxxx-0220255010225-6528cfb5ab",
+        "snippet": "... Qi Qualidade Integral de Ensino Ltda e outros no Escavador ... Rio de Janeiro (RJ), no Tribunal Regional do ... Didacta Produção e Distribuição de Material Didático ...",
+        "position": 4
+      },
+      {
+        "title": "Listagem do Site.xlsx",
+        "link": "https://www.uva.br/conteudo/LISTA-DE-EMPRESA-ATUALIZADAS-26-08-2024.pdf",
+        "snippet": "COLEGIO QI - QUALIDADE INTEGRAL DE ENSINO LTDA ... HOSPITAL EVANGELICO DO RIO DE JANEIRO - ASSOCIACAO DO HOSPITAL EVANGELICO DO RIO DE JANEIRO.",
+        "date": "26 de ago. de 2024",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

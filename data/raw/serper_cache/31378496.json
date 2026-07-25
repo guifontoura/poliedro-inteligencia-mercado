@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31378496",
+  "NO_ENTIDADE": "COLEGIO GENOMA II",
+  "cidade": "Teófilo Otoni",
+  "query": "\"COLEGIO GENOMA II\" \"Teófilo Otoni\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO GENOMA II\" \"Teófilo Otoni\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "EDITAL ADMISSÃO 2026 Genoma II Teófilo Otoni",
+        "link": "https://colegiogenoma.com.br/wp-content/uploads/2025/08/EDITAL-ADMISSAO-2026-COLEGIO-GENOMA-TEOFILO-OTONI.pdf",
+        "snippet": "Colégio Genoma II - Teófilo Otoni. Page 2. 1. INFORMAÇÕES GERAIS ... presencialmente na recepção do Genoma Sistema de Ensino. Critérios ...",
+        "date": "15 de ago. de 2025",
+        "position": 1
+      },
+      {
+        "title": "Plenário Parecer nº 83",
+        "link": "https://cee.educacao.mg.gov.br/index.php/legislacao/pareceres?task=download.send&id=14289&catid=67&m=0",
+        "snippet": "Autorização de funcionamento do Colégio Genoma II com. Ensino Médio, no município de. Teófilo Otoni. ... Sistema de Ensino de Minas Gerais.",
+        "date": "4 de fev. de 2022",
+        "position": 2
+      },
+      {
+        "title": "Colegio Genoma II Dna Sistema de Ensino LTDA ...",
+        "link": "https://cnpj.biz/48069924000170",
+        "snippet": "Colegio Genoma II Dna Sistema de Ensino LTDA 48.069.924/0001-70 ... (MG, Teófilo Otoni). Colegio Genoma - 48.069.924/0008-47 (MG, Teófilo ...",
+        "date": "23 de set. de 2022",
+        "position": 3
+      },
+      {
+        "title": "Colegio Genoma em Teófilo Otoni, MG - 48.069.924/0008-47",
+        "link": "https://www.econodata.com.br/consulta-empresa/48069924000847-dna-sistema-de-ensino-ltda",
+        "snippet": "O CNPJ 48069924000847 pertence à empresa Dna Sistema de Ensino Ltda, localizada na Rua Engenheiro Celso Murta, 120 - Doutor Laerte Laender, Teofilo Otoni - MG, ...",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosMencao-MG.2.privada.do.htm",
+        "snippet": "TEOFILO OTONI, MG, Sim. MAX DAS COLINAS BARBOSA MARTINS, ESCOLA EDUCACAO ... COLEGIO GENOMA II, P, GOVERNADOR VALADARES, MG, Sim. 181, ALICE FERREIRA CABRAL ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

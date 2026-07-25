@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35142736",
+  "NO_ENTIDADE": "ESCOLA DA VILA VILA DAS JUVENTUDES",
+  "cidade": "São Paulo",
+  "query": "\"ESCOLA DA VILA VILA DAS JUVENTUDES\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA DA VILA VILA DAS JUVENTUDES\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Paola Colozza e Viviane Rei são as formadoras que ...",
+        "link": "https://www.instagram.com/p/Da5z1IrExwb/",
+        "snippet": "... Escola da Vila – Vila das Juventudes 27 e 28 de julho, das 8h às ... Produz material didático para editoras. presencial agenda: 27 e ...",
+        "date": "há 1 semana",
+        "position": 1
+      },
+      {
+        "title": "No curso “Jogar, testar estratégias, argumentar: a ...",
+        "link": "https://www.instagram.com/reel/DZNqduVkv2N/",
+        "snippet": "... Escola da Vila – Vila das Juventudes 27 e 28 de julho Inscreva ... Produz material didático para editoras. presencial agenda: 27 ...",
+        "position": 2
+      },
+      {
+        "title": "Escola da Vila (vila das Juventudes) - São Paulo - SP",
+        "link": "https://www.escol.as/285650-escola-da-vila-vila-das-juventudes",
+        "snippet": "... São Paulo - SP; ›; Butanta; ›; Escola da Vila (vila das Juventudes). Escola da ... material didático especializado, jogos educativos, e um acervo multimídia ...",
+        "position": 3
+      },
+      {
+        "title": "Publicação de Katia Stocco Smole",
+        "link": "https://pt.linkedin.com/posts/katia-stocco-smole-510747b0_um-livro-muito-interessante-para-pensar-e-activity-7454290690429222912-29wp",
+        "snippet": "29 de abril, das 19h às 20h30 Escola da Vila – Vila das Juventudes R. Raul Saddi, 15 – Butantã, São Paulo Garanta sua vaga. ... Sistema de Ensino ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Escola Vila Aprendiz | Nosso time do Ensino Fundamental ...",
+        "link": "https://www.instagram.com/reel/DaVWC87i6Sq/",
+        "snippet": "Presencial | Escola da Vila – Vila das Juventudes 27 e 28 ... apostila nas férias, precisa de outra coisa. Descansar não é parar ...",
+        "date": "há 3 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

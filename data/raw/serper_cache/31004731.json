@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31004731",
+  "NO_ENTIDADE": "COLEGIO MAGNUM AGOSTINIANO",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO MAGNUM AGOSTINIANO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MAGNUM AGOSTINIANO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Edital Colegio | PDF",
+        "link": "https://es.scribd.com/document/792776152/Edital-Colegio",
+        "snippet": "... COLEGIO MAGNUM AGOSTINIANO CIDADE NOVA, sitado & Rua So Gongalo, 1.364, Bairro: Nova Floresta, Belo Horizonte, Minas Gerais, Sr. ... Apostila Completa para ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosGeral-MG.2.privada.do.htm",
+        "snippet": "COLEGIO MAGNUM AGOSTINIANO - NOVA FLORESTA, P, BELO HORIZONTE, MG, Bronze ... BELO HORIZONTE, MG, ---, Sim. MATHEUS ARAUJO CARVALHO, ESCOLA PARTICULAR PEQUENO ...",
+        "position": 2
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "https://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/minas-gerais/",
+        "snippet": "COLEGIO MAGNUM AGOSTINIANO - NOVA FLORESTA, BELO HORIZONTE, MG, Privada ... ATUAL SISTEMA DE ENSINO, SABINOPOLIS, MG, Privada, 80% ou mais ...",
+        "date": "5 de ago. de 2015",
+        "position": 3
+      },
+      {
+        "title": "BHTRANS - Belo Horizonte",
+        "link": "http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S09F03-escolar5a.asp?lingua=",
+        "snippet": "COLEGIO MAGNUM AGOSTINIANO · COLEGIO MAGNUM AGOSTINIANO CIDADE NOVA ... SISTEMA DE ENSINO RENASCER · SISTEMA PIAGET DE ENSINO · UMEI BRAUNAS · UMEI DELFIM ...",
+        "position": 4
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGIO MAGNUM AGOSTINIANO. 0,5%. COLEGIO MAGNUM AGOSTINIANO. 1,3%. COLEGIO ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA - UNIDADE ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

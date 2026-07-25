@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "42020565",
+  "NO_ENTIDADE": "COLEGIO DOS SANTOS ANJOS",
+  "cidade": "Joinville",
+  "query": "\"COLEGIO DOS SANTOS ANJOS\" \"Joinville\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DOS SANTOS ANJOS\" \"Joinville\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "COLEGIO DOS SANTOS ANJOS, P, JOINVILLE, SC, Bronze. ENRICO FRANCO FIGUEIREDO ... SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Bronze. JOÃO LUCAS ...",
+        "position": 1
+      },
+      {
+        "title": "Jornal do Jornal do Jornal do - Colégio dos Santos Anjos",
+        "link": "https://www.yumpu.com/pt/document/view/13047431/jornal-do-jornal-do-jornal-do-colegio-dos-santos-anjos",
+        "snippet": "Jornal do Jornal do Jornal do - Colégio dos Santos Anjos ... Joinville<br />. 15 - Encontro <strong>do</strong> ... e atuais proposto pela apostila<br />. de ...",
+        "position": 2
+      },
+      {
+        "title": "Santo Ivo International School | Os estudantes dos 8º e 9º ...",
+        "link": "https://www.instagram.com/reel/DYqfW0NxH6J/",
+        "snippet": "SAUDADES DA DIRETORA DO COLÉGIO DOS SANTOS ANJOS IRMÃ CLEÓFA . ELA FOI ... Joinville, 13 de junho de 2026 Rumo aos 50 anos... Sociedade ...",
+        "date": "há 2 meses",
+        "position": 3
+      },
+      {
+        "title": "cadastro de escolas c lab de in",
+        "link": "https://comportamentoalimentar.paginas.ufsc.br/files/2013/08/CADASTRO-DE-ESCOLAS-C-LAB-DE-INF-SC-2010OK1.xls",
+        "snippet": "COLEGIO DOS SANTOS ANJOS, 1, CENTRO, 440, 89201100, 47, 34333877. 3525 ... SISTEMA DE ENSINO ENERGIA LAGES, 1, FREI ROGERIO, 787, 88508000, 49, 32240500. 4152 ...",
+        "position": 4
+      },
+      {
+        "title": "05/mai/99 03/mai/99 21/set/98 19/dez/99 16/mar/00 14/nov ...",
+        "link": "https://www.darwin.com.br/wp-content/uploads/2019/05/Resultados-Olimpiada-Brasileira-de-Biologia-2016.pdf",
+        "snippet": "COLEGIO DOS SANTOS ANJOS. SC. 342 Guilherme Totoli Zanetti de Sousa. 60 ... SISTEMA DE ENSINO EQUIPE. PA. 978 RAFAEL SILVA LEMOS. 50. E E I F M TENENTE REGO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

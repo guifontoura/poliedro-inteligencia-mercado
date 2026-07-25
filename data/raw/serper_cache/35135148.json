@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "35135148",
+  "NO_ENTIDADE": "SINGULAR COLEGIO",
+  "cidade": "Santo André",
+  "query": "\"SINGULAR COLEGIO\" \"Santo André\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SINGULAR COLEGIO\" \"Santo André\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "✨ Portas Abertas no Colégio Singular JR. ✨ Venha nos ...",
+        "link": "https://www.instagram.com/p/C_eEqxgPgHq/",
+        "snippet": "SISTEMA DE ENSINO anglo CONCURSO DE BOLSAS ENSINO MÉDIO 2027 INSCREVA-SE JÁ! SANTO ANDRÉ, SÃO BERNARDO, SÃO CAETANO singular.com.br ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Colégio Singular Anglo on Instagram: \"CONCURSO DE ...",
+        "link": "https://www.instagram.com/reel/DNQXfesvNdz/",
+        "snippet": "... SANTO ANDRÉ Ensino Médio Manhã (1ª, 2ª e 3ª série) Ensino Médio ... SISTEMA DE ENSINO anglo CONCURSO DE BOLSAS ENSINO MÉDIO 2027 INSCREVA-SE JÁ!",
+        "date": "há 11 meses",
+        "position": 2
+      },
+      {
+        "title": "Músicas e brincadeiras são foco de encontro pedagógico ...",
+        "link": "https://www.facebook.com/nossoabc/posts/m%C3%BAsicas-e-brincadeiras-s%C3%A3o-foco-de-encontro-pedag%C3%B3gico-promovido-pelo-col%C3%A9gio-si/1311189594064009/",
+        "snippet": "... Santo André, o encontro O som do brincar, voltado ... material didático é utilizado da Educação ... Santo André, o encontro O som do brincar, voltado ...",
+        "position": 3
+      },
+      {
+        "title": "Singular Colegio | Bolsas de Estudo em Santo André - SP",
+        "link": "https://www.melhorescola.com.br/escola/singular-colegio",
+        "snippet": "Garanta sua bolsa de estudos em Singular Colegio, Santo André - SP ... Bom material didático e equipe docente, muitas turmas, estrutura adequada, mas ...",
+        "position": 4
+      },
+      {
+        "title": "Singular Colegio - Descontos, Preço das Mensalidades e ...",
+        "link": "https://querobolsa.com.br/escolas/249877-colegio-singular",
+        "snippet": "Rua Alvares De Azevedo, 222 - Centro, Santo André - SP. Quer descobrir ... \"Bom material didático e equipe docente, muitas turmas, estrutura adequada ...",
+        "rating": 3.8,
+        "ratingCount": 5,
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

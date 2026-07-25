@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35125441",
+  "NO_ENTIDADE": "EDUCATIVA INSTITUTO DE EDUCACAO E CULTURA",
+  "cidade": "São Carlos",
+  "query": "\"EDUCATIVA INSTITUTO DE EDUCACAO E CULTURA\" \"São Carlos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"EDUCATIVA INSTITUTO DE EDUCACAO E CULTURA\" \"São Carlos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O CASDinho é formado por uma equipe incrível ...",
+        "link": "https://www.instagram.com/p/Da1E5_0mIPT/",
+        "snippet": "sistema de Ensino Etapa no Domus COLÉGIO DOMUS Sapiens 30 Anos ... IFSP São Carlos é a melhor escola pública de São Carlos no ENEM 2025!",
+        "date": "há 1 semana",
+        "position": 1
+      },
+      {
+        "title": "Premiação Estadual de Alunos - Escolas Públicas ...",
+        "link": "https://premiacao.obmep.org.br/19obmep/verRelatorioPremiadosRegionalPorNivel-SP.2.privada.do.htm",
+        "snippet": "COLEGIO FRAMTID SISTEMA DE ENSINO OBJETIVO, P, SAO PAULO, SP, Ouro. 5, ARISHA YING HAI, EDUCATIVA INSTITUTO DE EDUCACAO E CULTURA, P, SAO CARLOS, SP, Ouro. DAVI ...",
+        "position": 2
+      },
+      {
+        "title": "Collegium Sapiens on Instagram: \"Você conhece o Sapiens ...",
+        "link": "https://www.instagram.com/reel/DIU0JjVg3L4/",
+        "snippet": "2º Educativa Instituto de Educação e Cultura 669,89 3º Colégio Anglo ... Material didático de excelência Professores especializados e o ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Avaliação do impacto do jogo “Sintetizando Proteínas” no ...",
+        "link": "https://teses.usp.br/teses/disponiveis/76/76132/tde-06032009-140912/publico/dissertacao3146332.pdf",
+        "snippet": "de JCQ Carvalho · Citado por 5 — sistema de ensino no desempenho dos alunos, discutidas nas próximas seções. ... Federal de São Carlos, São Carlos, 1998. BRASIL, MINISTÉRIO DA EDUCAÇÃO (MEC) ...",
+        "position": 4
+      },
+      {
+        "title": "Escolas no Ensino Fundamental II no Centro - São Carlos",
+        "link": "https://querobolsa.com.br/escolas/etapa-de-ensino/ensino-fundamental-ii/sao-carlos-sp/centro",
+        "snippet": "Bolsas para Ensino Fundamental II no Centro - São Carlos. Mensalidades a partir de R ... Material Didático Incluso. Vagas 2026. Vagas 2026. R$ 1.553,75. R$ 776,88 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

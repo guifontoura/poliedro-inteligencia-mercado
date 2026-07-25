@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35579403",
+  "NO_ENTIDADE": "COLEGIO ELITECOL",
+  "cidade": "Campinas",
+  "query": "\"COLEGIO ELITECOL\" \"Campinas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ELITECOL\" \"Campinas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Metodologia Ensino Fundamental II",
+        "link": "https://elitecampinas.com.br/conheca-o-elite/ensino-fundamental-ii/metodologia-ensino-fundamental-ii/",
+        "snippet": "MATERIAL DIDÁTICO ... OS MELHORES PROFESSORES. A base da equipe de professores do Ensino Fundamental do colégio ELITECol vem sendo consolidada desde a fundação da ...",
+        "position": 1
+      },
+      {
+        "title": "Metodologia - Ensino Médio - 1º ano",
+        "link": "https://elitecampinas.com.br/conheca-o-elite/ensino-medio/metodologia-ensino-medio-1-ano/",
+        "snippet": "A base da equipe de professores do colégio ELITECol é a própria equipe ... MATERIAL DIDÁTICO. Além dos livros didáticos, selecionados dentre os melhores ...",
+        "position": 2
+      },
+      {
+        "title": "Bruna Garcia - Professora de Português",
+        "link": "https://br.linkedin.com/in/bruna-garcia-079908218",
+        "snippet": "Colégio EliteCol Campinas. 13 anos. Professora de ... Seleção das obras literárias trabalhadas em aula e complementação do material didático adotado pelo colégio.",
+        "position": 3
+      },
+      {
+        "title": "Ranking de escolas no ENEM na cidade de Campinas - SP",
+        "link": "https://www.melhorescola.com.br/escola/ranking-enem/sao-paulo/campinas",
+        "snippet": "colegio elitecol. 4.8(8). parque taquaral • Campinas - SP. Nota ENEM: 694.11 ... Material Didático Incluso. Vagas 2026. Vagas 2026. R$ 1.646,98. R$ 823,49 ...",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosPrata.privada.do.htm",
+        "snippet": "COLEGIO ELITECOL, P, CAMPINAS, SP, Prata. 19, ALEX OUDSHOORN CANTO ... CAMPINAS, SP, Prata. MARIA ANTONIA C. P. DEL NERO GOMES, SEI - SISTEMA DE ENSINO INTERATIVO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

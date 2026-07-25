@@ -1,0 +1,25 @@
+{
+  "codigo_escola": "15173437",
+  "NO_ENTIDADE": "COLEGUIUM - UNIDADE INTERNACIONAL CARAJAS",
+  "cidade": "Parauapebas",
+  "query": "\"COLEGUIUM - UNIDADE INTERNACIONAL CARAJAS\" \"Parauapebas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGUIUM - UNIDADE INTERNACIONAL CARAJAS\" \"Parauapebas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/1505536-parauapebas/busca",
+        "snippet": "68516-000 Parauapebas - PA. Rede privada / Urbana · COLEGUIUM - UNIDADE INTERNACIONAL CARAJAS. RUA GUAMA, 69 - QUADRA ESPECIAL. NUCLEO URBANO DE CARAJAS.",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

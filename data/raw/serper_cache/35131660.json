@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35131660",
+  "NO_ENTIDADE": "BRASILIA DE SAO PAULO COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"BRASILIA DE SAO PAULO COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"BRASILIA DE SAO PAULO COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.1.privada.do.htm",
+        "snippet": "BRASILIA DE SAO PAULO COLEGIO, P, SÃO PAULO, SP, ---, Sim. GUSTAVO FERNANDES MATTOS, CAMINHO ABERTO CENTRO DE EDUCACAO, P, SÃO PAULO, SP, ---, Sim. GUSTAVO G.",
+        "position": 1
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "SÃO PAULO. São Paulo. FERNANDO HIDEKI KAWAMOTO. ZETA SISTEMA DE ENSINO DE BIRIGUI. SÃO PAULO. Birigui. Guilherme de Carvalho Passos. SANTA CECILIA COLEGIO. SÃO ...",
+        "position": 2
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... São Paulo. ADEMAR CARLOS NUNES NETO. 2º ano - Ensino Médio. 15. 18 COLEGIO ... BRASILIA DE SAO PAULO COLEGIO. 35131660 SP. São Paulo. Alexandre Lucas de Lima.",
+        "position": 3
+      },
+      {
+        "title": "Lista de Colégios Privados no Brasil | PDF | São Paulo",
+        "link": "https://pt.scribd.com/doc/273617459/Ranking-Brasil",
+        "snippet": "BRASILIA DE SAO PAULO COLEGIO. SP. SAO PAULO. Privada. Urbana. 71 ... SISTEMA DE ENSINO MESON PI. PA. CASTANHAL. Privada. Urbana. 102. INSTITUTO FEDERAL ...",
+        "position": 4
+      },
+      {
+        "title": "dbo_TS_ESCOLA",
+        "link": "https://www.al.sp.gov.br/spl/2015/09/Acessorio/1278971_50269504_Acessorio.xlsx",
+        "snippet": "... São Paulo. 2, Fonte: Censo Escolar - 2014. 4, ANO_CENSO, COD_ESCOLA, NOME_ESCOLA ... SISTEMA DE ENSINO, SP, 1, 1, 0, 1, 0, 0, 0, 1. 1273, 2014, 35394142 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

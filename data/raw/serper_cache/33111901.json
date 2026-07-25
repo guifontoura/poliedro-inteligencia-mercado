@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33111901",
+  "NO_ENTIDADE": "COL BAHIENSE VAZ LOBO",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COL BAHIENSE VAZ LOBO\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL BAHIENSE VAZ LOBO\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "2018",
+        "link": "https://enem.cneceduca.com.br/2018?p=30",
+        "snippet": "Col Bahiense Vaz Lobo, Privada, Rio de Janeiro, RJ, 16, 614,19, 646,01, 601,66, 663,24, 795,00, 631,28 ... CNEC - Sistema de Ensino. ©2011-2026 Sistema de Ensino ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/rio-de-janeiro/",
+        "snippet": "SISTEMA DE ENSINO UNIVERSUS LTDA, RIO DE JANEIRO, RJ, Privada, De 40% a 60%, Alto, 520.69, 541.89, 493.57, 498.92, 548.38, 497.60. 638, 6016, CE ...",
+        "date": "5 de ago. de 2015",
+        "position": 2
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... Rio de Janeiro. Privada. Urbana. 75. De 61 a. 90 alunos. 74. 98.67. 0. 80% ou mais ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos. 25.",
+        "position": 3
+      },
+      {
+        "title": "Instituições",
+        "link": "https://www.tjrj.jus.br/documents/1017893/1294906/instituicoes-capital.xls",
+        "snippet": "COL BAHIENSE VAZ LOBO, AV. MINISTRO EDGARD ROMERO, 870, 21361140. 649, RIO DE ... INTERNATIONAL CHRISTIAN SCHOOL OF RIO DE JANEIRO - ICS - RIO, AV. PREFEITO ...",
+        "position": 4
+      },
+      {
+        "title": "Lista de Colégios Privados no Brasil | PDF | São Paulo",
+        "link": "https://pt.scribd.com/doc/273617459/Ranking-Brasil",
+        "snippet": "SISTEMA DE ENSINO MILENIO. GO. GOIANIA. Privada. Urbana. 28. SESI 351 CENTRO ... CE RIO DE JANEIRO. RJ. VOLTA REDONDA. Estadual. Urbana. 85. COLEGIO JANUSA CORREA.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

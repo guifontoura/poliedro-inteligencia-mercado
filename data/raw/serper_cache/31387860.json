@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31387860",
+  "NO_ENTIDADE": "COLEGIO MAGNUM AGOSTINIANO",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO MAGNUM AGOSTINIANO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MAGNUM AGOSTINIANO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Aqui no Magnum, o aprendizado simboliza \"mais do que ...",
+        "link": "https://www.instagram.com/p/DbGWlZ9ErRc/",
+        "snippet": "... Belo Horizonte e de Minas Gerais a oferecer o Diploma Programme ... Photo by Colégio Magnum Agostiniano on July 22, 2026. May be an ...",
+        "date": "há 2 dias",
+        "position": 1
+      },
+      {
+        "title": "Colégio Magnum Agostiniano on Instagram: \"No último ...",
+        "link": "https://www.instagram.com/reel/DQ49-oHlMRk/",
+        "snippet": "No último sábado, 8 de novembro, o Colégio Magnum Agostiniano Cidade Nova viveu um dia de muita ciência, curiosidade e diversão!",
+        "date": "há 8 meses",
+        "position": 2
+      },
+      {
+        "title": "Anselmo Sampaio",
+        "link": "https://www.escavador.com/sobre/1365413/anselmo-sampaio-teixeira",
+        "snippet": "(Desenvolvimento de material didático ou instrucional - Livro diádito). Histórico profissional. Endereço profissional. Colégio Magnum Agostiniano. , Rua São ...",
+        "position": 3
+      },
+      {
+        "title": "Descubra como nosso turno integral transforma a rotina dos ...",
+        "link": "https://www.instagram.com/reel/DQhiO76kvqv/",
+        "snippet": "Com ensino de qualidade, acompanhamento dedicado e um ambiente acolhedor, ajudamos nossos alunos a desenvolver conhecimento, confiança e valores ...",
+        "date": "há 8 meses",
+        "position": 4
+      },
+      {
+        "title": "Jessica Resende Email & Phone Number | Colégio Magnum ...",
+        "link": "https://rocketreach.co/jessica-resende-email_259748038",
+        "snippet": "2018 - 2021 Autora e editora de apostila ... Jessica Resende, based in Belo Horizonte, MG, BR ... Colégio Magnum Agostiniano Employee Jessica Resende's profile ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

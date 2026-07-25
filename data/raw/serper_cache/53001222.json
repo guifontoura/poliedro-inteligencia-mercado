@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "53001222",
+  "NO_ENTIDADE": "C EDUCACIONAL SIGMA",
+  "cidade": "Brasília",
+  "query": "\"C EDUCACIONAL SIGMA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"C EDUCACIONAL SIGMA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Colégio Podion Ens Fund e Médio - 746,36 - Brasília (Distrito Federal) - Particular - Sem informação ... C Educacional Sigma - Asa Norte ...",
+        "date": "23 de jun. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ... C Educacional Sigma - Brasília - Asa Sul - Nota: 675.38. Col Coc Lago ...",
+        "date": "23 de jun. de 2026",
+        "position": 2
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... Brasília. AGATTA JULIAN MELO DA SILVA. 3º ano - Ensino Médio. 13. 11 ETE Mariano ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 3
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 1° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DAA25DGW9E54FSE2QMDYT.pdf",
+        "snippet": "Brasília de Minas certificado ISABELLA GOMES SOUZA. UNISUZ COLEGIO. SP ... SISTEMA DE ENSINO AUTHENTICO. PA. Belém certificado CLARYSSA BARROS DE FARIAS.",
+        "position": 4
+      },
+      {
+        "title": "Premiados OBF/2025 da 1ª Série",
+        "link": "https://www1.fisica.org.br/olimpiada/2025/index.php/programa-obf/16-obf/389-premiados-obf-2025-da-1-serie",
+        "snippet": "ESCOLA CANADENSE DE BRASÍLIA, DF, MEDALHA DE BRONZE. DAVI LINHARES MORAES ... RIO CLARO SISTEMA DE ENSINO, SP, MENÇÃO HONROSA. CAIO RODRIGUES TURCO, COLÉGIO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

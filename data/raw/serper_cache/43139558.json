@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "43139558",
+  "NO_ENTIDADE": "INSTITUTO RIO BRANCO",
+  "cidade": "São Leopoldo",
+  "query": "\"INSTITUTO RIO BRANCO\" \"São Leopoldo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INSTITUTO RIO BRANCO\" \"São Leopoldo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Novidade no Colégio Rio Branco! Chegou a Unidade II ...",
+        "link": "https://www.instagram.com/reel/DTTNyUfji0a/",
+        "snippet": "O Instituto Rio Branco é feito de gente — e gente é história viva! ... O aprendizado que transforma vai muito além das páginas de uma apostila.",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "Mais um orgulho para o Colégio Rio Branco! 🎓👏 Nosso ...",
+        "link": "https://www.instagram.com/p/DUGKkgmjh1h/",
+        "snippet": "O Sistema de Ensino Bernoulli, parceiro do Évore Educacional, é a ... Instituto Rio Branco: onde deixei um pedaço de mim e levei tantos outros.",
+        "date": "há 5 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Koelle on Instagram: \"O professor Eduardo Sampaio ...",
+        "link": "https://www.instagram.com/reel/DX-IjxfJ2uj/",
+        "snippet": "... sistema de ensino comparado a outras escolas está excelente, falo ... Instituto Rio Branco tem o uniforme, calça azul, camisa branca, a ...",
+        "date": "há 2 meses",
+        "position": 3
+      },
+      {
+        "title": "Saberes Matemáticos na Escola Normal Evangélica em ...",
+        "link": "https://www.scielo.br/j/edreal/a/z8JQ3y55GBzhrMVCfhCH6hF/?lang=pt",
+        "snippet": "Ao comentar sobre sua preparação para o ingresso no curso de Pedagogia, em São Leopoldo, Wagner nos diz que a matemática vista no curso normal não era a mesma ...",
+        "date": "de CMS Silva · 2021",
+        "position": 4
+      },
+      {
+        "title": "Apostila",
+        "link": "https://www.editorasolucao.com.br/apostilas-solucao/abin?p=3&srsltid=AfmBOoo46ZOA3uf5q7rSR_Kvjtr_GasvFlf5BiajVdax9P-6xrO2UqVF",
+        "snippet": "Apostila Prefeitura de São Leopoldo - RS 2026 - Professor de Ciências ... Apostila Prefeitura de São Leopoldo ... Apostila Instituto Rio Branco 2026 - Diplomata - ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "51072823",
+  "NO_ENTIDADE": "LAVOISIER CENTRO DE ENSINO",
+  "cidade": "Rondonópolis",
+  "query": "\"LAVOISIER CENTRO DE ENSINO\" \"Rondonópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LAVOISIER CENTRO DE ENSINO\" \"Rondonópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "MATRÍCULAS ABERTAS – 4º ao 9º Ano 📚 O Lavoisier ...",
+        "link": "https://www.instagram.com/p/DOYy5lFj20h/",
+        "snippet": "... Rondonópolis ... O Lavoisier Centro de Ensino agora também é referência no Ensino Fundamental!",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "Cada fase da vida é um novo começo. E no Colégio Leibniz ...",
+        "link": "https://www.instagram.com/reel/DVRjbUgDt69/",
+        "snippet": "Poliedro Sistema de Ensino. 1º lugar em Anápolis e 2ª melhor ... Lavoisier CENTRO DE ENSINO 1º LUGAR EM RONDONÓPOLIS NO ENEM 2025 1º ...",
+        "date": "há 4 meses",
+        "position": 2
+      },
+      {
+        "title": "Se você busca uma escola que une tradição, inovação ...",
+        "link": "https://www.instagram.com/reel/DYfLCWjgwiy/",
+        "snippet": "Lavoisier CENTRO DE ENSINO 1º LUGAR EM RONDONÓPOLIS NO ENEM 2025 1º ... SISTEMA DE ENSINO anglo AQUI VOCÊ PODE SONHAR PORQUE NÓS CONHECEMOS O ...",
+        "date": "há 2 meses",
+        "position": 3
+      },
+      {
+        "title": "Enquanto muita gente está pensando no ENEM apenas agora ...",
+        "link": "https://www.instagram.com/reel/DZFXRBZRDP0/",
+        "snippet": "... sistema de ensino que nos ajuda a acompanhar a aprendizagem de ... Lavoisier CENTRO DE ENSINO 1º LUGAR EM RONDONÓPOLIS NO ENEM 2025 1º ...",
+        "position": 4
+      },
+      {
+        "title": "alunos classificados para a prova presencial da 3ª fase da ...",
+        "link": "https://www.oniabrasil.com.br/assets/files/Alunos_Aprovados_e_seus_Polos_de_Aplicacao_2a_Etapa_3a_Fase_II_ONIA_2026_04_15.pdf",
+        "snippet": "Lavoisier Centro de ensino. MT Rondonópolis. Isabela Negri. Rua Fernando Correa da Costa 117, Vila Aurora. 16h10. JOSE HENRIQUE COSTA MAGALHAES ...",
+        "date": "15 de abr. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

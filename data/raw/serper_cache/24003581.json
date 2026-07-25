@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "24003581",
+  "NO_ENTIDADE": "CPP - COLEGIO PRINCIPE",
+  "cidade": "Mossoró",
+  "query": "\"CPP - COLEGIO PRINCIPE\" \"Mossoró\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CPP - COLEGIO PRINCIPE\" \"Mossoró\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Mais uma máxima em Ciências da Natureza! 🎖️ O aluno ...",
+        "link": "https://www.instagram.com/p/DTsRbPrjoz_/",
+        "snippet": "Photo by Multitude Sistema de Ensino on ... Mossoró 28 4 653,27 132 5 Centro Educacional de Aprendizagem Moderna 644,56 CPP -Colégio Principe ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "PRIMEIRO ANO. PRIMEIRO LUGAR. O Colégio Simples ...",
+        "link": "https://www.instagram.com/reel/DZ733gLTYzr/",
+        "snippet": "1º LUGAR EM MOSSORÓ MAIOR MÉDIA DO ENEM 2025 ENTRE AS ESCOLA DE MOSSORÓ Jean Bezerra ... CPP - Colégio Príncipe Média: 634,98 | N: 42 ...",
+        "position": 2
+      },
+      {
+        "title": "Reel by CEDAE • Pré Enem • Pré Vestibular (@cedaepre ...",
+        "link": "https://www.instagram.com/reel/DaJ5ZT-sNUN/",
+        "snippet": "... MOSSORÓ 594,29 10 COLÉGIO MATER CHRISTI 581,59 Romero Curso de ... SISTEMA DE ENSINO anglo RANKING ENEM 2025 1º LUGAR SÃO LOURENÇO 1º ...",
+        "date": "há 3 semanas",
+        "position": 3
+      },
+      {
+        "title": "Vamos falar de dados? A Mentoria LUZ analisou os ...",
+        "link": "https://www.instagram.com/reel/DN1Uwc7XFhc/",
+        "snippet": "Over Mossoró Média: 644,56 | N: 29 alunos. Centro Educacional de Aprendizagem Moderna Média: 636,43 | N: 50 alunos. CPP - Colégio Príncipe",
+        "date": "há 11 meses",
+        "position": 4
+      },
+      {
+        "title": "Aprova Cristão | 📚 MATRÍCULAS ABERTAS – SSA 1 & 2 ...",
+        "link": "https://www.instagram.com/p/DW4Gl_GjjI0/",
+        "snippet": "... Mossoró 644,56 4 CEAM 636,43 5 CPP Colégio Príncipe 634,98 6 Colégio ... ✓ Material didático sempre atualizado. O foco é no ...",
+        "date": "há 3 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

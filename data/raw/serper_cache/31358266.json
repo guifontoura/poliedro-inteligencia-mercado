@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "31358266",
+  "NO_ENTIDADE": "COLEGIO FENIX DE ENSINO FUNDAMENTAL E ENSINO MEDIO",
+  "cidade": "Pouso Alegre",
+  "query": "\"COLEGIO FENIX DE ENSINO FUNDAMENTAL E ENSINO MEDIO\" \"Pouso Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO FENIX DE ENSINO FUNDAMENTAL E ENSINO MEDIO\" \"Pouso Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Fênix - Ensino Médio",
+        "link": "https://www.fenixonline.com.br/ensino-medio.html",
+        "snippet": "O poder da escolha em suas mãos! O ensino médio do colégio Fênix, em parceria com o Sistema Anglo de Ensino, adota a flexibilidade como princípio de ...",
+        "position": 1
+      },
+      {
+        "title": "Material Didático",
+        "link": "https://colegiopousoalegre.com.br/material-didatico/",
+        "snippet": "O Sistema Positivo de Ensino promove uma formação de cidadãos positivos, éticos e responsáveis. São mais de 40 anos dedicados à inovação e à excelência no ...",
+        "position": 2
+      },
+      {
+        "title": "geo (sistema de ensino) - Parnamirim - Colégio Fênix",
+        "link": "https://colegiofenix.net/interatividade/comunicado/103/geo-sistema-de-ensino",
+        "snippet": "Sabemos que o material didático adotado por uma escola que trabalha com uma educação de · Há dois anos implantamos no Colégio Fênix o Sistema de Ensino Geo, que ...",
+        "position": 3
+      },
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "Cada material é cuidadosamente elaborado, atualizado e alinhado com as diretrizes da BNCC, oferecendo uma base sólida para a formação integral de nossos ...",
+        "position": 4
+      },
+      {
+        "title": "Sucesso Sistema de Ensino",
+        "link": "https://www.sistemadeensinosucesso.com.br/",
+        "snippet": "Institucional · Catálogo · Contato · Sucesso Digital · Sucesso Digital. ‹ › Veja os destaques. Nosso catálogo. Educação Infantil · Ensino Fundamental I ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

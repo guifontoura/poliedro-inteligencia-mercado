@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35113207",
+  "NO_ENTIDADE": "DIVINO SALVADOR COLEGIO",
+  "cidade": "Jundiaí",
+  "query": "\"DIVINO SALVADOR COLEGIO\" \"Jundiaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"DIVINO SALVADOR COLEGIO\" \"Jundiaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Aqui no Divino, acreditamos que o melhor presente é o ...",
+        "link": "https://www.instagram.com/reel/DJt8wx8OyiR/",
+        "snippet": "COLÉGIO Divino Salvador . COLÉGIO Divino Salvador . COLÉGIO Divino ... Jundiaí, Às quintas-feiras, das 19h30 às 22h Vagas Limitadas ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Começamos 2026 do jeito que acreditamos: com diálogo, ...",
+        "link": "https://www.facebook.com/DivinoJundiai/videos/come%C3%A7amos-2026-do-jeito-que-acreditamos-com-di%C3%A1logo-planejamento-e-prop%C3%B3sito-nos/1864601460846076/",
+        "snippet": "Tem coisas que a apostila não ensina. Ouvir uma boa históri... Jun 29, 2026 · 184 views. É Copa ...",
+        "date": "há 5 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Divino Salvador | Bolsas de Estudo em Jundiaí - SP",
+        "link": "https://www.melhorescola.com.br/escola/divino-salvador-colegio",
+        "snippet": "Garanta sua bolsa de estudos em Colégio Divino Salvador, Jundiaí - SP. Descontos exclusivos para garantir a melhor educação para seus filhos!",
+        "position": 3
+      },
+      {
+        "title": "Colégio Divino Salvador Jundiaí",
+        "link": "https://www.facebook.com/DivinoJundiai/photos/1708230447632304/",
+        "snippet": "Colégio Divino Salvador Jundiaí ... Tem coisas que a apostila não ensina. Ouvir uma ... Paróquia Nossa Senhora da Conceição - Vila Arens - Jundiaí/SP · . Follow.",
+        "position": 4
+      },
+      {
+        "title": "A arte de contar histórias também se aprende. Nossa equipe da ...",
+        "link": "https://www.facebook.com/DivinoJundiai/videos/a-arte-de-contar-hist%C3%B3rias-tamb%C3%A9m-se-aprendenossa-equipe-da-educa%C3%A7%C3%A3o-infantil-ju/1606943433685443/",
+        "snippet": "✨ #contacaodehistorias #sousalvatoriano #educaçaoinfantil - at Colégio Divino Salvador Jundiaí. ... Tem coisas que a apostila não ensina. Ouvir ...",
+        "date": "há 4 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35130217",
+  "NO_ENTIDADE": "ESCOLA CARANDA VIVA VIDA",
+  "cidade": "São Paulo",
+  "query": "\"ESCOLA CARANDA VIVA VIDA\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA CARANDA VIVA VIDA\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Bianca Adami Romero",
+        "link": "https://www.escavador.com/sobre/1095903/bianca-adami-romero",
+        "snippet": "Cursou o Bacharelado e a Licenciatura em História na Universidade de São Paulo (USP), onde fez iniciação científica na área de História da Educação e Ensino ...",
+        "position": 1
+      },
+      {
+        "title": "Pedro Sales - Historiador, coordenador pedagógico e ...",
+        "link": "https://br.linkedin.com/in/pedro-sales-7309b295",
+        "snippet": "Pedro Sales. Historiador, coordenador pedagógico e autor de material didático. Colégio Santa Catarina MBA USP/Esalq. São Paulo, São Paulo, Brasil. 286 ...",
+        "position": 2
+      },
+      {
+        "title": "LISTA DAS ESCOLAS CONVIDADAS DA TURMA 11",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/ESCOLAS-TURMA-11.pdf",
+        "snippet": "São Paulo. Escola Alef Peretz. 35104711. 76776. Turma. 11. SP. São Paulo. ESCOLA CARANDA VIVA VIDA. 35130217. 92592. Turma. 11. SP. São Paulo. ESCOLA CONCEPT.",
+        "position": 3
+      },
+      {
+        "title": "Fernanda Rienzi Nunes",
+        "link": "https://www.escavador.com/sobre/491915277/fernanda-rienzi-nunes",
+        "snippet": "Possui graduação em Pedagogia pelo Instituto Superior de Educação de São Paulo (2017). ... material didático ... Estágio remunerado na escola Carandá Viva Vida.",
+        "position": 4
+      },
+      {
+        "title": "Plan1",
+        "link": "https://midiasstoragesec.blob.core.windows.net/001/2023/05/anexo-iv_rede191.xlsx",
+        "snippet": "ESCOLA CARANDA VIVA VIDA, IP, CENTRO OESTE, PRIVADA. 2145, N, 35130321, EE ... IDEAL SAO PAULO COLEGIO UNIDADE I E II, IP, CENTRO SUL, PRIVADA. 2300, N, 35151889 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

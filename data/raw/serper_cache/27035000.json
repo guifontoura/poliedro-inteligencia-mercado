@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "27035000",
+  "NO_ENTIDADE": "COLEGIO SANTA MADALENA SOFIA",
+  "cidade": "Maceió",
+  "query": "\"COLEGIO SANTA MADALENA SOFIA\" \"Maceió\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA MADALENA SOFIA\" \"Maceió\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Bernoulli Sistema de Ensino - Maceió",
+        "link": "https://msofia.com/diferencias/bernoulli-sistema-de-ensino",
+        "snippet": "Completando 52 anos de existência em Maceió, neste ano de 2018, o Colégio ... Sistema de Ensino. Na teoria e na prática, o sistema mais eficiente. O ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Santa Madalena Sofia on Instagram: \"O Santa ...",
+        "link": "https://www.instagram.com/reel/DNwg7pKWu_9/",
+        "snippet": "... Colégio Santa Madalena Sofia ocupa a 3ª posição em Maceió e em todo o estado de Alagoas. Mais do que números, eles refletem a dedicação dos ...",
+        "date": "há 11 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Santa Madalena Sofia (@santamadalenasofia)",
+        "link": "https://www.instagram.com/santamadalenasofia/reels/",
+        "snippet": "... Maceió, celebrando os 60 anos do Colégio Santa Madalena Sofia. A instituição ... Além das aulas e estrutura completas, o estudante recebe material didático, ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio Santa Madalena Sofia - Alegrar-se e fazer o bem",
+        "link": "https://msofia.com/",
+        "snippet": "Completando 52 anos de existência em Maceió, neste ano de 2018, o Colégio ... Sistema de Ensino. Na teoria e na prática, o sistema mais eficiente ...",
+        "position": 4
+      },
+      {
+        "title": "Seja bem-vindo(a) ao Colégio Santa Madalena Sofia!",
+        "link": "https://sites.google.com/aric.com.br/colgio-madalena-sofia/in%C3%ADcio",
+        "snippet": "... Sistema de Ensino, que traz um material antenado com as principais ... Rua Afonso Pena, 59, Farol - Maceió - Alagoas. Telefone: (82) 2123-4880. Email ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

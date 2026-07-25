@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31105902",
+  "NO_ENTIDADE": "COL N SRA DAS DORES",
+  "cidade": "Itabira",
+  "query": "\"COL N SRA DAS DORES\" \"Itabira\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL N SRA DAS DORES\" \"Itabira\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosGeral-MG.2.privada.do.htm",
+        "snippet": "P, BELO HORIZONTE, MG, ---, Sim. ANA LAURA DE ALMEIDA DUARTE, COL N SRA DAS DORES, P, ITABIRA, MG, ---, Sim. ANA LUISA JANONES GOMES, ESCOLA SISTEMA INTELIGENTE ...",
+        "position": 1
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3131703-itabira/busca",
+        "snippet": "COL N SRA DAS DORES. SANTANA, 235. PENHA. 35900064 Itabira - Minas Gerais. Rede privada / Urbana · COLEGIO AGAPE. RUA DOS PADRES ...",
+        "position": 2
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "https://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/minas-gerais/",
+        "snippet": "COL N SRA DAS DORES, ITABIRA, MG, Privada, 80% ou mais, Alto, 608.57, 574.68, 643.96, 587.74, 627.89, 642.41. 161, 855, C EDUC TEC GAL EDMUNDO ...",
+        "date": "5 de ago. de 2015",
+        "position": 3
+      },
+      {
+        "title": "ENEM 2019",
+        "link": "https://enem.cneceduca.com.br/2019?p=55",
+        "snippet": "Col N Sra das Dores, Privada, Itabira, MG, 5, 561,00, 569,22, 569,24, 681,04, 848,00 ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line Alexandria CNEC Provas ...",
+        "position": 4
+      },
+      {
+        "title": "ENEM ESCOLA Page 1 SIGLA NO_MUNICIPIO ...",
+        "link": "http://fw.atarde.com.br/2012/11/1293042.pdf",
+        "snippet": "... SISTEMA DE ENSINO LTDA. Privada. 487,1512195 514,9707317 553,6134146 539 ... ITABIRA. C EDUC STA EDWIGES III. Privada. 505,2583333 525,4083333 578,3833333 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

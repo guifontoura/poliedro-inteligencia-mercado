@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "35165773",
+  "NO_ENTIDADE": "MULTIPLUS SCHOOL",
+  "cidade": "Presidente Prudente",
+  "query": "\"MULTIPLUS SCHOOL\" \"Presidente Prudente\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"MULTIPLUS SCHOOL\" \"Presidente Prudente\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Parabéns, Giovana. Aprovada em Direito na Toledo 👏🏼 # ...",
+        "link": "https://www.instagram.com/p/DagUUqCy8qR/",
+        "snippet": "Multiplus School Giovana Lyssa Gargel DIREITO TOLEDO APROVADA! ... uni Tic Tac Toe Poliedro Sistema de Ensino Educação Fundamental Bilíngue ...",
+        "date": "há 2 semanas",
+        "position": 1
+      },
+      {
+        "title": "Toledo Prudente on Instagram: \"HOJE É O ÚLTIMO DIA ...",
+        "link": "https://www.instagram.com/reel/DZcZLEtAFn5/",
+        "snippet": "Multiplus School Enrico Loma Genaro APROVADO! TOLEDO PRUDENTE CENTRO ... Tudo isso com a força do Sistema de Ensino Objetivo, referäncia nacional ...",
+        "position": 2
+      },
+      {
+        "title": "Parabéns Renan pela FANTÁSTICA APROVAÇÃO 🥰 ...",
+        "link": "https://www.instagram.com/p/CnUZJn-BAP3/",
+        "snippet": "Kelvin Sistema de Ensino eighteen eighteen MED 2º EM UNAERP! ... Multiplus School Enzo Carrijo Shimabukuro APROVADO! Unoeste | Medicina MED ...",
+        "date": "há 3 anos",
+        "position": 3
+      },
+      {
+        "title": "Toledo Prudente on Instagram: \"🚀 COLÉGIO MULTIPLUS ...",
+        "link": "https://www.instagram.com/p/DYmhMpmjiCS/?img_index=3&hl=en",
+        "snippet": "Adolpho Arruda Mello Presidente Prudente Tem gente que acha que ... ✔️ A adoção do material didático do Sistema de Ensino Poliedro dá ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Boletim Oficial nº",
+        "link": "https://www.esportes.sp.gov.br/dx/api/dam/v1/collections/cb99158a-0c6c-4e57-8298-bf384fa28a1b/items/382963e3-40f0-49d3-b6dc-859d82765bea/renditions/7f17cd4f-d49e-4921-999e-7acecbec96fc?binary=true",
+        "snippet": "Colégio Multiplus School. Colégio Amorim Tatuapé. Presidente Prudente. São Paulo. Colégio Interação. Colégio Raphael Di Santo. Marília. Campinas.",
+        "date": "7 de ago. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

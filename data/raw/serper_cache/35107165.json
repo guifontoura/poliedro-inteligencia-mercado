@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35107165",
+  "NO_ENTIDADE": "PIONEIRO CENTRO EDUCACIONAL",
+  "cidade": "São Paulo",
+  "query": "\"PIONEIRO CENTRO EDUCACIONAL\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PIONEIRO CENTRO EDUCACIONAL\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "🎓 Mais uma conquista para comemorar! Nossa aluna Nina ...",
+        "link": "https://www.instagram.com/p/DUtLLLlksda/",
+        "snippet": "... São Paulo) ainda enquanto cursava o 2º ano. Um resultado que enche ... MATERIAL DIDÁTICO E UNIFORME, CURSO DE INGLÊS E MENTORIA!",
+        "date": "há 5 meses",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.1.privada.do.htm",
+        "snippet": "ANGLO SISTEMA DE ENSINO, P, TATUI, SP, ---, Sim. IAN MAZZUCATTO PUCINELI ... SAO PAULO DA CRUZ COLEGIO PASSIONISTA, P, SÃO PAULO, SP, ---, Sim. IRIS TANG KUANG ...",
+        "position": 2
+      },
+      {
+        "title": "Jorge Barbour",
+        "link": "https://www.escavador.com/sobre/1116694/jorge-barbour",
+        "snippet": "Centro Educacional Pioneiro, Centro Educacional Pioneiro. , Avenida Doutor Altino Arantes - de 782 a 1100 - lado par, Vila Clementino, 04042004 - São Paulo ...",
+        "position": 3
+      },
+      {
+        "title": "Escolas em Vila Clementino na cidade de São Paulo",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/sao-paulo-sp/vila-clementino",
+        "snippet": "Pioneiro Centro Educacional. 4.4(22). Vila Clementino - São Paulo - SP. Saiba ... Material Didático Incluso. Vagas 2026. Vagas 2026. R$ 2.847,94. R$ 1.993,56 ...",
+        "position": 4
+      },
+      {
+        "title": "BAIXE o ebook",
+        "link": "https://olimpiada.fiocruz.br/wp-content/uploads/2025/08/CadernoResultados_4a-e-5a-edicoes-1.pdf",
+        "snippet": "Pioneiro Centro Educacional. São Paulo – São Paulo. Professora: Maria Aparecida Felícia Laruccia. Alunos: Caroline Yumi Miyasaka; Cynthia Midori Adachi; Débora ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

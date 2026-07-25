@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "22022503",
+  "NO_ENTIDADE": "COLEGIO SAO FRANCISCO DE SALES",
+  "cidade": "Teresina",
+  "query": "\"COLEGIO SAO FRANCISCO DE SALES\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAO FRANCISCO DE SALES\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "educação inclusiva no colégio são francisco de sales",
+        "link": "https://pedagogiaignaciana.com/biblioteca-digital/biblioteca-general?view=file&id=3685:educacao-inclusiva-no-colegio-sao-francisco-de-sales-diocesano-concepcao-praticas-e-desafios&catid=8&filename=Varios%202022%20Educao%20Inclusiva%20no%20Colgio%20Diocesano.pdf",
+        "snippet": "1 Com 116 anos completados em 2022, o Colégio São Francisco de Sales - Diocesano, situado em Teresina, ... aprendentes, confecciona material didático, materiais ...",
+        "position": 1
+      },
+      {
+        "title": "chegaram ao ranking estadual, colocando essas escolas ...",
+        "link": "https://www.instagram.com/p/DanJGmqFWjt/",
+        "snippet": "1º lugar em Teresina e no Brasil entre as escolas com mais de 100 alunos. ... COLÉGIO SÃO FRANCISCO DE SALES 78 6 647,59 GRUPO EDUCACIONAL ...",
+        "date": "há 2 semanas",
+        "position": 2
+      },
+      {
+        "title": "Má qualidade do ensino infantil é causa de fracasso no Enem",
+        "link": "https://www.cee.ce.gov.br/2010/07/28/ma-qualidade-do-ensino-infantil-e-causa-de-fracasso-no-enem/",
+        "snippet": "Por pouco o Instituto Dom Barreto, de Teresina, não apareceu como a ... Colégio São Francisco de Sales (33º). No ranking cearense, em ...",
+        "date": "28 de jul. de 2010",
+        "position": 3
+      },
+      {
+        "title": "Colégio Diocesano de Caruaru on Instagram: \"Diocesano ...",
+        "link": "https://www.instagram.com/reel/DUTOR-ADrQ4/",
+        "snippet": "O evento de apresentação do sistema de ensino será neste sábado ... Photo by Arquidiocese de Teresina on May 19, 2026. May be an image ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Diocesano está com inscrições abertas para ...",
+        "link": "https://arquidiocesedeteresina.org.br/2016/11/24/colegio-diocesano-esta-com-inscricoes-abertas-para-educacao-de-jovens-e-adultos/",
+        "snippet": "O Colégio São Francisco de Sales – Diocesano, pensando nesse público ... Eles recebem apostilas com material didático e precisam custear apenas o ...",
+        "date": "24 de nov. de 2016",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "43022324",
+  "NO_ENTIDADE": "COLEGIO SCALABRINIANO NOSSA SENHORA MEDIANEIRA",
+  "cidade": "Bento Gonçalves",
+  "query": "\"COLEGIO SCALABRINIANO NOSSA SENHORA MEDIANEIRA\" \"Bento Gonçalves\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SCALABRINIANO NOSSA SENHORA MEDIANEIRA\" \"Bento Gonçalves\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Cadastro Estab de Ensino Rede Particular 2016",
+        "link": "https://servicos.educacao.rs.gov.br/dados/estatisticas_cad_par_2016.pdf",
+        "snippet": "Bento Gonçalves. 43022324 COLEGIO SCALABRINIANO NOSSA SENHORA MEDIANEIRA. URBANA. -51,5122. -29,168007 RUA GENERAL OSORIO. 110. CENTRO. 95700000 54. 34521233 ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas em Centro - Gonçalves - MG",
+        "link": "https://www.melhorescola.com.br/busca/minas-gerais/goncalves/centro",
+        "snippet": "Colegio Scalabriniano Nossa Senhora Medianeira. Sem avaliações. Centro - Bento Gonçalves - RS ... Centro - Bento Gonçalves - RS ... Material Didático Incluso.",
+        "position": 2
+      },
+      {
+        "title": "Centro de Educacional Inf Officina da Crianca - Bento Gonçalves",
+        "link": "https://www.escol.as/302156-centro-de-educacional-inf-officina-da-crianca",
+        "snippet": "... Bento Gonçalves no bairro Sao Bento, como foi o seu desempenho no IDEB ... Além disso, oferece material didático, jogos ... Colegio Scalabriniano Nossa Senhora ...",
+        "position": 3
+      },
+      {
+        "title": "Rede Particular - 2016 - Secretaria da Educação",
+        "link": "https://servicos.educacao.rs.gov.br/dados/estatisticas_mi_par_2016.pdf",
+        "snippet": "43022324 COLEGIO SCALABRINIANO NOSSA SENHORA MEDIANEIRA. Urbana. 145. 96. 331. 54 ... 43209467 ESC EDUC PROFISSIONAL SENAC - BENTO GONCALVES. Urbana. 0. 0. 0. 0.",
+        "position": 4
+      },
+      {
+        "title": "Escola de Educação Infantil Fantastico Mundo do Saber",
+        "link": "https://www.escol.as/328573-escola-de-educacao-infantil-fantastico-mundo-do-saber",
+        "snippet": "... material didático diversificado e jogos ... Colegio Scalabriniano Nossa Senhora Medianeira. Centro, Bento Gonçalves - RS · Ensino Médio; Ensino Fundamental ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

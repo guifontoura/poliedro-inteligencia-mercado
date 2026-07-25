@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "53009592",
+  "NO_ENTIDADE": "COL NOSSA SENHORA DO PERPETUO SOCORRO",
+  "cidade": "Brasília",
+  "query": "\"COL NOSSA SENHORA DO PERPETUO SOCORRO\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL NOSSA SENHORA DO PERPETUO SOCORRO\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-DF.2.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões · Apostilas do PIC ... COL NOSSA SENHORA DO PERPETUO SOCORRO, P, BRASILIA, DF, ---, Sim. LÚCIO P. M ...",
+        "position": 1
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... Brasília. Privada. Urbana. 77. De 61 a. 90 alunos. 73. 94.81. 0. De 60% a 80%. Muito ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos.",
+        "position": 2
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "COL NOSSA SENHORA DO PERPETUO SOCORRO 31 Brasília DF SAO JOAO COLEGIO ANGLO ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 3
+      },
+      {
+        "title": "Tudo o que você precisa saber sobre as regras do Enem ...",
+        "link": "https://exame.com/brasil/tudo-o-que-voce-precisa-saber-sobre-as-regras-do-enem-2015/",
+        "snippet": "COL NOSSA SENHORA DO PERPETUO SOCORRO, 587,69, 665,52. 25º, BRASILIA ... SISTEMA DE ENSINO MESON PI, 551,33, 653,47. 30º, PARAUAPEBAS, Privada ...",
+        "date": "14 de mai. de 2015",
+        "position": 4
+      },
+      {
+        "title": "Blog do Enem: simplificado como deve ser",
+        "link": "http://sandytagregador.blogspot.com/2014/12/blog-do-enem-simplificado-como-deve-ser_24.html",
+        "snippet": "Brasília: Resultado Enem 2013. Escolas com piores e melhores notas ... COL NOSSA SENHORA DO PERPETUO SOCORRO, 665,52, 587,69. 25, COL ...",
+        "date": "24 de dez. de 2014",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

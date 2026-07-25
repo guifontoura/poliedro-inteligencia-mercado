@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "29304407",
+  "NO_ENTIDADE": "COLEGIO GALILEU",
+  "cidade": "Itabuna",
+  "query": "\"COLEGIO GALILEU\" \"Itabuna\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO GALILEU\" \"Itabuna\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "🏆 Resultados que falam por si. O Colégio Galileu é ...",
+        "link": "https://www.instagram.com/p/DTI1Yk6FTU1/",
+        "snippet": "Resultados que falam por si. O Colégio Galileu é destaque em Itabuna ... Além disso, o material didático de 2026 estará com desconto ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "10 simulados (ENEM, USP, UNICAMP, Bahiana entre outros.); ...",
+        "link": "https://www.facebook.com/galileuoficial/photos/a.368268013200672/3181241755236603/?type=3",
+        "snippet": "Plataforma Digital com o Sistema de Ensino Farias Brito (A melhor plataforma do Brasil). Contaremos com novo material didático; 10 simulados (ENEM, USP,...",
+        "position": 2
+      },
+      {
+        "title": "Colégio e Curso Galileu on Instagram: \" Tá no ar: Vale a Pena ...",
+        "link": "https://www.instagram.com/reel/DOvtjq8jjF0/",
+        "snippet": "... Itabuna #ConcursodeBolsasExterno ... Colégio Galileu já começou e a gente tá aqui pra tirar todas as suas dúvidas ...",
+        "date": "há 10 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Galileu Galilei",
+        "link": "https://www.instagram.com/reel/DYAykp_BEJk/",
+        "snippet": "... apostila, se você quiser vim ver. Aqui é a escada ... COC Colégio Galileu Galilei Sistema de Ensino www.galileujau.com.br ... Itabuna - Sul Da Bahia. 179 ...",
+        "position": 4
+      },
+      {
+        "title": "A chance de ouro no Colégio Galileu é real! ✨ A prova do ...",
+        "link": "https://www.instagram.com/p/DPO3UY_jizh/",
+        "snippet": "... Itabuna #ConcursodeBolsas ... Conectivo Sistema de Ensino SELETIVA de Bolsas INTENSIVO PRÉ-ENEM 2026 Resultado 100 ...",
+        "date": "há 9 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

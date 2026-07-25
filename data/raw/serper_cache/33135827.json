@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "33135827",
+  "NO_ENTIDADE": "COLEGIO E CURSO PENSI",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO E CURSO PENSI\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO E CURSO PENSI\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ser o protagonista da sua própria história e bem-sucedido no ...",
+        "link": "https://www.instagram.com/reel/DN0-VS5WJsG/",
+        "snippet": "... COLÉGIO E CURSO PENSI - TIJUCA 2, RIO DE JANEIRO Pensi colégio-curso Oportunidade. pensi.alpha's profile picture. pensi.alpha. •. Follow · Alpha ...",
+        "date": "há 11 meses",
+        "position": 1
+      },
+      {
+        "title": "Nossos pequenos e talentosos alunos!",
+        "link": "https://www.instagram.com/p/C6wJ1_MOR-_/",
+        "snippet": "... material didático. Os alunos tiveram a ... Rio de Janeiro 2º Lugar no ENEM 2025 na maior ... COLÉGIO E CURSO PENSI - TIJUCA 2, RIO DE JANEIRO Pensi ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio Panamericano | 📚✨ Educação de excelência começa ...",
+        "link": "https://www.instagram.com/reel/Dak30hTMIBd/",
+        "snippet": "... material didático do Sistema de Ensino Positivo, uma das maiores ... COLÉGIO E CURSO PENSI - TIJUCA 2, RIO DE JANEIRO Pensi colégio ...",
+        "date": "há 2 semanas",
+        "position": 3
+      },
+      {
+        "title": "COLÉGIO PENSI ABRE AS PORTAS NA BARRA DA ...",
+        "link": "https://www.facebook.com/portaldaescola/posts/col%C3%A9gio-pensi-abre-as-portas-na-barra-da-tijucaum-coquetel-marcou-a-inaugura%C3%A7%C3%A3o-/859953514120700/",
+        "snippet": "... Colégio e Curso Pensi na última sexta-feira. O Colégio, que ocupou ... material didático contextualizado atualizado constantemente, os ...",
+        "date": "há 10 anos",
+        "position": 4
+      },
+      {
+        "title": "1. Introdução",
+        "link": "https://pensi.com.br/wp-content/uploads/2019/07/Edital-PAA-Pensi-2020-1.pdf",
+        "snippet": "Pensi com a Secretaria Municipal de Educação do Rio de Janeiro. Por ... podem ingressar na primeira série do Ensino Médio no Colégio e Curso Pensi ...",
+        "date": "16 de jul. de 2019",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

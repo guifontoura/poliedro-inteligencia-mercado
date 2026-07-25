@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "35102660",
+  "NO_ENTIDADE": "COLEGIO SANTO IVO",
+  "cidade": "São Paulo",
+  "query": "\"COLEGIO SANTO IVO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTO IVO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "COLÉGIO SANTO IVO 50 ANOS",
+        "link": "https://www.calameo.com/books/0053458678cdd7744dd16",
+        "snippet": "CAROLINA MOREIRA LOBO MARIANA SARUBBY GONZALEZ COLÉGIO SANTO IVO 50 ANOS SÃO PAULO - 2017 - 1ª EDIÇÃO ... material didático FARMACÊUTICA que já havia sido ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Santo Ivo - Descontos, Preço das Mensalidades e ...",
+        "link": "https://querobolsa.com.br/escolas/colegio-santo-ivo",
+        "snippet": "Estudei lá por 10 anos da minha vida, tem um sistema de ensino MUITO bom. ... Vila Renato (Zona Norte) - São Paulo - SP. Bolsas a partir de: R$ 217,25 · Logo ...",
+        "rating": 4.3,
+        "ratingCount": 49,
+        "position": 2
+      },
+      {
+        "title": "A nova logomarca do Colégio Santo Ivo nasce em um ...",
+        "link": "https://www.instagram.com/p/DUTKbzAEQTb/",
+        "snippet": "Colégio Santa Mônica OBJETIVO SISTEMA DE ENSINO 17 anos 17 anos ... Colégio Santa Catarina de Sena - São Paulo.",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "Santo Ivo International School | Nossos agradecimentos a ...",
+        "link": "https://www.instagram.com/reel/DYiYipFxXOh/",
+        "snippet": "VOCÊ TAMBÉM FAZ PARTE DESSA HISTÓRIA SANTO IVO 59 ANOS COLÉGIO SANTO IVO ... SÃO PAULO 60 ANOS Julia R. Guimarães Eugênio Welton de Andrade ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Positivo anuncia compra de escola em SP",
+        "link": "https://fusoesaquisicoes.com/acontece-no-setor/positivo-anuncia-compra-de-escola-em-sp-2/",
+        "snippet": "O Colégio Positivo anuncia a aquisição do Colégio Santo Ivo, em São Paulo ... Além disso, 400 mil alunos utilizam o Sistema de Ensino ...",
+        "date": "20 de mar. de 2023",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

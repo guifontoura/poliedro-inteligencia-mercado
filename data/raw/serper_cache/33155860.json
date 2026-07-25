@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "33155860",
+  "NO_ENTIDADE": "COLEGIO ESPACO LIVRE",
+  "cidade": "Nova Friburgo",
+  "query": "\"COLEGIO ESPACO LIVRE\" \"Nova Friburgo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ESPACO LIVRE\" \"Nova Friburgo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/rio-de-janeiro/",
+        "snippet": "COLEGIO SAO JOAO BATISTA NOVA FRIBURGO, NOVA FRIBURGO, RJ ... SOMEC SISTEMA DE ENSINO, RIO DE JANEIRO, RJ, Privada, De 20% a 40%, Médio ...",
+        "date": "5 de ago. de 2015",
+        "position": 1
+      },
+      {
+        "title": "educação - Listagens de Empresas",
+        "link": "https://acianf.com.br/component/jbusinessdirectory/search?categorySearch=331",
+        "snippet": "... material didático, m Mais informações · Mensagem. 2 ... nova-friburgo. 0 Comentários. Nova Friburgo, Centro. Mensagem. 15. Colégio Espaço Livre ... Nova Friburgo ...",
+        "position": 2
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "COLEGIO ESPACO LIVRE 17 Nova Friburgo RJ COLEGIO UNIVERSITARIO PADRE DE MAN ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 3
+      },
+      {
+        "title": "Ranking das escolas brasileiras no Enem 2013",
+        "link": "https://complemento.veja.abril.com.br/educacao/ranking-escolas-brasil-2013/ranking-escolas-brasil-2013.pdf",
+        "snippet": "... NOVA FRIBURGO. 33022267 EXTERNATO SANTA IGNEZ. 55. De 31 a 60 alunos. 54. 98.18 ... SISTEMA DE ENSINO. EQUIPE. 310. Maior que 90 alunos. 305. 98.39. Alto. 747.74.",
+        "position": 4
+      },
+      {
+        "title": "RANKING DO ENEM BRASIL - Colégio Motivo",
+        "link": "https://www.yumpu.com/pt/document/view/13435793/ranking-do-enem-brasil-colegio-motivo",
+        "snippet": "98 RIO DE JANEIRO COLEGIO ESPACO LIVRE PRIVADA 24 676,69<br /> ... 1534 PARÁ SISTEMA DE ENSINO VESTIBULAN<strong>DO</strong> PRIVADA 45 ...",
+        "date": "26 de abr. de 2013",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

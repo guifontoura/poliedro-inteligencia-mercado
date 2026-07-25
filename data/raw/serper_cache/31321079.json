@@ -1,0 +1,31 @@
+{
+  "codigo_escola": "31321079",
+  "NO_ENTIDADE": "COL CIDADE DE PATOS DE MINAS DE ENSINO FUNDAMENTAL E MEDIO",
+  "cidade": "Patos de Minas",
+  "query": "\"COL CIDADE DE PATOS DE MINAS DE ENSINO FUNDAMENTAL E MEDIO\" \"Patos de Minas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL CIDADE DE PATOS DE MINAS DE ENSINO FUNDAMENTAL E MEDIO\" \"Patos de Minas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Nome do(a) aluno(a) Escola Modalidade Polo de aplicação",
+        "link": "https://omq.qui.ufmg.br/wp-content/uploads/2025/07/Participantes_OMQ_2025.pdf",
+        "snippet": "COL CIDADE DE PATOS DE MINAS DE ENSINO FUNDAMENTAL E MEDIO. A. Rio Paranaíba ... SISTEMA DE ENSINO FOCO. B. Montes Claros. Página 95. Page 96. Nome do(a) ...",
+        "position": 1
+      },
+      {
+        "title": "Escola",
+        "link": "https://omq.qui.ufmg.br/wp-content/uploads/2025/09/inscritos_OMQ_2025.pdf",
+        "snippet": "COL CIDADE DE PATOS DE MINAS DE ENSINO FUNDAMENTAL E MEDIO. Ana Cecília Silva ... SISTEMA DE ENSINO FOCO. ANA LUÍZA MIRANDA FAGUNDES. B. Montes Claros. 19 ...",
+        "position": 2
+      }
+    ],
+    "credits": 1
+  }
+}

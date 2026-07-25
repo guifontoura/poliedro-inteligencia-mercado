@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "41030095",
+  "NO_ENTIDADE": "PREMIER C - EI EF M",
+  "cidade": "Londrina",
+  "query": "\"PREMIER C - EI EF M\" \"Londrina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PREMIER C - EI EF M\" \"Londrina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Material Didático | Sistema Mackenzie de Ensino",
+        "link": "https://sistemasdeensino.mackenzie.br/material-didatico",
+        "snippet": "Nosso material didático busca promover uma aprendizagem significativa, apresentando os objetos do conhecimento de forma contextualizada e próxima à realidade do ...",
+        "position": 1
+      },
+      {
+        "title": "VERSA Sistema de Ensino",
+        "link": "https://www.youtube.com/watch?v=YFgTogGm1F0",
+        "snippet": "Apresentamos o VERSA Sistema de Ensino, uma solução educacional inovadora e estratégica para os Anos Finais do Ensino Fundamental e Ensino ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/4113700-londrina/busca",
+        "snippet": "Encontre de forma rápida e fácil, dados educacionais do Censo Escolar, da Prova Brasil e do Ideb para cada escola, município e estado brasileiro.",
+        "position": 3
+      },
+      {
+        "title": "Portal da Prefeitura de Londrina - Orientações Pedagógicas",
+        "link": "https://portal.londrina.pr.gov.br/orientacoes-pedagogicas",
+        "snippet": "Sistema Municipal de Ensino · Conselhos · Plano Municipal de Educação ... Aprender em casa · Dicas e Ferramentas Digitais · Replanejamento ...",
+        "date": "25 de mai. de 2026",
+        "position": 4
+      },
+      {
+        "title": "Sistema de Ensino - CESC",
+        "link": "https://cescsjc.com.br/sistema-de-ensino/",
+        "snippet": "Conheça nossa abordagem pedagógica, métodos e recursos para garantir uma educação de qualidade e desenvolvimento integral dos alunos.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

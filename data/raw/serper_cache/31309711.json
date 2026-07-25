@@ -1,0 +1,56 @@
+{
+  "codigo_escola": "31309711",
+  "NO_ENTIDADE": "ESCOLA SEB UNIMASTER",
+  "cidade": "Belo Horizonte",
+  "query": "\"ESCOLA SEB UNIMASTER\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA SEB UNIMASTER\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola SEB Unimaster Na Educação Infantil as crianças de 1 ...",
+        "link": "https://www.instagram.com/reel/DBwjjjVO2MS/",
+        "snippet": "https://lp.escolaseb.com.br/unimaster-belo-horizonte-agende-uma-visita . ... Com material didático exclusivo e uma abordagem centrada ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "SEB Unimaster BH - Multa material didático sem começar aulas",
+        "link": "https://www.reclameaqui.com.br/m-i-empreendimentos-educacionais/seb-unimaster-bh-multa-material-didatico-sem-comecar-aulas_lI-rCeaRh52mNDmk/",
+        "snippet": "Gostaria de demonstrar minha indignação com a Escola SEB Unimaster Buritis em Belo Horizonte. No Mês de dezembro de ******* a escola na ânsia ...",
+        "sitelinks": [
+          {
+            "title": "1 resposta",
+            "link": "https://www.reclameaqui.com.br//m-i-empreendimentos-educacionais/seb-unimaster-bh-multa-material-didatico-sem-comecar-aulas_lI-rCeaRh52mNDmk/"
+          }
+        ],
+        "position": 2
+      },
+      {
+        "title": "Escola SEB Unimaster (@sebunimaster)",
+        "link": "https://www.instagram.com/sebunimaster/?hl=pt",
+        "snippet": "Na escola SEB Unimaster, educar é unir desempenho acadêmico com um olhar humano. Com aprendizagem viva, resultados reais e participação ativa das famílias, ...",
+        "position": 3
+      },
+      {
+        "title": "Confira a lista de aprovados para a 2ª Fase",
+        "link": "https://olimpiadadeportugues.org/2a-op-olimpiada-de-portugues/2-fase?page=65",
+        "snippet": "CECON SISTEMA DE ENSINO SÍNTESE, 31304441, ARCOS, MG. SOFIA ... BELO HORIZONTE, MG. MANUELA CORDEIRO DE MENDONÇA, C, ESCOLA SEB UNIMASTER, 31309711, BELO ...",
+        "position": 4
+      },
+      {
+        "title": "Escolas Particulares em Belo Horizonte",
+        "link": "https://www.blog.schooladvisor.com.br/guia-escolas-belo-horizonte",
+        "snippet": "Conheça algumas escolas em Belo Horizonte, MG · ​​​​ · >> Escola SEB – Unidade Unimaster · ​ · >> Escola SEB - Unimaster Juniors · ​ · >> Escola SEB – Unidade Serra.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

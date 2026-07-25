@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "26153050",
+  "NO_ENTIDADE": "COLEGIO LOGOS",
+  "cidade": "Recife",
+  "query": "\"COLEGIO LOGOS\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LOGOS\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Logos (@colegiologospe) · Recife, PE",
+        "link": "https://www.instagram.com/colegiologospe/reels/",
+        "snippet": "A educação não é apenas transferir conteúdo, é reconstruir o emocional e permitir que o cognitivo floresça. No Colégio Logos, oferecemos uma formação sólida, ...",
+        "position": 1
+      },
+      {
+        "title": "MATRÍCULAS ABERTAS – 2º SEMESTRE 2026   Colégio ...",
+        "link": "https://www.instagram.com/reel/DagBwejFeBA/",
+        "snippet": "O nosso material didático tem apenas 1 livro integrado que tem todas as ... SISTEMA DE ENSINO anglo Aqui se ensina. Aqui se aprende ...",
+        "date": "há 2 semanas",
+        "position": 2
+      },
+      {
+        "title": "Colégio Logos | Vem conhecer o material didático físico & ...",
+        "link": "https://www.instagram.com/reel/Cn5oJMkgRpm/",
+        "snippet": "... likes, 2 comments - colegiologospe on January 26, 2023: \"Vem conhecer o material didático ... Photo by Colégio Logos on May 22, 2026. ... Imbiribeira – Recife # ...",
+        "position": 3
+      },
+      {
+        "title": "Pouca gente sabe, mas o Sistema Anglo não é só material ...",
+        "link": "https://www.instagram.com/reel/DU50z-ADp7U/",
+        "snippet": "... likes, 2 comments - cdijfavodemel on February 6, 2026: \"Pouca gente sabe, mas o Sistema Anglo não é só material didático ... Sistema de Ensino ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "Seu filho só está passando o tempo… ou desenvolvendo ...",
+        "link": "https://www.instagram.com/reel/DWOlPV9h0-L/",
+        "snippet": "No Colégio Logos, acreditamos que o aprendizado acontece quando o ... ESCOLA INTEGRADA OBJETIVO SISTEMA DE ENSINO OBJETIVO BASES ...",
+        "date": "há 4 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

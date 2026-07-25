@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33185590",
+  "NO_ENTIDADE": "COLEGIO CURSO TAMANDARE",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO CURSO TAMANDARE\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO CURSO TAMANDARE\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O resultado fala por si! Confira o depoimento de quem viveu a ...",
+        "link": "https://www.instagram.com/reel/DL4rMNlid_2/",
+        "snippet": "... COLÉGIO-CURSO TAMANDARE Uma Escola UmaEscola.deVencedores!! ... Aqui você estuda com o material didático ... Sistema de Ensino SÃO 20 TEMPOS DE AULA POR SEMANA DE ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Tamandaré altera contrato e remove desconto de ...",
+        "link": "https://www.reclameaqui.com.br/colegio-curso-tamandare/colegio-tamandare-altera-contrato-e-remove-desconto-de-25-concedido-anteriormente-para-a-aluna_jnGceRqACE2iYfVa/",
+        "snippet": "Para a transferência de ARTUR haveria um ônus referente a diferença de material didático ... Colégio-Curso Tamandaré.",
+        "date": "11 de mai. de 2026",
+        "position": 2
+      },
+      {
+        "title": "Escola - COLEGIO CURSO TAMANDARE",
+        "link": "https://culturaeduca.cc/equipamento/escola_detalhe/33185590/",
+        "snippet": "Brasil / RJ / Rio de Janeiro / Entorno de Escola. CAMADAS. LIMPAR. Divisões ... SISTEMA DE ENSINO RAION LTDA ESTR BENVINDO DE NOVAES - 1350 - RECREIO DOS ...",
+        "position": 3
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "SEI - SISTEMA DE ENSINO INTERATIVO 26 Rio de Janeiro RJ COLEGIO CASTELO ... COLEGIO-CURSO TAMANDARE 22 Rio de Janeiro RJ COL ROGACIONISTA 103 Brasília ...",
+        "position": 4
+      },
+      {
+        "title": "👏🎓 Parabéns, Renata! Você conquistou Conceito A na UERJ e ...",
+        "link": "https://www.instagram.com/reel/DIw3yuYv0z5/",
+        "snippet": "Photo by Colégio-Curso Tamandaré on March 25, 2026. May be an image.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

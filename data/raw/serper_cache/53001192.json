@@ -1,0 +1,18 @@
+{
+  "codigo_escola": "53001192",
+  "NO_ENTIDADE": "C EDUCACIONAL SAGRADA FAMILIA",
+  "cidade": "Brasília",
+  "query": "\"C EDUCACIONAL SAGRADA FAMILIA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"C EDUCACIONAL SAGRADA FAMILIA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [],
+    "credits": 1
+  }
+}

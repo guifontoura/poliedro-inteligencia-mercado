@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35102805",
+  "NO_ENTIDADE": "SANTA MARCELINA COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"SANTA MARCELINA COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SANTA MARCELINA COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "OBMEP 2019 - Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/2019/verRelatorioPremiadosMencao-SP.3.privada.do.htm",
+        "snippet": "LICEU DE ARTES E OFICIOS DE SAO PAULO ESCOLA TECNICA, P, SÃO PAULO, SP, Sim ... COLEGIO KELVIN SISTEMA DE ENSINO CATANDUVA, P, CATANDUVA, SP, Sim. 317, ANDRE ...",
+        "position": 1
+      },
+      {
+        "title": "Pode esquecer o Halloween! 🦇❌ No dia ...",
+        "link": "https://www.instagram.com/p/DQJngQuADIG/",
+        "snippet": "... Santa Marcelina COLEGIO SANTA MARCELINA Colégio Elza Campos 135 ... Felipe, em que em consonância com o material didático do sistema PH ...",
+        "date": "há 9 meses",
+        "position": 2
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO DOS ... LEONARDO DA VINCI COLEGIO DE ENSINO FUNDAMENTAL E MEDIO SÃO PAULO. Jundiaí.",
+        "position": 3
+      },
+      {
+        "title": "Aprovadas - 9º Ano - Fundamental | PDF",
+        "link": "https://www.scribd.com/document/767847965/Aprovadas-9%C2%BA-Ano-Fundamental",
+        "snippet": "Nome Escola Cidade Estado. Giulia D'urso Guimarães Citrini Amaro Santa Marcelina Colegio São Paulo SP ... Apostila - Teoria Dos Números - 04 PDF. 121 pages.",
+        "position": 4
+      },
+      {
+        "title": "UNIDADE DA FEDERAÇÃO MUNICÍPIO ESCOLA ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_1_MUNICIPIOS.pdf",
+        "snippet": "... SAO PAULO. VERTICE COLEGIO UNID II. PRIVADA. 54. 54. 682,48. 732,37. 811,76 ... SISTEMA DE ENSINO EQUIPE. PRIVADA. 174. 173. 587,85. 655,31. 637, ...",
+        "date": "11 de set. de 2011",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

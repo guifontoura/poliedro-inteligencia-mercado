@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "31368520",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL EUROPA",
+  "cidade": "Pouso Alegre",
+  "query": "\"CENTRO EDUCACIONAL EUROPA\" \"Pouso Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL EUROPA\" \"Pouso Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Europa | Educação Bilíngue Pouso Alegre",
+        "link": "https://www.colegioeuropa.com.br/",
+        "snippet": "SISTEMA DE ENSINO · FUNDAMENTAL 1 · FUNDAMENTAL 2 · ENSINO MÉDIO · OUVIDORIA ... Material didático SAE Digital. Corpo docente qualificado. Turmas reduzidas ...",
+        "position": 1
+      },
+      {
+        "title": "SISTEMA DE ENSINO",
+        "link": "https://www.colegioeuropa.com.br/ensino",
+        "snippet": "... material didático. As crianças são conectadas à realidade, estimuladas a ... Pouso Alegre–MG - CEP: 37550-092. Tel.: (35) 3421-3300. email ...",
+        "position": 2
+      },
+      {
+        "title": "2024",
+        "link": "https://cee.educacao.mg.gov.br/index.php/legislacao/pareceres/category/85-2024?start=1260",
+        "snippet": "Municípios com Sistema de Ensino Próprio · Revista do CEE/MG · Planejamento ... - ME, mantenedora do Centro Educacional Europa, do Município de Pouso Alegre.",
+        "position": 3
+      },
+      {
+        "title": "Denise da Silva Segura",
+        "link": "https://www.escavador.com/sobre/3645312/denise-da-silva-segura",
+        "snippet": "... Sistema de Ensino.Programa de Cursos da Editora Positivo - Sistema de Ensino. ... Pouso Alegre LTDA, Sociedade Pré-universitária de Pouso Alegre LTDA. , Rua ...",
+        "position": 4
+      },
+      {
+        "title": "https://dadosabertos.mec.gov.br/images/conteudo/EP...",
+        "link": "https://dadosabertos.mec.gov.br/images/conteudo/EPT/Relatrio_Unidades_de_Ensino_Brasil.csv",
+        "snippet": "... CENTRO EDUCACIONAL EUROPA LTDA;PRIVADA;;PA;1504208;MARABÁ;JOSE PEREIRA ... SISTEMA DE ENSINO INTEGRADO;PRIVADA;;PA;1505536;PARAUAPEBAS;JOAO CARLOS DA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

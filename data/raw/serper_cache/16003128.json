@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "16003128",
+  "NO_ENTIDADE": "ESCOLA CONEXAO AQUARELA",
+  "cidade": "Macapá",
+  "query": "\"ESCOLA CONEXAO AQUARELA\" \"Macapá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA CONEXAO AQUARELA\" \"Macapá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Há 16 anos consecutivos em 1º lugar no ENEM no Amapá. ...",
+        "link": "https://www.instagram.com/p/DZ8EJySMf1z/",
+        "snippet": "ESCOLA CONEXÃO AQUARELA 16 ANOS NO TOPO! 1º Lugar Geral no ENEM no ... Colégio Estação - Macapá - Unidade: Novo Buritizal - Nota: 630,37 3.",
+        "position": 1
+      },
+      {
+        "title": "OBQJr",
+        "link": "https://obquimica.sertanustecnologia.com.br/arquivos/download/2267/AMAP%C3%81_OBQJr_2024.pdf",
+        "snippet": "Macapá. ESCOLA CONEXAO AQUARELA. 8° ano EF VICTOR GABRIEL BOSQUE DUARTE PINHEIRO. AMAPÁ. Macapá. Sistema de Ensino Physics Amapá Ltda. 9° ano EF ANA CECILIA ...",
+        "position": 2
+      },
+      {
+        "title": "Hoje é um dia histórico. Para o Sistema de Ensino Equipe ...",
+        "link": "https://www.instagram.com/p/DZ8Y9jYBQAL/",
+        "snippet": "... Sistema de Ensino 1º lugar em Porto Velho e a 2ª melhor escola do ... ESCOLA CONEXÃO AQUARELA 16 ANOS NO TOPO 1º lugar no ENEM no AMAPÁ.",
+        "position": 3
+      },
+      {
+        "title": "Seja - Visite o ranking das escolas no ENEM 2017 ...",
+        "link": "https://www.facebook.com/sejalguem/photos/visite-o-ranking-das-escolas-no-enem-2017-emwwwsejalguemcomalguem-publicoescola-/2050328728561062/",
+        "snippet": "... MACAPÁ – ESCOLA CONEXAO AQUARELA AMAZONAS Pública: melhor aluno ... SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI – EPP PARAÍBA Pública ...",
+        "date": "há 7 anos",
+        "position": 4
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... ESCOLA CONEXAO AQUARELA. 16003128 AP. Macapá. Adrian Arcangelo Dias Porto. 3º ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

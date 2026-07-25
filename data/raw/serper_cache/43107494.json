@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "43107494",
+  "NO_ENTIDADE": "CENTRO DE ENSINO MEDIO PASTOR DOHMS-UNIDADE DE ENSINO HIGIENOPOLIS",
+  "cidade": "Porto Alegre",
+  "query": "\"CENTRO DE ENSINO MEDIO PASTOR DOHMS-UNIDADE DE ENSINO HIGIENOPOLIS\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO DE ENSINO MEDIO PASTOR DOHMS-UNIDADE DE ENSINO HIGIENOPOLIS\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "CENTRO DE ENSINO MEDIO PASTOR DOHMS-UNIDADE DE ENSINO HIGIENOPOLIS, P, PORTO ALEGRE, RS, Bronze. CAROLINA ALLATTA GUERRA, COLEGIO SANTA MARIA, P, RECIFE, PE ...",
+        "position": 1
+      },
+      {
+        "title": "Cadastro Estab de Ensino Rede Particular 2016",
+        "link": "https://servicos.educacao.rs.gov.br/dados/estatisticas_cad_par_2016.pdf",
+        "snippet": "Porto Alegre. 43107494 CENTRO DE ENSINO MEDIO PASTOR DOHMS-UNIDADE DE ENSINO HIGIENOPOLIS. URBANA. -51,18677286. -30,0121336 RUA AMERICO VESPUCIO. 483.",
+        "position": 2
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/",
+        "snippet": "PORTO ALEGRE, RS, Privada, De 60% a 80%, Muito Alto, 629.22, 604.88, 680.27 ... CENTRO DE ENSINO MEDIO PASTOR DOHMS-UNIDADE DE ENSINO HIGIENOPOLIS ...",
+        "date": "5 de ago. de 2015",
+        "position": 3
+      },
+      {
+        "title": "Resultados OBQ 2024 - Modalidade A | PDF",
+        "link": "https://pt.scribd.com/document/789884021/1730384565672392b54c7c1-resultado-obq-2024-v10-resultado-final",
+        "snippet": "... PORTO ALEGRE 53,6 62,8. SÃO PAULO Paulo Roberto Serraglio Neto 2ª série do ... CENTRO DE ENSINO MEDIO PASTOR DOHMS-UNIDADE DE ENSINO HIGIENOPOLIS RIO DE ...",
+        "position": 4
+      },
+      {
+        "title": "Resultado da OBMEP 2017: veja como ficou a distribuição ...",
+        "link": "https://cristianoalvarenga.com/pesquisa/resultado-da-obmep-2017/",
+        "snippet": "CENTRO DE ENSINO MEDIO PASTOR DOHMS-UNIDADE DE ENSINO HIGIENOPOLIS ... Porto Alegre, com 11 ouros cada. Premiados ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

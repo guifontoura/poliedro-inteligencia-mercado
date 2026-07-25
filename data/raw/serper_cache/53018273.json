@@ -1,0 +1,38 @@
+{
+  "codigo_escola": "53018273",
+  "NO_ENTIDADE": "COL IDEAL UNIDADE JARDIM BOTANICO",
+  "cidade": "Brasília",
+  "query": "\"COL IDEAL UNIDADE JARDIM BOTANICO\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL IDEAL UNIDADE JARDIM BOTANICO\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Editora do Brasil on Instagram: \"Sua escola merece um ...",
+        "link": "https://www.instagram.com/reel/DKHqEwPKkdU/",
+        "snippet": "Sua escola merece um sistema completo, do presente ao futuro! Conheça a Solução Educacional Brasil, que atende a todos os níveis da Educação ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "Sucesso Sistema de Ensino",
+        "link": "https://www.sistemadeensinosucesso.com.br/",
+        "snippet": "Institucional · Catálogo · Contato · Sucesso Digital · Sucesso Digital. ‹ › Veja os destaques. Nosso catálogo. Educação Infantil · Ensino Fundamental I ...",
+        "position": 2
+      },
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "+1.800 escolas, +260 mil alunos. A Conquista é a solução educacional que acolhe sua escola da Educação Infantil ao Ensino Médio. Solicite o material.",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

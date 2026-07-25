@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "22027173",
+  "NO_ENTIDADE": "COLEGIO PROCAMPUS",
+  "cidade": "Teresina",
+  "query": "\"COLEGIO PROCAMPUS\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PROCAMPUS\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "45 ANOS PRO CAMPUS - VOCÊ FAZ PARTE DESSA ...",
+        "link": "https://www.instagram.com/reel/DOYuF4Ik-Rj/",
+        "snippet": "... Teresina pelo pioneirismo de reconhecer que “ a paz está na boa educação. ... sistema de ensino da SOMOS. E aí nesse sistema de ensino ela ...",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "O Colégio Propósito (@colegioproposito ) anunciou nessa ...",
+        "link": "https://www.instagram.com/p/DO8aXY5DXbu/",
+        "snippet": "Muito bom receber vcs aqui! July 1. OCR. COLÉGIO D. PEDRO II SISTEMA DE ENSINO POSITIVO ... 6º Teresina Colégio Procampus 728,43 7º Teresina ...",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "Reel by CETI Inês Rocha (@ceti.inesrocha) · June 23, 2026",
+        "link": "https://www.instagram.com/reel/DZ74ejah16R/",
+        "snippet": "... Teresina Instituto São José 773,83 2º Teresina Instituto Dom Barreto ... Colégio Procampus 728,43 7º Teresina Colégio Proposito 721,81 ...",
+        "position": 3
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Teresina",
+        "link": "https://qedu.org.br/municipio/2211001-teresina/distorcao-idade-serie",
+        "snippet": "COLEGIO PROCAMPUS BABY LESTE MAPLE BEAR. 2,8%. COLEGIO PROPOSITO. 7,3 ... EINSTEIN SISTEMA DE ENSINO - UNIDADE I. 10,5%. EM ALICE PIRES DO NASCIMENTO. 2 ...",
+        "position": 4
+      },
+      {
+        "title": "G1 - Piauí tem quatro escolas entre as 10 maiores médias de ...",
+        "link": "https://g1.globo.com/pi/piaui/noticia/2016/10/piaui-tem-quatro-escolas-entre-10-maiores-medias-de-redacao-do-enem.html",
+        "snippet": "8. CPI Sistema de Ensino - Teresina - privada - média - média 658,06 9. Colégio Procampus - Teresina - privada - média 657,64 10. Escola ...",
+        "date": "4 de out. de 2016",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

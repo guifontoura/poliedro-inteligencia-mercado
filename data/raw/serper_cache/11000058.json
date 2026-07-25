@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "11000058",
+  "NO_ENTIDADE": "CENTRO DE ENSINO CLASSE A",
+  "cidade": "Porto Velho",
+  "query": "\"CENTRO DE ENSINO CLASSE A\" \"Porto Velho\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO DE ENSINO CLASSE A\" \"Porto Velho\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Classe A | Institucional",
+        "link": "https://colegioclassea.com.br/centro/institucional/",
+        "snippet": "O Centro de Ensino Classe A idealiza e organiza-se em torno de quatro ... Nossa escola é parceira do Sistema de Ensino Poliedro (SEP), que nos atende ...",
+        "position": 1
+      },
+      {
+        "title": "A Legacy School chega a Porto Velho trazendo uma proposta ...",
+        "link": "https://www.instagram.com/reel/DUbZ-rYASba/",
+        "snippet": "A partir de 2027, o Sistema de Ensino Anglo chega para potencializar o aprendizado de nossos alunos, trazendo inovação, material didático de ...",
+        "date": "há 5 meses",
+        "position": 2
+      },
+      {
+        "title": "Os alunos da primeira série tiveram uma aula campo de ...",
+        "link": "https://www.instagram.com/reel/DHojG2kyLf0/",
+        "snippet": "... material didático do Sistema de Ensino Poliedro. #classea # ... Porto Velho e já teve a oportunidade de competir na categoria ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Educação vai muito além da sala de aula. Existem muitos ...",
+        "link": "https://www.instagram.com/reel/DaxwpYoBaFv/",
+        "snippet": "O material didático pode influenciar no desempenho do aluno? Sim, é verdade. Um sistema de ensino ... Classe A, primeiro lugar em Porto Velho ...",
+        "date": "há 1 semana",
+        "position": 4
+      },
+      {
+        "title": "LISTA DAS ESCOLAS CONVIDADAS DA TURMA 11",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/ESCOLAS-TURMA-11.pdf",
+        "snippet": "Sistema de Ensino Physics. 15163830. 92511. Turma. 11. PA. Canaã dos Carajás ... Centro de Ensino Classe A. 11000058. 24319. Turma. 11. RO. Porto Velho. Centro ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

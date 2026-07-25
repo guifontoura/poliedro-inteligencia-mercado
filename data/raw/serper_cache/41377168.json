@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "41377168",
+  "NO_ENTIDADE": "COLEGIO DOM BOSCO BATEL",
+  "cidade": "Curitiba",
+  "query": "\"COLEGIO DOM BOSCO BATEL\" \"Curitiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DOM BOSCO BATEL\" \"Curitiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Dom Bosco Mercês | Guia de Matrículas",
+        "link": "https://especiais.gazetadopovo.com.br/guia-escolas-e-matriculas/escolas/colegio-dom-bosco-merces/",
+        "snippet": "... material didático da geração Z. Ferramentas tecnológicas se transformam em ... Colégio Dom Bosco Batel · Educação InfantilEnsino FundamentalEnsino Médio ...",
+        "position": 1
+      },
+      {
+        "title": "Ricardo Westphalen de Queiroz Jucá",
+        "link": "https://www.escavador.com/sobre/6394349/ricardo-westphalen-de-queiroz-juca",
+        "snippet": "... Curitiba (III Milênio, Bom Jesus, Passionista e ... (Desenvolvimento de material didático ou instrucional - Material didático para Pre-Vestibular).",
+        "position": 2
+      },
+      {
+        "title": "Denise Ravaglio Domingues Laginski",
+        "link": "https://br.linkedin.com/in/denise-ravaglio-domingues-laginski",
+        "snippet": "Curitiba. - Professora de Música - Fundamental II; - Participação em projetos interdisciplinares; - Autoria de material didático para o professor; - Autoria ...",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-PR.3.privada.do.htm",
+        "snippet": "COLEGIO DOM BOSCO BATEL - EDUCACAO INFANTIL ENSINO FUNDAMENTAL E MEDIO, P ... SESI INTERNACIONAL DE CURITIBA C - EM, P, CURITIBA, PR, Sim. MURILO GIUSTI ...",
+        "position": 4
+      },
+      {
+        "title": "Curso Positivo - Sede Batel | Guia de Matrículas",
+        "link": "https://especiais.gazetadopovo.com.br/guia-escolas-e-matriculas/escolas/curso-positivo-sede-batel/",
+        "snippet": "... material didático da geração Z. Ferramentas tecnológicas se transformam em ... Curitiba · Educação InfantilEnsino FundamentalEnsino Médio. Colégio Nossa ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

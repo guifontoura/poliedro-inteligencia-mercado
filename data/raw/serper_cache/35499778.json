@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35499778",
+  "NO_ENTIDADE": "ILIMIT EDUCACIONAL",
+  "cidade": "Americana",
+  "query": "\"ILIMIT EDUCACIONAL\" \"Americana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ILIMIT EDUCACIONAL\" \"Americana\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Fernando Santos - Professor especialista no ensino de ...",
+        "subtitle": "Campinas, São Paulo, Brasil · Consultor educacional · Colégio Ilimit",
+        "link": "https://br.linkedin.com/in/fernando-santos-979547a6",
+        "snippet": "Americana, São Paulo, Brasil. Delimitada conjuntamente ao longo do ano passado, inicio esse ano uma consultoria Pedagógica no Colégio Ilimit Educacional para ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.3.privada.do.htm",
+        "snippet": "INDEPENDENTE DE AMERICANA CENTRO EDUCACIONAL, P, AMERICANA, SP, Sim. PAULO VINICIUS ... COLEGIO KELVIN SISTEMA DE ENSINO CATANDUVA, P, CATANDUVA, SP, Sim. VITOR ...",
+        "position": 2
+      },
+      {
+        "title": "Americanense é 1º colocado em medicina da USP",
+        "link": "https://portalatualidade.com.br/noticia/6456/americanense-e-1-colocado-em-medicina-da-usp",
+        "snippet": "Para se preparar para os concorridos vestibulares para Medicina, o estudante foi aluno do Pré-Vestibular do Ilimit Educacional, onde também se ...",
+        "date": "25 de jan. de 2019",
+        "position": 3
+      },
+      {
+        "title": "Ensino Médio 10 UNI M",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/2025/Alunos_OBB_2025-lista-geral.pdf",
+        "snippet": "... SISTEMA DE ENSINO ELITE SÃO JOÃO DE MERITI. 33176752 RJ. São João de Meriti ... ILIMIT EDUCACIONAL. 35499778 SP. Americana. Willian Camelo de Oliveira. 2º ...",
+        "position": 4
+      },
+      {
+        "title": "LISTA DOS ALUNOS DO NONO ANO COM NOTA MAIOR ...",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/TABELA%20NIVEL%203%20NONO%20ANO%20CORRETA%20SO%20COM%204%20COLUNAS-compressed-compactado.pdf",
+        "snippet": "ESCOLA AMERICANA DE VITÓRIA. BERNARDO MACHADO MARIANELLI. ESPÍRITO. SANTO ... Zeta Sistema de Ensino de Birigui. GABRIEL MARCENTE FADIL. SÃO PAULO. Birigüi.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

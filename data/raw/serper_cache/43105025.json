@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "43105025",
+  "NO_ENTIDADE": "COLEGIO NOSSA SRA DA GLORIA",
+  "cidade": "Porto Alegre",
+  "query": "\"COLEGIO NOSSA SRA DA GLORIA\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NOSSA SRA DA GLORIA\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Matrícula Inicial por etapa e/ou modalidade de ensino - 2013",
+        "link": "http://www.educacao.rs.gov.br/dados/estatisticas_mi_par_2013.pdf",
+        "snippet": "43105025 COLEGIO NOSSA SRA DA GLORIA. Urbana. 0. 69. 550. 168. 0. 0. 0. 787. 1. PORTO ... 43209521 ESC EDUC PROF SENAI AUTOMOTIVO PORTO ALEGRE. Urbana. 0. 0. 0. 0.",
+        "position": 1
+      },
+      {
+        "title": "Escolas sem UEx - Portal Gov.br",
+        "link": "https://www.gov.br/mec/pt-br/pdde/pdde-equidade/documentos/escolasUEx.xlsx",
+        "snippet": "SISTEMA DE ENSINO UNIVERSO BARCARENA, PA, BARCARENA, Privada, 1, Não, Não, Não, Não ... COLEGIO NOSSA SRA DA GLORIA, RS, PORTO ALEGRE, Privada, 4, Não, Não, Não ...",
+        "position": 2
+      },
+      {
+        "title": "estado do rio grande do sul ministério público",
+        "link": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrxwvt1bpmm/b/wp-sinprors-uploads/o/arquivos_legado/10_10_2017_recomenda_mp.pdf",
+        "snippet": "sistema de ensino e na vida em comunidade. Para tanto, os Estados Partes ... Promotoria Regional da Educação de Porto Alegre.",
+        "position": 3
+      },
+      {
+        "title": "5067 Iei Nossa Senhora da Gloria - Porto Alegre - RS",
+        "link": "https://www.escol.as/314210-5067-iei-nossa-senhora-da-gloria",
+        "snippet": "A integração de tecnologia é promovida através de internet de banda larga, material didático ... Colegio Nossa Sra da Gloria. Gloria, Porto Alegre - RS.",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... PORTO ALEGRE. Federal. COLEGIO MILITAR DE PORTO ALEGRE. 646,73. 594,73 ... SISTEMA DE ENSINO EQUIPE. 628,66. 596,47. 652,65. 612,81. 652,72. 747 ...",
+        "date": "22 de dez. de 2014",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

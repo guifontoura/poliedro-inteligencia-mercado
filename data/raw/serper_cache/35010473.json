@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35010473",
+  "NO_ENTIDADE": "MAPLE BEAR JUNDIAI",
+  "cidade": "Jundiaí",
+  "query": "\"MAPLE BEAR JUNDIAI\" \"Jundiaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"MAPLE BEAR JUNDIAI\" \"Jundiaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "A Lei nº 13.722/2018, conhecida como Lei Lucas, prevê o ...",
+        "link": "https://www.instagram.com/reel/DZnlB3blIUo/",
+        "snippet": "... Maple Bear Jundiaí teve um dia enriquecedor de capacitação voltada ... material didático CPB, além de 50% de desconto no material Happy ...",
+        "position": 1
+      },
+      {
+        "title": "Lista de reclamações: Conexia Educação",
+        "link": "https://www.reclameaqui.com.br/empresa/conexia/lista-reclamacoes/?categoria=0000000000000086",
+        "snippet": "Cancelamento de compra de material didático Lex Education não utilizado após estudante sair da Maple Bear Jundiaí devido a bullying.",
+        "position": 2
+      },
+      {
+        "title": "Maple Bear Sorocaba on Instagram: \"Muitos pais acreditam ...",
+        "link": "https://www.instagram.com/reel/Dac2iUeRXUd/",
+        "snippet": "... Maple Bear Jundiaí teve um dia enriquecedor de capacitação voltada ... MSC REDE MSC DE EDUCAÇÃO Poliedro Sistema de Ensino. maplebearsaocarlos's ...",
+        "date": "há 2 semanas",
+        "position": 3
+      },
+      {
+        "title": "Cancelamento de compra de material didático Lex ...",
+        "link": "https://www.reclameaqui.com.br/conexia/cancelamento-de-compra-de-material-didatico-lex-education-nao-utilizado-apos-estudante-sair-da-maple-bear-jundiai-devido-a-bullying_hm0sa_u9E7ji_HUm/",
+        "snippet": "Cancelamento de compra de material didático Lex Education não utilizado após estudante sair da Maple Bear Jundiaí devido a bullying. · Resposta da empresa.",
+        "position": 4
+      },
+      {
+        "title": "OIMSF 2019 – Premiação Nacional Ouro",
+        "link": "https://www.matematicasemfronteiras.org/Ouro2019.pdf",
+        "snippet": "MAPLE BEAR JUNDIAI. SP. Jundiaí. 5 ANO EF. YEAR 5. MAPLE BEAR JUNDIAI. SP. Jundiaí ... COLÉGIO KELVIN SISTEMA DE ENSINO. SP. São José do Rio Preto 2 ANO EM. A/B.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

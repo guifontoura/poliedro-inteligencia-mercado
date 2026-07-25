@@ -1,0 +1,44 @@
+{
+  "codigo_escola": "51028646",
+  "NO_ENTIDADE": "INST PRESBITERIANO EDUCACAO SIMONTON",
+  "cidade": "Tangará da Serra",
+  "query": "\"INST PRESBITERIANO EDUCACAO SIMONTON\" \"Tangará da Serra\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INST PRESBITERIANO EDUCACAO SIMONTON\" \"Tangará da Serra\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst Presbiteriano Educacao Simonton - Tangará da Serra - Jardim Tanaka - Nota: 661.89.",
+        "date": "23 de jun. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Plan1",
+        "link": "https://www.fapemat.mt.gov.br/documents/8125245/9122067/NUMERO+DE+SALAS+EXISTENTES+UTILIZADAS_2016.xls/84cd3234-35be-0a8e-18aa-e90db71239e6",
+        "snippet": "Tangará da Serra, 51110016, ESCOLA TECNICA ESTADUAL DE EDUCACAO PROFISSIONAL E TECNOLOGICA DE TANGARA DA SERRA - MT, 32, 30. 3039, 2016, 51, Tangará da Serra ...",
+        "position": 2
+      },
+      {
+        "title": "SEDUC - Seduc - MT",
+        "link": "https://www3.seduc.mt.gov.br/documents/8125245/9122067/CADASTRO+DE+ESCOLA_MT_2016.xls/60910f7d-67b5-a09b-88a0-54240a3f7319",
+        "snippet": "FARINA SISTEMA DE ENSINO, 65, 36283033, AVENIDA MIGUEL SUTIL, 1695 ... ESCOLA TECNICA ESTADUAL DE EDUCACAO PROFISSIONAL E TECNOLOGICA DE TANGARA DA SERRA - MT ...",
+        "position": 3
+      },
+      {
+        "title": "Matrículas por Escola em MT | PDF",
+        "link": "https://pt.scribd.com/document/747765952/NUMERO-DE-MATRICULAS-E-MATRICULAS-TRANSPORTE-2017",
+        "snippet": "Tangará da Serra ESTADUAL URBANA 51027976. Tangará da Serra ESTADUAL RURAL ... SISTEMA DE ENSINO SAO BENEDITO TOQUE DE MAE EDUCACAO INFANTIL BILINGUE",
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

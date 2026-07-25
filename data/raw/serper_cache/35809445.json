@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "35809445",
+  "NO_ENTIDADE": "CRIARTE COLEGIO",
+  "cidade": "Jundiaí",
+  "query": "\"CRIARTE COLEGIO\" \"Jundiaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CRIARTE COLEGIO\" \"Jundiaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O que você pensa quando lembra da mamãe? 🥹🥰 Nossos ...",
+        "link": "https://www.instagram.com/p/DYF4NXLvJ2R/",
+        "snippet": "... jundiaí ... Colégio criarte Colégio * criarte . Colégio criarte Goleglo Criate .",
+        "date": "há 2 meses",
+        "position": 1
+      },
+      {
+        "title": "Durante a Semana da Criança no Colégio Objetivo Limeira ...",
+        "link": "https://www.instagram.com/p/DQuCHHQE3Y-/",
+        "snippet": "Chegamos ao fim de mais uma edição da Colônia de Férias do SESI Jundiaí. Ao longo da semana, as crianças participaram de atividades esportivas, ...",
+        "date": "há 8 meses",
+        "position": 2
+      },
+      {
+        "title": "Escola Cristã Criarte Cachoeirinha | Em apenas 1 minuto ...",
+        "link": "https://www.instagram.com/reel/DWW-qhUjZwc/",
+        "snippet": "Aqui, fé e aprendizado caminham juntos para desenvolver caráter, sabedoria e um futuro sólido. Venha conhecer nossa estrutura e descubra por ...",
+        "date": "há 4 meses",
+        "position": 3
+      },
+      {
+        "title": "Escola Particular on Instagram: \"Vocês pediram... aqui está ...",
+        "link": "https://www.instagram.com/reel/DaN1F9XTAsw/",
+        "snippet": "ESPAÇO DE EDUCAÇÃO NOVA AQUARELA SISTEMA DE ENSINO POSITIVO Arraiá Giro Radical Subway Surfers ... APRESENTAÇÕES DO ARRAIÁ DO COLÉGIO CRIARTE ...",
+        "date": "há 3 semanas",
+        "position": 4
+      },
+      {
+        "title": "https://dadosabertos.mec.gov.br/images/conteudo/EP...",
+        "link": "https://dadosabertos.mec.gov.br/images/conteudo/EPT/Relatrio_Unidades_de_Ensino_Brasil.csv",
+        "snippet": "... SISTEMA DE ENSINO INTEGRADO;PRIVADA;;PA;1505536;PARAUAPEBAS;JOAO CARLOS DA ... JUNDIAÍ;52020487@SEDUC.GO.GOV.BR;6232011545;;;52020487 ESTADUAL ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

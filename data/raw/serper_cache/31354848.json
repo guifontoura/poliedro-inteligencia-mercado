@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31354848",
+  "NO_ENTIDADE": "COLEGIO LOSANGO DE LAVRAS",
+  "cidade": "Lavras",
+  "query": "\"COLEGIO LOSANGO DE LAVRAS\" \"Lavras\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LOSANGO DE LAVRAS\" \"Lavras\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "TJMG • [CÍVEL] PROCEDIMENTO DO JUIZADO ESPECIAL ...",
+        "link": "https://www.jusbrasil.com.br/jurisprudencia/tj-mg/4093557424",
+        "snippet": "RECORRENTE: COLEGIO LOSANGO DE LAVRAS LTDA - ME ... material didático. Logo, a requerente logrou ... material didático. Presentes, portanto, os ...",
+        "position": 1
+      },
+      {
+        "title": "Gabriela Alves Ferreira de Oliveira - Colegio Losango De Lavras",
+        "link": "https://br.linkedin.com/in/gabriela-alves-ferreira-de-oliveira-859839161",
+        "snippet": "Professora de Língua Portuguesa, Redação, Leitura e Literatura, com experiência no Ensino… · Experiência: Colegio Losango De Lavras · Formação acadêmica: ...",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 17ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/17obmep/verRelatorioPremiadosMencao-MG.3.privada.do.htm",
+        "snippet": "COLEGIO LOSANGO DE LAVRAS, P, LAVRAS, MG, Sim. CRISTIANO CAMPOS DE OLIVEIRA ... SISTEMA DE ENSINO FOCO, P, MONTES CLAROS, MG, Sim. FILIPE ARANTES AFONSO DE ...",
+        "position": 3
+      },
+      {
+        "title": "Nome do(a) aluno(a) Escola Modalidade Polo de aplicação",
+        "link": "https://omq.qui.ufmg.br/wp-content/uploads/2025/07/Participantes_OMQ_2025.pdf",
+        "snippet": "COLEGIO LOSANGO DE LAVRAS. A. Lavras. Arthur Cesar Santos Botelho. COLEGIO ... SISTEMA DE ENSINO FOCO. B. Montes Claros. Página 95. Page 96. Nome do(a) aluno(a).",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "https://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/minas-gerais/",
+        "snippet": "ATUAL SISTEMA DE ENSINO, SABINOPOLIS, MG, Privada, 80% ou mais, Alto, 626.31 ... COLEGIO LOSANGO DE LAVRAS, LAVRAS, MG, Privada, Menos de 20%, Sem ...",
+        "date": "5 de ago. de 2015",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

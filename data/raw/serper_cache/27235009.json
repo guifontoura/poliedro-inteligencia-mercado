@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "27235009",
+  "NO_ENTIDADE": "COLEGIO DE EDUCACAO BASICA SANTA AFRA",
+  "cidade": "Arapiraca",
+  "query": "\"COLEGIO DE EDUCACAO BASICA SANTA AFRA\" \"Arapiraca\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DE EDUCACAO BASICA SANTA AFRA\" \"Arapiraca\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO UNO VERTICE, P, DIVINOPOLIS, MG, Bronze. HEITOR SOARES DE ... COLEGIO DE EDUCACAO BASICA SANTA AFRA, P, ARAPIRACA, AL, Bronze. BRUNO CAMARA ...",
+        "position": 1
+      },
+      {
+        "title": "2018",
+        "link": "https://enem.cneceduca.com.br/2018?p=145",
+        "snippet": "Colegio de Educacao Basica Santa Afra, Privada, Arapiraca, AL, 35, 525,27, 610,74 ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line Alexandria CNEC Provas ...",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Colegio de Educacao Basica Santa Afra - Arapiraca - São Luiz - Nota: 648.71 ... Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92.",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Cadastro de Estagiários",
+        "link": "https://www.a3estagio.com.br/cadastro-de-estagiarios/",
+        "snippet": "COLEGIO DE EDUCACAO BASICA SANTA AFRA - JOSEFA BARBOSA DE BRITO NOBRE ... EADISTÂNCIA SISTEMA DE ENSINO LTDA-ME / S.O.S COMPUTADORES (), EBAC ENSINO A ...",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 19ª OBMEP 2024",
+        "link": "https://premiacao.obmep.org.br/19obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "ANGLO SISTEMA DE ENSINO, P, TATUI, SP, Bronze. 15, ALEX BERENSTEIN BARTFELD ... COLEGIO DE EDUCACAO BASICA SANTA AFRA, P, ARAPIRACA, AL, Bronze. ANGELO TEODORO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

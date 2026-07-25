@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "31377899",
+  "NO_ENTIDADE": "COLEGIO OMEGA",
+  "cidade": "Muriaé",
+  "query": "\"COLEGIO OMEGA\" \"Muriaé\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO OMEGA\" \"Muriaé\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "NOTA DE ESCLARECIMENTO O Colégio Ômega vem, por ...",
+        "link": "https://www.instagram.com/p/DIR9kDNJv-r/",
+        "snippet": "Adquira já o seu ingresso na nossa recepção SISTEMA DE ENSINO ÔMEGA - MURIAÉ Colégio Ômega. colegioomegamuriae's profile picture ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "educação vai além da sala de aula.  No Colégio Ômega, ...",
+        "link": "https://www.instagram.com/reel/DTgQWU1CROP/",
+        "snippet": "O Colégio Ômega, localizado no Boulevard Center, é referência em educação em Muriaé. ... material didático. Levam valores, aprendizados ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Colegio Omega em Muriaé, MG - 43.067.873/0001-24",
+        "link": "https://www.econodata.com.br/consulta-empresa/43067873000124-jpf-sistema-de-ensino-ltda",
+        "snippet": "CNPJ 43067873000124 — Serviços em Muriaé/MG ; Razão Social: Jpf Sistema de Ensino Ltda ; Nome Fantasia: Colegio Omega ; CNPJ: 43.067.873/0001-24",
+        "date": "Colegio Omega",
+        "position": 3
+      },
+      {
+        "title": "Educar vai muito além da sala de aula, é preparar para a vida ...",
+        "link": "https://www.instagram.com/reel/DWFIgudJa8I/?hl=pt",
+        "snippet": "... Colégio Ômega, cada aluno é incentivado a crescer com conhecimento ... Muriaé. E hoje vim falar pra um pouquinho sobre a palestra que ...",
+        "date": "há 4 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Ômega Muriaé apresenta sua proposta de ensino ...",
+        "link": "https://anoticiaonline.com.br/site/colegio-omega-muriae-apresenta-sua-proposta-de-ensino-para-pais-e-alunos/",
+        "snippet": "... Sistema de Ensino como material didático Muriaé está prestes a receber uma nova estrutura de ensino, está chegando na cidade o Colégio Ômega.",
+        "date": "28 de out. de 2021",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

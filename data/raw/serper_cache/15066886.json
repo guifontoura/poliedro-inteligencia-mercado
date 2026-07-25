@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "15066886",
+  "NO_ENTIDADE": "E PART E I F M INST NSRA DOS ANJOS",
+  "cidade": "Abaetetuba",
+  "query": "\"E PART E I F M INST NSRA DOS ANJOS\" \"Abaetetuba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"E PART E I F M INST NSRA DOS ANJOS\" \"Abaetetuba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas na Educação Infantil no Jaruma - Abaetetuba",
+        "link": "https://querobolsa.com.br/escolas/etapa-de-ensino/educacao-infantil/abaetetuba-pa/jaruma",
+        "snippet": "sistema de ensino vestibulando; e part e i f m inst nsra dos anjos; centro educacional nossa senhora da conceicao; casa bem te vi-apae de abaetetuba; instituto ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas em Centro - Abaetetuba - PA",
+        "link": "https://www.melhorescola.com.br/busca/para/abaetetuba/centro",
+        "snippet": "Escolas mais procuradas em Abaetetuba - PA. Centro Educacional Vitoria-regia; colegio engels ss ltda; sistema de ensino vestibulando; e part e i f m inst ...",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/1500107-abaetetuba/busca",
+        "snippet": "E PART E I F M INST NSRA DOS ANJOS. RUA BARAO DO RIO BRANCO, 1736. 68444000 Abaetetuba - Pará. Rede privada / Urbana · EEEM IRMA STELLA MARIA - ANEXO ...",
+        "position": 3
+      },
+      {
+        "title": "Município: Abaetetuba - PA - Resultado Final - ONC 2023",
+        "link": "https://resultado.onciencias.org/resultado-final-onc2023/PA/Abaetetuba",
+        "snippet": "E PART E I F M INST NSRA DOS ANJOS. INEP: 15066886 · EEE PROF MARIA ... SISTEMA DE ENSINO INOVE. INEP: 15161366 · SISTEMA DE ENSINO VESTIBULANDO. INEP: 15587983.",
+        "position": 4
+      },
+      {
+        "title": "Escolas em Centro na cidade de Abaetetuba",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/abaetetuba-pa/centro",
+        "snippet": "sistema de ensino vestibulando; e part e i f m inst nsra dos anjos; centro ... As mensalidades em Abaetetuba estão a partir de R$ 200,00. Confira aqui ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

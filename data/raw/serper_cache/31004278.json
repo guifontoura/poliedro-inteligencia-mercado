@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31004278",
+  "NO_ENTIDADE": "ESCOLA SANTO TOMAS DE AQUINO",
+  "cidade": "Belo Horizonte",
+  "query": "\"ESCOLA SANTO TOMAS DE AQUINO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA SANTO TOMAS DE AQUINO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "CALENDÁRIO GERAL E MATERIAL DIDÁTICO 2025",
+        "link": "https://www.esta.com.br/material-didatico/",
+        "snippet": "... material didático ... ESCOLA SANTO TOMÁS DE AQUINO. Avenida Professor Cândido Holanda, 165 - São Bento CEP: 30350-340 - Belo Horizonte - Minas Gerais - Brasil",
+        "position": 1
+      },
+      {
+        "title": "- Escola Santo Tomás de Aquino - Colégio localizado no ...",
+        "link": "https://www.esta.com.br/",
+        "snippet": "Avenida Professor Cândido Holanda, nº 165 – São Bento. CEP: 30350-340 – Belo Horizonte–MG ... Material Didático · Agenda+ · Boleto Online. CONTATO. Fale Conosco",
+        "position": 2
+      },
+      {
+        "title": "Aprender também é explorar, observar e vivenciar. Os ...",
+        "link": "https://www.instagram.com/p/DaxVWEMj07b/",
+        "snippet": "Photo by Escola Santo Tomás de Aquino on ...",
+        "date": "há 1 semana",
+        "position": 3
+      },
+      {
+        "title": "Entre o “quando eu crescer” e o “estou chegando lá”, existe uma ...",
+        "link": "https://www.instagram.com/reel/Davz85ZR9jr/",
+        "snippet": "Escola Santo Tomás de Aquino inspira REDE DE EDUCADORES Certificado ... Photo by Sistema de Ensino Sigma on June 17, 2026. May be an ...",
+        "date": "há 1 semana",
+        "position": 4
+      },
+      {
+        "title": "Publicação de Inspira Rede de Educadores",
+        "link": "https://pt.linkedin.com/posts/inspira-rede-de-educadores_dnainspira-inspirarededeeducadores-escolasantotomasdeaquino-activity-6912108830495580160-KAOT?trk=public_profile_like_view",
+        "snippet": "... Escola Santo Tomás de Aquino! #dnainspira #inspirarededeeducadores #escolasantotomasdeaquino # ... Escola de referência em Belo Horizonte ...",
+        "date": "há 4 anos",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "42103894",
+  "NO_ENTIDADE": "COLEGIO VILA OLIMPIA",
+  "cidade": "Florianópolis",
+  "query": "\"COLEGIO VILA OLIMPIA\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO VILA OLIMPIA\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Positivo compra Colégio Vila Olímpia, em Florianópolis",
+        "link": "https://amanha.com.br/categoria/empresa/positivo-compra-colegio-vila-olimpia-em-florianopolis",
+        "snippet": "Com 22 mil metros quadrados de área e uma estrutura atualizada, o Colégio Vila Olímpia é a maior escola de Jurerê, em Florianópolis (SC). O ...",
+        "date": "21 de dez. de 2020",
+        "position": 1
+      },
+      {
+        "title": "Vila Olímpia Bilingual School",
+        "link": "https://colegiovilaolimpia.com.br/colegio/vila-olimpia-bilingual-school/",
+        "snippet": "Procurando por um Colégio Bilíngue em Florianópolis? O Colégio Vila Olímpia abriga alunos desde da Educação Infantil até o Ensino Médio!",
+        "position": 2
+      },
+      {
+        "title": "Any expats here living in 🇧🇷 with young kids? Which part ...",
+        "link": "https://www.facebook.com/groups/BrazilBackpackerTravelerMochilerosViajeros/posts/2674773096191272/",
+        "snippet": "... Florianópolis*: one of the best public schools in the Greater ... Yamil E Sousa Dutra my friend is a teacher at Colegio Vila Olimpia in Jurerê, ...",
+        "date": "há 6 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Vila Olímpia é premiado como \"Escola de ...",
+        "link": "https://www.deolhonailha.com.br/florianopolis/noticias/colegio-vila-olimpia-e-premiado-como-escola-de-excelencia-pelo-climate-action-project-2/",
+        "snippet": "Situado em Florianópolis (SC), o Colégio Vila Olímpia oferece ensino bilíngue da Educação Infantil ao Ensino Médio. Além disso, os alunos têm à ...",
+        "date": "29 de nov. de 2021",
+        "position": 4
+      },
+      {
+        "title": "Leonardo Tubarão (LION) - English Teacher",
+        "subtitle": "Santa Catarina, Brasil · Professor de inglês · Gaia Curso e Colégio e Sistema Anglo de Ensino",
+        "link": "https://br.linkedin.com/in/leonardotubaraocorretor",
+        "snippet": "Colégio Villa Olimpia. mar. de 2013 - 2017 4 anos. Jurerê - Florianópolis. Professor de curso de imersão em Inglês do Colégio Vila Olimpia e ensino regular.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

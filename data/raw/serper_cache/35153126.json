@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35153126",
+  "NO_ENTIDADE": "LITTERATUS COLEGIO",
+  "cidade": "Itatiba",
+  "query": "\"LITTERATUS COLEGIO\" \"Itatiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LITTERATUS COLEGIO\" \"Itatiba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Litteratus Colégio | Bolsas de Estudo em Itatiba - SP",
+        "link": "https://www.melhorescola.com.br/escola/litteratus-colegio",
+        "snippet": "Garanta sua bolsa de estudos em Litteratus Colégio, Itatiba - SP. Descontos ... Sistema de ensino. COC Pearson. O sistema de ensino compreende o conjunto ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Litteratus on Instagram: \"Hoje é dia de conhecermos ...",
+        "link": "https://www.instagram.com/reel/DOZOtFZj_sq/",
+        "snippet": "... Itatiba # ... LitTERATUS LITTERaTUS colégio colégi LiTTeRa EU SOU A AMANDA, . AQUI NÓS TEMOS NOSSAS AULAS ...",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "Litteratus Colegio - Itatiba - SP",
+        "link": "https://www.escol.as/289026-litteratus-colegio",
+        "snippet": "O Litteratus Colégio, localizado em Itatiba, SP ... A educação é enriquecida com material didático moderno e jogos educativos, estimulando o aprendizado lúdico.",
+        "position": 3
+      },
+      {
+        "title": "Escolas no Ensino Fundamental II na cidade de Itatiba - SP",
+        "link": "https://querobolsa.com.br/escolas/etapa-de-ensino/ensino-fundamental-ii/itatiba-sp",
+        "snippet": "Litteratus Colégio · Colégio Triação · Colégio Madre Tereza · Instituto Monitor ... Material Didático Incluso. Infantil em alta! R$ 1.196,76. R$ 897,57 /mês ...",
+        "position": 4
+      },
+      {
+        "title": "Colégio Litteratus on Instagram: \"Continuando com as ...",
+        "link": "https://www.instagram.com/reel/DPzMhnOk98d/",
+        "snippet": "... Itatiba #ItatibaSP ... Material didático Oxford. Aprendizagem dinâmica, prática e significativa. Porque aprender um ...",
+        "date": "há 9 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

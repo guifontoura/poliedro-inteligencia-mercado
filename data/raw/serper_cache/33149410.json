@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33149410",
+  "NO_ENTIDADE": "COLEGIO PARANAPUA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO PARANAPUA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PARANAPUA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Paranapuã | Nem sempre é sobre o resultado. Na ...",
+        "link": "https://www.instagram.com/p/DWyt1UKjcfH/",
+        "snippet": "Carta CCRDO infantil, fundamental e médio SISTEMA DE ENSINO anglo Mudanças climáticas COLÉGIO CASSIANO RICARDO anglo SÃO JOSÉ ... Rio de Janeiro, ...",
+        "date": "há 3 meses",
+        "position": 1
+      },
+      {
+        "title": "Os alunos do 3º ano trocaram a sala de aula pelas ruas do ...",
+        "link": "https://www.instagram.com/reel/DYSBKEmNa4l/",
+        "snippet": "Rio de Janeiro, Rio de Janeiro. 126 likes. colegioparanapua ... apostila de Niterói um material idealizado pela escola. ... No corredor cultural do Rio de Janeiro ...",
+        "position": 2
+      },
+      {
+        "title": "Alessandro Bessone - Professor na Rede de Ensino Alfa ...",
+        "link": "https://br.linkedin.com/in/alessandro-bessone-74927383",
+        "snippet": "fev. de 2019 - o momento 7 anos 6 meses. Rio de Janeiro, Rio de Janeiro ... Colegio Paranapua. ago. de 2019 - dez. de 2019 5 meses. Ilha do governador ...",
+        "position": 3
+      },
+      {
+        "title": "As escolas com ensino integral no Rio; veja lista",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/07/24/as-escolas-com-ensino-integral-no-rio-veja-lista.ghtml",
+        "snippet": "... sistema de ensino. Há ainda o detalhamento sobre quais atividades ... Guia de Escolas: encontre a melhor escola no Rio de Janeiro ou em São Paulo:.",
+        "date": "há 16 horas",
+        "position": 4
+      },
+      {
+        "title": "Transformamos desafios em aprendizado todos os dias. E é ...",
+        "link": "https://www.instagram.com/reel/DWW0_bhgebT/",
+        "snippet": "O Colégio Paranapuã conquistou o 1º lugar na Ilha do Governador e o 13º lugar entre as escolas da cidade do Rio de Janeiro no ENEM 2025, ...",
+        "date": "há 4 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "codigo_escola": "35139208",
+  "NO_ENTIDADE": "ATENEU DE SAO CAETANO DO SUL COLEGIO UNIDADE III",
+  "cidade": "São Caetano do Sul",
+  "query": "\"ATENEU DE SAO CAETANO DO SUL COLEGIO UNIDADE III\" \"São Caetano do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ATENEU DE SAO CAETANO DO SUL COLEGIO UNIDADE III\" \"São Caetano do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "2016",
+        "link": "https://enem.cneceduca.com.br/2016?p=16",
+        "snippet": "Ateneu de Sao Caetano do Sul Colegio Unidade III, Privada, São Caetano do Sul ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line Alexandria CNEC Provas ENEC ...",
+        "position": 1
+      },
+      {
+        "title": "2013",
+        "link": "https://enem.cneceduca.com.br/2013?p=103",
+        "snippet": "Ateneu de Sao Caetano do Sul Colegio Unidade III, Privada, São Caetano do Sul ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line Alexandria CNEC Provas ENEC ...",
+        "position": 2
+      },
+      {
+        "title": "Yolanda Ascencio Professora - São Caetano do Sul - SP",
+        "link": "https://www.escol.as/190441-yolanda-ascencio-professora",
+        "snippet": "O acervo inclui material didático, equipamentos para amplificação de som e ... Ateneu de Sao Caetano do Sul Colegio Unidade Iii. Ceramica, São Caetano ...",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

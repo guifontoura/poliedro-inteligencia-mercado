@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "29609607",
+  "NO_ENTIDADE": "COLEGIO PERFIL",
+  "cidade": "Lauro de Freitas",
+  "query": "\"COLEGIO PERFIL\" \"Lauro de Freitas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PERFIL\" \"Lauro de Freitas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "da Educação Infantil ao Ensino Médio - Lauro de Freitas",
+        "link": "https://souperfil.com.br/matriculas/",
+        "snippet": "Matrículas Colégio Perfil - da Educação Infantil ao Ensino Médio - Lauro de Freitas ... No Colégio Perfil utilizaremos em 2024 o Sistema de Ensino Bernoulli.",
+        "position": 1
+      },
+      {
+        "title": "📣 Famílias, atenção para as datas das nossas Reuniões ...",
+        "link": "https://www.instagram.com/p/DUJnFq3ESpx/",
+        "snippet": "Photo by Colégio Perfil on July 09, 2026. May be an image of one ... SISTEMA DE ENSINO anglo Acesse o blog do Sistema Anglo e descubra ...",
+        "date": "há 5 meses",
+        "position": 2
+      },
+      {
+        "title": "Grupo Perfil de Educação",
+        "link": "https://br.linkedin.com/company/grupo-perfil-educacao",
+        "snippet": "Grupo Perfil de Educação. Educação. Lauro de Freitas, BA 3.791 seguidores. Colégio Perfil | Escola Villa Criar | Escolinha Tia Dori | Perfil Language Academy.",
+        "position": 3
+      },
+      {
+        "title": "Escolas Lauro de Freitas - BA",
+        "link": "https://www.blog.schooladvisor.com.br/lauro-de-freitas",
+        "snippet": "... material didático, infraestrutura, entre outros. ​. Para ajudar você a ... A proposta pedagógica do Colégio Perfil, em Lauro de Freitas, que abrange ...",
+        "position": 4
+      },
+      {
+        "title": "Ensino Fundamental Anos Finais e Ensino Médio",
+        "link": "https://souperfil.com.br/colegio-perfil-ensino-fundamental-ensino-medio/",
+        "snippet": "Aproveitem a jornada no universo do Ensino Fundamental e Ensino Médio do Colégio Perfil. ... Além disso, o PLA adota o material didático da Macmillan, referência ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

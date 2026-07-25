@@ -1,0 +1,31 @@
+{
+  "codigo_escola": "53017293",
+  "NO_ENTIDADE": "UNICO EDUCACIONAL TAGUATINGA",
+  "cidade": "Brasília",
+  "query": "\"UNICO EDUCACIONAL TAGUATINGA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"UNICO EDUCACIONAL TAGUATINGA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "CEDF – Pareceres - Secretaria de Estado de Educação",
+        "link": "https://www.educacao.df.gov.br/cedf-pareceres",
+        "snippet": "Agência Brasília · Portal do Governo de Brasília · Dados Abertos · LGPD · Maria da ... 164 2024 CEDF Unico Educacional Taguatinga Cons. Solange · 165 2024 CEDF ...",
+        "position": 1
+      },
+      {
+        "title": "Cadastro de Unidades Escolares DF 2017 | PDF",
+        "link": "https://pt.scribd.com/document/472252751/cadastro-escolas-df-pdf",
+        "snippet": "53000102 C ESPECIALIZADO PESTALOZZI ASSOC PESTALOZZI DE BRASÍLIA PLANO PILOTO 167 19 20/04/2017 ... 53017293 UNICO EDUCACIONAL TAGUATINGA ST HOTELEIRO 1 PROJECAO ...",
+        "position": 2
+      }
+    ],
+    "credits": 1
+  }
+}

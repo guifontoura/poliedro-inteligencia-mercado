@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31014087",
+  "NO_ENTIDADE": "COLEGIO SANTA MARIA MINAS UNIDADE CONTAGEM",
+  "cidade": "Contagem",
+  "query": "\"COLEGIO SANTA MARIA MINAS UNIDADE CONTAGEM\" \"Contagem\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA MARIA MINAS UNIDADE CONTAGEM\" \"Contagem\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Unidade Contagem - Colégio Santa Maria - PUC Minas",
+        "link": "https://santamaria.pucminas.br/unidade-contagem/",
+        "snippet": "Em 2006, passou a denominar-se Colégio Santa Maria Contagem e, em 2018, Colégio Santa Maria Minas – Unidade Contagem. Hoje oferece Ensino Fundamental e ...",
+        "position": 1
+      },
+      {
+        "title": "Unidade Contagem tem orgulho de fazer parte dessa ...",
+        "link": "https://www.instagram.com/p/DN-W1Lzjqii/",
+        "snippet": "... Colégio Santa Maria Minas – Unidade Contagem tem orgulho de fazer ... foco SISTEMA DE ENSINO 169 ANOS parabéns MONTES CLAROS! Nossa ...",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "História - Colégio Santa Maria - PUC Minas",
+        "link": "https://santamaria.pucminas.br/historia/",
+        "snippet": "... Sistema de Ensino Arquidiocesano ... Em 2006, passou a denominar-se Colégio Santa Maria Contagem e, em 2018, Colégio Santa Maria Minas – Unidade Contagem.",
+        "position": 3
+      },
+      {
+        "title": "Colégio Santa Maria Minas on Reels",
+        "link": "https://www.facebook.com/santamariaminasoficial/videos/891333433633628/",
+        "snippet": "Rozilene Babeto and 21 others · 22 · 4. Last viewed on: May 6, 2026. More videos you may like. 01:24. No Dia da Terra, somos convidados ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "Histórias em quadrinhos para estudar Matemática - Even3",
+        "link": "https://static.even3.com/anais/1081326.pdf",
+        "snippet": "carried out at Colégio Santa Maria Minas – unidade Contagem in 2024 with second-year high school ... Ela passou a integrar o Sistema de Ensino Arquidiocesano em ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

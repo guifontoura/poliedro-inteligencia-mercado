@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "33055947",
+  "NO_ENTIDADE": "COLEGIO SALESIANO SANTA ROSA",
+  "cidade": "Niterói",
+  "query": "\"COLEGIO SALESIANO SANTA ROSA\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SALESIANO SANTA ROSA\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Salesiano Santa Rosa",
+        "link": "https://www.salesianos.br/unidade/colegio-salesiano-santa-rosa",
+        "snippet": "... material didático exclusivo, a Coleção Girolhar, que se fundamenta no conceito ... Colégio Salesiano Santa Rosa | Rua Santa Rosa 207, Niterói, RJ, 24240225 ...",
+        "position": 1
+      },
+      {
+        "title": "Educação",
+        "link": "https://www.salesianos.br/educacao",
+        "snippet": "Niterói - RJ · Colégio Salesiano Resende. Resende · Colégio Salesiano Santa Rosa ... O material didático, promove diversos pilares de aprendizagem, como a ...",
+        "position": 2
+      },
+      {
+        "title": "Colégios Salesianos (@saleniteroi)",
+        "link": "https://www.instagram.com/saleniteroi/",
+        "snippet": "Colégio Salesiano Santa Rosa Colégio Salesiano Região Oceânica Educação Infantil ao Ensino Médio 143 Anos de Presença em Niterói ❤️. Follow. Message ...",
+        "position": 3
+      },
+      {
+        "title": "Para celebrar os 143 anos do Colégio Salesiano Santa Rosa ...",
+        "link": "https://www.instagram.com/reel/DayTjvzpc1j/",
+        "snippet": "... Niterói em 14 de julho de 1883. Destacou que foi a partir do Colégio Salesiano Santa Rosa que a obra salesiana se expandiu por todo o Brasil ...",
+        "date": "há 1 semana",
+        "position": 4
+      },
+      {
+        "title": "Na última sexta-feira, o Colégio Salesiano Santa Rosa se ...",
+        "link": "https://www.instagram.com/reel/C_bOkJ6x6PY/",
+        "snippet": "A atividade faz parte do material didático Girolhar, na seção “Giro ... Colégio Salesiano Santa Rosa de Niterói. JEN 2024. saleniteroi's ...",
+        "date": "há 1 ano",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

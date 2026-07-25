@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35107773",
+  "NO_ENTIDADE": "SUICO BRASILEIRA SAO PAULO ESCOLA",
+  "cidade": "São Paulo",
+  "query": "\"SUICO BRASILEIRA SAO PAULO ESCOLA\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SUICO BRASILEIRA SAO PAULO ESCOLA\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.3.privada.do.htm",
+        "snippet": "Nível 3. Nome, Escola, Tipo, Município, UF, Menção. 1, ANDRÉ BARROS TORREÃO SÁ, SUICO BRASILEIRA SAO PAULO ESCOLA, P, SÃO PAULO, SP, Sim.",
+        "position": 1
+      },
+      {
+        "title": "Lista de Colégios Privados no Brasil | PDF | São Paulo",
+        "link": "https://pt.scribd.com/doc/273617459/Ranking-Brasil",
+        "snippet": "SUICO BRASILEIRA SAO PAULO ESCOLA. SP. SANTOS. Privada. Urbana. 66. SP. SAO PAULO ... SISTEMA DE ENSINO MILENIO. GO. GOIANIA. Privada. Urbana. 28. SESI 351 CENTRO ...",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "SUICO BRASILEIRA SAO PAULO ESCOLA, P, SAO PAULO, SP, Bronze. JOÃO LUIZ ZEN MUNIZ ... SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Bronze. JOÃO ...",
+        "position": 3
+      },
+      {
+        "title": "Blog do Enem: simplificado como deve ser",
+        "link": "http://sandytagregador.blogspot.com/2014/12/blog-do-enem-simplificado-como-deve-ser_24.html",
+        "snippet": "São Paulo: Resultado Enem 2013. Veja melhores e piores notas por ... SUICO BRASILEIRA SAO PAULO ESCOLA, 616,25, 610,08. 68, SANTO AGOSTINHO ...",
+        "date": "24 de dez. de 2014",
+        "position": 4
+      },
+      {
+        "title": "E-metodo",
+        "link": "https://emetodo60.unisa.br/formulario/ficha/inscricao/2452",
+        "snippet": "ANGLO SISTEMA DE ENSINO, ANHANGUERA, ANHEMBI MORUMBI COLEGIO, ANIBAL DE FREITAS ... SUICO BRASILEIRA SAO PAULO ESCOLA, SUMIE IWATA PROFESSORA, SUPER ENSINO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

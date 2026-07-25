@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33183139",
+  "NO_ENTIDADE": "INOVAR VEIGA DE ALMEIDA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"INOVAR VEIGA DE ALMEIDA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INOVAR VEIGA DE ALMEIDA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Dia Nacional da Educação Educação é o tempero da vida, a ...",
+        "link": "https://www.instagram.com/reel/DXsQ_Axjg7H/",
+        "snippet": "... Inovar Veiga de Almeida, acreditamos que educar é muito mais do que ... Rio de Janeiro, Rio de Janeiro.",
+        "date": "há 2 meses",
+        "position": 1
+      },
+      {
+        "title": "Mais um resultado extraordinário para encher o Colégio ...",
+        "link": "https://www.instagram.com/p/DTyNDT7kXcE/",
+        "snippet": "... Inovar Veiga de Almeida de orgulho. O aluno Lucas Porto ... RIO DE JANEIRO, 8º LUGAR NO ESTADO DO RIO DE JANEIRO. Rank Enem 2025 ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "Hoje é dia de TBT para lembrar a nossa incrível Semana das ...",
+        "link": "https://www.instagram.com/reel/DYVGfF2pSaF/",
+        "snippet": "... Inovar Veiga de Almeida em formar estudantes protagonistas ... UERJ UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO CAUÃ CURI APROVADO EM EDUCAÇÃO FÍSICA ...",
+        "date": "há 2 meses",
+        "position": 3
+      },
+      {
+        "title": "Beatriz Oliveira - Professor na Colégio Veiga de Almeida",
+        "link": "https://br.linkedin.com/in/beatriz-oliveira-89579352",
+        "snippet": "... material didático e formação de professores ... Professor na Colégio Veiga de Almeida. Colégio de Aplicação UFRJ Ufrj. Rio de Janeiro, Rio de Janeiro, Brasil.",
+        "position": 4
+      },
+      {
+        "title": "TBT da Semana das Profissões – escolhendo caminhos ...",
+        "link": "https://www.instagram.com/reel/DZLNeu5Jxxa/",
+        "snippet": "... Inovar Veiga de Almeida (21) 96422‑0879 #TBT #SemanaDasProfissões ... Rio de Janeiro, Rio de Janeiro. Photo by Avanço | PRÉ-MEDICINA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

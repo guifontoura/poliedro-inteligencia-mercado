@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35131945",
+  "NO_ENTIDADE": "GUILHERME DE ALMEIDA COLEGIO UNIDADE I",
+  "cidade": "Guarulhos",
+  "query": "\"GUILHERME DE ALMEIDA COLEGIO UNIDADE I\" \"Guarulhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"GUILHERME DE ALMEIDA COLEGIO UNIDADE I\" \"Guarulhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.3.privada.do.htm",
+        "snippet": "GUILHERME DE ALMEIDA COLEGIO UNIDADE I, P, GUARULHOS, SP, ---, Sim. CARLOS EDUARDO ... COLEGIO KELVIN SISTEMA DE ENSINO CATANDUVA, P, CATANDUVA, SP, ---, Sim.",
+        "position": 1
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO DOS ... GUILHERME DE ALMEIDA COLEGIO UNIDADE I. SÃO PAULO. Guarulhos. Maria ...",
+        "position": 2
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "GUILHERME DE ALMEIDA COLEGIO UNIDADE I 85 Guarulhos SP COLEGIO SANTA INES 62 ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 3
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos. 25. 100.00. 0 ... Guarulhos. Privada. Urbana. 27. De 1 a 30 alunos. 24. 88.89. 0. 80% ou ...",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... GUARULHOS. Privada. T PARTHENON COLEGIO UNIDADE I. 641,82. 604,10. 715,63 ... SISTEMA DE ENSINO EQUIPE. 628,66. 596,47. 652,65. 612,81. 652,72.",
+        "date": "22 de dez. de 2014",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

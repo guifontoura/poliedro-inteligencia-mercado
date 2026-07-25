@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "53019733",
+  "NO_ENTIDADE": "COL FLEMING ASA SUL",
+  "cidade": "Brasília",
+  "query": "\"COL FLEMING ASA SUL\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL FLEMING ASA SUL\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O Ensino Médio é uma etapa decisiva na formação ...",
+        "link": "https://www.instagram.com/reel/DS2EvhokRN1/",
+        "snippet": "... Brasília (UnB) é reflexo de uma trajetória construída com excelência ... COL FLEMING ASA SUL (ATUAL ESCRITA ÚNICA) *Microdados oficiais ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "Mais uma conquista para celebrar! Parabenizamos nossa ...",
+        "link": "https://www.instagram.com/p/DagZHzEKikH/",
+        "snippet": "... Brasília, por meio da nota do ENEM. Que esta nova etapa seja ... COL FLEMING ASA SUL (ATUAL ESCRITA ÚNICA) *Microdados oficiais ...",
+        "date": "há 2 semanas",
+        "position": 2
+      },
+      {
+        "title": "No último domingo realizamos o Exame de Bolsas do Ensino ...",
+        "link": "https://www.instagram.com/reel/DPCXtuZiDQl/",
+        "snippet": "Enem 2k26 1º lugar no estado do Paraná é Poliedro Sistema de Ensino COLÉGIO DO BOSQUE MANANCIAIS Poliedro Sistema de Ensino ... material didático ...",
+        "date": "há 10 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio Futura on Instagram: \"Uma redação pode ser o ...",
+        "link": "https://www.instagram.com/reel/Da3FChiMDJS/",
+        "snippet": "TOP 9 DE BRASÍLIA EU ESTUDANTE Enem 1. Colégio Levorsse (antigo ... COL FLEMING ASA SUL (ATUAL ESCRITA ÚNICA) *Microdados oficiais ...",
+        "date": "há 1 semana",
+        "position": 4
+      },
+      {
+        "title": "Acima da média nacional, a Aubrick registrou ...",
+        "link": "https://www.instagram.com/p/DUTvKFdESwN/",
+        "snippet": "... Sistema de Ensino Colégio Coeducar Ensino Médio em foco 1. Não ... COL FLEMING ASA SUL (ATUAL ESCRITA ÚNICA) *Microdados oficiais ...",
+        "date": "há 5 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "42000670",
+  "NO_ENTIDADE": "ASAV - COLEGIO CATARINENSE",
+  "cidade": "Florianópolis",
+  "query": "\"ASAV - COLEGIO CATARINENSE\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ASAV - COLEGIO CATARINENSE\" \"Florianópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Maria Eduarda Xavier da Silva",
+        "link": "https://www.escavador.com/sobre/5403213/maria-eduarda-xavier-da-silva",
+        "snippet": "... Florianópolis-SC. Proceedings of the I COBBIND - Brazilian Congress of ... (Desenvolvimento de material didático ou instrucional - Apostila). SILVA ...",
+        "position": 1
+      },
+      {
+        "title": "Decisões Disciplinar JESC 2025 | PDF | Esportes Olímpicos",
+        "link": "https://pt.scribd.com/document/941220353/Boletim-3-Estadual-Jesc-12-a-14-Anos-Blumenau-1",
+        "snippet": "5º LARA SARAIVA MARIATH FLORIANÓPOLIS SISTEMA DE ENSINO ENERGIA 01:04.16 ... 13º GABRIEL DA COSTA MENDES FLORIANÓPOLIS ASAV - COLÉGIO CATARINENSE 01:26.89",
+        "position": 2
+      },
+      {
+        "title": "FLORIANÓPOLIS, quARtA-FeIRA, 11 De juLhO De 2012 ANO ...",
+        "link": "https://portal.doe.sea.sc.gov.br/repositorio/2012/20120711/Jornal/476.pdf",
+        "snippet": "tônio Vieira – ASAV/COLÉGIO CAtARINeNSe, com sede no município de Florianópolis. OBJETO: O presente instrumento. SECRETARIA DE ESTADO DA ...",
+        "date": "11 de jul. de 2012",
+        "position": 3
+      },
+      {
+        "title": "Untitled - Vestibular UFSC/2015",
+        "link": "https://vestibular2015.paginas.ufsc.br/files/2015/06/Relatorio_Oficial_V2015.pdf",
+        "snippet": "Manutenção da disponibilização das provas em LIBRAS em todos os campi. (Araranguá, Blumenau, Curitibanos, Joinville e Florianópolis) e em Chapecó; ... ASAV ...",
+        "position": 4
+      },
+      {
+        "title": "mat total - por escola",
+        "link": "https://www2.sed.sc.gov.br/documentos/programas-e-projetos-141/programa-de-parceria-educacional/arquivos-de-pesquisa/4532-2011-matriculas-pelo-censo-escolar-1",
+        "snippet": "... Florianópolis, AGUAS MORNAS, Municipal, 76, 132, 256, 12, 476. 358, Grande ... SISTEMA DE ENSINO, 685, 685. 440, Blumenau, GASPAR, Estadual, 42016649, EEB FREI ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

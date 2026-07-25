@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35140685",
+  "NO_ENTIDADE": "INTEGRAL APLICADO COLEGIO",
+  "cidade": "Mogi Guaçu",
+  "query": "\"INTEGRAL APLICADO COLEGIO\" \"Mogi Guaçu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INTEGRAL APLICADO COLEGIO\" \"Mogi Guaçu\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Mogi Guaçu - Escolas",
+        "link": "https://qedu.org.br/municipio/3530706-mogi-guacu/busca",
+        "snippet": "INTEGRAL APLICADO COLEGIO. POUSO ALEGRE, 110 - RUA. JARDIM MUNHOS. 13843340 ... MATO SECO. SITIO MATO SECO, SN. AREA RURAL DE MOGI GUACU. 13855899 Mogi Guaçu - ...",
+        "position": 1
+      },
+      {
+        "title": "OBMEP 2019 - Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/2019/verRelatorioPremiadosMencao-SP.3.privada.do.htm",
+        "snippet": "INTEGRAL APLICADO COLEGIO, P, MOGI GUACU, SP, Sim. JOAO PEDRO ENTRIEL ... ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Sim. VITOR SEGALLA DE OLIVEIRA ...",
+        "position": 2
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/",
+        "snippet": "INTEGRADO DE MOGI GUACU COLEGIO, MOGI GUACU, SP, Privada, 80% ou ... ZETA SISTEMA DE ENSINO DE PROMISSAO, PROMISSAO, SP, Privada, 80% ou mais ...",
+        "date": "5 de ago. de 2015",
+        "position": 3
+      },
+      {
+        "title": "Escolas particulares em Mogi Guaçu, SP",
+        "link": "https://escolas.com.br/particulares/sp/mogi-guacu",
+        "snippet": "Veja a lista das 29 escolas particulares em Mogi Guaçu, SP no site Escolas ... Integral Aplicado Colégio. Particular. Jardim Munhos, Mogi Guaçu-SP. Lar Menino ...",
+        "position": 4
+      },
+      {
+        "title": "sitemap7.txt",
+        "link": "https://www.remind.com/sitemap7.txt",
+        "snippet": "... mogi-guacu-colegio https://www.remind.com/school/e-m-e-f-santa-rita-anexa https://www.remind.com/school/integral-aplicado-colegio ... sistema-de-ensino ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

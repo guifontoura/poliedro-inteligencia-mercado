@@ -1,0 +1,44 @@
+{
+  "codigo_escola": "33196214",
+  "NO_ENTIDADE": "PB COLEGIO E CURSO",
+  "cidade": "Niterói",
+  "query": "\"PB COLEGIO E CURSO\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PB COLEGIO E CURSO\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "PB Paulo Gustavo",
+        "link": "https://www.pbcolegioecurso.com.br/pb-paulo-gustavo/",
+        "snippet": "Carga horária diferenciada, apostila otimizada e resolução de centenas de exercícios semanais. Redação semanal, aula de Literatura para o ITA, monitoria ...",
+        "position": 1
+      },
+      {
+        "title": "PB Colégio e Curso amplia atuação e lança Fundamental ...",
+        "link": "https://revistakdea360.com.br/noticia/39889/pb-colegio-e-curso-amplia-atuacao-e-lanca-fundamental-anos-finais-em-niteroi",
+        "snippet": "PB Colégio e Curso amplia atuação e lança Fundamental Anos Finais em Niterói ... Com professores especialistas e material didático de ...",
+        "date": "19 de dez. de 2025",
+        "position": 2
+      },
+      {
+        "title": "PB Roberto Silveira",
+        "link": "https://www.pbcolegioecurso.com.br/pb-roberto-silveira/",
+        "snippet": "Carga horária diferenciada, apostila otimizada e resolução de centenas de exercícios semanais. ... Contato. PB Curso: Av. Roberto Silveira, 394 – Icaraí, Niterói- ...",
+        "position": 3
+      },
+      {
+        "title": "Escolas de Ensinos Médios em Rio de Janeiro/RJ",
+        "link": "https://triceleads.com/segmentos/escola-de-ensino-medio/rio-de-janeiro",
+        "snippet": "PB COLEGIO E CURSO - BARRA. Endereço: AVENI******, Bairro BARRA DA TIJUCA ... escola de ensino médio em Niterói/RJ11 km • 481.749 hab. • 98.019 empresas ...",
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

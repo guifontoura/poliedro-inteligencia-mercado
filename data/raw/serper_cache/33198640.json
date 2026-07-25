@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "33198640",
+  "NO_ENTIDADE": "CANADIAN SCHOOL OF NITEROI",
+  "cidade": "Niterói",
+  "query": "\"CANADIAN SCHOOL OF NITEROI\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CANADIAN SCHOOL OF NITEROI\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "we are officially an IB World School authorized for the PYP! ...",
+        "link": "https://www.instagram.com/p/DW_ed1SkYVu/",
+        "snippet": "Canadian School of Niterói is part of Inspira Rede de Educadores ... Sistema de Ensino Poliedro, referência nacional em qualidade e ...",
+        "date": "há 3 meses",
+        "position": 1
+      },
+      {
+        "title": "Demonstrações Financeiras Individuais e Consolidadas",
+        "link": "https://docs.publicnow.com/viewDoc.aspx?filename=206414%5CEXT%5C141A8AFBD305EBB5E54856758FED3AD82FA5BA10_954277E9A66C111701A3DB2AD9FE22B026C46C80.PDF",
+        "snippet": "relacionados ao processo de reconhecimento de receita de mensalidades e venda de material didático; ... Sistema de Ensino Physics Ltda EPP (*).",
+        "date": "31 de dez. de 2023",
+        "position": 2
+      },
+      {
+        "title": "No “Tem Ciência no IFG!” recebemos os estudantes de ...",
+        "link": "https://www.instagram.com/reel/DOwjoSNkqiP/",
+        "snippet": "... Canadian School of Niteroi Parasitologia. embios_'s profile picture ... Niterói Após entrar no prédio, é só virar à direita que você ...",
+        "date": "há 10 meses",
+        "position": 3
+      },
+      {
+        "title": "⚠️🚨 *ATENÇÃO*⚠️🚨 *PRAZO DE INSCRIÇÃO ...",
+        "link": "https://www.instagram.com/p/Da7vHEDuWla/",
+        "snippet": "Curso Presencial Ferramentas de Marketing Digital para o Turismo CURSO GRATUITO CERTIFICADO E MATERIAL DIDÁTICO ... Canadian School of Niterói,.",
+        "date": "há 6 dias",
+        "position": 4
+      },
+      {
+        "title": "🔬✨ Ciências em foco! O HU2 agora conta com novas lupas ...",
+        "link": "https://www.instagram.com/p/DOysk5akhMy/",
+        "snippet": "Uma visita especial GABARITO SISTEMA DE ENSINO Laboratório de ... Niterói. As inscrições já estão abertas e vão até 5 de julho. Mas ...",
+        "date": "há 10 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

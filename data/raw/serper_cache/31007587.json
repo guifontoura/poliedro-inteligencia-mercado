@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31007587",
+  "NO_ENTIDADE": "SISTEMA PIAGET DE ENSINO",
+  "cidade": "Belo Horizonte",
+  "query": "\"SISTEMA PIAGET DE ENSINO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SISTEMA PIAGET DE ENSINO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "I.E em Foco",
+        "link": "https://www.linkedin.com/company/sistema-piaget-de-ensino",
+        "snippet": "Locations. R Carmelo, 150. Belo Horizonte, Minas Gerais 31565-260, BR. Get ... SAYS Sistema de Ensino Bilíngue. Education Administration Programs. Rio das ...",
+        "position": 1
+      },
+      {
+        "title": "Rede Pitágoras on Instagram: \"Uma história de 60 anos não ...",
+        "link": "https://www.instagram.com/reel/DZvkdzdhr6G/",
+        "snippet": "Sistema de Ensino GPI O Sistema de Ensino mais completo! Trocar ... SISTEMA -PIAGET- DE ENSINO DESDE 1976 Há cinco décadas formando ...",
+        "position": 2
+      },
+      {
+        "title": "sinepemg",
+        "link": "https://www.instagram.com/p/Da2kdlMRY42/",
+        "snippet": "... Belo Horizonte, a cerimônia de entrega do Prêmio Heley de Abreu ... SISTEMA DE ENSINO POSITIVO 63 anos JOHN WESLEY COLÉGIO CADA ...",
+        "date": "há 1 semana",
+        "position": 3
+      },
+      {
+        "title": "Construir uma escola de excelência também significa ouvir ...",
+        "link": "https://www.instagram.com/reel/DYiXGFNpEps/",
+        "snippet": "Sistema de Ensino ምን o Sistema de Ensino mais completo! Trocar ... Sistema Piaget de Ensino. Após vivenciar sua metodologia, seus ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "BHTRANS - Belo Horizonte",
+        "link": "http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S09F03-escolar5a.asp?lingua=",
+        "snippet": "SISTEMA DE ENSINO RENASCER · SISTEMA PIAGET DE ENSINO · UMEI BRAUNAS · UMEI DELFIM ... EMPRESA DE TRANSPORTES E TRÂNSITO DE BELO HORIZONTE S/A - BHTRANS Av ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

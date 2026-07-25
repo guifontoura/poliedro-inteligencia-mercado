@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "31004197",
+  "NO_ENTIDADE": "COLEGIO SANTA MARIA MINAS - UNIDADE FLORESTA",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO SANTA MARIA MINAS - UNIDADE FLORESTA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA MARIA MINAS - UNIDADE FLORESTA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGIO SANTA MARIA MINAS - UNIDADE FLORESTA. 1,3%. COLEGIO SANTA MARIA MINAS ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA ...",
+        "position": 1
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. AL. Maceió ouro. Ana Alexandra ... COLEGIO SANTA MARIA MINAS - UNIDADE FLORESTA. MG. Belo Horizonte. Certficado ...",
+        "position": 2
+      },
+      {
+        "title": "Nome do(a) aluno(a) Escola Modalidade Polo de aplicação",
+        "link": "https://omq.qui.ufmg.br/wp-content/uploads/2025/07/Participantes_OMQ_2025.pdf",
+        "snippet": "COLEGIO SANTA MARIA MINAS - UNIDADE FLORESTA. B. Belo Horizonte. ANA LUIZA ... SISTEMA DE ENSINO FOCO. B. Montes Claros. Página 95. Page 96. Nome do(a) aluno(a).",
+        "position": 3
+      },
+      {
+        "title": "Escolas em Belo Horizonte/MG — 2016 instituições",
+        "link": "https://www.mensalidadejusta.com.br/escolas/mg/belo-horizonte",
+        "snippet": "COLEGIO SANTA MARIA MINAS - UNIDADE FLORESTA. Privada · COLEGIO SANTA MARIA ... COLEGIO SISTEMA DE ENSINO - UNIDADE II. Privada · COLEGIO TANCREDO NEVES.",
+        "position": 4
+      },
+      {
+        "title": "Escola - CENTRO EDUCACIONAL SABER VIVER",
+        "link": "https://culturaeduca.cc/equipamento/escola_detalhe/31370223/",
+        "snippet": "Brasil / MG / Belo Horizonte / Entorno de Escola. CAMADAS. LIMPAR. Divisões ... COLEGIO SANTA MARIA MINAS - UNIDADE FLORESTA R JACUI - 237 - FLORESTA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

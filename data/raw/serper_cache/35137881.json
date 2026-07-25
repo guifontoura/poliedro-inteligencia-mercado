@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35137881",
+  "NO_ENTIDADE": "ATIBAIA COLEGIO INTEGRADO DE",
+  "cidade": "Atibaia",
+  "query": "\"ATIBAIA COLEGIO INTEGRADO DE\" \"Atibaia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ATIBAIA COLEGIO INTEGRADO DE\" \"Atibaia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "OBMEP 2019 - Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/2019/verRelatorioPremiadosMencao-SP.3.privada.do.htm",
+        "snippet": "CIDADE DE ATIBAIA COLEGIO, P, ATIBAIA, SP, Sim. ISRAEL ALVES DE OLIVEIRA, ETAPA ... COLEGIO KELVIN SISTEMA DE ENSINO CATANDUVA, P, CATANDUVA, SP, Sim. 317, ANDRE ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas em Itapetininga na cidade de Atibaia",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/atibaia-sp/itapetininga",
+        "snippet": "Logo - atibaia colegio integrado de. Atibaia ... Material Didático Incluso. Infantil em alta! R ... Outros bairros em Atibaia. Alvinopolis · Atibaia · Atibaia ...",
+        "position": 2
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/",
+        "snippet": "ATIBAIA COLEGIO INTEGRADO DE, ATIBAIA, SP, Privada, 80% ou mais ... ZETA SISTEMA DE ENSINO DE PROMISSAO, PROMISSAO, SP, Privada, 80% ou mais ...",
+        "date": "5 de ago. de 2015",
+        "position": 3
+      },
+      {
+        "title": "2016",
+        "link": "https://enem.cneceduca.com.br/2016?p=16",
+        "snippet": "Atibaia, SP, 41, 599,85, 638,41, 612,20, 661,11, 749,76, 627,89, 652,27. Alfa de Umuarama C E F M ... CNEC - Sistema de Ensino. ©2011-2026 Sistema de Ensino CNEC.",
+        "position": 4
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE. PA. Belém. Privada. Urbana. 306. Maior que. 90 alunos. 303 ... ATIBAIA COLEGIO INTEGRADO DE. SP. Atibaia. Privada. Urbana. 57. De 31 a.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

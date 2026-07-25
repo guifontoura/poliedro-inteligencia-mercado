@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35113256",
+  "NO_ENTIDADE": "DIVINA PROVIDENCIA ESCOLA",
+  "cidade": "Jundiaí",
+  "query": "\"DIVINA PROVIDENCIA ESCOLA\" \"Jundiaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"DIVINA PROVIDENCIA ESCOLA\" \"Jundiaí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Divina Providencia Escola | Bolsas de Estudo em Jundiaí",
+        "link": "https://www.melhorescola.com.br/escola/divina-providencia-escola",
+        "snippet": "Garanta sua bolsa de estudos em Divina Providencia Escola, Jundiaí - SP ... Sistema de ensino. Bernoulli. O sistema de ensino compreende o conjunto de ...",
+        "position": 1
+      },
+      {
+        "title": "MANUAL DE USO - Uniforme Escolar",
+        "link": "https://www.divina.com.br/wp-content/uploads/2025/03/Divina_Manual_Uniforme_Escolar_final.pdf",
+        "snippet": "Amélia Latorre, 144 · Jardim Guanabara · Jundiaí/SP. Fone: (11) 2449-5529 ... +/Escola Divina Providencia @Escola DivinaJundiai. BAYA. CREATIVE LEARNING.",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.1.privada.do.htm",
+        "snippet": "ANGLO SISTEMA DE ENSINO, P, TATUI, SP, ---, Sim. IAN MAZZUCATTO PUCINELI ... DIVINA PROVIDENCIA ESCOLA, P, JUNDIAI, SP, ---, Sim. MANUELA DE MESQUITA BRUNO ...",
+        "position": 3
+      },
+      {
+        "title": "exercicios de biologia | Exercícios Biologia",
+        "link": "https://www.docsity.com/pt/docs/exercicios-de-biologia-10/5870529/",
+        "snippet": "... DIVINA PROVIDENCIA ESCOLA SÃO PAULO Jundiaí. VINÍCIUS VASCONI VILLAS BOAS ... SISTEMA DE ENSINO MATO GROSSO Cuiabá RENATA ABDUL LUCCHESI KADRI COLEGIO MARIA ...",
+        "position": 4
+      },
+      {
+        "title": "Relatório de Diagnostico Escolar",
+        "link": "https://relatoriodiagnostico.ensinamais.com.br/",
+        "snippet": "Zeta Sistema de Ensino de Birigui, Sesi 148 Centro Educacional, Stelio Machado ... CRISTÃO JUNDIAÍ. COLÉGIO;, SANTA FELICIDADE. COLÉGIO;, DUQUE DE CAXIAS ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

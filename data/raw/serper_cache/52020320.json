@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "52020320",
+  "NO_ENTIDADE": "COLEGIO COUTO MAGALHAES",
+  "cidade": "Anápolis",
+  "query": "\"COLEGIO COUTO MAGALHAES\" \"Anápolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO COUTO MAGALHAES\" \"Anápolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "REGIMENTO-ESCOLAR-Couto-Anápolis- ...",
+        "link": "http://www.colegiocoutomagalhaes.com.br/wp-content/uploads/2019/11/REGIMENTO-ESCOLAR-Couto-An%C3%A1polis-2019-1-convertido.pdf",
+        "snippet": "6º - O Colégio Couto Magalhães de Anápolis ministra Educação Infantil, Ensino ... material didático e pela conservação dos bens de laboratórios, biblioteca ...",
+        "position": 1
+      },
+      {
+        "title": "Lista de Material - 2020 6º ano – Ensino Fundamental II",
+        "link": "http://www.colegiocoutomagalhaes.com.br/wp-content/uploads/2019/11/lista-de-materiais-fundamental-II-e-medio-2020.pdf",
+        "snippet": "Colégio Couto Magalhães – Anápolis GO. Av. Universitária Km 3,5 - 33106634 ... Material Didático – Sistema Mackenzie de Ensino – Adquirido no estande específico ...",
+        "position": 2
+      },
+      {
+        "title": "Matricule seu filho no Colégio Couto Magalhães e garanta ...",
+        "link": "https://portal6.com.br/2024/01/03/matricule-seu-filho-no-colegio-couto-magalhaes-e-garanta-um-ensino-moderno-fundamentado-nos-valores-cristaos/",
+        "snippet": "O material didático de ponta garante um processo de ensino-aprendizagem com a qualidade que os pais procuram. O uso de tecnologias assegura ...",
+        "date": "3 de jan. de 2024",
+        "position": 3
+      },
+      {
+        "title": "2017",
+        "link": "https://enem.cneceduca.com.br/2017?p=121",
+        "snippet": "Colegio Couto Magalhaes, Privada, Anápolis, GO, 34, 557,13, 569,32, 550,13, 581,44 ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line Alexandria CNEC Provas ...",
+        "position": 4
+      },
+      {
+        "title": "Baixar",
+        "link": "https://dadosabertos.go.gov.br/dataset/773b17ff-757c-4e71-bc3b-7f1c8cd4dbeb/resource/f649807d-b91e-44b0-bab6-573833e6c9d3/download/7.matriculas_por_etapa_seduc_2025.csv",
+        "snippet": "... Anápolis;Anápolis;52020282;CENTRO DE EDUCACAO DE JOVENS E ADULTOS PROFESSOR ... COLEGIO COUTO MAGALHAES;Privada;Urbana;1521;283;625;341;272;0;0;; 2013 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

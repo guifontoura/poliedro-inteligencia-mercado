@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "26117991",
+  "NO_ENTIDADE": "COLEGIO BOA VIAGEM LTDA",
+  "cidade": "Recife",
+  "query": "\"COLEGIO BOA VIAGEM LTDA\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BOA VIAGEM LTDA\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Desempenho de Alunos da 3ª Série | PDF | Faculdade",
+        "link": "https://pt.scribd.com/document/625686469/Classificados-Nivel-D",
+        "snippet": "MARIA AUGUSTA DA c LUNA 3° série CURSO 13 RECIFE PE. MARIA BEATRIZ BRASIL DA SILVA 3° série COLEGIO BOA VIAGEM LTDA 8 RECIFE PE MARIA BEATRIZ NEVES FERNANDES ...",
+        "position": 1
+      },
+      {
+        "title": "Classificados NIVEL D",
+        "link": "https://antigo.onciencias.org/resultados/download/14",
+        "snippet": "SISTEMA DE ENSINO EQUIPE ANANINDEUA. EIRELLI. 11. ANANINDEUA. PA. AHENZON KADU DA ... COLEGIO BOA VIAGEM LTDA. 9. RECIFE. PE. AMANDA VELOSO DA SILVA. 3° série.",
+        "position": 2
+      },
+      {
+        "title": "Fase II Resultado Aluno - Nome Escola UF C",
+        "link": "https://obquimica.org/storage/olympiads/result-files/Resultado_OBQjr2021_Site.pdf",
+        "snippet": "Stenio Candido Bezerra dos Santos Filho Colégio Militar do Recife. PE Recife ... Sistema de Ensino Equipe Canaã dos Carajás. PA. Canaã dos Carajás. Anna ...",
+        "position": 3
+      },
+      {
+        "title": "LISTA DE APROVADOS OBB 2018",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/arquivos/provas_gabaritos_classificacoes/OBB_2018/Lista%20Aprovados%20OBB%202018%201a%20Fase.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE CRISTAL II EIRELI-EPP. 20. BELÉM. ANA FLAVIA F ... COLEGIO BOA VIAGEM LTDA. 25. RECIFE. AMARYLIS LINS TORRES. COLEGIO NUCLEO. 28.",
+        "position": 4
+      },
+      {
+        "title": "05/mai/99 03/mai/99 21/set/98 19/dez/99 16/mar/00 14/nov ...",
+        "link": "https://www.darwin.com.br/wp-content/uploads/2019/05/Resultados-Olimpiada-Brasileira-de-Biologia-2016.pdf",
+        "snippet": "COLEGIO BOA VIAGEM LTDA. PE. 188 Victor Augusto Côrrea Azevedo Lira. 64 ... ESCOLA DE APLICACAO DO RECIFE - FCAP UPE. PE. 987 Paulo Barros dos Santos Neto.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

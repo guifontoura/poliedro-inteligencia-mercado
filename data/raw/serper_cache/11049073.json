@@ -1,0 +1,33 @@
+{
+  "codigo_escola": "11049073",
+  "NO_ENTIDADE": "COLEGIO SAPIENS - UNIDADE INTENSIVO",
+  "cidade": "Porto Velho",
+  "query": "\"COLEGIO SAPIENS - UNIDADE INTENSIVO\" \"Porto Velho\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAPIENS - UNIDADE INTENSIVO\" \"Porto Velho\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Centro de Ensino Classe A - 644,87 - Porto Velho (Rondônia) - Particular - 92% ... Colégio Sapiens - Unidade Intensivo - 628,29 - Porto ...",
+        "date": "23 de jun. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Colegio Sapiens - Unidade Intensivo - Porto Velho ... Colegio Adventista de Porto Velho - Porto Velho - Nova Porto Velho - Nota: 591.34.",
+        "date": "23 de jun. de 2026",
+        "position": 2
+      }
+    ],
+    "credits": 1
+  }
+}

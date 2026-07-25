@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "43008895",
+  "NO_ENTIDADE": "ESCOLA DE ENSINO MEDIO IMPULSO AO SABER",
+  "cidade": "Bento Gonçalves",
+  "query": "\"ESCOLA DE ENSINO MEDIO IMPULSO AO SABER\" \"Bento Gonçalves\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA DE ENSINO MEDIO IMPULSO AO SABER\" \"Bento Gonçalves\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O reconhecimento é importante, mas o impacto que ...",
+        "link": "https://www.instagram.com/reel/DbBNYAmAjxN/",
+        "snippet": "... Bento Gonçalves e o 1º lugar em Redação. Em 2025, avançamos para o ... ESCOLA DE ENSINO MEDIO IMPULSO AO SABER INEP: 43008895 15 ...",
+        "date": "há 4 dias",
+        "position": 1
+      },
+      {
+        "title": "preparar nossos alunos para conquistar as melhores ...",
+        "link": "https://www.instagram.com/p/DXKVGHkkQ5_/",
+        "snippet": "Sistema de Ensino Positivo que desenvolve NO UNI TODO CRESCIMENTO É ÚNICO! ... Bento Gonçalves e o 1º lugar em Redação. Em 2025, avançamos ...",
+        "date": "há 3 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Santa Catarina on Instagram: \" 1º LUGAR EM ...",
+        "link": "https://www.instagram.com/reel/DbJf4NjPUjB/",
+        "snippet": "... material didático ... Enem 2k26 1º lugar no estado do Paraná é Poliedro Sistema de Ensino COLÉGIO DO BOSQUE MANANCIAIS Poliedro Sistema de Ensino ...",
+        "date": "há 1 dia",
+        "position": 3
+      },
+      {
+        "title": "Matrícula Inicial por etapa e/ou modalidade de ensino - 2014",
+        "link": "https://servicos.educacao.rs.gov.br/dados/estatisticas_mi_par_2014.pdf",
+        "snippet": "43008895 ESCOLA DE ENSINO MEDIO IMPULSO AO SABER. Urbana. 0. 0. 354. 117. 0. 0. 0 ... 43009743 FACULDADE TECNOLOGIA TECBRASIL - UNIDADE BENTO GONCALVES. Urbana.",
+        "position": 4
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL. PB. 7312. SUELI ... EE BENTO GONCALVES. MG. 7437. EE JERONIMO ARANTES. MG. 7438. LUIZ CESAR COUTO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

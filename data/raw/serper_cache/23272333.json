@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "23272333",
+  "NO_ENTIDADE": "FARIAS BRITO COLEGIO PRE-VESTIBULAR CENTRAL",
+  "cidade": "Fortaleza",
+  "query": "\"FARIAS BRITO COLEGIO PRE-VESTIBULAR CENTRAL\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"FARIAS BRITO COLEGIO PRE-VESTIBULAR CENTRAL\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-CE.2.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões · Apostilas do PIC ... FARIAS BRITO COLEGIO PRE-VESTIBULAR CENTRAL, P, FORTALEZA, CE, ---, Sim. PEDRO ...",
+        "position": 1
+      },
+      {
+        "title": "Destaque Enem 2025 - Redação! #VemSerGrande # ...",
+        "link": "https://www.instagram.com/reel/DTlJAb8gD-Y/",
+        "snippet": "Fortaleza lidera em número de escolas no top 100 com quatro instituições: EEM Doutor César Cals (51º), Colégio da Polícia Militar General ...",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "OURO PRATA",
+        "link": "https://antigo.onciencias.org/resultados/download/16",
+        "snippet": "AMADEU GOMES DE BARROS LEAL BISNETO FARIAS BRITO COLEGIO PRE-VESTIBULAR CENTRAL FORTALEZA ... SISTEMA DE ENSINO EQUIPE ANANINDEUA EIRELLI. ANANINDEUA. PA. 27 ...",
+        "position": 3
+      },
+      {
+        "title": "O futuro do seu filho começa aqui! No Colégio Impacto, unimos ...",
+        "link": "https://www.instagram.com/reel/DN0oVEDwH-P/",
+        "snippet": "... Fortaleza ... Fortaleza 4 Ari De Sa Cavalcante - Major Facundo Fortaleza 5 Farias Brito Colegio Pre-vestibular Central ... Todo o material didático é focado ...",
+        "position": 4
+      },
+      {
+        "title": "Redação ENEM 2024: Ranking de Escolas",
+        "link": "https://enemranking-sdx7pmwy.manus.space/",
+        "snippet": "Ranking de Escolas 2024 ; 4º. FARIAS BRITO COLEGIO DE APLICACAO. CAMPEÃ CE #2 (10+)30 alunosCE · Fortaleza. CE ; 7º. SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

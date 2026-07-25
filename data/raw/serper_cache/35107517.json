@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35107517",
+  "NO_ENTIDADE": "SANTA MARIA COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"SANTA MARIA COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SANTA MARIA COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ressurreição Santa Maria on Instagram: \" No Colégio ...",
+        "link": "https://www.instagram.com/reel/DPJZhpZCXA_/",
+        "snippet": "... material didático Poliedro – um dos melhores do Brasil , além dos ... Santa Maria. Colégio Ressurreição Santa Maria, seu futuro começa aqui.",
+        "date": "há 9 meses",
+        "position": 1
+      },
+      {
+        "title": "Matrículas 2026 abertas no Colégio Santa Maria! Aqui, ...",
+        "link": "https://www.instagram.com/p/DOPIRaugQgr/",
+        "snippet": "Santa Maria Colégio Universo Juntos somos o Universo Ele Vive! Nossa ... Com o Sistema de Ensino Polígono e uma proposta pedagógica que ...",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "UNIVERSIDADE FEDERAL DE SANTA MARIA COLÉGIO ...",
+        "link": "https://www.academia.edu/22408209/UNIVERSIDADE_FEDERAL_DE_SANTA_MARIA_COL%C3%89GIO_T%C3%89CNICO_INDUSTRIAL_DE_SANTA_MARIA_Curso_de_Eletrot%C3%A9cnica_Apostila_de_Automa%C3%A7%C3%A3o_Industrial",
+        "snippet": "UNIVERSIDADE FEDERAL DE SANTA MARIA COLÉGIO TÉCNICO INDUSTRIAL DE SANTA MARIA Curso de Eletrotécnica Apostila de Automação Industrial.",
+        "position": 3
+      },
+      {
+        "title": "Colégio OBJETIVO Santa Maria on Instagram: \"Está na hora ...",
+        "link": "https://www.instagram.com/reel/DPjKjRejRk0/",
+        "snippet": "... MATERIAL DIDÁTICO VEM PARA O Mundo do Saber SÓ FALTA VOCÊ Mundo do ... Santa Maria Colégio Universo Juntos somos o Universo Ele Vive!",
+        "date": "há 9 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Ressurreição Santa Maria – Colégio Ressurreição ...",
+        "link": "https://santamariadaressurreicao.com.br/",
+        "snippet": "19814-400, na cidade de Assis, Estado de São Paulo. É uma instituição ... O material didático do Poliedro, a metodologia dos professores e educadores ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

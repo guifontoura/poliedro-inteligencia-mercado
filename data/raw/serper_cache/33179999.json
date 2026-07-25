@@ -1,0 +1,32 @@
+{
+  "codigo_escola": "33179999",
+  "NO_ENTIDADE": "LME 542 EMPREENDIMENTOS EDUCACIONAIS SS LTDA",
+  "cidade": "Niterói",
+  "query": "\"LME 542 EMPREENDIMENTOS EDUCACIONAIS SS LTDA\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LME 542 EMPREENDIMENTOS EDUCACIONAIS SS LTDA\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/17obmep/verRelatorioPremiadosMencao-RJ.3.privada.do.htm",
+        "snippet": "SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Sim. MARIA LUIZA ... LME 542 EMPREENDIMENTOS EDUCACIONAIS SS LTDA, P, NITERÓI, RJ, Sim. 28, ARTHUR ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas de Niterói apontam fatores de sucesso no Enem",
+        "link": "https://aseguirniteroi.com.br/noticias/enem-2024-niteroi-fica-atras-apenas-do-rio-confira-a-estrategia-das-escolas/",
+        "snippet": "Canadian School Of Niterói – Itacoatiara – Nota: 685,88; Lme 542 Empreendimentos Educacionais Ss Ltda – Itaipu – Nota: 678,35; Associação ...",
+        "date": "17 de jul. de 2025",
+        "position": 2
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35114832",
+  "NO_ENTIDADE": "PEQUENO PRINCIPE COLEGIO",
+  "cidade": "Ribeirão Preto",
+  "query": "\"PEQUENO PRINCIPE COLEGIO\" \"Ribeirão Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PEQUENO PRINCIPE COLEGIO\" \"Ribeirão Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "CIE ESCOLA MUNICÍPIO",
+        "link": "https://midiasstoragesec.blob.core.windows.net/001/2024/03/escolas_privadas_2024_derpt_22-03-2024.pdf",
+        "snippet": "CAPELLA KIDS SISTEMA DE ENSINO EIRELI- ME. RIBEIRAO PRETO. 262985. CARLA ... COC RIBEIRÃO PRETO - REDE ÚNICA DE EDUCAÇÃO UNIDADE. 02. RIBEIRAO PRETO. 7840.",
+        "position": 1
+      },
+      {
+        "title": "Colégio Pequeno Príncipe on Instagram: \"Entrando na trend ...",
+        "link": "https://www.instagram.com/reel/DWE8-rZjdlG/",
+        "snippet": "em Ribeirão Preto a melhor escola que tem... é o Pequeno Príncipe ... CULTURA INGLESA SISTEMA DE ENSINO anglo escola da inteligência PEQUENO ...",
+        "date": "há 4 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Pequeno Príncipe, situado no bairro Paredões",
+        "link": "https://www.instagram.com/p/DW8rURSjpju/",
+        "snippet": "Colégio Pequeno Príncipe Colégio Pequeno Príncipe E with a diagonal slash ...",
+        "date": "há 3 meses",
+        "position": 3
+      },
+      {
+        "title": "Desde agosto, as Oficinas de Inglês do Programa ...",
+        "link": "https://www.instagram.com/reel/DQwxuYDDiKd/",
+        "snippet": "... material didático da Cambridge University Press & Assessment, aliado à metodologia PES. ... Ribeirão Preto - SP - Est. 1968 Ensino Médio ...",
+        "date": "há 8 meses",
+        "position": 4
+      },
+      {
+        "title": "Ribeirão Preto 499 escolas",
+        "link": "https://qedu.org.br/municipio/3543402-ribeirao-preto/busca",
+        "snippet": "CAPELLA KIDS SISTEMA DE ENSINO EIRELI ME. HENRIQUE FRANCO, 145. ALTO DA BOA VISTA. 14025280 Ribeirão Preto - São Paulo. Rede privada / Urbana · CARACOL BABY ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

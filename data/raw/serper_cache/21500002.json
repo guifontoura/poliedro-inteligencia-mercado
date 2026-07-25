@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "21500002",
+  "NO_ENTIDADE": "COLEGIO DOM BOSCO BALSAS",
+  "cidade": "Balsas",
+  "query": "\"COLEGIO DOM BOSCO BALSAS\" \"Balsas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DOM BOSCO BALSAS\" \"Balsas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Gestão e caracterização dos resíduos sólidos no colégio ...",
+        "link": "https://www.researchgate.net/publication/359530427_Gestao_e_caracterizacao_dos_residuos_solidos_no_colegio_Dom_Bosco_Balsas_em_Balsas-MA",
+        "snippet": "de MVE Martins · 2022 · Citado por 1 — Gestão e caracterização dos resíduos sólidos no colégio Dom Bosco Balsas, em Balsas-MA ... Material didático a ser utilizado como.",
+        "position": 1
+      },
+      {
+        "title": "O Colégio Dom Bosco Balsas recebe extasiado de alegria ...",
+        "link": "https://www.instagram.com/p/C6wuH2HgYhF/",
+        "snippet": "... Colégio Dom Bosco Balsas como líder em Educação de Balsas e região. ... Olívia e Ricardo ao lado dos diretores do SAE Digital, sistema de ensino ...",
+        "date": "há 2 anos",
+        "position": 2
+      },
+      {
+        "title": "Regras do Sorteio do Material Didático • Quem pode ...",
+        "link": "https://www.instagram.com/reel/DQby2pmDLpZ/",
+        "snippet": "Regras do Sorteio do Material Didático ... Escola Santa Teresinha – Imperatriz – Centro – Nota: 663.41. Colegio Dom Bosco Balsas – Balsas – Centro ...",
+        "date": "há 8 meses",
+        "position": 3
+      },
+      {
+        "title": "Salesiano Campos on Instagram: \"[1° LUGAR EM REDAÇÃO ...",
+        "link": "https://www.instagram.com/reel/DaP4dDYR9Kq/",
+        "snippet": "Escola Santa Teresinha – Imperatriz – Centro – Nota: 663.41. Colegio Dom Bosco Balsas – Balsas – Centro – Nota: 660.38 ... SISTEMA DE ENSINO ...",
+        "date": "há 3 semanas",
+        "position": 4
+      },
+      {
+        "title": "Reel by CETI Inês Rocha (@ceti.inesrocha) · June 23, 2026",
+        "link": "https://www.instagram.com/reel/DZ74ejah16R/",
+        "snippet": "COLÉGIO Omega SISTEMA DE ENSINO ... Escola Santa Teresinha – Imperatriz – Centro – Nota: 663.41. Colegio Dom Bosco Balsas – Balsas – Centro – Nota ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

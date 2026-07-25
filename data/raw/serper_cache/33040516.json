@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "33040516",
+  "NO_ENTIDADE": "COLEGIO IPIRANGA",
+  "cidade": "Petrópolis",
+  "query": "\"COLEGIO IPIRANGA\" \"Petrópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO IPIRANGA\" \"Petrópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Rua de Lazer do SANFRA! Traga a família, convide os amigos ...",
+        "link": "https://www.instagram.com/reel/DVi6mCxElXN/",
+        "snippet": "Sacre Coeur des Enfants Sistema de Ensino Anglo Capão Bonito - SP SCE ... COLÉGIO SANTA CATARINA PETRÓPOLIS ENCANTOS JUNINOS! Cuidar, educar e ...",
+        "date": "há 4 meses",
+        "position": 1
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3303906-petropolis/busca",
+        "snippet": "BONSUCESSO SISTEMA DE ENSINO CESTEC. UNIAO E INDUSTRIA, 7046 - 2 PAVIMENTO ... COLEGIO IPIRANGA. DA IMPERATRIZ, 296. CENTRO. 25610320 Petrópolis - Rio de ...",
+        "position": 2
+      },
+      {
+        "title": "CNEC Educação - ENEM",
+        "link": "https://enem.cneceduca.com.br/",
+        "snippet": "Colegio Ipiranga, Privada, Petrópolis, RJ, 27, 633,59, 619,04, 655,66, 814,72, 879,26 ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line Alexandria CNEC ...",
+        "position": 3
+      },
+      {
+        "title": "Quase 100 anos no Ipiranga. Sempre atual. No SANFRA ...",
+        "link": "https://www.instagram.com/reel/DNWXlfzR1UW/",
+        "snippet": "PROJETO BILÍNGUE CULTURA MAKER SISTEMA DE ENSINO POLIEDRO EDUCAÇÃO ... Os alunos do Ensino Médio do Colégio Petrópolis, de São Bernardo ...",
+        "date": "há 11 meses",
+        "position": 4
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... COLEGIO IPIRANGA. Petrópolis. RJ. 690,9. 819,5. 674,0. 682,0. 634,0. 774,0. 32 COL ... SISTEMA DE ENSINO. EQUIPE. Belém. PA. 630,1. 816,5. 651,0. 613,0. 587,0.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

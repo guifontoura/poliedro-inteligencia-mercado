@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33176760",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL DA LAGOA",
+  "cidade": "Rio de Janeiro",
+  "query": "\"CENTRO EDUCACIONAL DA LAGOA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL DA LAGOA\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "falta de acesso a plataforma digital SAS por exigência ...",
+        "link": "https://www.reclameaqui.com.br/cel-centro-educacional-da-lagoa/falta-de-acesso-a-plataforma-digital-sas-por-exigencia-de-compra-de-livros-na-propria-escola_-5AKO-cPhCMTtsA8/",
+        "snippet": "Como o material didático ... Seja cessada a prática abusiva de vinculação do acesso ao sistema de ensino à compra exclusiva de livros na escola. ... CEL Centro ...",
+        "position": 1
+      },
+      {
+        "title": "Lucio Sebastião Coelho da Silva",
+        "link": "https://www.escavador.com/sobre/6289276/lucio-sebastiao-coelho-da-silva",
+        "snippet": "... Rio de Janeiro e em turmas de Ensino Médio do CEL (Centro Educacional da Lagoa) ... Apostila de Matemática da 3ª Série do Ensino Médio. 2017 ...",
+        "position": 2
+      },
+      {
+        "title": "2024 INFORMATIVO",
+        "link": "https://cel.com.br/wp-content/uploads/2024/05/2024-INFORMATIVO.pdf",
+        "snippet": "O Centro Educacional da Lagoa - CEL tem uma equipe de gestores e de ... Estado do Rio de Janeiro. A renovação da matrícula só é efetivada, não havendo ...",
+        "position": 3
+      },
+      {
+        "title": "Hellen Borges Ferraz Batista",
+        "link": "https://br.linkedin.com/in/hellen-borges-ferraz-batista-5981a2338",
+        "snippet": "Hellen Borges Ferraz Batista. --. Sistema de Ensino GPI Estácio. Rio de Janeiro, Rio de Janeiro, Brasil. 2 seguidores 2 conexões. Veja suas conexões em comum ...",
+        "position": 4
+      },
+      {
+        "title": "Quem está preparado para amanhã? Vamos rever amigos ...",
+        "link": "https://www.instagram.com/reel/DUOl7dREfye/",
+        "snippet": "... Rio de Janeiro entre 1.693 escolas 1º Lugar da Redação na Grande ... Centro Educacional da Lagoa - 677,82 8. Escola Eleva - Barra da ...",
+        "date": "há 5 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

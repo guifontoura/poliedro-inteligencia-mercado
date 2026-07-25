@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "42091578",
+  "NO_ENTIDADE": "COLEGIO EVANGELICO JARAGUA",
+  "cidade": "Jaraguá do Sul",
+  "query": "\"COLEGIO EVANGELICO JARAGUA\" \"Jaraguá do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO EVANGELICO JARAGUA\" \"Jaraguá do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colegio Evangelico Jaragua | Bolsas de Estudo em ...",
+        "link": "https://www.melhorescola.com.br/escola/colegio-evangelico-jaragua",
+        "snippet": "Garanta sua bolsa de estudos em Colegio Evangelico Jaragua, Jaraguá do Sul - SC ... Banda larga; Internet; Lixo reciclável. Sistema de ensino. Anglo (Somos). O ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Evangélico Jaraguá abre datas para matrícula e ...",
+        "link": "https://ocp.news/cotidiano/colegio-evangelico-jaragua-abre-datas-para-matricula-e-rematricula-de-alunos-confira",
+        "snippet": "... Jaraguá do Sul, está com as vagas abertas para matrículas e rematrículas. O Colégio Evangélico Jaraguá ... Material didático Anglo ...",
+        "date": "26 de out. de 2021",
+        "position": 2
+      },
+      {
+        "title": "Colégio Evangélico Jaraguá promove II Simpósio de Práticas ...",
+        "link": "https://www.diariodajaragua.com.br/educacao/colegio-evangelico-jaragua-promove-ii-simposio-de-praticas-pedagogicas/477284/",
+        "snippet": "A coordenadora pedagógica geral do Colégio Evangélico Jaraguá ... Com o tema “Compartilhando práticas significativas – um olhar para além do material didático!",
+        "position": 3
+      },
+      {
+        "title": "Colegio Evangelico Jaragua - — CNPJ 84433945000359",
+        "link": "https://www.econodata.com.br/consulta-empresa/84433945000359-comunidade-evangelica-luterana-de-jaragua-do-sul",
+        "snippet": "Consulte Colegio Evangelico Jaragua: CNPJ 84.433.945/0003-59, sede em Jaraguá do Sul/SC. CNAE: P-8512-1/00. Veja sócios, decisores e faturamento.",
+        "position": 4
+      },
+      {
+        "title": "Escolas em Jardim Ipiranga na cidade de Campinas",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/campinas-sp/jardim-ipiranga",
+        "snippet": "Colégio Conexão - Jaraguá Do Sul. 4.7(5). Vila Lenzi - Jaraguá do Sul - SC ... Colegio Evangelico Jaragua. 4.9(4). Centro - Jaraguá do Sul - SC. Saiba mais.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

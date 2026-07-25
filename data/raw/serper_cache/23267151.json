@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "23267151",
+  "NO_ENTIDADE": "NOVA DIMENSAO COLEGIO",
+  "cidade": "Fortaleza",
+  "query": "\"NOVA DIMENSAO COLEGIO\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"NOVA DIMENSAO COLEGIO\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Recredencia as instituições privada",
+        "link": "https://www.ce.gov.br/cge/wp-content/uploads/sites/85/2021/03/PAR.0443.2021.Escolas-pertencentes-ao-Sistema-de-Ensino-do-Estado-do-Ceara-mesclado.pdf",
+        "snippet": "ao Sistema de Ensino do Estado do Ceará, sejam o marco ... Fortaleza. 23330414 VITORIA SANTOS ESCOLA. 896. SEFOR 3. Fortaleza. 23317019 ZURIEL COLÉGIO.",
+        "position": 1
+      },
+      {
+        "title": "https://www.cearatransparente.ce.gov.br/attachment...",
+        "link": "https://www.cearatransparente.ce.gov.br/attachments/2dc045f21981672545b4eb43920a25b3ed9c02c8/store/81a43a4b40707d0f843e17d0a75c9666af787c7a466666c1d05501588ab8/atendimento_14168637-1.csv",
+        "snippet": "... Fortaleza\";23064641;\"21 DE ABRIL COLEGIO\";\"Privada\";2;0;0;0;0;0;0;2 21 ... SISTEMA DE ENSINO\";\"Privada\";2;0;0;0;0;0;0;2 22;\"SEFOR 2\";2304400;\"Fortaleza ...",
+        "position": 2
+      },
+      {
+        "title": "Enquanto o curso de idioma costuma focar no ensino da ...",
+        "link": "https://www.instagram.com/p/DWlb_KWDUko/",
+        "snippet": "... nova dimensão! Colégio Connect Anglo / Sistema de Ensino Anglo Na infância, o cérebro apresenta uma grande capacidade para aprender novos ...",
+        "date": "há 3 meses",
+        "position": 3
+      },
+      {
+        "title": "Recredenciamento de Escolas no Ceará | PDF",
+        "link": "https://pt.scribd.com/document/682269706/PAR-0443-2021-Escolas-pertencentes-ao-Sistema-de-Ensino-do-Estado-do-Ceara-mesclado",
+        "snippet": "599. SEFOR 2 Fortaleza 23204540 ALTERNATIVO SISTEMA DE ENSINO 600. SEFOR 2 ... SEFOR 2 Fortaleza 23267151 NOVA DIMENSÃO COLÉGIO 718. SEFOR 2 Fortaleza ...",
+        "position": 4
+      },
+      {
+        "title": "Somos uma escola brasileira, alinhada à BNCC, onde o inglês ...",
+        "link": "https://www.instagram.com/reel/DUk84iDDnwa/",
+        "snippet": "... nova dimensão! Colégio Connect Anglo / Sistema de Ensino Anglo Na infância, o cérebro apresenta uma grande capacidade para aprender novos ...",
+        "date": "há 5 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "21273456",
+  "NO_ENTIDADE": "MAPLE BEAR SAO LUIS",
+  "cidade": "São Luís",
+  "query": "\"MAPLE BEAR SAO LUIS\" \"São Luís\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"MAPLE BEAR SAO LUIS\" \"São Luís\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola Bilingue do Maranhao Maple Bear Sao Luis",
+        "link": "https://www.jusbrasil.com.br/jurisprudencia/busca?q=escola+bilingue+do+maranhao+maple+bear+sao+luis",
+        "snippet": "... MAPLE BEAR SÃO LUÍS ADVOGADOS: IURI MONTEIRO ... material didático produzido no exterior, que será ... Unanimidade. Mostrar mais. Encontrado em: São Luís MA), 16 de ...",
+        "position": 1
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Maple Bear Sao Luis - São Luís - Renascença II - Nota: 705.30. Centro ... Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ...",
+        "date": "23 de jun. de 2026",
+        "position": 2
+      },
+      {
+        "title": "Nossa escola é destaque no ranking ENEM 2025! Somos top ...",
+        "link": "https://www.instagram.com/reel/DNrDHelXuQC/",
+        "snippet": "3º lugar em São Luís 5º lugar no Maranhão É o resultado de anos de dedicação, método e parceria entre alunos, professores e famílias.",
+        "date": "há 11 meses",
+        "position": 3
+      },
+      {
+        "title": "As 3 escolas \"aceleradas\" que lideram o ranking do Enem em ...",
+        "link": "https://www.instagram.com/reel/DaimzUfiMEO/",
+        "snippet": "Salmos 34:8 IPES INSTITUTO PRESBITERIANO DE EDUCAÇÃO SIMONTON SISTEMA DE ENSINO ... MAPLE BEAR SAO LUIS - 705,24 CURTIU ESSE CONTEÚDO SOBRE OS ...",
+        "date": "há 2 semanas",
+        "position": 4
+      },
+      {
+        "title": "Faq: Como estudar na escola Maple Bear São Luís",
+        "link": "https://educacaoeuapoio.com.br/escolas/sem-categoria/como-estudar-na-maple-bear-sao-luis-jardim-renascenca/",
+        "snippet": "... Maple Bear São Luís — Jardim Renascença é a escolha ideal. Essa instituição ... A escola oferece material didático? Sim, a instituição fornece todo o material ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

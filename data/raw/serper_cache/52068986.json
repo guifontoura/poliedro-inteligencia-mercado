@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "52068986",
+  "NO_ENTIDADE": "COLEGIO WR",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO WR\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO WR\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O diretor Rubens Filhos, do @colegiowr, foi muito corajoso ao ...",
+        "link": "https://www.instagram.com/reel/DY4wY8VqxVV/",
+        "snippet": "... Colégio WR já estava na posição 9 no ranking nacional do Enem ... 1º Lugar Em Goiânia no ENEM 2025 por porte Goiás Goiânia De 30 a 59 ...",
+        "position": 1
+      },
+      {
+        "title": "Materiais de estudo de Colégio WR - Goiânia",
+        "link": "https://www.studocu.com/pt-br/high-school/colegio-wr/567190",
+        "snippet": "Colégio WR - Goiânia. Colégio WR - Goiânia. 11 documentos Mais documentos em ... Apostila AcadêmicaEstudo sobre Poluição Ambiental e seus Efeitos na Saúde.",
+        "position": 2
+      },
+      {
+        "title": "Mariana Soares, Extensivo ✅ Nicolas Moreira, 3ª série ...",
+        "link": "https://www.instagram.com/p/DTfeRF4ibtS/",
+        "snippet": "E algo que me ajudou muito aqui na Galileu foi essa apostila produzida pelo Professor Estefânio. E ela tem as últimas edições do vestibular, ...",
+        "date": "há 6 meses",
+        "position": 3
+      },
+      {
+        "title": "COLEGIO WR LTDA Assunto: Escola Notificada por ...",
+        "link": "https://goias.gov.br/cee/wp-content/uploads/sites/20/2023/11/2020-20-cp-parecer.pdf",
+        "snippet": "Parecer aprovado por unanimidade. SALA DAS SESSÕES DO CONSELHO ESTADUAL DE EDUCAÇÃO DE. GOIÁS, em Goiânia, aos 28 dias do mês de agosto de 2020.",
+        "position": 4
+      },
+      {
+        "title": "Regimento Interno",
+        "link": "https://www.colegiowr.com.br/wp-content/uploads/2024/05/Regimento-Interno-Colegio-WR-2024.pdf",
+        "snippet": "2 - O Colégio WR, localiza-se na Rua T-28, N. 1.813 Quadra 87, Lotes 14/17, Setor Bueno,. Goiânia, Estado de Goiás, CEP 74.215-040. Art. 3 - O Colégio WR ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

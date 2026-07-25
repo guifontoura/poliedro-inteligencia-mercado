@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35125982",
+  "NO_ENTIDADE": "COLEGIO PORTO ALVORADA ENSINO FUNDAMENTAL E MEDIO",
+  "cidade": "Jaú",
+  "query": "\"COLEGIO PORTO ALVORADA ENSINO FUNDAMENTAL E MEDIO\" \"Jaú\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PORTO ALVORADA ENSINO FUNDAMENTAL E MEDIO\" \"Jaú\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Medalhistas de Ouro por Escola | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536524033/Premiacao-3%C2%BA-Ano-Em-Nivel-d-2019-1",
+        "snippet": "LARA MORENO GOMES COLEGIO PORTO ALVORADA - ENSINO FUNDAMENTAL E MEDIO SÃO PAULO Jaú FELIPE HENRIQUE KLAWA MIRANDA COLEGIO DE EIFM SÃO PAULO São Paulo ANA ...",
+        "position": 1
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/31/PREMIA%C3%87%C3%83O%209%C2%BA%20ANO%20EF%20NIVEL%20A%202019.pdf",
+        "snippet": "COLEGIO PORTO ALVORADA - ENSINO FUNDAMENTAL E MEDIO. SÃO PAULO. Jaú. JÚLIA ROCHA CARNIEL. SANTA URSULA RIBEIRAO PRETO EI EF EM INSTITUTO. SÃO PAULO. Ribeirão ...",
+        "position": 2
+      },
+      {
+        "title": "exercicios de biologia | Exercícios Biologia",
+        "link": "https://www.docsity.com/pt/docs/exercicios-de-biologia-10/5870529/",
+        "snippet": "... COLEGIO PORTO ALVORADA - ENSINO FUNDAMENTAL E MEDIO SÃO PAULO Jaú JÚLIA ... SISTEMA DE ENSINO MATO GROSSO Cuiabá RENATA ABDUL LUCCHESI KADRI COLEGIO MARIA ...",
+        "position": 3
+      },
+      {
+        "title": "Relatório de Diagnostico Escolar",
+        "link": "https://relatoriodiagnostico.ensinamais.com.br/",
+        "snippet": "Zeta Sistema de Ensino de Birigui, Sesi 148 Centro Educacional, Stelio Machado ... COLEGIO PORTO ALVORADA ENSINO FUNDAMENTAL E MEDIO, COLEGIO SAO LUCAS ...",
+        "position": 4
+      },
+      {
+        "title": "Ensino de idiomas",
+        "link": "https://www.supraverso.com.br/bd/8593700/classificados_8593700_SP_J.html",
+        "snippet": "ícone Jaú. SP. Jaú. 27.607.049 BRENO BRASIL VASCONCELLOS RUA OSORIO MIGLIORINI ... COLEGIO PORTO ALVORADA - ENSINO FUNDAMENTAL E MEDIO / GRIZZO & LIMA LTDA",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

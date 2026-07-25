@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "29182409",
+  "NO_ENTIDADE": "COLEGIO MODULO",
+  "cidade": "Salvador",
+  "query": "\"COLEGIO MODULO\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MODULO\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Módulo on Instagram: \"A cara nova do nosso dia ...",
+        "link": "https://www.instagram.com/p/DPEaNRbjsM3/",
+        "snippet": "... Colégio Módulo chegou para unir conforto, modernidade e identidade ... Salvador, Bahia, Brazil.",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "Uma escola completa com o que temos de melhor: nossos ...",
+        "link": "https://www.instagram.com/reel/DL7Kr7oAAQh/",
+        "snippet": "Mas com um sistema de ensino forte e professores capacitados, a gente aprende de verdade! ... Colégio Módulo. A escola da sua vida. View ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Colégio Vilas on Instagram: \"Colégio Vilas: faça a melhor ...",
+        "link": "https://www.instagram.com/reel/DT_HTEpkvE3/",
+        "snippet": "... salvador colegio educacao educacaoemsalvador academico imbuínoticias aquinoimbui ... No Sistema de Ensino Piaget, trabalhamos com a ...",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "26 Anos do Colégio Módulo!",
+        "link": "https://portalmodulo.com.br/colegio/detalhe/26-anos-do-colegio-modulo-",
+        "snippet": "... Salvador a ter um Teatro e uma Sala de Exposições – a Sala Carlos Bastos. Seguindo a linha da inovação, o Colégio Módulo passou a fazer ...",
+        "date": "10 de out. de 2018",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "COLEGIO MODULO, P, SALVADOR, BA, Bronze. EDUARDO TORRES BEATRIZ, COLEGIO ENERGIA ATIVA - EDUCACAO INFANTIL ENSINO FUNDAMENTAL E MEDIO, P, CURITIBA, PR, Bronze.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

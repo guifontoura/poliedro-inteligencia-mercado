@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "23077557",
+  "NO_ENTIDADE": "COLEGIO 7 DE SETEMBRO",
+  "cidade": "Fortaleza",
+  "query": "\"COLEGIO 7 DE SETEMBRO\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO 7 DE SETEMBRO\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Lista de reclamações: Colegio 7 de Setembro",
+        "link": "https://www.reclameaqui.com.br/empresa/colegio-7-de-setembro/lista-reclamacoes/",
+        "snippet": "Quer saber os principais motivos de reclamações recebidas pela empresa Colegio 7 de Setembro? Veja a lista completa no Reclame AQUI ... Ensino fraco E apostila ...",
+        "position": 1
+      },
+      {
+        "title": "Colegio 7 de Setembro Logo Download png",
+        "link": "https://iconape.com/colegio-7-de-setembro-logo-logo-icon-svg-png.html",
+        "snippet": "Colegio 7 de Setembro Logo Logo vector,Colegio 7 de Setembro Logo ... fortaleza Logo ,Logo , icon , SVG colegio militar de fortaleza Logo · Sistema de Ensino ...",
+        "position": 2
+      },
+      {
+        "title": "um resultado do ENEM que reflete foco, preparo e constância. 🧮 ...",
+        "link": "https://www.instagram.com/p/DTs7ck_DvyR/",
+        "snippet": "... Colégio 7 de Setembro, cada conquista é celebrada ... SISTEMA DE ENSINO POSITIVO SEJA BEM VINDA, SUA ... apostila, mostrando o que os alunos já desenvolveram.",
+        "position": 3
+      },
+      {
+        "title": "O futuro do seu filho começa aqui! No Colégio Impacto, unimos ...",
+        "link": "https://www.instagram.com/reel/DN0oVEDwH-P/",
+        "snippet": "... Fortaleza 3 Christus Colegio Pre Universitario ... Colegio 7 De Setembro Fortaleza 10 Ari De Sa ... Todo o material didático é focado justamente nas questões que ...",
+        "position": 4
+      },
+      {
+        "title": "Colegio 7 de Setembro - Processos",
+        "link": "https://www.jusbrasil.com.br/processos/nome/56919464/colegio-7-de-setembro",
+        "snippet": "Colegio 7 de Setembro. O Jusbrasil encontrou 18 processos que mencionam ... TJCE · Fortaleza, CE. Cível · Usucapião Ordinária. Ver processo · Processo nº ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

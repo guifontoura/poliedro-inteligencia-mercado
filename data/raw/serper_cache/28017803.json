@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "28017803",
+  "NO_ENTIDADE": "COLEGIO DE CIENCIAS PURA E APLICADA",
+  "cidade": "Aracaju",
+  "query": "\"COLEGIO DE CIENCIAS PURA E APLICADA\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DE CIENCIAS PURA E APLICADA\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Sistema de ensino com diferenciais do SAE Digital",
+        "link": "https://ccpa.com.br/ccpa-traz-um-novo-formato-em-sistema-de-ensino-com-diferenciais-do-sae-digital/",
+        "snippet": "Como apoio, utilizamos o material didático atualizado em uma versão premium ... ©2026 Colégio de Ciências Pura e Aplicada. Todos os direitos reservados ...",
+        "position": 1
+      },
+      {
+        "title": "SAE Digital | Uma parceria de sucesso com o Colégio CCPA ...",
+        "link": "https://www.youtube.com/watch?v=QNbJ72x3oz8",
+        "snippet": "Leonardo Matos, Coordenador Pedagógico do Colégio de Ciências Pura e Aplicada – CCPA, de Aracaju (SE), escola com quase 50 anos de história, ...",
+        "date": "há 2 anos",
+        "position": 2
+      },
+      {
+        "title": "Drive-Thru das Emoções - CCPA - Aracaju-SE",
+        "link": "https://www.sistemafb.com.br/drive-thru-das-emocoes-ccpa-aracaju-se/",
+        "snippet": "... Colégio de Ciências Pura e Aplicada – CCPA, nosso parceiro de Aracaju-SE, idealizado pelo professor Leonardo Matos Feitoza. Projeto: Drive ...",
+        "date": "25 de ago. de 2021",
+        "position": 3
+      },
+      {
+        "title": "3º Exame Nacional dos Cartórios ocorrerá no domingo, 14 ...",
+        "link": "https://www.instagram.com/p/DZaDSutxxqL/",
+        "snippet": "... Aracaju, 102 inscritos farão a prova no CCPA – Colégio de Ciências Pura e Aplicada ... Material Didático Exclusivo ✓ Simulados com Feedback ...",
+        "position": 4
+      },
+      {
+        "title": "Secretaria",
+        "link": "https://ccpa.com.br/secretaria-2/",
+        "snippet": "Rua José Alencar Cardoso Neto, 67 - Grageru - Aracaju - SE - CEP: 49025770 ... ©2026 Colégio de Ciências Pura e Aplicada. Todos os direitos reservados ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

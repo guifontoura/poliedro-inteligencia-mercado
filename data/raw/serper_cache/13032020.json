@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "13032020",
+  "NO_ENTIDADE": "LAVINIENSE ENSINO INTEGRADO E CE PINGO DE GENTE",
+  "cidade": "Manaus",
+  "query": "\"LAVINIENSE ENSINO INTEGRADO E CE PINGO DE GENTE\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LAVINIENSE ENSINO INTEGRADO E CE PINGO DE GENTE\" \"Manaus\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Pingo de Gente e Laviniense ® on Instagram: \"Todos os dias ...",
+        "link": "https://www.instagram.com/reel/DR2v_SoEVcx/",
+        "snippet": "A MELHOR de Manaus. maira_guim. AMO FAZER PARTE DA MELHOR ... No Sistema de Ensino Piaget, trabalhamos com a metodologia ...",
+        "date": "há 7 meses",
+        "position": 1
+      },
+      {
+        "title": "Olá, família Laviniense. 👋 Nossos alunos dos 1º anos ...",
+        "link": "https://www.instagram.com/p/DNiZJevTDTh/",
+        "snippet": "... Manaus, localizado no coração do Centro Histórico da cidade. 🏛️ ... História: Daniel Ribeiro SISTEMA DE ENSINO EVOLUÇÃO. Evoluir é ...",
+        "date": "há 11 meses",
+        "position": 2
+      },
+      {
+        "title": "Olá, família Laviniense. Nosso Projeto Junino está chegando ...",
+        "link": "https://www.instagram.com/reel/DZ5AI2cigKS/",
+        "snippet": "Vem pro melhor São João escolar de Manaus: comidas típicas ... doce vida sistema de ensino ESCOLA MAKER DOCE VIDA NA COPA JOGAMOS ...",
+        "position": 3
+      },
+      {
+        "title": "Ac24horas on Instagram: \"Durante entrevista ao programa Bar ...",
+        "link": "https://www.instagram.com/reel/DUl-5g5lZEm/",
+        "snippet": "... material didático de qualidade. #bardovaz # ... O debate se amplia pelo valor das mensalidades em Manaus, semelhantes ou superiores às de ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "10 melhores escolas particulares em Manaus - Revista ME",
+        "link": "https://www.melhorescola.com.br/artigos/as-10-melhores-escolas-particulares-de-manaus-segundo-pais-alunos-e-professores",
+        "snippet": "Quais são as melhores escolas particulares de Manaus pelo Enem? ; 4. Laviniense Ensino Integrado e CE Pingo de Gente. Manaus ; 5. Centro ...",
+        "date": "2 de mai. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

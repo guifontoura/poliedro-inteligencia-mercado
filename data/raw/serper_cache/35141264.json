@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35141264",
+  "NO_ENTIDADE": "DOMINUS VIVENDI COLEGIO EIFM",
+  "cidade": "São Paulo",
+  "query": "\"DOMINUS VIVENDI COLEGIO EIFM\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"DOMINUS VIVENDI COLEGIO EIFM\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas em Vila Mascote na cidade de São Paulo",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/sao-paulo-sp/vila-mascote",
+        "snippet": "Dominus Vivendi Colegio Eifm. Sem avaliações. Vila Mascote - São Paulo ... Material Didático Incluso. Vagas 2026. Vagas 2026. R$ 2.847,94. R$ 1.993,56 /mês ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas em Vila Mascote - São Paulo - SP",
+        "link": "https://www.melhorescola.com.br/busca/sao-paulo/sao-paulo/vila-mascote",
+        "snippet": "Dominus Vivendi Colegio Eifm. Sem avaliações. Vila Mascote - São Paulo ... Material Didático Incluso. Vagas 2026. Vagas 2026. R$ 2.847,94. R$ 1.993,56 /mês ...",
+        "position": 2
+      },
+      {
+        "title": "OBMEP 2019 - Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/2019/verRelatorioPremiadosMencao-SP.3.privada.do.htm",
+        "snippet": "LICEU DE ARTES E OFICIOS DE SAO PAULO ESCOLA TECNICA, P, SÃO PAULO, SP, Sim ... COLEGIO KELVIN SISTEMA DE ENSINO CATANDUVA, P, CATANDUVA, SP, Sim. 317, ANDRE ...",
+        "position": 3
+      },
+      {
+        "title": "Doce Infancia Bercario e Educação Infantil - São Paulo - SP",
+        "link": "https://www.escol.as/279928-doce-infancia-bercario-e-educacao-infantil",
+        "snippet": "... Dominus Vivendi Colegio Eifm. Vila Mascote, São Paulo - SP · Educação Infantil. Nucleo de Educação Infantil Primeiros Passos. Vila Alexandria, São Paulo - SP.",
+        "position": 4
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "DOMINUS VIVENDI COLEGIO EIFM 21 São Paulo SP COLEGIO ADVENTISTA CENTENARIO ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

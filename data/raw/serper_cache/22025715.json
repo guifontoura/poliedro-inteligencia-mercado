@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "22025715",
+  "NO_ENTIDADE": "COLEGIO PROPOSITO",
+  "cidade": "Teresina",
+  "query": "\"COLEGIO PROPOSITO\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PROPOSITO\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Propósito | Escola Particular em Teresina, PI",
+        "link": "https://www.colegioproposito.com/",
+        "snippet": "Estrutura e Material Didático. Ambiente de aprendizado faz a diferença. O Colégio Propósito possui uma estrutura moderna, com salas projetadas para ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Propósito | No Colégio Propósito, acreditamos que a ...",
+        "link": "https://www.instagram.com/reel/DN0JBUeXIAl/",
+        "snippet": "COOPERELP SISTEMA DE ENSINO anglo ORGULHO EM SER A ESCOLA COOPERATIVA DE LENÇÓIS PAULISTA ... Material didático de alta qualidade. ‍ Equipe ...",
+        "date": "há 11 meses",
+        "position": 2
+      },
+      {
+        "title": "O Colégio Propósito é Top 2 no ENEM entre as escolas de ...",
+        "link": "https://www.instagram.com/p/Daf8aNyFuRh/",
+        "snippet": "... Teresina/PI | 752,1 | 188 2 Colégio Propósito Dif | Teresina/PI ... Poliedro Sistema de Ensino. 1º lugar em Timon e entre as 15 ...",
+        "date": "há 2 semanas",
+        "position": 3
+      },
+      {
+        "title": "Colégio Propósito | Prezados pais e responsáveis, Esta ...",
+        "link": "https://www.instagram.com/reel/C36RUmirgD2/",
+        "snippet": "Agora o Colégio Objetivo em Teresina é Colégio Propósito, uma nova ... Sistema de Ensino Bernoulli e à tradicional certificação de ...",
+        "date": "há 2 anos",
+        "position": 4
+      },
+      {
+        "title": "Ielcast on Instagram: \"ENSINO QUE TRANSFORMA O ...",
+        "link": "https://www.instagram.com/reel/DbJl1C9x6Rh/",
+        "snippet": "... Colégio Propósito segue formando estudantes preparados para os ... Teresina #Piauí\".",
+        "date": "há 1 dia",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

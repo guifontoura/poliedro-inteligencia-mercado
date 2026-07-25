@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "50031163",
+  "NO_ENTIDADE": "COLEGIO CLASSE A",
+  "cidade": "Campo Grande",
+  "query": "\"COLEGIO CLASSE A\" \"Campo Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO CLASSE A\" \"Campo Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Classe A | Educação de Qualidade",
+        "link": "https://colegioclasseams.com/",
+        "snippet": "Material didático exclusivo. Saiba mais. Ensino Fundamental I no Colégio ... Segunda a Sexta: 7h às 18h Sábado: 8h às 12h. Colégio Classe A. Campo Grande - MS.",
+        "position": 1
+      },
+      {
+        "title": "Colégio Classe A e Sistema de Ensino Poliedro, compromisso ...",
+        "link": "https://www.instagram.com/reel/DWbktWajqYm/",
+        "snippet": "Colégio Classe A e Sistema de Ensino Poliedro, compromisso com ... sistema de ensino, tecnologia, material didático. A gente está muito ...",
+        "date": "há 3 meses",
+        "position": 2
+      },
+      {
+        "title": "Quem sonha grande escolhe um colégio que entrega ...",
+        "link": "https://www.instagram.com/p/DafhEzWzcdG/",
+        "snippet": "SISTEMA DE ENSINO anglo Saia do básico ... COLÉGIO Classe A 1º LUGAR EM CAMPO GRANDE ENEM 2025 EXCELÊNCIA QUE TRANSFORMA RESULTADOS!",
+        "date": "há 2 semanas",
+        "position": 3
+      },
+      {
+        "title": "Obmep 2018 - Colégio Classe A",
+        "link": "https://www.facebook.com/media/set/?vanity=colegioclasseams&set=a.1695939880483023",
+        "snippet": "Colégio Classe A, Campo Grande. 11653 likes · 36 talking about this · 454 were here. O Colégio Classe A te prepara para as melhores faculdades do Brasil...",
+        "position": 4
+      },
+      {
+        "title": "Video inesquecível no Arraiá da AACC/MS com o Colégio ...",
+        "link": "https://www.instagram.com/reel/C9WJQZXNbxX/",
+        "snippet": "COLÉGIO Classe A 1º LUGAR EM CAMPO GRANDE ENEM 2025 EXCELÊNCIA QUE TRANSFORMA RESULTADOS! ... COLÉGIO Classe A SISTEMA DE ENSINO anglo TOP 3 ...",
+        "date": "há 2 anos",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

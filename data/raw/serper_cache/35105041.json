@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35105041",
+  "NO_ENTIDADE": "MARIA IMACULADA COLEGIO EEIFM",
+  "cidade": "São Paulo",
+  "query": "\"MARIA IMACULADA COLEGIO EEIFM\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"MARIA IMACULADA COLEGIO EEIFM\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.1.privada.do.htm",
+        "snippet": "ANGLO SISTEMA DE ENSINO, P, TATUI, SP, ---, Sim. IAN MAZZUCATTO PUCINELI ... SAO PAULO DA CRUZ COLEGIO PASSIONISTA, P, SÃO PAULO, SP, ---, Sim. IRIS TANG KUANG ...",
+        "position": 1
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "MARIA IMACULADA COLEGIO EEIFM 30 São Paulo SP COL UNIFICADO LINDOIA 301700 ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 2
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... SAO PAULO. Privada. VERTICE COLEGIO UNIDADE II. 715,41. 649,81. 787,28 ... SISTEMA DE ENSINO EQUIPE. 628,66. 596,47. 652,65. 612,81. 652,72. 747 ...",
+        "date": "22 de dez. de 2014",
+        "position": 3
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... São Paulo. Privada. Urbana. 41. De 31 a. 60 alunos. 41. 100.00. 0. De 60% a 80%. Muito ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos.",
+        "position": 4
+      },
+      {
+        "title": "Grátis: Resultado da OBQJr 2022 - Material Claro e ...",
+        "link": "https://www.passeidireto.com/arquivo/147977834/resultado-da-obq-jr-2022",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP PRATA ANA BEATRIZ ... SP SÃO PAULO ARQUIDIOCESANO DE SAO PAULO COLEGIO MARISTA MENÇÃO ...",
+        "date": "16 de ago. de 2024",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

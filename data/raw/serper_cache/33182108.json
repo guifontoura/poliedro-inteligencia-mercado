@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "33182108",
+  "NO_ENTIDADE": "COLEGIO E CURSO PRW",
+  "cidade": "Petrópolis",
+  "query": "\"COLEGIO E CURSO PRW\" \"Petrópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO E CURSO PRW\" \"Petrópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio PRW",
+        "link": "https://colegioecursoprw.com.br/wp-content/uploads/2023/08/Informativo2024PRW.pdf",
+        "snippet": "Paulo Roberto, professor de Química em Petrópolis e no Rio de Janeiro, percebia que um curso ... | Material didático próprio (3ª série e pré-vestibulares);.",
+        "position": 1
+      },
+      {
+        "title": "Intensivão ENEM - PRW",
+        "link": "https://colegioecursoprw.com.br/intensivao-enem/",
+        "snippet": "+ R$ 100,00 de Material Didático. Quero me inscrever. Garanta sua vaga agora ... © 2014 - 2022 Colégio e Curso PRW. Desenvolvido por Planung. Looking for ...",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3303906-petropolis/busca",
+        "snippet": "BONSUCESSO SISTEMA DE ENSINO CESTEC. UNIAO E INDUSTRIA, 7046 - 2 PAVIMENTO ... COLEGIO E CURSO PRW. KOELLER, 187. CENTRO. 25685060 Petrópolis - Rio de ...",
+        "position": 3
+      },
+      {
+        "title": "Medalhistas de Ouro por Escola | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/536524033/Premiacao-3%C2%BA-Ano-Em-Nivel-d-2019-1",
+        "snippet": "Cecília dos Santos Fabião COLEGIO E CURSO PRW RIO DE JANEIRO Petrópolis Joao ... LUCA DE FREITAS GARCIA SEI - SISTEMA DE ENSINO INTERATIVO RIO DE JANEIRO Rio de ...",
+        "position": 4
+      },
+      {
+        "title": "Pré-ENEM e Vestibulares - Petrópolis",
+        "link": "https://colegioecursoprw.com.br/pre-enem-e-vestibulares/",
+        "snippet": "Petrópolis. Av. Koeller, 187 – Centro ... Você encontra. Ensino Fundamental II; Ensino Médio; Pré-Vestibular e Projetos. © 2014 - 2022 Colégio e Curso PRW.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "22141472",
+  "NO_ENTIDADE": "ESCOLA CRESCER",
+  "cidade": "Parnaíba",
+  "query": "\"ESCOLA CRESCER\" \"Parnaíba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA CRESCER\" \"Parnaíba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola Crescer | Bolsas de Estudo em Parnaíba - PI",
+        "link": "https://www.melhorescola.com.br/escola/escola-crescer-parnaiba",
+        "snippet": "Garanta sua bolsa de estudos em Escola Crescer, Parnaíba - PI. Descontos ... Sistema de ensino. Bernoulli. O sistema de ensino compreende o conjunto de ...",
+        "position": 1
+      },
+      {
+        "title": "Matrículas abertas pra 2026! 🎉🤩 Essas são só algumas ...",
+        "link": "https://www.instagram.com/p/DPy0SWnAEtT/",
+        "snippet": "Tudo preparado para um 2º SEMESTRE INCRÍVEL Matrículas ABERTAS COLÉGIO JP Sistema de Ensino COC. semeddebarradorocha's profile picture.",
+        "date": "há 9 meses",
+        "position": 2
+      },
+      {
+        "title": "1º Lugar entre as escolas de Parnaíba!!!!!",
+        "link": "https://www.instagram.com/reel/DUdE7zmDb7K/",
+        "snippet": "... Escola Crescer, had the highest score at UFDPar among those from Parnaíba. ... Passar pelas salas e ver todo mundo focado, com a apostila ...",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "Professor Quixaba conta um pouco sobre o material didático que ...",
+        "link": "https://www.facebook.com/escolacrescerparnaiba/videos/professor-quixaba-conta-um-pouco-sobre-o-material-did%C3%A1tico-que-%C3%A9-usado-do-6%C2%BA-ano/996969047843879/",
+        "snippet": "... sistema de ensino e possui os melhores resultados ... Escola Crescer. Feb 15, 2022 . ... No photo description available. APAE de Parnaíba. Charity ...",
+        "position": 4
+      },
+      {
+        "title": "20260625152529-regimento-escolar- ...",
+        "link": "https://crescerparnaiba.com.br/arquivos/AnexosTurmas/20260625152529-regimento-escolar-2026-qsjm.pdf",
+        "snippet": "Parnaíba- Piauí - CEP: 64.202-200. Fone: (86) 3323-5162/ (86) 98857-4935. REGIMENTO ESCOLAR DO COLÉGIO CRESCER. Colégio Crescer – Educação Infantil, Ensino ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

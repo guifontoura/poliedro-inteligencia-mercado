@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31229865",
+  "NO_ENTIDADE": "C EDUC SAO TOMAS DE AQUINO",
+  "cidade": "Nova Lima",
+  "query": "\"C EDUC SAO TOMAS DE AQUINO\" \"Nova Lima\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"C EDUC SAO TOMAS DE AQUINO\" \"Nova Lima\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ENEM 2014",
+        "link": "https://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/minas-gerais/",
+        "snippet": "ATUAL SISTEMA DE ENSINO, SABINOPOLIS, MG, Privada, 80% ou mais, Alto ... C EDUC SAO TOMAS DE AQUINO, NOVA LIMA, MG, Privada, De 60% a 80%, Alto ...",
+        "date": "5 de ago. de 2015",
+        "position": 1
+      },
+      {
+        "title": "2016",
+        "link": "https://enem.cneceduca.com.br/2016?p=35",
+        "snippet": "C Educ Sao Tomas de Aquino, Privada, Nova Lima, MG, 22, 581,37, 618,87, 604,32, 622 ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line Alexandria CNEC Provas ...",
+        "position": 2
+      },
+      {
+        "title": "ENEM ESCOLA Page 1 SIGLA NO_MUNICIPIO ...",
+        "link": "http://fw.atarde.com.br/2012/11/1293042.pdf",
+        "snippet": "... SISTEMA DE ENSINO LTDA. Privada. 487,1512195 514,9707317 553,6134146 539 ... NOVA LIMA. C EDUC SAO TOMAS DE AQUINO. Privada. 551,5538462 567,5461538 603 ...",
+        "position": 3
+      },
+      {
+        "title": "Photo by bernadet_buffet · November 7, 2017",
+        "link": "https://www.instagram.com/p/BbNMGlnB9IC/",
+        "snippet": "✓ Apostila com mais de 100 Sabores (os mais vendidos) ... Nova Lima, Brazil. Photo by @bernadet_buffet on July 31 ... C Educ São Tomas de Aquino. Photo by ...",
+        "position": 4
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "C EDUC SAO TOMAS DE AQUINO. MG. 825. COLEGIO POSITIVO JARDIM AMBIENTAL ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL. PB. 7312. SUELI ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35144216",
+  "NO_ENTIDADE": "PARTHENON COLEGIO",
+  "cidade": "Guarulhos",
+  "query": "\"PARTHENON COLEGIO\" \"Guarulhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PARTHENON COLEGIO\" \"Guarulhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "T PARTHENON COLEGIO UNIDADE I, P, GUARULHOS, SP, Sim. DANIEL HIROITE TAKAMUNE ... ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, Sim. ENRICO D ALKIMIN ...",
+        "position": 1
+      },
+      {
+        "title": "2016",
+        "link": "https://enem.cneceduca.com.br/2016?p=5",
+        "snippet": "T Parthenon Colegio Unidade I, Privada, Guarulhos, SP, 29, 623,72, 659,07, 634,65 ... Sistema de Ensino CNEC. CNEC Digital CNEC On Line Alexandria CNEC Provas ...",
+        "position": 2
+      },
+      {
+        "title": "'Enem 2015 por escola': veja lista com as maiores notas ... - G1",
+        "link": "https://g1.globo.com/educacao/noticia/enem-2016-por-escola-veja-lista-com-as-maiores-notas-medias.ghtml",
+        "snippet": "110CPI SISTEMA DE ENSINO - Teresina (PI) - Privada - 658,06 pontos ... 174T PARTHENON COLEGIO UNIDADE I - Guarulhos (SP) - Privada - 648,47 ...",
+        "date": "5 de out. de 2016",
+        "position": 3
+      },
+      {
+        "title": "Escola - Conv - Analia Franco Nucleo Assistencial Unidade I",
+        "link": "https://www.escol.as/279386-conv-analia-franco-nucleo-assistencial-unidade-i",
+        "snippet": "O material didático abrange jogos educativos, brinquedos pedagógicos e diversos recursos para atividades culturais e desportivas, tudo supervisionado por ...",
+        "position": 4
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-VERTICAL.pdf",
+        "snippet": "... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos. 25. 100.00. 0 ... PARTHENON COLEGIO UNIDADE I. SP. Guarulhos. Privada. Urbana. 27. De 1 a ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "22022406",
+  "NO_ENTIDADE": "COLEGIO LEROTE LTDA",
+  "cidade": "Teresina",
+  "query": "\"COLEGIO LEROTE LTDA\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LEROTE LTDA\" \"Teresina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Nossos alunos marcaram presença no ENEM ON FIRE em ...",
+        "link": "https://www.instagram.com/reel/DQ-p8T2EWiY/",
+        "snippet": "... Teresina! Uma super revisão cheia de energia, foco e aprendizado ... Colégio Lerote Ltda Teresina/PI 717,0 41 -1,0% Excelência que ...",
+        "date": "há 8 meses",
+        "position": 1
+      },
+      {
+        "title": "O Colégio Propósito (@colegioproposito ) anunciou nessa ...",
+        "link": "https://www.instagram.com/p/DO8aXY5DXbu/",
+        "snippet": "Muito bom receber vcs aqui! July 1. OCR. COLÉGIO D. PEDRO II SISTEMA DE ENSINO POSITIVO ... 9º Teresina Colégio Lerote Ltda 717,02 10º Teresina ...",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Teresina",
+        "link": "https://qedu.org.br/municipio/2211001-teresina/distorcao-idade-serie",
+        "snippet": "COLEGIO LEROTE LTDA. 5,1%. COLEGIO MADRE SAVINA. 1,4%. COLEGIO PEDROSA ... EINSTEIN SISTEMA DE ENSINO - UNIDADE I. 10,5%. EM ALICE PIRES DO NASCIMENTO. 2 ...",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-PI.2.privada.do.htm",
+        "snippet": "COLEGIO LEROTE LTDA, P, TERESINA, PI, Sim. 5, CLARA MARTINS DE AGUIAR MAGALHAES, SISTEMA DE ENSINO MULTIPLA ESCOLHA ... TERESINA, PI, Sim. MURILO RAFAEL PARENTE ...",
+        "position": 4
+      },
+      {
+        "title": "0815705-97.2020.8.18.0140 - AÇÃO CIVIL PÚBLICA CÍVEL",
+        "link": "https://www.mppi.mp.br/internet/wp-content/uploads/2021/12/Acao-Civil-Publica-Escolas-COVID.pdf",
+        "snippet": "COLÉGIO LEROTE (Colégio Lerote Ltda), CNPJ Nº 06.856.439/0001-05,. ENDEREÇO: Rua Prof. Elias Torres, 1020 - Jockey Club - Teresina (PI). 25 ...",
+        "date": "17 de jul. de 2020",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

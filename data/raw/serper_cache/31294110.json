@@ -1,0 +1,43 @@
+{
+  "codigo_escola": "31294110",
+  "NO_ENTIDADE": "COLEGIO BURITIS AGOSTINIANO",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO BURITIS AGOSTINIANO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BURITIS AGOSTINIANO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosGeral-MG.2.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO FOCO, P, MONTES CLAROS, MG, ---, Sim. MARGARIDA MIRANDA LIMA ... BELO HORIZONTE, MG, ---, Sim. MATHEUS ARAUJO CARVALHO, ESCOLA PARTICULAR ...",
+        "position": 1
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGIO BURITIS AGOSTINIANO. 5,1%. COLEGIO CEOC. 2,6%. COLEGIO CLOTILDE LEITE ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA - UNIDADE ...",
+        "position": 2
+      },
+      {
+        "title": "Escolas em Belo Horizonte/MG — 2016 instituições",
+        "link": "https://www.mensalidadejusta.com.br/escolas/mg/belo-horizonte",
+        "snippet": "COLEGIO BURITIS AGOSTINIANO. Privada · COLEGIO CAMINHAR BH. Privada · COLEGIO ... COLEGIO SISTEMA DE ENSINO - UNIDADE II. Privada · COLEGIO TANCREDO NEVES.",
+        "position": 3
+      },
+      {
+        "title": "Belo Horizonte 2231 escolas",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/busca",
+        "snippet": "COLEGIO BURITIS AGOSTINIANO. JOSE HEMETERIO ANDRADE, 850. BURITIS ... Belo Horizonte - Minas Gerais. Rede privada / Urbana · SISTEMA DE ENSINO RENASCER.",
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

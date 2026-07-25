@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33112959",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL JARDIM AMALIA",
+  "cidade": "Volta Redonda",
+  "query": "\"CENTRO EDUCACIONAL JARDIM AMALIA\" \"Volta Redonda\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL JARDIM AMALIA\" \"Volta Redonda\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ENEM 2014",
+        "link": "http://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/rio-de-janeiro/",
+        "snippet": "CENTRO EDUCACIONAL JARDIM AMALIA, VOLTA REDONDA, RJ, Privada, 80% ou ... SOMEC SISTEMA DE ENSINO, RIO DE JANEIRO, RJ, Privada, De 20% a 40 ...",
+        "date": "5 de ago. de 2015",
+        "position": 1
+      },
+      {
+        "title": "OBMEP 2019 - Alunos Premiados de Escolas Privadas",
+        "link": "http://premiacao.obmep.org.br/2019/verRelatorioPremiadosGeral-RJ.1.privada.do.htm",
+        "snippet": "CENTRO EDUCACIONAL JARDIM AMALIA, P, VOLTA REDONDA, RJ, ---, Sim. ARTHUR KNAUS ... CHAMPIGNON SISTEMA DE ENSINO LTDA, P, RIO DE JANEIRO, RJ, ---, Sim. MANUELA ...",
+        "position": 2
+      },
+      {
+        "title": "Speekrs Languages",
+        "link": "https://www.facebook.com/speekrs/mentions/",
+        "snippet": "Obrigado a todos das equipes do Centro Educacional Jardim Amalia ... Arena Sport Tennis Volta Redonda is at Arena Sport Tennis Volta Redonda. ... material didático ...",
+        "position": 3
+      },
+      {
+        "title": "Instituições",
+        "link": "https://www.tjrj.jus.br/documents/1017893/1294906/instituicoes-outros-municipios.xls",
+        "snippet": "SEICE SISTEMA DE ENSINO INTEGRADO DE CAMPOS ELISEOS, AVENIDA SAO PAULO, 89, 25225660. 1816, DUQUE DE CAXIAS, 25 DE AGOSTO, SENAC DUQUE DE CAXIAS, AV BRIGADEIRO ...",
+        "position": 4
+      },
+      {
+        "title": "Lista de Colégios Privados no Brasil | PDF | São Paulo",
+        "link": "https://pt.scribd.com/doc/273617459/Ranking-Brasil",
+        "snippet": "VOLTA REDONDA. Privada. Urbana. 83. COL TEC INDUSTRIAL PROF ISAAC PORTAL ... SISTEMA DE ENSINO MESON PI. PA. CASTANHAL. Privada. Urbana. 102. INSTITUTO FEDERAL ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

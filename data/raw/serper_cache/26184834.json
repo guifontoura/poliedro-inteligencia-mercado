@@ -1,0 +1,37 @@
+{
+  "codigo_escola": "26184834",
+  "NO_ENTIDADE": "COLEGIO MOTIVO CARUARU",
+  "cidade": "Caruaru",
+  "query": "\"COLEGIO MOTIVO CARUARU\" \"Caruaru\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO MOTIVO CARUARU\" \"Caruaru\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "05/mai/99 03/mai/99 21/set/98 19/dez/99 16/mar/00 14/nov ...",
+        "link": "https://www.darwin.com.br/wp-content/uploads/2019/05/Resultados-Olimpiada-Brasileira-de-Biologia-2016.pdf",
+        "snippet": "COLEGIO MOTIVO CARUARU. PE. 518 MARIA EDUARDA SÃ• ABU-ADIYA. 56. COLEGIO NUCLEO ... SISTEMA DE ENSINO EQUIPE. PA. 978 RAFAEL SILVA LEMOS. 50. E E I F M TENENTE ...",
+        "position": 1
+      },
+      {
+        "title": "Notas de Alunos por Escola e Município | PDF | Brasil",
+        "link": "https://pt.scribd.com/document/648033627/Docspike-com-Clique-Aqui-Para-Fazer-o-Da-Lista-Em-PDF",
+        "snippet": "MarÃ-lia Martins dos Santos 19 SISTEMA DE ENSINO EQUIPE BELÉM Samira Alves 19 ... DA SILVA 23 COLEGIO MOTIVO CARUARU CARUARU MANUELA REVOREDO 23 ESCOLA ...",
+        "position": 2
+      },
+      {
+        "title": "RESULTADO PRELIMINAR DA XII OBB – 2ª FASE A OBB ...",
+        "link": "https://ptdocz.com/doc/1654891/resultado-preliminar-da-xii-obb-%E2%80%93-2%C2%AA-fase-a-obb-2016-foi-a",
+        "snippet": "... SISTEMA DE ENSINO SP 315 EDUARDO DE MEDEIROS CARLOS 60 COC - MACEIO AL ... COLEGIO MOTIVO CARUARU PE 410 DOMINIQUE SILVA LIMA 58 INST DOM BARRETO PI ...",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

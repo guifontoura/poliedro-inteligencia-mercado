@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35154295",
+  "NO_ENTIDADE": "JEAN PIAGET UNIDADE II EEPG",
+  "cidade": "Santos",
+  "query": "\"JEAN PIAGET UNIDADE II EEPG\" \"Santos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"JEAN PIAGET UNIDADE II EEPG\" \"Santos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "JEAN PIAGET UNIDADE II EEPG, P, SANTOS, SP, Sim. NAOMI ESTHER HOFFMANN HIRAMOTO, COC SAPIENS, P, OSASCO, SP, Sim. SULLYN HONG, AGOSTINIANO MENDEL COLEGIO, P ...",
+        "position": 1
+      },
+      {
+        "title": "Premiados da OBF/2021 - 2ª Série",
+        "link": "https://www.sbfisica.org.br/v1/olimpiada/2021/index.php/seletivas-2019/16-obf/292-premiados-da-obf-2021-2-serie",
+        "snippet": "JEAN PIAGET UNIDADE II EEPG, SP, MEDALHA DE BRONZE. BRENO NOGUEIRA IDINO, LICEU ... SEI - SISTEMA DE ENSINO INTERATIVO, RJ, MEDALHA DE PRATA. MARIANA SIQUEIRA ...",
+        "position": 2
+      },
+      {
+        "title": "Quadro de Medalhas do 2ª Série",
+        "link": "https://app.graxaim.org/obf/2021/open_page/quadro_de_medalhas_2s?title=Quadro%20de%20Medalhas%20do%202%C2%AA%20S%C3%A9rie",
+        "snippet": "JEAN PIAGET UNIDADE II EEPG, SP, MENÇÃO HONROSA. JULIA LIE MORISAWA GOMES ... WILDEMAR HENRIQUE WEI AN TOSKI DOS SANTOS, ALIANÇA, PR, MENÇÃO HONROSA. YAGO ...",
+        "position": 3
+      },
+      {
+        "title": "LISTA DE APROVADOS OBB 2018",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/arquivos/provas_gabaritos_classificacoes/OBB_2018/Lista%20Aprovados%20OBB%202018%201a%20Fase.pdf",
+        "snippet": "SISTEMA DE ENSINO EQUIPE CRISTAL II EIRELI-EPP. 20. BELÉM. ANA FLAVIA F ... LAURA CATALINA DOS SANTOS DE LA BARRA VELASQUEZ. COLEGIO MILITAR DE PORTO ...",
+        "position": 4
+      },
+      {
+        "title": "Nome Série Cidade Escola",
+        "link": "https://abqsp.org.br/wp-content/uploads/2026/02/Habilitados-1a-Prova-Seletiva-OQSP-2026.pdf",
+        "snippet": "... Santos da Silva. 2ª Série ou. Inferior. Catiguá. ANTONIO CARLOS. Adrielly ... SISTEMA DE ENSINO. Ana Luiza Bueno Cardoso. 2ª Série ou. Inferior.",
+        "date": "25 de fev. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

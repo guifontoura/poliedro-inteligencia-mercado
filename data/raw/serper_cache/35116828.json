@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35116828",
+  "NO_ENTIDADE": "ESCOLA CHAMPAGNAT UNIDADE BIRIGUI",
+  "cidade": "Birigui",
+  "query": "\"ESCOLA CHAMPAGNAT UNIDADE BIRIGUI\" \"Birigui\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA CHAMPAGNAT UNIDADE BIRIGUI\" \"Birigui\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3506508-birigui/busca",
+        "snippet": "ESCOLA CHAMPAGNAT UNIDADE BIRIGUI. SANTOS DUMONT, 482 - RUA. CENTRO. 16200095 ... ZETA SISTEMA DE ENSINO DE BIRIGUI. NOVE DE JULHO, 672 - RUA. CENTRO ...",
+        "position": 1
+      },
+      {
+        "title": "Recrutamento e Gestão de Estagiários em Birigui - SP",
+        "link": "https://www.futuraestagios.com.br/orientacoes-para-empresas.php?cidade=Birigui&estado=SP",
+        "snippet": "CENTRO DE RESSOCIALIZACAO DE BIRIGUI CLASSES PROV; ZETA SISTEMA DE ENSINO DE BIRIGUI; ESCOLA SESI SAMIR NAKAD; ESCOLA CHAMPAGNAT UNIDADE BIRIGUI; NOROESTE ...",
+        "position": 2
+      },
+      {
+        "title": "Premiação Estadual de Alunos - Escolas Públicas ...",
+        "link": "https://premiacao.obmep.org.br/19obmep/verRelatorioPremiadosRegionalPorNivel-SP.2.privada.do.htm",
+        "snippet": "ESCOLA CHAMPAGNAT UNIDADE BIRIGUI, P, BIRIGUI, SP, Prata. PABLO B INOVE MIGLIARI ... ANGLO SISTEMA DE ENSINO, P, TATUI, SP, Bronze. LUIS ROBERTO MALHEIROS NETO ...",
+        "position": 3
+      },
+      {
+        "title": "Aspectos da União Europeia e Desafios | PDF",
+        "link": "https://id.scribd.com/document/977532697/Marista-2",
+        "snippet": "ESCOLA CHAMPAGNAT - UNIDADE BIRIGUI. ANA LUIZA AMANTÉA DE FRANÇA. Capítulo 2 ... Apostila para Concurso Guarda Civil SV. PDF. Belum ada peringkat. Apostila para ...",
+        "position": 4
+      },
+      {
+        "title": "Escolas particulares em Birigui, SP",
+        "link": "https://escolas.com.br/particulares/sp/birigui",
+        "snippet": "Escola Champagnat Unidade Birigui. Particular. Centro, Birigui-SP. Escola de ... Zeta Sistema de Ensino de Birigui. Particular. Centro, Birigui-SP. Mostrando ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

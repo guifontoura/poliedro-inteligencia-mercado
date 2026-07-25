@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31007196",
+  "NO_ENTIDADE": "COLEGIO SANTA DOROTEIA",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO SANTA DOROTEIA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA DOROTEIA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Santa Dorotéia de Belo Horizonte on Instagram: \"Do ...",
+        "link": "https://www.instagram.com/reel/DZDO2R7xBFt/",
+        "snippet": "Do Maternal à 3ª Série do Ensino Médio, muitas famílias constroem sua história no Colégio Santa Dorotéia por meio de experiências, ...",
+        "position": 1
+      },
+      {
+        "title": "Robótica - Extracurricular",
+        "link": "https://santadoroteiabh.com.br/robotica/",
+        "snippet": "Aula semanal, com material didático incluído. Agende uma aula experimental gratuita. WhatsApp: (31) 99345-0202. —. LOCAL: Prédio E, entrada pela Rua ...",
+        "position": 2
+      },
+      {
+        "title": "Já pensou em ver de perto onde seu bem mais precioso vai ...",
+        "link": "https://www.instagram.com/reel/DNGFHjmuyLw/",
+        "snippet": "97 likes, 5 comments - santadoroteiabh on August 8, 2025: \"Já pensou em ver de perto onde seu bem mais precioso vai estudar?",
+        "date": "há 11 meses",
+        "position": 3
+      },
+      {
+        "title": "Para cada vida que cresce, o Santa Dorotéia mostra ...",
+        "link": "https://www.instagram.com/p/Daiw4vVCeLo/",
+        "snippet": "Photo by Colégio Santa Dorotéia de Belo Horizonte ...",
+        "date": "há 2 semanas",
+        "position": 4
+      },
+      {
+        "title": "As atividades extracurriculares do Santa Dorotéia ...",
+        "link": "https://www.instagram.com/reel/DUjTiz2kYnP/",
+        "snippet": "São realizadas no contraturno escolar e ministradas por profissionais do Colégio ou terceirizados, especialistas em suas áreas. As atividades ...",
+        "date": "há 5 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "codigo_escola": "43215360",
+  "NO_ENTIDADE": "COLEGIO FLEMING PASSO FUNDO",
+  "cidade": "Passo Fundo",
+  "query": "\"COLEGIO FLEMING PASSO FUNDO\" \"Passo Fundo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO FLEMING PASSO FUNDO\" \"Passo Fundo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Sucesso Sistema de Ensino",
+        "link": "https://www.sistemadeensinosucesso.com.br/",
+        "snippet": "Nosso catálogo · Educação Infantil · Ensino Fundamental I · Ensino Fundamental II ...",
+        "position": 1
+      },
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "Cada material é cuidadosamente elaborado, atualizado e alinhado com as diretrizes da BNCC, oferecendo uma base sólida para a formação integral de nossos ...",
+        "position": 2
+      },
+      {
+        "title": "Multitude Sistema de Ensino",
+        "link": "https://sistemamultitude.com.br/",
+        "snippet": "Tem tudo o que a sua escola precisa, na medida certa. Materiais didáticos completos e organizados para facilitar o planejamento e a aplicação em sala de aula.",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "codigo_escola": "31322873",
+  "NO_ENTIDADE": "COLEGUIUM - UNIDADE SANTA AMELIA",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGUIUM - UNIDADE SANTA AMELIA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGUIUM - UNIDADE SANTA AMELIA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "BHTRANS - Belo Horizonte",
+        "link": "http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S09F03-escolar5a.asp?lingua=",
+        "snippet": "SISTEMA DE ENSINO RENASCER · SISTEMA PIAGET DE ENSINO · UMEI BRAUNAS · UMEI DELFIM ... EMPRESA DE TRANSPORTES E TRÂNSITO DE BELO HORIZONTE S/A - BHTRANS Av ...",
+        "position": 1
+      },
+      {
+        "title": "Currículo de Fabiano Moreira | PDF",
+        "link": "https://pt.scribd.com/document/785761216/Fabiano-Henrique-Fonseca-Moreira-arte-educador-indic-Maurilio-Andrade",
+        "snippet": "... COLEGUIUM – Unidade Santa Amélia. Ramo da atividade: Cenógrafo do Festival de ... Apostila de Arte-Educação para Ensino Médio. 36 páginas. Plano de Ensino ...",
+        "position": 2
+      },
+      {
+        "title": "Girlaine Figueiró Oliveira",
+        "link": "https://www.escavador.com/sobre/2170141/girlaine-figueiro-oliveira",
+        "snippet": "... Sistema Pedagógico Semear, no município de Brumadinho.. 2021. OLIVEIRA ... Coleguium ? Unidade Santa Amélia, de Belo Horizonte.. 2020. OLIVEIRA, G. F. ...",
+        "position": 3
+      },
+      {
+        "title": "alunos classificados para a prova presencial da 3ª fase da ...",
+        "link": "https://www.oniabrasil.com.br/assets/files/Alunos_Aprovados_e_seus_Polos_de_Aplicacao_2a_Etapa_3a_Fase_II_ONIA_2026_04_15.pdf",
+        "snippet": "Colégio Militar de Belo Horizonte. MG Belo Horizonte. Julimar ... SEICE SISTEMA DE ENSINO INTEGRADO DE CAMPOS ELISEOS. RJ Duque de ...",
+        "date": "15 de abr. de 2026",
+        "position": 4
+      },
+      {
+        "title": "Negociar Débitos - Coleguium Rede de Ensino",
+        "link": "https://www.reclameaqui.com.br/coleguium-rede-de-ensino/negociar-debitos_GaPsyM5wls_wWnW9/",
+        "snippet": "Estou desde Setembro de ******* tentando uma negociação com a escola onde eu consiga arcar. Fui até a escola que meu filho estuda, expliquei a situação ...",
+        "sitelinks": [
+          {
+            "title": "3 respostas",
+            "link": "https://www.reclameaqui.com.br//coleguium-rede-de-ensino/negociar-debitos_GaPsyM5wls_wWnW9/"
+          }
+        ],
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "codigo_escola": "32074182",
+  "NO_ENTIDADE": "CENTRO DE ENSINO COLATINENSE DARWIN",
+  "cidade": "Colatina",
+  "query": "\"CENTRO DE ENSINO COLATINENSE DARWIN\" \"Colatina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO DE ENSINO COLATINENSE DARWIN\" \"Colatina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "tribunal de justiça",
+        "link": "https://diario.tjes.jus.br/2006/20061113.pdf",
+        "snippet": "... COLATINA, DESTE. ESTADO, À FL. 84 (POR CÓPIA), QUE INDEFERIU O PEDIDO ... CENTRO DE ENSINO COLATINENSE DARWIN LTDA. ADVOGADO: CARLOS ...",
+        "date": "13 de nov. de 2006",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

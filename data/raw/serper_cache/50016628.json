@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "50016628",
+  "NO_ENTIDADE": "COLEGIO UNIGRAN",
+  "cidade": "Dourados",
+  "query": "\"COLEGIO UNIGRAN\" \"Dourados\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO UNIGRAN\" \"Dourados\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Unigran",
+        "link": "https://www.colegiounigran.com.br/",
+        "snippet": "O colégio Anglo Unigran , foi fundado na cidade de DOURADOS - MS no ano de 1977 ... Colégio Unigran é sistema de Ensino Anglo. O melhor quando o assunto é ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Unigran | Dourados MS",
+        "link": "https://www.facebook.com/colegiounigran/?locale=pt_BR",
+        "snippet": "Colégio Unigran, Dourados. 7.419 curtidas · 651 estiveram aqui. Colégio Unigran - Sistema de Ensino Anglo.",
+        "rating": 4.5,
+        "ratingCount": 87,
+        "position": 2
+      },
+      {
+        "title": "Materiais de estudo de Colégio Unigran - Dourados",
+        "link": "https://www.studocu.com/pt-br/high-school/colegio-unigran/687532",
+        "snippet": "Estudando em Colégio Unigran - Dourados? Experimente nossa ampla variedade de anotações de aula, resumos e guias de estudo para incrementar seu jogo de ...",
+        "position": 3
+      },
+      {
+        "title": "Sem notificações, sem prazos e sem atividades para ...",
+        "link": "https://www.instagram.com/p/Da5fNcpCHaq/",
+        "snippet": "Colégio UNIGRAN. July 3. OCR. Independente de tudo, sextou! COLÉGIO unigran SISTEMA DE ENSINO anglo ... Photo by Unigrande Dourados on June 25, ...",
+        "date": "há 1 semana",
+        "position": 4
+      },
+      {
+        "title": "PESQUISA-MENSALIDADE-ESCOLAR-2023-para-2024",
+        "link": "https://www.dourados.ms.gov.br/wp-content/uploads/2023/11/PESQUISA-MENSALIDADE-ESCOLAR-2023-para-2024.xls",
+        "snippet": "... Material didático incluso no valor da mensalidade; valores diferenciados ... Colégio Unigran - Rua Balbina de Matos, 2121 - Jd. Universitário- 3411 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

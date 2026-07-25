@@ -1,0 +1,55 @@
+{
+  "codigo_escola": "29470153",
+  "NO_ENTIDADE": "COLEGIO SENECA",
+  "cidade": "Vitória da Conquista",
+  "query": "\"COLEGIO SENECA\" \"Vitória da Conquista\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SENECA\" \"Vitória da Conquista\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Sêneca - Descontos, Preço das Mensalidades e ...",
+        "link": "https://querobolsa.com.br/escolas/281767-colegio-seneca",
+        "snippet": "O Colégio Sêneca, localizado no bairro Candeias, em Vitória da Conquista, Bahia ... Colégio Sêneca utiliza o Sistema de Ensino Poliedro. Este sistema é ...",
+        "rating": 5,
+        "ratingCount": 1,
+        "position": 1
+      },
+      {
+        "title": "Colégio Sêneca | Vitória da Conquista BA",
+        "link": "https://ar-ar.facebook.com/senecacolegio",
+        "snippet": "Colégio Sêneca‎‏, ‏‎Vitória da Conquista‎‏. ‏‏٣٬٨٥١‏ تسجيل إعجاب · يتحدث ‏ ... Material com qualidade reconhecida: Suporte didático do Sistema de Ensino ...",
+        "rating": 4.7,
+        "ratingCount": 23,
+        "position": 2
+      },
+      {
+        "title": "Colégio Sêneca | Bolsas de Estudo em Vitória da Conquista",
+        "link": "https://www.melhorescola.com.br/escola/colegio-seneca-vitoria-da-conquista-ba",
+        "snippet": "Garanta sua bolsa de estudos em Colégio Sêneca, Vitória da Conquista - BA ... Colégio Sêneca utiliza o Sistema de Ensino Poliedro. Este sistema é ...",
+        "position": 3
+      },
+      {
+        "title": "As redações nota dez na UESB refletem muito mais que ...",
+        "link": "https://www.instagram.com/p/DSdWpOZATOT/",
+        "snippet": "Vitória da Conquista: Coapa (Módulo da Antiga Reitoria) Jequié ... Quarto lugar: material didático impecável, aquele material que tem ...",
+        "date": "há 7 meses",
+        "position": 4
+      },
+      {
+        "title": "🗣️ Quando o caderno resolve falar… é porque o recado é ...",
+        "link": "https://www.instagram.com/reel/DUTrRmoic5T/",
+        "snippet": "... material didático. Organização também é aprendizado! Caderno ... apostila, onde o conhecimento ganha forma nas disciplinas de Língua ...",
+        "date": "há 5 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

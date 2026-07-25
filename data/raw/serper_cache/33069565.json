@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33069565",
+  "NO_ENTIDADE": "INSTITUTO PIO XI",
+  "cidade": "Rio de Janeiro",
+  "query": "\"INSTITUTO PIO XI\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"INSTITUTO PIO XI\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "A adaptação do Pré 1 foi um momento muito especial ...",
+        "link": "https://www.instagram.com/p/DUs0yckFio8/",
+        "snippet": "Photo by Instituto Pio XI on February 13, 2026.",
+        "date": "há 5 meses",
+        "position": 1
+      },
+      {
+        "title": "No 1º ano do Fundamental I, cada letra se transforma em ...",
+        "link": "https://www.instagram.com/reel/DVvrRy6k7JU/",
+        "snippet": "No primeiro ano do Ensino Fundamental I, vivemos isso com o projeto do 'Senhor Alfabeto'. Cada aluno leva uma letra para casa, pesquisa objetos, ...",
+        "date": "há 4 meses",
+        "position": 2
+      },
+      {
+        "title": "Dennis Lopes - Professor de língua espanhola | Revisor",
+        "link": "https://br.linkedin.com/in/dennis-lopes",
+        "snippet": "... material didático | Avaliador DELE. Colégio Everest Internacional RJ Centro Universitário da Cidade. Rio de Janeiro, Rio de Janeiro, Brasil. 1 mil seguidores + ...",
+        "position": 3
+      },
+      {
+        "title": "Produção e avaliação de material didático alternativo para ...",
+        "link": "https://www.e-publicacoes.uerj.br/sustinere/article/view/49177",
+        "snippet": "de M Marins · 2021 · Citado por 1 — ... Rio de Janeiro (2001) e doutorado em Ciências Morfológicas pela ... Possui ensino médio segundo-grau pelo Instituto Pio XI (2002). Tem ...",
+        "position": 4
+      },
+      {
+        "title": "ATENÇÃO, FAMÍLIA PIO XII! Nosso diretor, Pe. Jarbas, traz no ...",
+        "link": "https://www.instagram.com/reel/DTlmdIWDkXk/",
+        "snippet": "... RIO DE JANEIRO, 585 (21) 97617-5979 padrebutinha.com.br ... Instituto Pio XI. Um momento marcado por talento, entrega e sensibilidade ...",
+        "date": "há 6 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

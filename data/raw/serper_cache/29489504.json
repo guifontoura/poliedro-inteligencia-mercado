@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "29489504",
+  "NO_ENTIDADE": "COLEGIO UNIVERSITARIO",
+  "cidade": "Teixeira de Freitas",
+  "query": "\"COLEGIO UNIVERSITARIO\" \"Teixeira de Freitas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO UNIVERSITARIO\" \"Teixeira de Freitas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Bolsas de Estudo Colégio Universitário",
+        "link": "https://www.educamaisbrasil.com.br/escolas/colegio-universitario-teixeira-de-freitas-ba",
+        "snippet": "O Colégio Universitário, localizado em Teixeira de Freitas, Bahia, destaca ... Sistema de Ensino Bernoulli, oferece uma experiência educativa completa.",
+        "position": 1
+      },
+      {
+        "title": "concurso de bolsa - colégio universitário 2026",
+        "link": "https://beta.sympla.com.br/evento/concurso-de-bolsa-colegio-universitario-2026/3106526",
+        "snippet": "Compre ingressos para CONCURSO DE BOLSA - COLÉGIO UNIVERSITÁRIO 2026 em Teixeira de Freitas dia 25 ... material didático e cumprimento de todas as normas ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio Universitário: uma nova era na educação em ...",
+        "link": "https://www.sulbahianews.com.br/colegio-universitario-uma-nova-era-na-educacao-em-teixeira-de-freitas/",
+        "snippet": "Colégio Universitário: uma nova era na educação em Teixeira de Freitas ... Escolher o Colégio Universitário e o Sistema de Ensino Bernoulli é ...",
+        "date": "24 de nov. de 2023",
+        "position": 3
+      },
+      {
+        "title": "Instituicoes_Cursos 02_09_24.xlsx",
+        "link": "https://www.confea.org.br/midias/uploads-imce/CEAP/Institui%C3%A7%C3%B5es%2002_09_24.pdf",
+        "snippet": "COLEGIO UNIVERSITARIO PADRE DE MAN. COLLEGIUM PRISMA. CONHECER ESCOLA TECNICA ... Sistema de Ensino Fundamental Médio Profissionalizante Ltda. – Colégio ...",
+        "position": 4
+      },
+      {
+        "title": "O futuro do seu filho começa a ser construído agora ...",
+        "link": "https://www.instagram.com/p/DOrlI5wCRnB/",
+        "snippet": "OBJETIVO SISTEMA DE ENSINO - Muito além do ensino Nosso espaço não é ... No Colégio Universitário, cada etapa do aprendizado é ...",
+        "date": "há 10 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

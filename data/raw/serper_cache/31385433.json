@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31385433",
+  "NO_ENTIDADE": "COLEGIO DETERMINANTE",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO DETERMINANTE\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DETERMINANTE\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Matrículas 2027 · determinante · colégio e pré-vestibular · BH",
+        "link": "https://colegio.determinantebh.com.br/",
+        "snippet": "... Belo Horizonte ... Do 6º ano ao pré-vestibular: método, rotina e autonomia que nenhuma apostila entrega.",
+        "position": 1
+      },
+      {
+        "title": "Sou BH | 🚀 O Colégio Determinante vai ter mais uma ...",
+        "link": "https://www.instagram.com/p/DQ6k5PLjGJb/",
+        "snippet": "O Colégio Determinante vai ter mais uma unidade! O @colegiodet, referência em educação de alto desempenho em Belo Horizonte, anuncia uma nova ...",
+        "date": "há 8 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio de alto desempenho chega a BH com melhor ...",
+        "link": "https://www.em.com.br/app/noticia/educacao/2023/07/06/internas_educacao,1517011/colegio-de-alto-desempenho-chega-a-bh-com-melhor-material-didatico-do-pais.shtml",
+        "snippet": "... Belo Horizonte. Muito conhecido em Minas Gerais, o cursinho ... Colégio Determinante vai contar com o melhor material didático do país.",
+        "date": "6 de jul. de 2023",
+        "position": 3
+      },
+      {
+        "title": "Determinante Colégio e Pré-vestibular | Belo Horizonte MG",
+        "link": "https://www.facebook.com/determinantebh/?locale",
+        "snippet": "Determinante Colégio e Pré-vestibular, Belo Horizonte ... Professores especialistas, material didático de ... Colégio Determinante (YouTube) Por que assistir?",
+        "position": 4
+      },
+      {
+        "title": "Colégio de BH, referência em aprovação em Medicina ...",
+        "link": "https://soubh.uai.com.br/noticias/educacao/colegio-bh-referencia-aprovacao-medicina-turmas-2026/",
+        "snippet": "O Colégio Determinante foca no protagonismo estudantil e excelência ... O Colégio e Pré-vestibular Determinante, referência em Belo Horizonte, ...",
+        "date": "9 de jun. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

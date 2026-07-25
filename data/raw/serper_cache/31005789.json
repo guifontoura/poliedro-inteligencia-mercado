@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "31005789",
+  "NO_ENTIDADE": "COLEGIO SAO PAULO DA CRUZ",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO SAO PAULO DA CRUZ\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAO PAULO DA CRUZ\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosMencao-MG.2.privada.do.htm",
+        "snippet": "COLEGIO SAO PAULO DA CRUZ, P, BELO HORIZONTE, MG, Sim. PAULO CARVALHO AZEVEDO ... BELO HORIZONTE, MG, Sim. MIGUEL ALMEIDA HONORATO MOURA, COLEGIO FUCAMP, P, MONTE ...",
+        "position": 1
+      },
+      {
+        "title": "BHTRANS - Belo Horizonte",
+        "link": "http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S09F03-escolar5a.asp?lingua=",
+        "snippet": "SISTEMA DE ENSINO RENASCER · SISTEMA PIAGET DE ENSINO · UMEI BRAUNAS · UMEI DELFIM ... EMPRESA DE TRANSPORTES E TRÂNSITO DE BELO HORIZONTE S/A - BHTRANS Av ...",
+        "position": 2
+      },
+      {
+        "title": "Classificados NIVEL D",
+        "link": "https://antigo.onciencias.org/resultados/download/14",
+        "snippet": "SISTEMA DE ENSINO EQUIPE CRISTAL. 8. BELEM. PA. ADLER ALISON LEAL SOSTER. 3 ... COLEGIO SAO PAULO DA CRUZ. 13. BELO HORIZONTE. MG. ANA LUIZA BONFIM FERREIRA. 3 ...",
+        "position": 3
+      },
+      {
+        "title": "sitemap1.txt",
+        "link": "https://www.remind.com/sitemap1.txt",
+        "snippet": "... belo-horizonte https://www.remind.com/school/test-school-1-69fe00be-2fa1 ... colegio-sao-paulo-da-cruz https://www.remind.com/school/inst-charles ...",
+        "position": 4
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. AL. Maceió ouro. Ana Alexandra ... COLEGIO SAO PAULO DA CRUZ. MG. Belo Horizonte. Certficado SOPHIA KAORI SANODA ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

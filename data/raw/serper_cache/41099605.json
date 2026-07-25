@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "41099605",
+  "NO_ENTIDADE": "ALIANCA CEI EF M",
+  "cidade": "Guarapuava",
+  "query": "\"ALIANCA CEI EF M\" \"Guarapuava\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ALIANCA CEI EF M\" \"Guarapuava\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Aliança – Transformando vidas por meio da educação",
+        "link": "https://colegioalianca.com.br/",
+        "snippet": "O Colégio Aliança, que oferece Educação Infantil, Ensino Fundamental e Médio é uma instituição de direito privado com sólida trajetória educacional. Suas ...",
+        "position": 1
+      },
+      {
+        "title": "SOMOS Educação: Parceira Integral das Escolas de ...",
+        "link": "https://www.somoseducacao.com.br/",
+        "snippet": "SOMOS Educação: líder em Educação Básica no Brasil, com sistemas de ensino, editoras e soluções educacionais completas.",
+        "position": 2
+      },
+      {
+        "title": "Material Didático | Sistema Mackenzie de Ensino",
+        "link": "https://sistemasdeensino.mackenzie.br/material-didatico",
+        "snippet": "Nosso material didático busca promover uma aprendizagem significativa, apresentando os objetos do conhecimento de forma contextualizada e próxima à realidade do ...",
+        "position": 3
+      },
+      {
+        "title": "ALIANCA CEI EF M",
+        "link": "https://qedu.org.br/escola/41099605-alianca-c-ei-ef-m",
+        "snippet": "Confira informações sobre telefone, endereço, número de matriculados, Enem, desempenho Saeb, disciplinas ofertadas e rendimento da ALIANCA CEI EF M em",
+        "position": 4
+      },
+      {
+        "title": "Sistema Mackenzie de Ensino",
+        "link": "https://www.youtube.com/watch?v=ii3odtGzB4o",
+        "snippet": "Choices for families ; Funções executivas e aprendizagem: práticas baseadas em evidências para o contexto escolar. Sistemas de Ensino Mackenzie ...",
+        "date": "há 3 anos",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

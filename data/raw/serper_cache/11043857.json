@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "11043857",
+  "NO_ENTIDADE": "COLEGIO CLASSE A",
+  "cidade": "Porto Velho",
+  "query": "\"COLEGIO CLASSE A\" \"Porto Velho\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO CLASSE A\" \"Porto Velho\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Classe A | Institucional",
+        "link": "https://colegioclassea.com.br/centro/institucional/",
+        "snippet": "Enquanto mantenedor do Colégio “Classe A”, é com muito orgulho que ... Porto Velho – RO, 76808-645. Recepção: 3224-4473 (Fixo) WhatsApp: 99266-4770.",
+        "position": 1
+      },
+      {
+        "title": "Os alunos da primeira série tiveram uma aula campo de ...",
+        "link": "https://www.instagram.com/reel/DHojG2kyLf0/",
+        "snippet": "Conteúdo que faz parte do material didático do Sistema de Ensino Poliedro. ... Sim, o Colégio Classe A é 17X Campeão do Enem em Porto Velho / ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Colégio Classe A - OFICIAL (@colegioclasseapvh)",
+        "link": "https://www.instagram.com/colegioclasseapvh/",
+        "snippet": "Sim, o Colégio Classe A é 17X Campeão do Enem em Porto Velho / Rondônia. ... Colégio Classe A e Sistema de Ensino Poliedro, compromisso com a educação e ...",
+        "position": 3
+      },
+      {
+        "title": "Nós da FIMCA e Metropolitana tivemos a alegria de estar ao ...",
+        "link": "https://www.instagram.com/reel/DYSCfIXAuFw/",
+        "snippet": "... apostila. É muito importante pra gente, é um novo passo na ... Sim, o Colégio Classe A é 17X Campeão do Enem em Porto Velho / Rondônia.",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Toda parceria de sucesso advém de confiança e de ...",
+        "link": "https://www.facebook.com/colegioclassea/videos/toda-parceria-de-sucesso-adv%C3%A9m-de-confian%C3%A7a-e-de-compromisso-e-assim-h%C3%A1-13-anos-/1010893599659845/",
+        "snippet": "... Colégio Classe A e o Sistema de Ensino P | Colégio Classe A. Log in ... No photo description available. Cartão de TODOS - Porto Velho ...",
+        "date": "há 4 anos",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

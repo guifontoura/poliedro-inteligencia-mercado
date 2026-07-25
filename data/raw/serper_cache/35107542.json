@@ -1,0 +1,25 @@
+{
+  "codigo_escola": "35107542",
+  "NO_ENTIDADE": "ESCOLA BILINGUE PUERI DOMUS UNIDADE I VERBO DIVINO",
+  "cidade": "São Paulo",
+  "query": "\"ESCOLA BILINGUE PUERI DOMUS UNIDADE I VERBO DIVINO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA BILINGUE PUERI DOMUS UNIDADE I VERBO DIVINO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 2° ANO",
+        "link": "https://obquimica.org/storage/files/01K92DBJV1QWFA3P61QT42PTSX.pdf",
+        "snippet": "ESCOLA BILINGUE PUERI DOMUS UNIDADE I VERBO DIVINO. SP. São Paulo. Certficado LUIZA SIMÕES VETTORE. ESCOLA BILINGUE PUERI DOMUS UNIDADE I VERBO DIVINO. SP. São ...",
+        "position": 1
+      }
+    ],
+    "credits": 1
+  }
+}

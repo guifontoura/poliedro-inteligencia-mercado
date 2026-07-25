@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "42006708",
+  "NO_ENTIDADE": "COLEGIO SAO JOSE",
+  "cidade": "Tubarão",
+  "query": "\"COLEGIO SAO JOSE\" \"Tubarão\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAO JOSE\" \"Tubarão\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio São José",
+        "link": "https://www.saojose.g12.br/",
+        "snippet": "O Colégio São José faz parte da história de. Tubarão. Conheça o nosso Colégio. O dia a dia no Colégio São José é intenso e cheio de atividades. O Projeto ...",
+        "position": 1
+      },
+      {
+        "title": "Sejam bem-vindos! Colégio Santa Rosa de Lima - Lages ...",
+        "link": "https://www.instagram.com/reel/DYSpwuzzGxe/",
+        "snippet": "Sejam bem-vindos! Colégio Santa Rosa de Lima - Lages Colégio Santos Anjos - Joinville Colégio São José - Tubarão Colégio Stella Maris - Laguna",
+        "date": "há 2 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Stella Maris",
+        "link": "https://www.stellamaris.g12.br/",
+        "snippet": "O melhor material didático, programa bilíngue e muito mais. Editora SM ... Colégio São José. Tubarão. Colégio Santa Rosa de Lima. Lages. CEI Mont Serrat.",
+        "position": 3
+      },
+      {
+        "title": "Colégio dos Santos Anjos",
+        "link": "http://3.131.34.246/",
+        "snippet": "Sistema de Ensino. UDP Bilingual Program. Programa Bilíngue. Sentir e Pensar ... Colégio São José. Tubarão. Colégio Stella Maris. Laguna ...",
+        "position": 4
+      },
+      {
+        "title": "A empresa Tubarão Saneamento￼ esteve no Colégio São ...",
+        "link": "https://www.instagram.com/p/DY0KPgbFNzb/",
+        "snippet": "A empresa Tubarão Saneamento￼ esteve no Colégio São José para realizar uma palestra com as turmas do 2º Ano do Ensino Fundamental I, ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

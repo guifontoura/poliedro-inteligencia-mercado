@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "25213806",
+  "NO_ENTIDADE": "COLEGIO E CURSO PETRONIO FIGUEIREDO LTDA",
+  "cidade": "Campina Grande",
+  "query": "\"COLEGIO E CURSO PETRONIO FIGUEIREDO LTDA\" \"Campina Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO E CURSO PETRONIO FIGUEIREDO LTDA\" \"Campina Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ministério da Educação",
+        "link": "https://www.ampb.org.br/anexos/show/130",
+        "snippet": "Campina Grande. ESCOLA JOAO RIQUE FERREIRA SESI. Privada. 2. PB. Campina Grande. COLEGIO E CURSO PETRONIO FIGUEIREDO LTDA. Privada. 8. PB. Campina Grande. CF ...",
+        "position": 1
+      },
+      {
+        "title": "ENEM ESCOLA Page 1 SIGLA NO_MUNICIPIO ...",
+        "link": "http://fw.atarde.com.br/2012/11/1293042.pdf",
+        "snippet": "... SISTEMA DE ENSINO MILENIO. Privada. 514,5461538 510,0769231 546,8692308 514 ... CAMPINA GRANDE. CENTRO CAMPINENSE DE EDUCACAO LTDA COLEGIO MOTIVA. Privada.",
+        "position": 2
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... CAMPINA GRANDE. Privada. CENTRO CAMPINENSE DE EDUCACAO LTDA COLEGIO ... SISTEMA DE ENSINO EQUIPE. 628,66. 596,47. 652,65. 612,81. 652,72. 747 ...",
+        "date": "22 de dez. de 2014",
+        "position": 3
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "COLEGIO E CURSO PETRONIO FIGUEIREDO LTDA 92 Campina Gran PB COLEGIO PIO XII ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 4
+      },
+      {
+        "title": "Tudo o que você precisa saber sobre as regras do Enem ...",
+        "link": "https://exame.com/brasil/tudo-o-que-voce-precisa-saber-sobre-as-regras-do-enem-2015/",
+        "snippet": "CAMPINA GRANDE, Privada, CENTRO CAMPINENSE DE EDUCACAO LTDA COLEGIO ... COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA, 519,23, 593,73. 48º, MACEIO ...",
+        "date": "14 de mai. de 2015",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

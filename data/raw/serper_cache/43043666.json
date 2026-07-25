@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "43043666",
+  "NO_ENTIDADE": "COLEGIO LA SALLE",
+  "cidade": "Caxias do Sul",
+  "query": "\"COLEGIO LA SALLE\" \"Caxias do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LA SALLE\" \"Caxias do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Depois da chegada ao Brasil, os primeiros Irmãos Lassalistas ...",
+        "link": "https://www.facebook.com/colegiolasallesaojoao/videos/depois-da-chegada-ao-brasil-os-primeiros-irm%C3%A3os-lassalistas-enfrentaram-os-desaf/1352268240376888/",
+        "snippet": "... Caxias do Sul. As escolas surgiam aos poucos muitas vezes em espaços ... Os irmãos chegaram, mas o material didático veio através do ...",
+        "date": "há 2 semanas",
+        "position": 1
+      },
+      {
+        "title": "caxias",
+        "link": "https://www.lasalle.edu.br/caxias/busca/?page=58",
+        "snippet": "A logomarca dos 90 Anos do Colégio La Salle ... Para iluminar as casas dos Sumamonos (moradores do planeta Destecnia e personagens do material didático da Sala ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio La Salle Caxias participam de formação com a ...",
+        "link": "https://www.instagram.com/p/DDup6Ovp5gs/",
+        "snippet": "Professores e coordenação do 5º ano - Colégio La Salle Caxias participam de formação com a assessoria do Sistema de Ensino Bernoulli.",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Depois da chegada ao Brasil, os primeiros Irmãos Lassalistas ...",
+        "link": "https://www.instagram.com/reel/DaVwzJHjCqH/",
+        "snippet": "... Caxias do Sul. As escolas surgiam aos poucos, muitas vezes em ... Colégio La Salle Águas Claras, no Distrito Federal, o curso contou ...",
+        "date": "há 3 semanas",
+        "position": 4
+      },
+      {
+        "title": "Depois da chegada ao Brasil, os primeiros Irmãos Lassalistas ...",
+        "link": "https://www.facebook.com/lasalleniteroi/videos/depois-da-chegada-ao-brasil-os-primeiros-irm%C3%A3os-lassalistas-enfrentaram-os-desaf/1355397146554118/",
+        "snippet": "... Caxias do Sul. As escolas surgiam aos poucos, muitas vezes em ... Os irmãos chegaram, mas o material didático veio através do porto de ...",
+        "date": "há 3 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

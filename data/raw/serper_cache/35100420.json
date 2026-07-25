@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35100420",
+  "NO_ENTIDADE": "IMPERATRIZ LEOPOLDINA COLEGIO",
+  "cidade": "São Paulo",
+  "query": "\"IMPERATRIZ LEOPOLDINA COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"IMPERATRIZ LEOPOLDINA COLEGIO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Vôlei Dazmeninas - DZM | 9° TORNEIO DE VERÃO ...",
+        "link": "https://www.instagram.com/p/DU_CD51DQTU/",
+        "snippet": "... SÃO PAULO-SP Colégio NOVO TEMPO anglo COLÉGIO IMPERATRIZ LEOPOLDINA dm. ... Sistema de Ensino Anglo COLÉGIO IMPERATRIZ LEOPOLDINA DESDE 1923 dm.",
+        "date": "há 5 meses",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-SP.2.privada.do.htm",
+        "snippet": "IURY BURIGO MIRANDA RODRIGUES DE O. COC SAPIENS, P, OSASCO, SP, Sim. JOÃO PEDRO MARTINS PEREZ, IMPERATRIZ LEOPOLDINA COLEGIO, P, SÃO PAULO, SP ...",
+        "position": 2
+      },
+      {
+        "title": "2014",
+        "link": "https://enem.cneceduca.com.br/2014?p=15",
+        "snippet": "Imperatriz Leopoldina Colegio, Privada, São Paulo, SP, 62, 623,17, 628,75, 590,38 ... Atual Sistema de Ensino, Privada, Sabinópolis, MG, 16, 611,51, 642,66, 590, ...",
+        "position": 3
+      },
+      {
+        "title": "Lista de Colégios Privados no Brasil | PDF | São Paulo",
+        "link": "https://pt.scribd.com/doc/273617459/Ranking-Brasil",
+        "snippet": "IMPERATRIZ LEOPOLDINA COLEGIO. SP. SAO PAULO. Privada. Urbana. 68. COL SAGRADO ... SISTEMA DE ENSINO MILENIO. GO. GOIANIA. Privada. Urbana. 28. SESI 351 CENTRO ...",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2013 POR ESCOLA",
+        "link": "http://estaticog1.globo.com/2014/12/22/Enem_2013_MEDIAPORESCOLA.pdf",
+        "snippet": "... SAO PAULO. Privada. VERTICE COLEGIO UNIDADE II. 715,41. 649,81. 787,28 ... SISTEMA DE ENSINO EQUIPE. 628,66. 596,47. 652,65. 612,81. 652,72. 747 ...",
+        "date": "22 de dez. de 2014",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

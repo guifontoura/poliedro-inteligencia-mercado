@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "50032100",
+  "NO_ENTIDADE": "COLEGIO BIONATUS II",
+  "cidade": "Campo Grande",
+  "query": "\"COLEGIO BIONATUS II\" \"Campo Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BIONATUS II\" \"Campo Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Campo Grande-EB – Conselho Estadual de Educação",
+        "link": "https://www.cee.ms.gov.br/atos-normativos-educacao-basica-campo-grande/",
+        "snippet": "COLÉGIO BIONATUS II · COLÉGIO BIONATUS · Colégio Carlos Drummond de Andrade · Colégio ... S.E.U Sistema de Ensino Unificado · SEALP – Educação Infantil, Ensino ...",
+        "position": 1
+      },
+      {
+        "title": "8 melhores escolas particulares de Campo Grande",
+        "link": "https://www.melhorescola.com.br/artigos/as-melhores-escolas-particulares-de-campo-grande",
+        "snippet": "2) Colégio Bionatus Ii. Nota: 702. Endereço: Rua Manoel Inácio De Souza, 196- Vila Santeiro, Campo Grande - Mato Grosso Do Sul. 3) Escola Paulo Freire. Nota ...",
+        "position": 2
+      },
+      {
+        "title": "ENSINO MÉDIO Prezadas famílias, Informamos que ...",
+        "link": "https://www.instagram.com/p/DTwDjEBjABe/",
+        "snippet": "... Campo Grande, 23 de junho de 2026. COMUNICADO Senhores Pais e/ou ... 3° COLEGIO BIONATUS II 708,81. 4° COLEGIO UNIGRAN - UNIDADE II 708 ...",
+        "date": "há 6 meses",
+        "position": 3
+      },
+      {
+        "title": "As cinquenta escolas com os melhores resultados no Enem",
+        "link": "https://www.msnoticias.com.br/editorias/noticias-brasil-mundo/as-cinquenta-escolas-com-os-melhores-resultados-no-enem/75776/",
+        "snippet": "Colégio Bionatus II – Campo Grande. Colégio Olimpo – Brasília. Magnum Agostiniano (Nova Floresta) – Belo Horizonte. São Bento – Rio de Janeiro. Colégio ...",
+        "position": 4
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Colégio Classe A - 718,05 - Campo Grande (Mato Grosso do Sul) - Particular - Sem informação ... Colégio Bionatus II - 708,84 - Campo Grande ...",
+        "date": "23 de jun. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

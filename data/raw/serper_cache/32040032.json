@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "32040032",
+  "NO_ENTIDADE": "CE LEONARDO DA VINCI",
+  "cidade": "Vitória",
+  "query": "\"CE LEONARDO DA VINCI\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CE LEONARDO DA VINCI\" \"Vitória\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola São Domingos on Instagram: \"1º lugar geral no ENEM no ...",
+        "link": "https://www.instagram.com/reel/DZ7hz6ZOeQb/",
+        "snippet": "... Vitória EducaçãoDeExcelência MelhorEscola ValoresParaTodaAVida ... Sistema de Ensino • DESDE 2005 • 9ª POSIÇÃO entre as 138 escolas que ...",
+        "position": 1
+      },
+      {
+        "title": "Mais uma vez, o NT faz história! Pelo terceiro ano ...",
+        "link": "https://www.instagram.com/p/DaAndVHRbb1/",
+        "snippet": "... Vitória: oito de Vitória, uma da Serra e uma de Vila Velha. As ... Sistema de Ensino • DESDE 2005 • 9ª POSIÇÃO entre as 138 escolas que ...",
+        "date": "há 4 semanas",
+        "position": 2
+      },
+      {
+        "title": "Ricardo Augusto Gomes Jacob - Professor, Engenheiro ...",
+        "subtitle": "São Brás de Alportel, Faro, Portugal · Professor de eletrotécnica quadro de escola · Escola Secundária de Loulé",
+        "link": "https://www.linkedin.com/in/ricardo-augusto-gomes-jacob-01550922",
+        "snippet": "... material didático para a Smile Editora, empresa que na época produzia os ... C.E. Leonardo da Vinci. O contrato com a Smile Editora durou até ao final ...",
+        "position": 3
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... Vitória. ADRYEL CUNHA INGLES DA SILVA. 2º ano - Ensino Médio. 13. 10 EE DOMINGOS ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 4
+      },
+      {
+        "title": "Depósito legal na Fundação Biblioteca Nacional, conforme ...",
+        "link": "https://www.educacao.pr.gov.br/sites/default/arquivos_restritos/files/documento/2019-12/ppc_formacao_docentes_2014.pdf",
+        "snippet": "BOURDIEU, P.; PASSERON, J. C. A reprodução: elementos para uma teoria do sistema de ensino. ... FREIRE, Ana Vitória Angel Vianna. Uma biografia da Dança ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

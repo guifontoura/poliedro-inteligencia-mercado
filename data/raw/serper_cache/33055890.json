@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "33055890",
+  "NO_ENTIDADE": "COLEGIO NOSSA SENHORA DAS MERCES",
+  "cidade": "Niterói",
+  "query": "\"COLEGIO NOSSA SENHORA DAS MERCES\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO NOSSA SENHORA DAS MERCES\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "👀 Já passou em frente ao Mercês e ficou imaginando ...",
+        "link": "https://www.instagram.com/p/DXwxmdZjn9P/",
+        "snippet": "Photo by Colegio Nossa Senhora das Merces - Niterói ...",
+        "date": "há 2 meses",
+        "position": 1
+      },
+      {
+        "title": "Troca de experiências que fortalece a educação Nossos ...",
+        "link": "https://www.instagram.com/reel/DYQOLLuBQ3X/",
+        "snippet": "158 likes, 6 comments - modelo.colegio on May 12, 2026: \"Troca de experiências que fortalece a educação Nossos gestores, Fabrizzio e ...",
+        "date": "há 2 meses",
+        "position": 2
+      },
+      {
+        "title": "Encerramos o Mês Mariano com um momento de fé, carinho e ...",
+        "link": "https://www.instagram.com/reel/DZBwT53t4nb/",
+        "snippet": "Å Sistema de Ensino . 벨류 ESCOLA ESPORTE minas tênis clu Å ... Join Colegio Nossa Senhora das Merces - Niterói on Instagram. Sign up ...",
+        "position": 3
+      },
+      {
+        "title": "Grátis: Baixadas Litorâneas - BL - Material Claro e Objetivo ...",
+        "link": "https://www.passeidireto.com/arquivo/126470376/baixadas-litoraneas-bl",
+        "snippet": "33055890 ASSOCIACAO BENEFICENTE MERCEDARIA SANTO ANTONIO COLEGIO NOSSA SENHORA DAS MERCES Niterói ... APOSTILA - ANEXO A PORTARIA BAIXADAS ...",
+        "date": "31 de ago. de 2023",
+        "position": 4
+      },
+      {
+        "title": "Seu filho merece uma educação que une acolhimento ...",
+        "link": "https://www.instagram.com/p/DbGzFg0Mstz/",
+        "snippet": "Photo by Colegio Nossa Senhora das Merces - Niterói on July 09, 2026.",
+        "date": "há 2 dias",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

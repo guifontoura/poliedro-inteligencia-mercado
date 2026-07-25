@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "31382655",
+  "NO_ENTIDADE": "COLEGIO GABARITO - UNIDADE II",
+  "cidade": "Uberaba",
+  "query": "\"COLEGIO GABARITO - UNIDADE II\" \"Uberaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO GABARITO - UNIDADE II\" \"Uberaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Gabarito Educação",
+        "link": "https://gabaritoeducacao.com/",
+        "snippet": "Materiais exclusivos: desenvolvidos em parceria com os professores, o material didático conta com livros complementares ao longo do ano. Simulados ENEM: os ...",
+        "position": 1
+      },
+      {
+        "title": "Gabarito Educação (@gabaritoeducacao) - Instagram",
+        "link": "https://www.instagram.com/gabaritoeducacao/",
+        "snippet": "Entre as melhores escolas do Brasil Do Infantil ao Pré-Vestibular Fale com a gente, acesse o site e muito mais: Follow.",
+        "position": 2
+      },
+      {
+        "title": "Sistema Gabarito - Drummond Ensino e Desenvolvimento",
+        "link": "https://drummondensino.com.br/sistema-gabarito/",
+        "snippet": "A união do Gabarito Educação, com sua expertise em sistemas de ensino, e o Colégio Drummond, uma instituição de referência em Goiatuba, resulta em uma proposta ...",
+        "position": 3
+      },
+      {
+        "title": "SOMOS Educação: Parceira Integral das Escolas de ...",
+        "link": "https://www.somoseducacao.com.br/",
+        "snippet": "SOMOS Educação: líder em Educação Básica no Brasil, com sistemas de ensino, editoras e soluções educacionais completas.",
+        "position": 4
+      },
+      {
+        "title": "COLEGIO GABARITO - UNIDADE II - QEdu",
+        "link": "https://qedu.org.br/escola/31382655-colegio-gabarito-unidade-ii",
+        "snippet": "Informações · SANTA BEATRIZ DA SILVA, 1970. SANTA MARIA. 38050106 Uberaba - Minas Gerais · (34) 3321-5200 · Código INEP: 31382655 · Localização: Urbana · Dependência ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

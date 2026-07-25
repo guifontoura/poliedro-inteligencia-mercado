@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "42203600",
+  "NO_ENTIDADE": "COLEGIO TRILINGUE INOVACAO",
+  "cidade": "Chapecó",
+  "query": "\"COLEGIO TRILINGUE INOVACAO\" \"Chapecó\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO TRILINGUE INOVACAO\" \"Chapecó\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Trilíngue Inovação - O colégio",
+        "link": "https://www.colegioinovacao.com.br/colegio",
+        "snippet": "X. primeiro lugar no ENEM de Chapecó. Solução educacional. Integrado e focado em metas. O material didático reúne conteúdo físico e digital. Todas as práticas ...",
+        "position": 1
+      },
+      {
+        "title": "Descubra a conveniência de um colégio trilíngue bem ...",
+        "link": "https://www.instagram.com/reel/DWzaueDCYL0/",
+        "snippet": "em Chapecó! Fácil acesso, proximidade do centro e tranquilidade total ... material didático atualizado Conquista solução educacional ...",
+        "date": "há 3 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Trilingue Inovação - Descontos, Preço das ...",
+        "link": "https://querobolsa.com.br/escolas/colegio-trilingue-inovacao",
+        "snippet": "O Colégio Trilíngue Inovação nasceu do desejo de um grupo de pais em oferecer uma educação diferenciada para seus filhos em Chapecó, no bairro Jardim Itália.",
+        "position": 3
+      },
+      {
+        "title": "Colégio Trilíngue Inovação - Bolsas de estudos",
+        "link": "https://www.colegioinovacao.com.br/tritest",
+        "snippet": "... Chapecó e região, exceto os alunos já matriculados no Colégio Trilíngue Inovação. ... Solução educacional. Material didático físico e digital.",
+        "position": 4
+      },
+      {
+        "title": "Colégio Dinâmico Chapecó | Bolsas de Estudo em ...",
+        "link": "https://www.melhorescola.com.br/escola/colegio-dinamico-chapeco",
+        "snippet": "Sistema de ensino. FTD Educação e Positivo. O sistema de ensino compreende o ... Colégio Trilingue Inovação. Sem avaliações. Jardim Italia - Chapecó - SC ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35173186",
+  "NO_ENTIDADE": "LICEU JARDIM",
+  "cidade": "Santo André",
+  "query": "\"LICEU JARDIM\" \"Santo André\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LICEU JARDIM\" \"Santo André\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Liceu Jardim (@liceujardim) · Santo André, SP",
+        "link": "https://www.instagram.com/liceujardim/",
+        "snippet": "... Santo André e São Caetano ... No ...",
+        "position": 1
+      },
+      {
+        "title": "Perguntas Frequentes",
+        "link": "https://liceujardim.com.br/perguntas-frequentes/",
+        "snippet": "QUAL É O MATERIAL DIDÁTICO ADOTADO PELA ESCOLA? O Liceu Jardim não está ... Silveiras, 70 - Vila Guiomar, Santo André - SP, 09071-100. CNPJ: 03.311.588 ...",
+        "position": 2
+      },
+      {
+        "title": "Liceu Jardim on Instagram: \"Um novo capítulo de excelência ...",
+        "link": "https://www.instagram.com/reel/Daf3EcJOCzV/",
+        "snippet": "décadas, o Liceu Jardim nasceu em Santo André com o propósito de ... CONQUISTA SOLUÇÃO EDUCACIONAL. Nossa parceria com a Conquista ...",
+        "date": "há 2 semanas",
+        "position": 3
+      },
+      {
+        "title": "Liceu Jardim - Descontos, Preço das Mensalidades e ...",
+        "link": "https://querobolsa.com.br/escolas/liceu-jardim",
+        "snippet": "Localizado na Vila Guiomar, em Santo André (SP), o Liceu Jardim é uma das referências entre as escolas em Santo André, atendendo da ... material didático e ...",
+        "rating": 4.4,
+        "ratingCount": 16,
+        "position": 4
+      },
+      {
+        "title": "Liceu Jardim: Liceu at Home",
+        "link": "https://liceuathome.com.br/",
+        "snippet": "... material didático atualizado, enriquecendo a experiência de aprendizado. ... Local: Liceu Jardim (Rua Silveiras, 70 - Vila Guiomar - Santo André). Não ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

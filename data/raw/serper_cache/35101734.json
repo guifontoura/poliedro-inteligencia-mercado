@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35101734",
+  "NO_ENTIDADE": "SAO MIGUEL ARCANJO COLEGIO FRANCISCANO",
+  "cidade": "São Paulo",
+  "query": "\"SAO MIGUEL ARCANJO COLEGIO FRANCISCANO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SAO MIGUEL ARCANJO COLEGIO FRANCISCANO\" \"São Paulo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.1.privada.do.htm",
+        "snippet": "SAO MIGUEL ARCANJO COLEGIO FRANCISCANO, P, SÃO PAULO, SP, ---, Sim. OTAVIO BECKER ... JUNTA DE EDUCAÇÃO DA CONVENÇÃO BATISTA DO ESTADO DE SÃO PAULO, P, BAURU ...",
+        "position": 1
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "SAO MIGUEL ARCANJO COLEGIO FRANCISCANO 35 São Paulo SP AUGUSTO LARANJA ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 2
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-HORIZONTAL.pdf",
+        "snippet": "... São Paulo. Privada. Urbana. 41. De 31 a. 60 alunos. 41. 100.00. 0. De 60% a 80%. Muito ... SISTEMA DE ENSINO. PI. Teresina. Privada. Urbana. 25. De 1 a 30 alunos.",
+        "position": 3
+      },
+      {
+        "title": "Notas Médias do ENEM 2010 dos alunos concluintes do ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_3_MUNICIPIOS.pdf",
+        "snippet": "... SÃO PAULO. SAO PAULO. SANTA CRUZ COLEGIO. PRIVADA. 94. 91. 653,94. 708,27 ... SAO MIGUEL ARCANJO COLEGIO FRANCISCANO. PRIVADA. 26. 25. 544,75. 591 ...",
+        "date": "11 de set. de 2011",
+        "position": 4
+      },
+      {
+        "title": "Grátis: Resultado da OBQJr 2022 - Material Claro e ...",
+        "link": "https://www.passeidireto.com/arquivo/147977834/resultado-da-obq-jr-2022",
+        "snippet": "... SÃO PAULO ETAPA COLEGIO DE EFM OURO SAMIRA ISABELE ARAUJO FARIAS CE ... SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI - EPP PRATA ANA ...",
+        "date": "16 de ago. de 2024",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

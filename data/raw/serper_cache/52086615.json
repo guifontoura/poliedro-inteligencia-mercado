@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "52086615",
+  "NO_ENTIDADE": "COLEGIO JAO LTDA",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO JAO LTDA\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO JAO LTDA\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Artigos e Notícias sobre Colegio Jao LTDA",
+        "link": "https://www.jusbrasil.com.br/artigos-noticias/busca?q=colegio+jao+ltda",
+        "snippet": "Artigos e Notícias sobre Colegio Jao LTDA ... Colégio Bernoulli é obrigado a aceitar reutilização de material didático pelos alunos ... Aparecida de Goiânia – ...",
+        "position": 1
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... Goiânia. GO. 692,6. 838,6. 683,0. 677,0. 648,0. 762,0. 29 ETAPA COLEGIO.",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - OBMEP 2019",
+        "link": "https://premiacao.obmep.org.br/2019/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "COLEGIO JAO LTDA, P, GOIÂNIA, GO, Bronze. FERNANDA SATIE MATSUMOTO, COLEGIO DIOCESANO SANTA LUZIA, P, MOSSORO, RN, Bronze. GABRIEL MAZILI PEDROZA, ETAPA COLEGIO ...",
+        "position": 3
+      },
+      {
+        "title": "MEDALHA DE OURO",
+        "link": "https://site.onciencias.org/resultados/download/28/PREMIA%C3%87%C3%83O%202%C2%BA%20ANO%20EM%20NIVEL%20C%202019.pdf",
+        "snippet": "COLEGIO JAO LTDA. GOIÁS. Goiânia. Pedro Bicudo Bregion. POLIEDRO COLEGIO ... SISTEMA DE ENSINO EQUIPE LTDA - EPP. PARÁ. Canaã dos Carajás. CAUÊ CASSIANO DOS ...",
+        "position": 4
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/5208707-goiania/busca",
+        "snippet": "COLEGIO INTERATIVA LTDA. 103 UNIDADE 103. PARQUE ATHENEU. 74893550 Goiânia - Goiás. Rede privada / Urbana · COLEGIO JAO LTDA. J47, 120. SETOR JAÓ. 74673640 ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

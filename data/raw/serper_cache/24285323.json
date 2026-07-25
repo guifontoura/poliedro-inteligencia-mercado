@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "24285323",
+  "NO_ENTIDADE": "OVER COLEGIO E CURSO",
+  "cidade": "Natal",
+  "query": "\"OVER COLEGIO E CURSO\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"OVER COLEGIO E CURSO\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Você sabia que o Over está presente em várias regiões de ...",
+        "link": "https://www.instagram.com/p/DN1JAID4qzz/",
+        "snippet": "Você sabia que o Over está presente em várias regiões de Natal? Com unidades distribuídas nos principais bairros da capital, ...",
+        "date": "há 11 meses",
+        "position": 1
+      },
+      {
+        "title": "Over fará Plantão de Matrículas dia 6 de março",
+        "link": "https://colegioecursoover.com.br/over-fara-plantao-de-matriculas-dia-6-de-marco/",
+        "snippet": "Over Colégio e Curso ... No próximo sábado (6), o Over promoverá um Plantão de Matrículas em suas unidades de Cursinho – em Natal (Curso Lagoa Nova e Zona Norte), ...",
+        "position": 2
+      },
+      {
+        "title": "Manual do Aluno - Over Colégio e Curso | PDF | Pedagogia",
+        "link": "https://pt.scribd.com/document/716135407/GUIA-DO-ALUNO-OVER-Ensino-Medio",
+        "snippet": "Detalha também o horário escolar, uniforme, material didático e a importância da agenda escolar. ... Natal-RN Natal-RN Mossoró-RN. Und. Abel Cabral Und. Lagoa ...",
+        "position": 3
+      },
+      {
+        "title": "Over Colégio e Curso - Valor Material Escolar",
+        "link": "https://www.reclameaqui.com.br/over-colegio-e-curso/over-colegio-e-curso-valor-material-escolar_WA0oa5oCuyaUZtIk/",
+        "snippet": "Over Colégio e Curso - Valor ... Qual a diferença entre as Unidades de Natal x Mossoró? ... A escola pode te obrigar a comprar o material didático deles?",
+        "position": 4
+      },
+      {
+        "title": "Over Colégio e Curso on Instagram: \"Educar é abrir portas ...",
+        "link": "https://www.instagram.com/reel/DSSQQ51DRib/",
+        "snippet": "OVER SHOPPING PARTAGE COLÉGO EGURST Partage Norte Shopping Natal 2° andar (Av. ... O Sistema de Ensino SAS é referência nacional em desempenho e ...",
+        "date": "há 7 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "35112896",
+  "NO_ENTIDADE": "DOM BARRETO COLEGIO",
+  "cidade": "Campinas",
+  "query": "\"DOM BARRETO COLEGIO\" \"Campinas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"DOM BARRETO COLEGIO\" \"Campinas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Dom Barreto",
+        "link": "https://www.facebook.com/colegiodombarreto/posts/existe-um-caminho-cientificamente-comprovado-para-construir-uma-sala-de-aula-que/1657695093023729/",
+        "snippet": "... apostila e certificado. Sábados: 22/08, 29/08, 05/09,12/09 das 8h às ... Campinas 🎟️ Entrada gratuita | Vagas limitadas Inscrições ...",
+        "date": "há 1 dia",
+        "position": 1
+      },
+      {
+        "title": "Colégio Dom Barreto on Instagram: \"Como o Domba fez parte ...",
+        "link": "https://www.instagram.com/reel/DIOg2cmuNmr/",
+        "snippet": "... campinas #escola #EnsinoFundamental #EnsinoMedio #colegiodombarreto # ... apostila e certificado. com Graziela Degrecci ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Dom Barreto Colegio | Bolsas de Estudo em Campinas - SP",
+        "link": "https://www.melhorescola.com.br/escola/dom-barreto-colegio",
+        "snippet": "Garanta sua bolsa de estudos em Dom Barreto Colegio, Campinas - SP ... material didático, e meus filhos foram muito felizes neste tempo todo e tiveram um ...",
+        "position": 3
+      },
+      {
+        "title": "Dom Barreto Colegio - Descontos, Preço das ...",
+        "link": "https://querobolsa.com.br/escolas/colegio-dom-barreto",
+        "snippet": "Onde fica o Dom Barreto Colegio? av da saudade, 705 - ponte preta, Campinas - SP.",
+        "rating": 3.3,
+        "ratingCount": 11,
+        "position": 4
+      },
+      {
+        "title": "Colégio Dom Barreto on Instagram: \"Hoje realizamos um ato ...",
+        "link": "https://www.instagram.com/reel/DOOzip1DmI5/",
+        "snippet": "... campinas #vemprodomba #escola # ... apostila e certificado. com Graziela Degrecci Orientadora Educacional e ...",
+        "date": "há 10 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

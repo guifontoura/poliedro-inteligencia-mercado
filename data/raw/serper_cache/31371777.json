@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31371777",
+  "NO_ENTIDADE": "COLEGIO GABARITO",
+  "cidade": "Araxá",
+  "query": "\"COLEGIO GABARITO\" \"Araxá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO GABARITO\" \"Araxá\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "🎙️ Atenção, Araguari! O INSTITUTO AXIOMA – Cursos ...",
+        "link": "https://www.instagram.com/reel/DOroabejulG/",
+        "snippet": "... COLEGIO GABARITO DE ARAGUARI TELEFONE: 98829 ... Politécnica Araxá – Conectando você ao seu futuro profissional!",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "🎙️ Atenção, Araguari! O INSTITUTO AXIOMA – Cursos ...",
+        "link": "https://www.instagram.com/p/DOqYWEikdlZ/",
+        "snippet": "... COLEGIO GABARITO DE ARAGUARI TELEFONE: 98829 ... Araxá. As capacitações são voltadas para as áreas de ...",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... COLÉGIO GABARITO. 31371777 MG. Araxá. ABRAÃO CÉSAR BRASILIANO PINHEIRO. 2º ano ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 3
+      },
+      {
+        "title": "TABELA-PARA-O-PROFESSOR-LOCALIZAR-A-TURMA- ...",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/TABELA-PARA-O-PROFESSOR-LOCALIZAR-A-TURMA-DA-QUAL-DEVE-IMPRIMIR-A-CARTA-CONVITE.pdf",
+        "snippet": "... Araxá. COLEGIO GABARITO. 31371777. 100310. Turma. 12. MG. Araxá. COLEGIO GABARITO ... Sistema de Ensino Physics. 15163830. 92511. Turma. 3. PA. Benevides. Colégio ...",
+        "position": 4
+      },
+      {
+        "title": "🎙️ Atenção, Araguari! O INSTITUTO AXIOMA – Cursos ...",
+        "link": "https://www.instagram.com/reel/DOWyMbqkegH/",
+        "snippet": "... COLEGIO GABARITO DE ARAGUARI TELEFONE: 98829-7268 # ... POLITÉCNICA ARAXÁ Invista no seu futuro, transforme sua vida! TÉCNICO ...",
+        "date": "há 10 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

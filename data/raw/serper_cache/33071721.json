@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33071721",
+  "NO_ENTIDADE": "COLEGIO QI METROPOLITANO",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO QI METROPOLITANO\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO QI METROPOLITANO\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Ciência, Conhecimento e Protagonismo Acadêmico",
+        "link": "https://cdnc.heyzine.com/files/uploaded/cb6c9cfde7ab22d494029b379d213431d3beb975.pdf",
+        "snippet": "Gabriel Carneiro Da Penha – Colégio Qi Metropolitano. Lucas ... Rio de Janeiro: Pro Raiz Sistema de Ensino Ltda., 2023. 49. Page 52. A ...",
+        "date": "3 de mai. de 2025",
+        "position": 1
+      },
+      {
+        "title": "Raiz Educação | Educação Básica (@raizeducacao)",
+        "link": "https://www.instagram.com/raizeducacao/",
+        "snippet": "Estamos novamente na Bett Brasil! Nosso sistema de ensino @‌ProRaiz e nosso socioemocional ...",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: saiba as escolas com as maiores notas da ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/25/enem-2025-saiba-as-escolas-com-as-maiores-notas-da-zona-norte-do-rio.ghtml",
+        "snippet": "Colégio Militar do Rio de Janeiro - 648,87 - Tijuca - Público - 91% ... Colégio QI Metropolitano - 643,26 - Méier - Particular - 89% ...",
+        "date": "25 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Enem 2025: veja as escolas com maiores notas na Zona ...",
+        "link": "https://www.tribunadosertao.com.br/conhecimento/2026/06/25/928225-enem-2025-veja-as-escolas-com-maiores-notas-na-zona-norte-do-rio",
+        "snippet": "Colégio Militar do Rio de Janeiro - 648,87 - Tijuca - Público - 91% ... SEI - Sistema de Ensino Interativo - 627,53 - Tijuca - Particular - 316%.",
+        "date": "25 de jun. de 2026",
+        "position": 4
+      },
+      {
+        "title": "Qi Metropolitano em Rio de Janeiro, RJ - 33.590.308/0002- ...",
+        "link": "https://www.econodata.com.br/consulta-empresa/33590308000274-colegio-qi-metropolitano-ltda",
+        "snippet": "O CNPJ 33590308000274 pertence à empresa Colegio Qi Metropolitano Ltda, localizada na Rua Jacinto, 81 83 - Meier, Rio de Janeiro - RJ, 20.725-020, com foco em ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

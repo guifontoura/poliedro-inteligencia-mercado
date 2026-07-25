@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "41033310",
+  "NO_ENTIDADE": "COLEGIO UNIVERSITARIO",
+  "cidade": "Londrina",
+  "query": "\"COLEGIO UNIVERSITARIO\" \"Londrina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO UNIVERSITARIO\" \"Londrina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Universitário - LondrinaTur, portal de Londrina e ...",
+        "link": "https://www.londrinatur.com.br/anunciante/colegio-universitario/",
+        "snippet": "Hoje o Colégio Universitário de Londrina é referência em ensino de ... Material didático do Sistema Anglo de Ensino, o melhor do Brasil.",
+        "date": "10 de fev. de 2015",
+        "position": 1
+      },
+      {
+        "title": "Colégio Universitário é referência em qualidade de ensino",
+        "link": "https://www.bonde.com.br/educacao/noticias/colegio-universitario-e-referencia-em-qualidade-de-ensino-510675.html",
+        "snippet": "... material didático ímpar. Já nos anos iniciais, os ... Este conteúdo é de autoria do Colégio Universitário. Londrina colégio universitário ...",
+        "date": "13 de jan. de 2020",
+        "position": 2
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-PR.2.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões · Apostilas do PIC ... COLEGIO UNIVERSITARIO EDUCACAO INFANTIL ENSINO FUNDAMENTAL E MEDIO, P, LONDRINA ...",
+        "position": 3
+      },
+      {
+        "title": "Atividades - Colégio Universitário",
+        "link": "https://www.yumpu.com/pt/document/view/12759216/atividades-colegio-universitario/14",
+        "snippet": "Atividades - Colégio Universitário. Atividades ... londrina · meio · pais · fundamental · grupo · atividades ... “O material didático do Anglo e o corpo docente<br ...",
+        "position": 4
+      },
+      {
+        "title": "Alunos podem ganhar bolsas de estudos no “Simulado SAS Enem ...",
+        "link": "https://jornaluniao.com.br/noticias/educacao/alunos-podem-ganhar-bolsas-de-estudos-no-simulado-sas-enem-do-colegio-universitario-2016-09-28/",
+        "snippet": "O Colégio Universitário realizará nos dias 08 e ... material didático). ... Londrina Município divulga prestação dos serviços no feriado do padroeiro de Londrina.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

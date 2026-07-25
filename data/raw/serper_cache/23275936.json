@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "23275936",
+  "NO_ENTIDADE": "COLEGIO SHALOM",
+  "cidade": "Fortaleza",
+  "query": "\"COLEGIO SHALOM\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SHALOM\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "SIE: Sistema Integral de Ensino - Colégio Shalom",
+        "link": "https://www.colegioshalomoficial.com.br/sie-col%C3%A9gio-shalom-fortaleza",
+        "snippet": "MATERIAL DIDÁTICO Escolhido conforme valores cristãos e critérios ... São João do Tauape, Fortaleza/CE. CONTATO. (85) 3452-8806 · Fale conosco · Ícone ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Shalom on Instagram: \" A escola não é a mesma sem ...",
+        "link": "https://www.instagram.com/reel/DYpjZz4Ozdg/",
+        "snippet": "... Colégio Shalom, cada colaborador deixa marcas especiais na vida dos nossos alunos todos os dias ... Messejana, Fortaleza, Ceará. 112 likes.",
+        "date": "há 2 meses",
+        "position": 2
+      },
+      {
+        "title": "Diferenciais | Colégio Shalom",
+        "link": "https://www.colegioshalomoficial.com.br/diferenciais-col%C3%A9gio-shalom-fortaleza",
+        "snippet": "... material didático exclusivo, acompanhamento pedagógico e psicológico ... Desde 1987, o Colégio Shalom se destaca em Fortaleza por oferecer uma ...",
+        "position": 3
+      },
+      {
+        "title": "Mochila pronta? Uniforme separado? 📚✏️ A volta às ...",
+        "link": "https://www.instagram.com/p/DTtOqXuCba1/",
+        "snippet": "COLÉGIO SHALOM Localização: Praça Simões Filho - Cajueiro, Rua José ... UNIDADE GRANJA PORTUGAL Fortaleza - CE UNIDADE CONJUNTO CEARÁ ...",
+        "date": "há 6 meses",
+        "position": 4
+      },
+      {
+        "title": "Escolas parceiras do Sistema Mackenzie de Ensino",
+        "link": "https://sistemasdeensino.mackenzie.br/localizar-escola",
+        "snippet": "Digite a sua Cidade ou Estado e encontre o Sistema de Ensino Mackenzie perto de você! ... COLEGIO SHALOM. Avenida Contorno Sul, 100, Jardim Alvorada ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

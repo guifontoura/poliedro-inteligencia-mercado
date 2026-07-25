@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "35186429",
+  "NO_ENTIDADE": "EINSTEIN COLEGIO",
+  "cidade": "Ribeirão Preto",
+  "query": "\"EINSTEIN COLEGIO\" \"Ribeirão Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"EINSTEIN COLEGIO\" \"Ribeirão Preto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "No Colégio Albert Einstein, aprender vai além de ouvir e ...",
+        "link": "https://www.instagram.com/p/DWY8LW7mr1_/",
+        "snippet": "Usamos o material didático mais forte do país para construir a base técnica ... Albert Einstein Colégio e Curso CONVOCADOS PARA O SUCESSO!",
+        "date": "há 3 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio A. Einstein 🏫 | Rotina organizada, cuidado de ...",
+        "link": "https://www.instagram.com/reel/DX-DrJ_iEz1/",
+        "snippet": "Nossa metodologia: Um sistema de ensino dinâmico e inovador, que estimula o ... O 데그 if Einstein Colégio Einstein . م Einstein ...",
+        "date": "há 2 meses",
+        "position": 2
+      },
+      {
+        "title": "CIE ESCOLA MUNICÍPIO",
+        "link": "https://midiasstoragesec.blob.core.windows.net/001/2024/03/escolas_privadas_2024_derpt_22-03-2024.pdf",
+        "snippet": "CAPELLA KIDS SISTEMA DE ENSINO EIRELI- ME. RIBEIRAO PRETO. 262985. CARLA ... COC RIBEIRÃO PRETO - REDE ÚNICA DE EDUCAÇÃO UNIDADE. 02. RIBEIRAO PRETO. 7840.",
+        "position": 3
+      },
+      {
+        "title": "Colégio Betel Guarulhos | Uma história construída todos os ...",
+        "link": "https://www.instagram.com/reel/DUHE9FOjEWj/",
+        "snippet": "Uma caminhada feita de presença diária, atenção aos detalhes e respeito a cada etapa do desenvolvimento dos alunos. Aqui, o ensino vai além da ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas",
+        "link": "https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosMencao-SP.1.privada.do.htm",
+        "snippet": "ALBERT EINSTEIN COLEGIO, P, GUARATINGUETA, SP, Sim. MIGUEL SOARES DE OLIVEIRA ... MARISTA COLEGIO DE RIBEIRAO PRETO, P, RIBEIRAO PRETO, SP, Sim. LUCAS ANGELO DOS ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

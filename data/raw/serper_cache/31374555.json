@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31374555",
+  "NO_ENTIDADE": "COLEGUIUM - INTERNACIONAL CIDADE NOVA",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGUIUM - INTERNACIONAL CIDADE NOVA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGUIUM - INTERNACIONAL CIDADE NOVA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escolas Coleguium de Belo Horizonte – Review completo",
+        "link": "https://otomodospais.com.br/blog/escolas-coleguium-review-completo/",
+        "snippet": "O Coleguium é uma rede de ensino com 37 anos de história, com escolas em Belo Horizonte, interior de Minas Gerais, e no Pará.",
+        "date": "12 de set. de 2025",
+        "position": 1
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGUIUM - INTERNACIONAL CIDADE NOVA. 27,2%. COLEGUIUM - UNIDADE ALIPIO DE ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA - UNIDADE ...",
+        "position": 2
+      },
+      {
+        "title": "escolas de educação infantil - Prefeitura de Belo Horizonte",
+        "link": "https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/educacao/2021/escolas_educinfantil-versao-site-validado.pdf",
+        "snippet": "COLEGUIUM INTERNACIONAL CIDADE NOVA. SECRETARIA MUNICIPAL DE EDUCAÇÃO - BH ... SISTEMA DE ENSINO SEJE -EIRELI- ME. SECRETARIA MUNICIPAL DE EDUCAÇÃO - BH.",
+        "position": 3
+      },
+      {
+        "title": "Minha Escola Legal",
+        "link": "http://www.minhaescolalegal.com.br/",
+        "snippet": "BELO HORIZONTE, RUA EMBARÉ, 258, GUARANI, (31) 34336115. CENTRO FORMAÇÃO ... ATUAL SISTEMA DE ENSINO, SABINÓPOLIS, RUA JOVAL DE PINHO, 101, CENTRO, (33) 34232352.",
+        "position": 4
+      },
+      {
+        "title": "Escolas em Belo Horizonte/MG — 2016 instituições",
+        "link": "https://www.mensalidadejusta.com.br/escolas/mg/belo-horizonte",
+        "snippet": "COLEGIO SISTEMA DE ENSINO - UNIDADE II. Privada · COLEGIO TANCREDO NEVES ... COLEGUIUM - INTERNACIONAL CIDADE NOVA. Privada · COLEGUIUM - UNIDADE ALIPIO DE ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

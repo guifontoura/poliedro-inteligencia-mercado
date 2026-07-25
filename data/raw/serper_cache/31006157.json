@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31006157",
+  "NO_ENTIDADE": "COLEGIO LOGOSOFICO GONZALEZ PECOTCHE",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO LOGOSOFICO GONZALEZ PECOTCHE\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LOGOSOFICO GONZALEZ PECOTCHE\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "BHTRANS - Belo Horizonte",
+        "link": "http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/S09F03-escolar5a.asp?lingua=",
+        "snippet": "SISTEMA DE ENSINO RENASCER · SISTEMA PIAGET DE ENSINO · UMEI BRAUNAS · UMEI DELFIM ... EMPRESA DE TRANSPORTES E TRÂNSITO DE BELO HORIZONTE S/A - BHTRANS Av ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-MG.3.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO FOCO, P, MONTES CLAROS, MG, Sim. FERNANDO DE MORAES FAQUIM ... BELO HORIZONTE, MG, Sim. 115, BARBARA DO COUTO POCAI, COLEGIO MONTE SIONENSE, P ...",
+        "position": 2
+      },
+      {
+        "title": "Os estudantes do 2º ano do Colégio Logosófico ...",
+        "link": "https://www.instagram.com/p/DOgdyqlD6Ea/",
+        "snippet": "... Belo Horizonte, Rio de Janeiro, Brasília, São Paulo e Buenos Aires ... Colégio Logosófico González Pecotche CHAPECÓ Método Logosófico ...",
+        "date": "há 10 meses",
+        "position": 3
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGIO LOGOSOFICO GONZALEZ PECOTCHE. 0,7%. COLEGIO LOS ANGELOS - IPLAS. 4,2 ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA - UNIDADE ...",
+        "position": 4
+      },
+      {
+        "title": "ENEM 2014",
+        "link": "https://especiais.g1.globo.com/educacao/enem/2014/enem-2014-medias-por-escola/minas-gerais/",
+        "snippet": "COLEGIO LOGOSOFICO GONZALEZ PECOTCHE, BELO HORIZONTE, MG, Privada, 80 ... ATUAL SISTEMA DE ENSINO, SABINOPOLIS, MG, Privada, 80% ou mais, Alto ...",
+        "date": "5 de ago. de 2015",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31074411",
+  "NO_ENTIDADE": "COLEGIO DOS SANTOS ANJOS",
+  "cidade": "Juiz de Fora",
+  "query": "\"COLEGIO DOS SANTOS ANJOS\" \"Juiz de Fora\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DOS SANTOS ANJOS\" \"Juiz de Fora\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Além Paraíba | Colégio Santos Anjos |",
+        "link": "https://alemparaiba.redesantosanjos.com.br/",
+        "snippet": "O Colégio dos Santos Anjos, através da direção, de sua equipe pedagógica e ... Juiz de Fora. Minas Gerais. left. Rio de Janeiro. Rio de ...",
+        "position": 1
+      },
+      {
+        "title": "As matrículas e rematrículas já estão abertas! Garanta a vaga ...",
+        "link": "https://www.instagram.com/reel/DP3v7aHkZto/",
+        "snippet": "iônica trilhas Um sistema de ensino FTD. saojosecolegio's ... Join Colégio dos Santos Anjos Juiz de Fora on Instagram. Sign up for ...",
+        "date": "há 9 meses",
+        "position": 2
+      },
+      {
+        "title": "Simulado da FTD, um momento importante para colocar ...",
+        "link": "https://www.instagram.com/p/DZH1QFRkR4F/",
+        "snippet": "Colégio dos Santos Anjos Unidade Juiz de Fora | MG 80 Santos Anjos ... Trilhas um sistema de ensino FTD SIMULADO 2026 ANOS INICIAIS 3o ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio IED on Instagram: \"O simulado EFAF vai muito além ...",
+        "link": "https://www.instagram.com/reel/DY0HyiwtTSd/",
+        "snippet": "Colégio dos Santos Anjos Unidade Juiz de Fora | MG 80 Santos Anjos ... Sistema de Ensino Colégio Oficina 2º ano - Ensino fundamental 3º ...",
+        "position": 4
+      },
+      {
+        "title": "2026",
+        "link": "https://cee.educacao.mg.gov.br/index.php/legislacao/pareceres/category/97-2026?start=960",
+        "snippet": "Recredenciamento da entidade Associação Franco Brasileira, mantenedora do Colégio dos Santos Anjos, dos Municípios de Além Paraíba, Juiz de Fora e ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

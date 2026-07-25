@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "52033210",
+  "NO_ENTIDADE": "COLEGIO AGOSTINIANO NS DE FATIMA",
+  "cidade": "Goiânia",
+  "query": "\"COLEGIO AGOSTINIANO NS DE FATIMA\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO AGOSTINIANO NS DE FATIMA\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Orgulho que se escreve com dedicação! ...",
+        "link": "https://www.instagram.com/p/DaTL3kTiO0G/",
+        "snippet": "Colégio Agostiniano Ns de Fátima. Photo by Colégio Agostiniano on June 29 ... SISTEMA DE ENSINO anglo ORGULHO QUE INSPIRA. PALAVRAS QUE ...",
+        "date": "há 3 semanas",
+        "position": 1
+      },
+      {
+        "title": "RESULTADO POR REGIÃO",
+        "link": "https://ceara.obquimica.org/storage/files/resultado-do-i-quimeninas-2023-9-ano-ef.pdf",
+        "snippet": "COLEGIO AGOSTINIANO NS DE FATIMA. GOIÁS. GOIÂNIA. OURO. 10. 1538294 CECÍLIA ... SISTEMA DE ENSINO PHYSICS AMAPÁ LTDA. AMAPÁ. MACAPÁ. AMAZONAS (AM). 1710837 ...",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/5208707-goiania/busca",
+        "snippet": "74715-010 Goiânia - GO. Rede privada / Urbana · COLEGIO AGOSTINIANO NS DE FATIMA. 6 A, 590. SETOR AEROPORTO. 74075220 Goiânia - Goiás. Rede privada / Urbana ...",
+        "position": 3
+      },
+      {
+        "title": "Rogério Watanabe",
+        "link": "https://www.escavador.com/sobre/826465/rogerio-watanabe",
+        "snippet": "... Colégio Agostiniano N S de Fátima(1992) e ensino-medio-segundo-graupelo Colégio Agostiniano N S de Fátima ... (Congresso). . IV CONABRO; ABRO. Goiânia..",
+        "position": 4
+      },
+      {
+        "title": "CSV",
+        "link": "https://dadosabertos.go.gov.br/datastore/dump/ed322952-5d30-4337-8d43-f8297121c153?bom",
+        "snippet": "... Goiânia,Urbana,\"R. ELOA QD22 LT 05, 0\",JD BELA MORADA,62 32775815 876,2013 ... COLEGIO AGOSTINIANO NS DE FATIMA,Privada,CRE Goiânia,Goiânia,Urbana ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

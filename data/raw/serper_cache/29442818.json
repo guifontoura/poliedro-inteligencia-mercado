@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "29442818",
+  "NO_ENTIDADE": "COLEGIO SALESIANO DOM BOSCO",
+  "cidade": "Salvador",
+  "query": "\"COLEGIO SALESIANO DOM BOSCO\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SALESIANO DOM BOSCO\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Salesiano Dom Bosco - Do Fundamental ao Ensino ...",
+        "link": "https://dombosco-ba.com.br/",
+        "snippet": "Selo escola parceira: Bernoulli Sistema de Ensino. Matific. Arvore. Jovens Gênios. Estante Mágica. Liv. Google For Education. LEGO Education. Clip Escola. Selo ...",
+        "position": 1
+      },
+      {
+        "title": "Salesianos Bahia on Instagram: \"Conheça o Salesiano Dom ...",
+        "link": "https://www.instagram.com/reel/C-xnyLIo-ka/",
+        "snippet": "Nossos alunos do Colégio Salesiano Dom Bosco Salvador participaram ... material didático, temos professoras exclusivas para a ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "O Colégio Salesiano Salvador (@ ...",
+        "link": "https://www.instagram.com/p/DOuBHhzklM3/",
+        "snippet": "Venha conhecer o Colégio Salesiano Dom Bosco e faça parte de uma escola onde valores formam e a educação transforma. Informações e agendamento ...",
+        "date": "há 10 meses",
+        "position": 3
+      },
+      {
+        "title": "Salesiano Bahia | Tradição, Valores e Excelência",
+        "link": "https://matriculasalesiano.com.br/",
+        "snippet": "Os olhares diferenciados do Colégio Salesiano para a Educação Infantil, concretizados no seu Material Didático ... Colégio Salesiano Dom Bosco Salvador - Av.",
+        "position": 4
+      },
+      {
+        "title": "Colégio Salesiano de Salvador",
+        "link": "https://pt.wikipedia.org/wiki/Col%C3%A9gio_Salesiano_de_Salvador",
+        "snippet": "Em 2005, foi criada uma segunda unidade em Salvador, denominada Colégio Salesiano Dom Bosco. Índice. 1 História; 2 Estrutura; 3 Referências; 4 Ligações ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

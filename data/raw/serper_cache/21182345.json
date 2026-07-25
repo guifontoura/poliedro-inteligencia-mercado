@@ -1,0 +1,31 @@
+{
+  "codigo_escola": "21182345",
+  "NO_ENTIDADE": "COLEGIO EDUCAR DOM BOSCO",
+  "cidade": "Balsas",
+  "query": "\"COLEGIO EDUCAR DOM BOSCO\" \"Balsas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO EDUCAR DOM BOSCO\" \"Balsas\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Durante coquetel, colégio Educar Dom Bosco lança o 1º ano do ...",
+        "link": "https://www.folhadocerrado.com.br/durante-coquetel-colegio-educar-dom-bosco-lanca-o-1o-ano-do-ensino-medio-e-novidades-no-curriculo-escolar-para-2018/",
+        "snippet": "Com o lema “Um novo passo para o futuro” o Colégio Educar Dom Bosco ... sistema pedagógico oferecido pelo colégio. A ... Balsas · Festa dos comerciários em Balsas ...",
+        "position": 1
+      },
+      {
+        "title": "Ficha de Inscrição",
+        "link": "https://portalfb.fariasbrito.com.br/exame-selecao/ficha-inscricao?inscricao=78325&tipo=candidato",
+        "snippet": "SISTEMA DE ENSINO UNIVERSO, ESCOLA PRESIDENTE KENNEDY, ESCOLA LAPIS DE COR ... COLEGIO EDUCAR DOM BOSCO, COLEGIO DA POLICIA MILITAR DO CEARA MIN. JARBAS ...",
+        "position": 2
+      }
+    ],
+    "credits": 1
+  }
+}

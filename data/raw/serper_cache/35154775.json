@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "35154775",
+  "NO_ENTIDADE": "ESCOLA VILLARE",
+  "cidade": "São Caetano do Sul",
+  "query": "\"ESCOLA VILLARE\" \"São Caetano do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESCOLA VILLARE\" \"São Caetano do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "SchoolAdvisor | Informações sobre Escolas | Uma escola que ...",
+        "link": "https://www.instagram.com/reel/DDpa9raxY5C/",
+        "snippet": "Essa é a Escola Villare, que viemos visitar em São Caetano do Sul, SP. ... Sistema de Ensino Colégio Sapucaia Bilingual Program Do começo à ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "ENSINO FUNDAMENTAL - ANOS INICIAIS - Bem-vindos à ...",
+        "link": "https://www.escolavillare.com.br/ensino/ensino-fundamental-anos-iniciais/",
+        "snippet": "... Escola Villare. Temos o objetivo de oferecer níveis ainda mais altos de ... Paula – São Caetano do Sul / SP Telefone: (11) 4223-4020. Fundamental Anos ...",
+        "position": 2
+      },
+      {
+        "title": "“Existem rios em São Caetano do Sul?” Para responder ...",
+        "link": "https://www.instagram.com/p/DZDr1DHjf3S/",
+        "snippet": "INVESTIGANDO OS RIOS DE SÃO CAETANO DO SUL ESCOLA VILLARE VILLARE Gooden ESCOLA VILLARE GLOBAL EDUCATION ... CONQUISTA SOLUÇÃO EDUCACIONAL.",
+        "position": 3
+      },
+      {
+        "title": "SchoolAdvisor | Informações sobre Escolas | No dia 15/02, a ...",
+        "link": "https://www.instagram.com/reel/DF5lVl9Oma9/",
+        "snippet": "No dia 15/02, a Escola Villare, em São Caetano do Sul, estará de ... material didático e cursos extracurriculares. Descubra quanto ...",
+        "date": "há 1 ano",
+        "position": 4
+      },
+      {
+        "title": "Grupo Fênix de Educação",
+        "link": "https://www.linkedin.com/company/grupofenixdeeducacao",
+        "snippet": "O sistema de ensino mais moderno e atualizado para a educação do século XXI. ... São Caetano do Sul, SP. Type: Educational. Founded: 2008. Specialties: educação ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

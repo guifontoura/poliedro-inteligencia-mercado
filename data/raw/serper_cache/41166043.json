@@ -1,0 +1,45 @@
+{
+  "codigo_escola": "41166043",
+  "NO_ENTIDADE": "COLEGIO PRIME EF EM",
+  "cidade": "Londrina",
+  "query": "\"COLEGIO PRIME EF EM\" \"Londrina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO PRIME EF EM\" \"Londrina\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Conheça o Systemic Bilingual, currículo bilíngue do Ensino ...",
+        "link": "https://cursoprimelondrina.com.br/blog/conheca-o-systemic-bilingual-curriculo-bilingue-do-ensino-fundamental-anos-finais-do-colegio-prime",
+        "snippet": "O currículo bilíngue do Colégio Prime não só ensina o inglês como um segundo idioma, mas o integra à vivência cotidiana dos estudantes. A aquisição do idioma ...",
+        "position": 1
+      },
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "Apoio na gestão escolar, eventos de formação presenciais e a distância, além de materiais e recursos na Plataforma ConX, que ajudam na gestão escolar. Para as ...",
+        "position": 2
+      },
+      {
+        "title": "Recursos Didáticos do Sistema Positivo | PDF | Alfabetização",
+        "link": "https://pt.scribd.com/document/409917193/SPE-AP-ANEXO-pdf",
+        "snippet": "O documento descreve os recursos didáticos de um sistema de ensino da educação infantil ao ensino médio. Ele inclui livros didáticos integrados para cada ...",
+        "rating": 5,
+        "ratingCount": 1,
+        "position": 3
+      },
+      {
+        "title": "Colégio Prime: ensino médio conectado com a vida",
+        "link": "http://www.cursoprimelondrina.com.br/blog/colegio-prime-ensino-medio-conectado-com-a-vida",
+        "snippet": "No Colégio Prime, as aulas são oportunidades constantes para que os alunos se expressem oralmente e por escrito, debatam ideias, interpretem textos, realizem ...",
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

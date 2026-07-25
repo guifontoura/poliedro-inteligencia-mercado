@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33166927",
+  "NO_ENTIDADE": "COLEGIO APROVADO",
+  "cidade": "Macaé",
+  "query": "\"COLEGIO APROVADO\" \"Macaé\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO APROVADO\" \"Macaé\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Poliedro - Macaé",
+        "link": "https://www.colegioaprovado.com.br/parceiros/poliedro",
+        "snippet": "Somos um grupo educacional composto por Colégio, Curso Pré-vestibular e Sistema de Ensino. ... Winston Churchil, 2179, 2º andar, Cavaleiros, Macaé-RJ.",
+        "position": 1
+      },
+      {
+        "title": "BOLSÃO APROVADO 🎯 📍 Unidade Macaé – do 4º ano do ...",
+        "link": "https://www.instagram.com/p/DL8Lk1sPwZi/",
+        "snippet": "Photo by Colégio ... Ou por conta de uma estrutura e material didático diferenciado.",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Aprovado Instituicao De Ensino Ltda Me",
+        "link": "https://querobolsa.com.br/escolas/colegio-aprovado",
+        "snippet": "Rua Manoel Francisco Nunes, 420 - Nova Macae, Macaé - RJ. Quer descobrir ... Logo de Sistema De Ensino Fontes De Carvalho – Unidade I. Sistema De Ensino ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio Aprovado Pré-Vestibular se destaca na ...",
+        "link": "https://www.divercidades.com.br/negocios/colegio-aprovado-pre-vestibular-se-destaca-na-preparacao-de-estudantes-com-projetos-voltados-para-o-enem/",
+        "snippet": "Há 16 anos, o Pré-Vestibular do Colégio Aprovado vem marcando a história de inúmeros alunos. A proposta traz o sistema de ensino Poliedro ...",
+        "date": "6 de fev. de 2025",
+        "position": 4
+      },
+      {
+        "title": "Está rolando o Bolsão Aprovado 2026 e essa é a única ...",
+        "link": "https://www.instagram.com/reel/DNBC-58Olyh/",
+        "snippet": "... Macaé: do 4º ano ao 1ª série do Ensino Médio; Unidade Rio das ... Ah, antes de tudo, faz a pré-inscrição no link da do Colégio Aprovado tá?",
+        "date": "há 11 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "27037380",
+  "NO_ENTIDADE": "COLEGIO DINAMICO",
+  "cidade": "Maceió",
+  "query": "\"COLEGIO DINAMICO\" \"Maceió\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DINAMICO\" \"Maceió\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "modalidade a – 9ª série do ensino fundamental ouro",
+        "link": "https://alagoas.obquimica.org/storage/files/01K8BT808C02907GTKQS2TEV4K.pdf",
+        "snippet": "NOME DO ALUNO. INSTITUIÇÃO DE ENSINO. CIDADE. ANDREY LEITE VILEL. COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. MACEIÓ. LARA BEATRIZ SOBRAL DA SILVA TRAJANO.",
+        "position": 1
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Maceió",
+        "link": "https://qedu.org.br/municipio/2704302-maceio/distorcao-idade-serie",
+        "snippet": "COLEGIO DINAMICO JUNIOR. 3,3%. COLEGIO DIOGO MARCOS. 4,5%. COLEGIO DO SAGRADO ... COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA. 0,4%. COLEGIO INTERATIVO. 6,3 ...",
+        "position": 2
+      },
+      {
+        "title": "Mais uma vez, os alunos do Colégio Pódion se destacam ...",
+        "link": "https://www.instagram.com/p/DTnVXU8ltq8/",
+        "snippet": "O Colégio Dinâmico conquistou o 1º lugar no ranking municipal do ... Poliedro Sistema de Ensino. 1º lugar em Timon e entre as 15 ...",
+        "date": "há 6 meses",
+        "position": 3
+      },
+      {
+        "title": "No Fundamental II do IPO, formamos alunos com base sólida ...",
+        "link": "https://www.instagram.com/reel/DT2hvaiDpYc/",
+        "snippet": "Poliedro Sistema de Ensino. 1º lugar em Anápolis e 2ª melhor escola ... No Colégio Dinâmico, a Alquimia da Excelência une o que a prova ...",
+        "date": "há 6 meses",
+        "position": 4
+      },
+      {
+        "title": "Confira o desempenho das escolas de Alagoas que ...",
+        "link": "https://aquiacontece.com.br/blogueiros/confira-o-desempenho-das-escolas-de-alagoas-que-participaram-do-enem/",
+        "snippet": "32- COLEGIO INTENSIVO SISTEMA DE ENSINO LTDA – Maceió 33- ESCOLA ... 49- COLEGIO DINAMICO – Maceió 50- ESCOLA NOSSA SENHORA DE FATIMA ...",
+        "date": "22 de nov. de 2012",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

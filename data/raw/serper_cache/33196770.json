@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "33196770",
+  "NO_ENTIDADE": "COLEGIO E CURSO CARVALHO BRAGA",
+  "cidade": "Teresópolis",
+  "query": "\"COLEGIO E CURSO CARVALHO BRAGA\" \"Teresópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO E CURSO CARVALHO BRAGA\" \"Teresópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Carvalho Braga - Colégio e Curso",
+        "link": "https://colegioecursocarvalhobraga.com.br/",
+        "snippet": "Nossa missão é oferecer uma formação de excelência do 6° ano às séries finais do ensino médio, preparando nossos alunos para os vestibulares civis e militares ...",
+        "position": 1
+      },
+      {
+        "title": "Solução Educacional para Escolas | Conquista",
+        "link": "https://www.educacaoconquista.com.br/",
+        "snippet": "Cada material é cuidadosamente elaborado, atualizado e alinhado com as diretrizes da BNCC, oferecendo uma base sólida para a formação integral de nossos ...",
+        "position": 2
+      },
+      {
+        "title": "Sucesso Sistema de Ensino",
+        "link": "https://www.sistemadeensinosucesso.com.br/",
+        "snippet": "Nosso catálogo · Educação Infantil · Ensino Fundamental I · Ensino Fundamental II ...",
+        "position": 3
+      },
+      {
+        "title": "Sistema Positivo de Ensino | Plataforma Educacional",
+        "link": "https://www.sistemapositivo.com.br/",
+        "snippet": "Soluções educacionais da Educação Infantil ao Pré-Vestibular. Para além dos resultados positivos nas provas e vestibulares, garanta uma aprendizagem para a ...",
+        "position": 4
+      },
+      {
+        "title": "Bernoulli Sistema de Ensino ♾️",
+        "link": "https://www.bernoulli.com.br/sistema-de-ensino/",
+        "snippet": "Para o Bernoulli Sistema de Ensino, educar é um processo contínuo, complexo, que exige envolvimento, colaboração e visão consciente sobre como formar ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

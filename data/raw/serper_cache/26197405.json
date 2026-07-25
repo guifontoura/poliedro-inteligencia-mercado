@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "26197405",
+  "NO_ENTIDADE": "COLEGIO EXIMIUS",
+  "cidade": "Recife",
+  "query": "\"COLEGIO EXIMIUS\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO EXIMIUS\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio EXIMIUS on Instagram: \" O Colégio Eximius agora é ...",
+        "link": "https://www.instagram.com/reel/DZaTuDoTKzs/",
+        "snippet": "Além disso, o material didático de 2026 estará com desconto ... Recife gerido pelo IDG... a gente tem como nosso mote, como nosso ...",
+        "position": 1
+      },
+      {
+        "title": "Matrículas abertas no Colégio Israelita Moysés Chvarts! O ...",
+        "link": "https://www.instagram.com/p/DQCl97IjXhR/?hl=pt",
+        "snippet": "Colégio EXIMIUS: há 44 anos, fazendo da educação pernambucana um destaque ... 1º LUGAR ENEM ESCOLAS BILÍNGUES DE RECIFE bue SCHOOL RECIFE ...",
+        "date": "há 9 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio EXIMIUS on Instagram: \"No EXIMIUS, acreditamos ...",
+        "link": "https://www.instagram.com/reel/DYNvzpCzEIB/",
+        "snippet": "... RECIFE OPEN FUTSAL ESCOLAR SOLIDARIEDADE QUE TRANSFORMA +3 TONELADAS ... SISTEMA DE ENSINO IMPETUS IMPULSIONE. EVOLUA. CONQUISTE ...",
+        "date": "há 2 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio EXIMIUS on Instagram: \"CIRCUITO EXIMIUS DE ...",
+        "link": "https://www.instagram.com/reel/DYFnxXxzxxN/",
+        "snippet": "... RECIFE OPEN FUTSAL ESCOLAR SOLIDARIEDADE QUE TRANSFORMA +3 TONELADAS ... COLÉGIO EXIMIUS CIÊNCIA DA COMPUTAÇÃO CESAR SCHOOL 2026 ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-PE.3.privada.do.htm",
+        "snippet": "COLÉGIO EXIMIUS, P, RECIFE, PE, Sim. 38, GABRIEL FERNANDO BEZERRA CÔRTE-REAL ... RECIFE, PE, Sim. MIKAEL CARVALHO CAVALCANTI, COLEGIO VISAO, P, RECIFE, PE, Sim.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

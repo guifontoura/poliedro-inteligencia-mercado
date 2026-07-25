@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35123808",
+  "NO_ENTIDADE": "EDUCATIVA CENTRO EDUCACIONAL",
+  "cidade": "Ourinhos",
+  "query": "\"EDUCATIVA CENTRO EDUCACIONAL\" \"Ourinhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"EDUCATIVA CENTRO EDUCACIONAL\" \"Ourinhos\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Educativa Centro Educacional (@educativa.ce) · Ourinhos, ...",
+        "link": "https://www.instagram.com/educativa.ce/",
+        "snippet": "Etapa Digital O material didático em formato digital, do ...",
+        "position": 1
+      },
+      {
+        "title": "Os alunos do 4º ano, da Unidade de Tremembé, colocaram a ...",
+        "link": "https://www.instagram.com/reel/DJCgdt_NLRO/",
+        "snippet": "Nosso Circuito de Aprendizagem reuniu diferentes áreas do conhecimento em uma única vivência: Na Arte, a criatividade encontrou a Geometria ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "um estudo de caso sobre sistema de ensino na educação ...",
+        "link": "https://repositorio.unesp.br/bitstreams/16bb99ac-2d91-4497-b28d-2bc990c12e2f/download",
+        "snippet": "de AP Freitas · 2005 — já que tem apostila, a apostila tem que ser feita na escola, pois quem sabe ... O material didático adquirido pela rede pública investigada traz, em seu exemplar.",
+        "position": 3
+      },
+      {
+        "title": "Ana Paula de Freitas",
+        "link": "https://www.escavador.com/sobre/1215365/ana-paula-de-freitas",
+        "snippet": "Prêmio Sete de Setembro, Prefeitura Municipal de Ourinhos. Histórico profissional. Endereço profissional. Educativa Centro Educacional. , Rua Senador Salgado ...",
+        "position": 4
+      },
+      {
+        "title": "LISTA DAS ESCOLAS CONVIDADAS DA TURMA 08",
+        "link": "https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/ESCOLAS-TURMA-08.pdf",
+        "snippet": "Cooperativa de Ensino de Ourinhos. 35150459. 35180. Turma. 8. SP. Ourinhos ... Anglo Sistema de Ensino. 35158616. 86875. Turma. 8. SP. Tatuí. BEM ME QUER CENTRO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

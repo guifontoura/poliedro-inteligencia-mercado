@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "12031682",
+  "NO_ENTIDADE": "ESC COLEGIO SIGMA",
+  "cidade": "Rio Branco",
+  "query": "\"ESC COLEGIO SIGMA\" \"Rio Branco\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESC COLEGIO SIGMA\" \"Rio Branco\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Esc Colégio Sigma - 676,64 - Rio Branco (Acre) - Particular - 100%; Esc Centro Educacional e Cultural - Meta - 655,44 - Rio Branco (Acre) ...",
+        "date": "23 de jun. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "ESC COLEGIO SIGMA, P, RIO BRANCO, AC, Bronze. ISADORA BARROSO SILVA LOBO, MASTER ... SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Bronze. 112 ...",
+        "position": 2
+      },
+      {
+        "title": "Seja - Visite o ranking das escolas no ENEM 2017 ...",
+        "link": "https://www.facebook.com/sejalguem/photos/visite-o-ranking-das-escolas-no-enem-2017-emwwwsejalguemcomalguem-publicoescola-/2050328728561062/",
+        "snippet": "... RIO BRANCO – ESC COLEGIO SIGMA ALAGOAS Pública: melhor aluno: 774.88 ... SISTEMA DE ENSINO EQUIPE INTEGRADO EIRELI – EPP PARAÍBA ...",
+        "date": "há 7 anos",
+        "position": 3
+      },
+      {
+        "title": "2018",
+        "link": "https://enem.cneceduca.com.br/2018?p=30",
+        "snippet": "Esc Colegio Sigma, Privada, Rio Branco, AC, 35, 607,42, 652,16, 609,59, 655,84, 688,57, 631,25, 642,72 ... CNEC - Sistema de Ensino. ©2011-2026 Sistema de Ensino ...",
+        "position": 4
+      },
+      {
+        "title": "Posição no ranking - média objetiva Nome da escola ...",
+        "link": "https://infograficos.estadao.com.br/cidades/Enem2016_ranking%20geral_Objetiva.pdf",
+        "snippet": "... SISTEMA DE ENSINO. EQUIPE INTEGRADO. EIRELI - EPP. Belém. PA. 718,8. 895,9. 715,0 ... RIO BRANCO. COLEGIO. Campinas. SP. 634,2. 711,5. 639,0. 612,0. 612,0. 674,0.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "43112790",
+  "NO_ENTIDADE": "COLEGIO BOM JESUS JOANA D ARC",
+  "cidade": "Rio Grande",
+  "query": "\"COLEGIO BOM JESUS JOANA D ARC\" \"Rio Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BOM JESUS JOANA D ARC\" \"Rio Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "O Colégio Bom Jesus Joana d'Arc, em Rio Grande (RS) ...",
+        "link": "https://www.instagram.com/p/DSc3lB4gBI6/",
+        "snippet": "O Colégio Bom Jesus Joana d'Arc, em Rio Grande (RS), recebeu uma ... Escola da Inteligência, Programa Escola Segura, Sistema de Ensino POSITIVO.",
+        "date": "há 7 meses",
+        "position": 1
+      },
+      {
+        "title": "Agende uma visita | Colégio Bom Jesus: Uma lição de vida",
+        "link": "https://www2.bomjesus.br/contato/agende-uma-visita.vm?unidade=bjn_saojoserionegro",
+        "snippet": "Colégio Bom Jesus Joana d'Arc - Rio Grande ... Material Didático Próprio · Proximidade com a ... Material Didático Próprio · Proximidade com a Família ...",
+        "position": 2
+      },
+      {
+        "title": "Blog Colégio Bom Jesus | Isso é Amorografia",
+        "link": "https://www2.bomjesus.br/blog",
+        "snippet": "Colégio Bom Jesus Joana d'Arc - Rio Grande. Vacaria. Colégio Bom Jesus São ... - Material Didático Próprio · - Proximidade com a Família · - Preparação que ...",
+        "position": 3
+      },
+      {
+        "title": "Educação de Referência em Florianópolis no Colégio Bom ...",
+        "link": "https://www.tiktok.com/@colegiobomjesus/video/7589597807556775184",
+        "snippet": "educação de referência Rio Grande, colégio Bom Jesus Joana d'Arc ... material didático\",\"crianças e jovens\",\"aprendizado\",\"futuro ...",
+        "date": "há 6 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Maria Auxiliadora on Instagram: \"Crescer é resultado ...",
+        "link": "https://www.instagram.com/reel/DaERfJoj2-O/",
+        "snippet": "... Colegio Bom Jesus Joana D Arc Ifrs - Campus Rio Grande. escola ... atenas #INCOMPARÁVEL Bernoulli Sistema de Ensino. jean_machado07's ...",
+        "date": "há 4 semanas",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

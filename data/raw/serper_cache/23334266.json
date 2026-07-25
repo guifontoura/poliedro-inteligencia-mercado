@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "23334266",
+  "NO_ENTIDADE": "FARIAS BRITO PRE VESTIBULAR ALDEOTA",
+  "cidade": "Fortaleza",
+  "query": "\"FARIAS BRITO PRE VESTIBULAR ALDEOTA\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"FARIAS BRITO PRE VESTIBULAR ALDEOTA\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "OURO PRATA",
+        "link": "https://antigo.onciencias.org/resultados/download/16",
+        "snippet": "AMADEU GOMES DE BARROS LEAL BISNETO FARIAS BRITO COLEGIO PRE-VESTIBULAR CENTRAL FORTALEZA ... SISTEMA DE ENSINO EQUIPE ANANINDEUA EIRELLI. ANANINDEUA. PA. 27 ...",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosMencao-CE.3.privada.do.htm",
+        "snippet": "FARIAS BRITO PRE VESTIBULAR ALDEOTA, P, FORTALEZA, CE, Sim. 3, ALBERTO DA ROCHA ... FORTALEZA, CE, Sim. YURE SANTOS DE OLIVEIRA, COLEGIO ANTONIO ARARIPE, P, TAUA ...",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2304400-fortaleza/busca",
+        "snippet": "60442642 Fortaleza - Ceará. Rede privada / Urbana · ALTERNATIVO SISTEMA DE ENSINO. RUA DOUTOR RIBAMAR LOBO, 363 PAPICU. 60176-145 Fortaleza - CE. Rede privada ...",
+        "position": 3
+      },
+      {
+        "title": "Elite do ensino privado em Alagoas fica atrás dos 50 ...",
+        "link": "https://agendaa.com.br/2016/10/elite-do-ensino-privado-em-alagoas-fica-atras-dos-50-melhores-colegios-do-nordeste-veja-ranking/",
+        "snippet": "23) (110ª) CPI SISTEMA DE ENSINO PI Teresina Privada 658,06. 24) (111ª) FARIAS BRITO PRE VESTIBULAR ALDEOTA CE Fortaleza Privada 657,94. 25 ...",
+        "date": "5 de out. de 2016",
+        "position": 4
+      },
+      {
+        "title": "05/mai/99 03/mai/99 21/set/98 19/dez/99 16/mar/00 14/nov ...",
+        "link": "https://www.darwin.com.br/wp-content/uploads/2019/05/Resultados-Olimpiada-Brasileira-de-Biologia-2016.pdf",
+        "snippet": "FARIAS BRITO PRE VESTIBULAR ALDEOTA. CE. 55 Gabriel Belizário Amorim Silva. 74 ... SISTEMA DE ENSINO EQUIPE. PA. 978 RAFAEL SILVA LEMOS. 50. E E I F M TENENTE ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

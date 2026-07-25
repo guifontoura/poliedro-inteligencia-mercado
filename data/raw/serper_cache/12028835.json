@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "12028835",
+  "NO_ENTIDADE": "COLEGIO LATO SENSU",
+  "cidade": "Rio Branco",
+  "query": "\"COLEGIO LATO SENSU\" \"Rio Branco\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO LATO SENSU\" \"Rio Branco\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Parabéns! Você acaba de dar um grande passo para ...",
+        "link": "https://www.colegiolatosensu.com.br/matriculas2026acre/assets/edital/edital-rio-branco-2026.pdf",
+        "snippet": "O concurso de bolsas do Colégio Lato Sensu – Unidade Rio Branco oferece uma ... (2026), não incluindo material didático e outras despesas. Para manter a ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Lato Sensu - Belém on Instagram: \"“Aí vamos nós ...",
+        "link": "https://www.instagram.com/reel/DDXqSMJSoOz/",
+        "snippet": "... (Rio Branco) 19h30 (Belém) Participe pelo perfil ... O SISTEMA DE ENSINO ACRÓPOLE AGORA É: COLÉGIO LATO SENSU UNIDADE BELÉM ...",
+        "date": "há 1 ano",
+        "position": 2
+      },
+      {
+        "title": "Você já conhece o semi-integral do Lato? ✏️✨ Com foco ...",
+        "link": "https://www.instagram.com/p/DJSbYyutvNd/",
+        "snippet": "... 17h30 (Rio Branco) 19h30 (Belém) Participe pelo perfil @colegiolatosensumanaus COLÉGIO LATO SENSU L I V laboratório inteligência de vida.",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "Beatriz - Professor de reforço escolar - R$ 10/h - 2 avaliações",
+        "link": "https://www.superprof.com.br/estudante-nono-ano-aulas-auxilio-para-ensino-fundamental-disposta-dar-aulas-presenciais-rio-branco-acre.html",
+        "snippet": "... colégio lato sensu(este no qual se destaca no enem),sou flexível,me baseio no material didático do aluno. trabalho ... rio branco-acre e a distância para os ...",
+        "position": 4
+      },
+      {
+        "title": "Conheça as melhores escolas de Rio Branco - Revista ME",
+        "link": "https://www.melhorescola.com.br/artigos/melhor-escola-de-rio-branco",
+        "snippet": "Quais são as melhores escolas de Rio Branco no Enem? · 1) Colégio Sigma · 2) Esc. Colégio Lato Sensu · 3) Escola de Ensino Médio e Técnico Plácido ...",
+        "date": "4 de ago. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

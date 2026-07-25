@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "25133985",
+  "NO_ENTIDADE": "CENTRO DE ENSINO HBS LTDA",
+  "cidade": "João Pessoa",
+  "query": "\"CENTRO DE ENSINO HBS LTDA\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO DE ENSINO HBS LTDA\" \"João Pessoa\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Taxa de Distorção Idade/Série - João Pessoa",
+        "link": "https://qedu.org.br/municipio/2507507-joao-pessoa/distorcao-idade-serie",
+        "snippet": "CENTRO DE ENSINO HBS LTDA. 100%. CENTRO EDUCACIONAL ALEGRIA DE APRENDER. 9,2 ... SISTEMA DE ENSINO PRIMEIROS PASSOS KIDS. 17,1%. SISTEMA EDUC GENIUS LTDA ...",
+        "position": 1
+      },
+      {
+        "title": "10 melhores escolas de João Pessoa no Enem 2025",
+        "link": "https://www.melhorescola.com.br/artigos/top-10-melhores-escolas-particulares-de-joao-pessoa",
+        "snippet": "João Pessoa/PB. 672,91. 8º. ISO Colégio e Cursos. João Pessoa/PB. 662,36. 9º. Centro de Ensino HBS Ltda. João Pessoa/PB. 654,98. 10º. Colégio ...",
+        "date": "há 5 dias",
+        "position": 2
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Centro de Educação MDW - 705,23 - João Pessoa (Paraíba) - Particular - Sem informação ... Centro de Ensino HBS Ltda - 654,99 - João Pessoa ...",
+        "date": "23 de jun. de 2026",
+        "position": 3
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/2507507-joao-pessoa/busca",
+        "snippet": "CENTRO DE ENSINO HBS LTDA. FERNANDO LUIZ HENRIQUES DOS SANTOS, 682. JARDIM ... SISTEMA DE ENSINO FUNDAMENTAL E MEDIO LTDA - ME - COLEGIO DOM BOSCO JOAO ...",
+        "position": 4
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Centro de Ensino Hbs Ltda - João Pessoa - Jardim Oceania - Nota: 654.99 ... Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92. Inst ...",
+        "date": "23 de jun. de 2026",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

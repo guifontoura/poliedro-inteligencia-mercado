@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "29488591",
+  "NO_ENTIDADE": "COLEGIO ANCHIETA",
+  "cidade": "Salvador",
+  "query": "\"COLEGIO ANCHIETA\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO ANCHIETA\" \"Salvador\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Cambridge International School - Colégio Anchieta",
+        "link": "https://www.anchietaba.com.br/cambridge-international-school/",
+        "snippet": "Com isso, o Colégio Anchieta e o Colégio São Paulo, localizados em Salvador ... material didático disponibilizado, ela concede a autorização para ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Anchieta - Salvador",
+        "link": "https://www.facebook.com/ColegioAnchietaBA/posts/agora-somos-uma-cambridge-international-schoolem-mais-um-importante-passo-na-int/4703386413098966/",
+        "snippet": "... material didático disponibilizado, ela concede a ... Colégio Anchieta - Salvador is at Colégio Anchieta - Salvador. ... Salvador, passam a fazer parte de ...",
+        "position": 2
+      },
+      {
+        "title": "Um novo tempo começa no Colégio Anchieta.🌎 No dia ...",
+        "link": "https://www.instagram.com/p/DUY5hnGkduM/",
+        "snippet": "Photo by Colégio Anchieta Salvador on February 05, 2026.",
+        "date": "há 5 meses",
+        "position": 3
+      },
+      {
+        "title": "Conheça o trabalho social desenvolvido pela RJE",
+        "link": "https://www.colegioanchieta.g12.br/conheca-o-trabalho-social-desenvolvido-pela-rje/",
+        "snippet": "... material didático, uniforme escolar, alimentação, transporte ... Salvador (BA), oferece bolsas para o turno com desconto 100% integral ...",
+        "date": "17 de abr. de 2024",
+        "position": 4
+      },
+      {
+        "title": "Colégio Anchieta conquista o mundo e as ruas de Salvador ...",
+        "link": "https://www.instagram.com/reel/DRC0m7ZgG6j/",
+        "snippet": "... sistema de ensino, entre mais de 30 mil estudantes de todo o Brasil. ... Photo by Colégio Anchieta Salvador on June 24, 2026. May be an image ...",
+        "date": "há 8 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

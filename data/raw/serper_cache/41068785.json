@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "41068785",
+  "NO_ENTIDADE": "LA SALLE C ED INF ENS FUND MEDIO",
+  "cidade": "Toledo",
+  "query": "\"LA SALLE C ED INF ENS FUND MEDIO\" \"Toledo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LA SALLE C ED INF ENS FUND MEDIO\" \"Toledo\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-PR.2.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões · Apostilas do PIC ... LA SALLE C ED INF ENS FUND MEDIO, P, TOLEDO, PR, ---, Sim. LUIZA DURSKI MAZINI ...",
+        "position": 1
+      },
+      {
+        "title": "Bolsas de estudo em Toledo - MG",
+        "link": "https://www.melhorescola.com.br/bolsas-de-estudo/minas-gerais/toledo",
+        "snippet": "La Salle C Ed Inf Ens Fund Medio. 4.7(3). Jd La Salle - Toledo - PR ... Material Didático Incluso. Vagas 2026. Vagas 2026. R$ 2.847,94. R$ 1.993,56 /mês ...",
+        "position": 2
+      },
+      {
+        "title": "Listado de Colegios en Brasil | PDF",
+        "link": "https://es.scribd.com/document/326573528/ee15",
+        "snippet": "TOLEDO C COMUNITARIO EI EF M. PR. 2439. INSTITUTO EDUCACIONAL DE CATANDUVA IEC ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CDF-SUL. PB. 7312 ...",
+        "position": 3
+      },
+      {
+        "title": "05/mai/99 03/mai/99 21/set/98 19/dez/99 16/mar/00 14/nov ...",
+        "link": "https://www.darwin.com.br/wp-content/uploads/2019/05/Resultados-Olimpiada-Brasileira-de-Biologia-2016.pdf",
+        "snippet": "LA SALLE C ED INF ENS FUND MEDIO. PR. 1684 DANIELA MAIA DA SILVA. 43. COL DA ... TOLEDO C COMUNITARIO EI EF M. PR. 1794 Thomaz Plocar Rodrigues. 42. COLEGIO ...",
+        "position": 4
+      },
+      {
+        "title": "UNIDADE DA FEDERAÇÃO MUNICÍPIO ESCOLA ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_1_MUNICIPIOS.pdf",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE. PRIVADA. 174. 173. 587,85. 655,31. 637,97. 597,23 ... TOLEDO. LA SALLE C ED INF ENS FUND MEDIO. PRIVADA. 17. 17. 593,66.",
+        "date": "11 de set. de 2011",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

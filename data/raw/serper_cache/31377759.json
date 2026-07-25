@@ -1,0 +1,37 @@
+{
+  "codigo_escola": "31377759",
+  "NO_ENTIDADE": "COLEGUIUM - UNIDADE NOVA SUICA",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGUIUM - UNIDADE NOVA SUICA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGUIUM - UNIDADE NOVA SUICA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COLEGUIUM - UNIDADE NOVA SUICA. 0,8%. COLEGUIUM - UNIDADE OURO PRETO. 1,6%. DINAMICA CENTRO EDUCACIONAL. 1,7%. DOCE VIDA SISTEMA DE ENSINO. 7,4%. EDUCANDARIO ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas em Belo Horizonte/MG — 2016 instituições",
+        "link": "https://www.mensalidadejusta.com.br/escolas/mg/belo-horizonte",
+        "snippet": "COLEGUIUM - UNIDADE NOVA SUICA. Privada · COLEGUIUM - UNIDADE OURO PRETO ... SISTEMA DE ENSINO ALPHONSUS DE GUIMARAENS. JARDIM AMERICA. Privada · SISTEMA DE ...",
+        "position": 2
+      },
+      {
+        "title": "Belo Horizonte 2231 escolas",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/busca",
+        "snippet": "COLEGUIUM - UNIDADE NOVA SUICA. JUSCELINO BARBOSA, 125. CALAFATE ... Belo Horizonte - Minas Gerais. Rede privada / Urbana · SISTEMA DE ENSINO RENASCER.",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

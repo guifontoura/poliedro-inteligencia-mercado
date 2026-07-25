@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "31281921",
+  "NO_ENTIDADE": "CECRI C EDUC CRIATIVO",
+  "cidade": "Divinópolis",
+  "query": "\"CECRI C EDUC CRIATIVO\" \"Divinópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CECRI C EDUC CRIATIVO\" \"Divinópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Município: Divinópolis - MG - Resultado Final - ONC 2020",
+        "link": "https://resultado.onciencias.org/resultado-final-onc2020/MG/Divin%C3%B3polis",
+        "snippet": "CECRI C EDUC CRIATIVO. INEP: 31281921 · CEFET-MG - UNED DIVINOPOLIS. INEP: 31268631 · CENTRO DE EDUCACAO ... SISTEMA DE ENSINO UNO VERTICE. INEP: 31340014.",
+        "position": 1
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3122306-divinopolis/busca",
+        "snippet": "CECRI C EDUC CRIATIVO. CAMACHO, 348. SAO JOSE. 35501239 Divinópolis - Minas ... SISTEMA DE ENSINO UNO VERTICE. RUA ESPIRITO SANTO, 737 - CASA. VILA BELO ...",
+        "position": 2
+      },
+      {
+        "title": "características escola indicadores prouni",
+        "link": "https://complemento.veja.abril.com.br/educacao/ENEM-TABELA-2015-HORIZONTAL.pdf",
+        "snippet": "... SISTEMA DE ENSINO EQUIPE. PA. Belém. Privada. Urbana. 306. Maior que. 90 alunos. 303 ... Divinópolis. Privada. Urbana. 71. De 61 a. 90 alunos. 71. 100.00. 0. 80% ...",
+        "position": 3
+      },
+      {
+        "title": "Escolas particulares em Divinópolis, MG",
+        "link": "https://escolas.com.br/particulares/mg/divinopolis",
+        "snippet": "Veja a lista das 50 escolas particulares em Divinópolis, MG no site Escolas ... Cecri C Educ Criativo. Particular. Sao Jose, Divinópolis-MG. Cecri Kids.",
+        "position": 4
+      },
+      {
+        "title": "Lista de Escolas por Estado e Cidade | PDF | Rio de Janeiro",
+        "link": "https://pt.scribd.com/document/421661136/Micro-Dados-Enem-2017",
+        "snippet": "CECRI C EDUC CRIATIVO 104073 18 Divinópolis MG COL MARISTA SAO JOSE 93 ... SISTEMA DE ENSINO FUNDAMENATAL MEDIO E SUPERIOR LTDA-CD 57 João Pessoa PB",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

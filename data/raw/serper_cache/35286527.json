@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "35286527",
+  "NO_ENTIDADE": "PROGRESSAO COLEGIO",
+  "cidade": "Pindamonhangaba",
+  "query": "\"PROGRESSAO COLEGIO\" \"Pindamonhangaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PROGRESSAO COLEGIO\" \"Pindamonhangaba\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Alunos Premiados de Escolas Privadas - OBMEP 2018",
+        "link": "https://premiacao.obmep.org.br/2018/verRelatorioPremiadosGeral-SP.3.privada.do.htm",
+        "snippet": "ZETA SISTEMA DE ENSINO DE BIRIGUI, P, BIRIGUI, SP, ---, Sim. JESSICA LEMBO DA ... PROGRESSAO COLEGIO, P, TAUBATE, SP, ---, Sim. JOAO VICTOR GRIGOLATO NEVES ...",
+        "position": 1
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ano ... PROGRESSAO COLEGIO. 35161861 SP. Taubaté. ANA LÍVIA TEIXEIRA BARBOSA. 2º ano ...",
+        "position": 2
+      },
+      {
+        "title": "La Alfabetizacion Esta Definida Por Lo Que Módulo 2",
+        "link": "https://www.tiktok.com/content/la-alfabetizacion-esta-definida-por-lo-que-m%C3%B3dulo-2?lang=en",
+        "snippet": "#ColegioProgressao #Progressao #Colegio #Escola #Pedagogia #Alfabetização #EducacaoInfantil #Caçapava #Pindamonhangaba ... Apostila com TODAS as habilidades de ...",
+        "position": 3
+      },
+      {
+        "title": "UNIDADE DA FEDERAÇÃO MUNICÍPIO ESCOLA ...",
+        "link": "https://estaticog1.globo.com/2011/09/11/MEDIA_GRUPO_1_MUNICIPIOS.pdf",
+        "snippet": "... PINDAMONHANGABA. PROGRESSAO COLEGIO UNID PINDAMONHAGABA ENSINO MEDIO ... SISTEMA DE ENSINO EQUIPE. PRIVADA. 174. 173. 587,85. 655,31. 637,97.",
+        "date": "11 de set. de 2011",
+        "position": 4
+      },
+      {
+        "title": "Estado -- Escolha - Portal Olimpíadas",
+        "link": "https://obes.olimpiadas.org.br/registration/new",
+        "snippet": "PROGRESSAO COLEGIO (Pindamonhangaba - Escola Privada), EMILIO RIBAS DE ENSINO ... Sistema de Ensino Projetar (Linhares - Escola Privada), COLÉGIO OSVALDO ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

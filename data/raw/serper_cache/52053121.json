@@ -1,0 +1,55 @@
+{
+  "codigo_escola": "52053121",
+  "NO_ENTIDADE": "COLEGIO DINAMICO",
+  "cidade": "Jataí",
+  "query": "\"COLEGIO DINAMICO\" \"Jataí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DINAMICO\" \"Jataí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Há 30 anos, o Colégio Dinâmico escolheu fazer educação ...",
+        "link": "https://www.instagram.com/p/DVv5k0NjXrM/",
+        "snippet": "ENEM 2025 AZ É 1º LUGAR EM JATAÍ/GO Colégio DINÂMICO JATAÍ AZ ... Sistema de Ensino oficina das Finanças na escola DO DIAMANTINENSE PARA A VIDA ...",
+        "date": "há 4 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Dinâmico on Instagram: \"O futuro do seu filho começa ...",
+        "link": "https://www.instagram.com/reel/DRiJB4fEjO3/",
+        "snippet": "Photo by Colégio Dinâmico - Jataí on June 23, 2026. May be an image ... SISTEMA DE ENSINO anglo Atendimento 89 99457.7242 Praça da ...",
+        "date": "há 8 meses",
+        "position": 2
+      },
+      {
+        "title": "Colégio Dinâmico - Descontos, Preço das Mensalidades e ...",
+        "link": "https://querobolsa.com.br/escolas/77807-escola-dinamica",
+        "snippet": "Colégio Dinâmico. 5.0Ver avaliações. Conheça informações completas sobre o Colégio Dinâmico, localizada na. Rua Vista Alegre, 261 - Setor Planalto, Jataí - GO ...",
+        "rating": 5,
+        "ratingCount": 1,
+        "position": 3
+      },
+      {
+        "title": "Ação de Páscoa promovida pelo Colégio Dinâmico leva ...",
+        "link": "https://www.jatai.go.gov.br/acao-de-pascoa-promovida-pelo-colegio-dinamico-leva-alegria-e-reflexao-aos-alunos-do-cmei-andrea-danubia/",
+        "snippet": "PREFEITURA DE JATAÍ. 21.1 C. Jatai. segunda-feira ... Preparar material didático adequado à execução dos programas de ...",
+        "date": "1 de abr. de 2026",
+        "position": 4
+      },
+      {
+        "title": "Um ano passa rápido. Mas o que seu filho aprende nele fica ...",
+        "link": "https://www.instagram.com/reel/DTvgqxOidqo/",
+        "snippet": "... Sistema de Ensino COC. Pais conscientes escolhem pelo que ... Photo by Colégio Dinâmico - Jataí on July 10, 2026. May be an image.",
+        "date": "há 6 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

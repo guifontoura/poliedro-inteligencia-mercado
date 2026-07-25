@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "43215050",
+  "NO_ENTIDADE": "COLEGIO BERTONI MED",
+  "cidade": "Porto Alegre",
+  "query": "\"COLEGIO BERTONI MED\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO BERTONI MED\" \"Porto Alegre\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Liberato é destaque no Enem Confira na matéria ...",
+        "link": "https://www.instagram.com/p/DakfVm0FkjP/",
+        "snippet": "... SISTEMA DE ENSINO COM MAIS ESCOLAS PARCEIRAS NO TOP 10* NACIONAL. ... material didático de alta qualidade, tecnologias educacionais de ...",
+        "date": "há 2 semanas",
+        "position": 1
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 20ª OBMEP 2025",
+        "link": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosBronze.privada.do.htm",
+        "snippet": "SEI - SISTEMA DE ENSINO INTERATIVO, P, RIO DE JANEIRO, RJ, Bronze. JOÃO LUCAS ... COLEGIO BERTONI MED, P, PORTO ALEGRE, RS, Bronze. MARCOS MOURAO NETO, COLÉGIO ...",
+        "position": 2
+      },
+      {
+        "title": "Parabéns, Davi Boaroli! Estamos muito orgulhosos por seu ...",
+        "link": "https://www.instagram.com/p/DTtB9FaAcjA/",
+        "snippet": "143 1 COL JOAO PAULO I - UNIDADE SUL 43173330 151 2 COLEGIO BERTONI MED ... PORTO ALEGRE 43105009 283 6 FLEMING SERVICOS EDUCACIONAIS I 43213995 ...",
+        "date": "há 6 meses",
+        "position": 3
+      },
+      {
+        "title": "Ficha de Inscrição",
+        "link": "https://portalfb.fariasbrito.com.br/exame-selecao/ficha-inscricao?inscricao=78325&tipo=candidato",
+        "snippet": "SISTEMA DE ENSINO UNIVERSO, ESCOLA PRESIDENTE KENNEDY, ESCOLA LAPIS DE COR ... COLEGIO BERTONI MED, INSA - INSTITUTO NOSSA SENHORA AUXILIADORA, CENTRO DE ...",
+        "position": 4
+      },
+      {
+        "title": "🥇O Enem 2025 trouxe mais um motivo ...",
+        "link": "https://www.instagram.com/p/DbBcWTUku0O/",
+        "snippet": "Os microdados do Enem 2025 mostram um país inteiro de conquistas: escolas parceiras do Bernoulli Sistema de Ensino estão no top 10 em 19 estados ...",
+        "date": "há 4 dias",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

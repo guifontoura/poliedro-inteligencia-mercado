@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "21267324",
+  "NO_ENTIDADE": "COLEGIO GLAUCIA COSTA",
+  "cidade": "Timon",
+  "query": "\"COLEGIO GLAUCIA COSTA\" \"Timon\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO GLAUCIA COSTA\" \"Timon\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Gláucia Costa on Instagram: \" TIMON, chegou a hora ...",
+        "link": "https://www.instagram.com/reel/DZmrMfQKLa_/",
+        "snippet": "✨ TIMON, chegou a hora de conhecer uma escola que transforma sonhos em conquistas! No Colégio Gláucia Costa, educação de qualidade ...",
+        "position": 1
+      },
+      {
+        "title": "Colégio Gláucia Costa – Batendo Forte no Coração da Cidade",
+        "link": "https://colegioglauciacosta.com.br/",
+        "snippet": "O Colégio Gláucia Costa é a maior referência educacional para todos que procuram um ensino de qualidade na cidade de Timon-MA.",
+        "position": 2
+      },
+      {
+        "title": "Colégio Gláucia Costa (@colegioglauciacosta)",
+        "link": "https://www.instagram.com/colegioglauciacosta/",
+        "snippet": "✓ Educação bilíngue ✓ Sistema de ensino de alta performance ✓ Ensino ... O Colégio Gláucia Costa conquistou o 1º lugar em Timon-MA e alcançou o 12º ...",
+        "position": 3
+      },
+      {
+        "title": "#TBT! Quem aprecia uma deliciosa torta de camarão? A ...",
+        "link": "https://www.instagram.com/reel/C9Knrsxxs74/",
+        "snippet": "... Timon ... Premiação Concurso Arte e Cultura 2025 POLIEDRO SISTEMA DE ENSINO Colégio Gláucia Costa OLHAR PRA ALGO E DIZER FUI EU QUE FIZ ...",
+        "date": "há 2 anos",
+        "position": 4
+      },
+      {
+        "title": "Contato",
+        "link": "https://colegioglauciacosta.com.br/contato/",
+        "snippet": "(86) 3212-1279. Endereço: Rua: Jamil de Miranda Gedeon – n.º 625. Bairro: Parque Piauí – Cidade: Timon-MA. Facebook-f Instagram Youtube · Colégio Gláucia Costa.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

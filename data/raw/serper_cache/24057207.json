@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "24057207",
+  "NO_ENTIDADE": "COMPLEXO EDUC HENRIQUE CASTRICIANO",
+  "cidade": "Natal",
+  "query": "\"COMPLEXO EDUC HENRIQUE CASTRICIANO\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COMPLEXO EDUC HENRIQUE CASTRICIANO\" \"Natal\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Complexo Educ Henrique Castriciano | Bolsas de Estudo ...",
+        "link": "https://www.melhorescola.com.br/escola/complexo-educ-henrique-castriciano",
+        "snippet": "Garanta sua bolsa de estudos em Complexo Educ Henrique Castriciano, Natal - RN ... Sistema de ensino. SAS. O sistema de ensino compreende o conjunto de ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas em Cidade Alta - Natal - RN",
+        "link": "https://querobolsa.com.br/escolas/mensalidades/natal-rn/cidade-alta",
+        "snippet": "Sistema De Ensino Recriar; Centro Educacional Santo Agostinho; Escola ... Logo - complexo educ henrique castriciano. Complexo Educ Henrique Castriciano.",
+        "position": 2
+      },
+      {
+        "title": "Desigualdade-racial-nas-escolas-privadas-de-alto ... - gemaa",
+        "link": "https://gemaa.iesp.uerj.br/wp-content/uploads/2021/05/Desigualdade-racial-nas-escolas-privadas-de-alto-desempenho-v2-1.pdf",
+        "snippet": "de LA CAMPOS · Citado por 4 — SISTEMA DE ENSINO EQUIPE. COLEGIO DOM AMANDO. COLEGIO GENTIL BITTENCOURT ... COMPLEXO EDUC HENRIQUE CASTRICIANO. COLEGIO NOSSA SENHORA DAS NEVES. COLEGIO ...",
+        "position": 3
+      },
+      {
+        "title": "Lista de Escolas por Estado e Município | PDF | Brasil",
+        "link": "https://pt.scribd.com/doc/187320450/As-30-Melhores-de-Cada-Estado",
+        "snippet": "... SISTEMA DE ENSINO UNIVERSO E E F M ALVORADA ... COMPLEXO EDUC HENRIQUE CASTRICIANO CENTRO EDUCACIONAL DE APRENDIZAGEM MODERNA COLEGIO MARISTA DE NATAL.",
+        "position": 4
+      },
+      {
+        "title": "Escolas em Cidade Alta - Natal - RN",
+        "link": "https://www.melhorescola.com.br/busca/rio-grande-do-norte/natal/cidade-alta",
+        "snippet": "Sistema De Ensino Recriar; Educandário Disneylândia; Centro Educacional ... Logo - complexo educ henrique castriciano. Complexo Educ Henrique Castriciano.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "codigo_escola": "53020057",
+  "NO_ENTIDADE": "ESC SEB AZ BRASILIA",
+  "cidade": "Brasília",
+  "query": "\"ESC SEB AZ BRASILIA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ESC SEB AZ BRASILIA\" \"Brasília\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Escola SEB oferece o ciclo completo da educação básica ...",
+        "link": "https://www.correiobraziliense.com.br/cb-brands/brandedcontent/escola-seb-az-brasilia/2023/11/6659394-escola-seb-oferece-o-ciclo-completo-da-educacao-basica-em-novo-endereco-no-df.html",
+        "snippet": "... Escola SEB AZ Brasília. O termo “AZ” faz referência à metodologia ... Existem plataformas riquíssimas, com videoaulas e material didático.",
+        "date": "22 de nov. de 2023",
+        "position": 1
+      },
+      {
+        "title": "Escola SEB AZ Brasília I - Secretaria de Educação",
+        "link": "https://www.educacao.df.gov.br/documents/d/seedf/290-2024-cedf-escola-seb-az-brasilia-cons-ivanna-pdf",
+        "snippet": "... sistema de ensino do. Distrito Federal. O currículo da Educação Infantil é ... até 31 de julho de 2029, a Escola SEB AZ Brasília, situada no SGAS 914, S/N,.",
+        "position": 2
+      },
+      {
+        "title": "CEDF – Pareceres - Secretaria de Estado de Educação",
+        "link": "https://www.educacao.df.gov.br/cedf-pareceres",
+        "snippet": "Agência Brasília · Portal do Governo de Brasília · Dados Abertos · LGPD · Maria da ... 290 2024 CEDF Escola SEB AZ Brasilia Cons. Ivanna · 291 2024 CEDF Colegio ...",
+        "position": 3
+      }
+    ],
+    "credits": 1
+  }
+}

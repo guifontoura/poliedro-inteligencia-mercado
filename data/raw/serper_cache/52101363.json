@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "52101363",
+  "NO_ENTIDADE": "COPE - COLEGIO PREPARAENEM",
+  "cidade": "Goiânia",
+  "query": "\"COPE - COLEGIO PREPARAENEM\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COPE - COLEGIO PREPARAENEM\" \"Goiânia\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "ENSINO MÉDIO Prezadas famílias, Informamos que ...",
+        "link": "https://www.instagram.com/p/DTwDjEBjABe/",
+        "snippet": "#TOP3 BRASIL NO ENEM SISTEMA DE ENSINO anglo LEÃO DE OURO 2020 ... Cope Colégio Preparaenem (Goiânia) – 694,11 6. Colégio Cope Nexus ...",
+        "date": "há 6 meses",
+        "position": 1
+      },
+      {
+        "title": "Colégio Mais Ânima | Toda conquista merece ser celebrada ...",
+        "link": "https://www.instagram.com/reel/DagDoQyzysk/",
+        "snippet": "VALADARES E TEÓFILO OTONI GENOMA SISTEMA DE ENSINO 1° LUGAR NO ENEM CARATINGA, GOV. ... Cope Colégio Preparaenem (Goiânia) – 694,11 6. Colégio ...",
+        "date": "há 2 semanas",
+        "position": 2
+      },
+      {
+        "title": "Grandes resultados começam com boas orientações Confira ...",
+        "link": "https://www.instagram.com/reel/DaVOUYFBXVe/",
+        "snippet": "TEMOS O MELHOR DE GOIÂNIA! TORNE SEU SONHO REAL ... Achando que é só devorar a apostila e rezar por um milagre na hora da prova?",
+        "date": "há 3 semanas",
+        "position": 3
+      },
+      {
+        "title": "DF on Instagram: \"Orgulho que se traduz em resultados! O ...",
+        "link": "https://www.instagram.com/reel/DUQplGLAMn0/",
+        "snippet": "O Sistema de Ensino COC faz parte da formação dos nossos alunos ... COPE – Colégio Preparaenem – Goiânia 6. Colégio COPE Nexus Filial ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Santo Agostinho | Rede AM de Educação",
+        "link": "https://www.instagram.com/p/DOx5sr1jwKx/",
+        "snippet": "COPE – Colégio Preparaenem – Goiânia 6. Colégio COPE Nexus Filial ... atenas #INCOMPARÁVEL Bernoulli Sistema de Ensino. Join Colégio ...",
+        "date": "há 10 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "43023363",
+  "NO_ENTIDADE": "COLEGIO SAGRADO CORACAO DE JESUS",
+  "cidade": "Bento Gonçalves",
+  "query": "\"COLEGIO SAGRADO CORACAO DE JESUS\" \"Bento Gonçalves\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SAGRADO CORACAO DE JESUS\" \"Bento Gonçalves\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Perguntas Frequentes | Colégio Sagrado Coração de Jesus",
+        "link": "https://redesagradosul.com.br/unidade/colegio-sagrado-coracao-de-jesus-bento-goncalves/perguntas-frequentes",
+        "snippet": "Qual é o material didático utilizado? No SAGRADO - Rede de Educação é utilizado o Sistema de Ensino – Editora FTD e Editora SM. Para mais informações ...",
+        "position": 1
+      },
+      {
+        "title": "PREMIAÇÃO QUIMENINAS 2025- SÉRIE 9° ANO",
+        "link": "https://obquimica.org/storage/files/01K92D8X8J0CBEC6S5CFDQXAWT.pdf",
+        "snippet": "SISTEMA DE ENSINO AUTHENTICO. PA. Belém. OURO. Echilly Gonçalves Marques ... ANBEAS - COLEGIO SAGRADO CORACAO DE JESUS. PI. Teresina certificado ANA SOFHIA ...",
+        "position": 2
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... Colégio Sagrado Coração de Jesus. 52062813 GO. Pires do Rio. ADRIEL SOARES ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ano ...",
+        "position": 3
+      },
+      {
+        "title": "Menção Honrosa 9º Ano Fundamental | PDF | São Paulo",
+        "link": "https://pt.scribd.com/document/800285159/1729652725671867f5084ac-mencao-honrosa",
+        "snippet": "MAÍRA KEMIL SISTEMA DE ENSINO EQUIPE PARÁ BELÉM ... EMANUELLE CAROSSI BRANDALISE COLEGIO SAGRADO CORACAO DE JESUS RIO GRANDE DO SUL BENTO GONÇALVES",
+        "position": 4
+      },
+      {
+        "title": "Rede Particular - 2016 - Secretaria da Educação",
+        "link": "https://servicos.educacao.rs.gov.br/dados/estatisticas_mi_par_2016.pdf",
+        "snippet": "43209467 ESC EDUC PROFISSIONAL SENAC - BENTO GONCALVES. Urbana. 0. 0. 0. 0 ... 43112838 COLEGIO SAGRADO CORACAO DE JESUS. Urbana. 30. 84. 254. 101. 0. 0. 0. 469.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

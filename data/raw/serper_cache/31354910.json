@@ -1,0 +1,51 @@
+{
+  "codigo_escola": "31354910",
+  "NO_ENTIDADE": "CENTRO EDUCACIONAL CAVE",
+  "cidade": "Juiz de Fora",
+  "query": "\"CENTRO EDUCACIONAL CAVE\" \"Juiz de Fora\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CENTRO EDUCACIONAL CAVE\" \"Juiz de Fora\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Machado Sobrinho | ✨ Vem aí uma grande novidade ...",
+        "link": "https://www.instagram.com/reel/DV1cHu9JliG/",
+        "snippet": "o ensino de qualidade pautado ali em professores, material didático... ... Na sequência aparecem o Centro Educacional Cave, com 690,5 pontos, e ...",
+        "date": "há 4 meses",
+        "position": 1
+      },
+      {
+        "title": "Duas escolas estaduais de Juiz de Fora foram ...",
+        "link": "https://www.instagram.com/p/DTdLI0NkucM/",
+        "snippet": "... Juiz de Fora, uma escola optou pelo ... Todo o material didático será fornecido gratuitamente, sem necessidade de compra de livros.",
+        "date": "há 6 meses",
+        "position": 2
+      },
+      {
+        "title": "2026 - CEE/MG",
+        "link": "https://cee.educacao.mg.gov.br/index.php/legislacao/pareceres/category/97-2026",
+        "snippet": "Alteração no quadro diretivo da Associação Pedagógica Colmeia, mantenedora da Colmeia Escola Waldorf, do Município de Juiz de Fora. ... Sistema de Ensino Ltda. - ...",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 17ª OBMEP",
+        "link": "https://premiacao.obmep.org.br/17obmep/verRelatorioPremiadosMencao-MG.3.privada.do.htm",
+        "snippet": "SISTEMA DE ENSINO FOCO, P, MONTES CLAROS, MG, Sim. FILIPE ARANTES AFONSO DE ALMEIDA, COLEGIO SANTO AGOSTINHO ... CENTRO EDUCACIONAL CAVE, P, JUIZ DE FORA, MG ...",
+        "position": 4
+      },
+      {
+        "title": "PAIS DO PIO XII RECLAMAM DE MUDANÇAS APÓS ...",
+        "link": "https://www.instagram.com/reel/DZYEiGsh5-d/",
+        "snippet": "Inscrições para 90 vagas na EJA do João XXIII, em Juiz de Fora, terminam nesta terça ... Na sequência aparecem o Centro Educacional Cave ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

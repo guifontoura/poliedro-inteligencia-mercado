@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "33064024",
+  "NO_ENTIDADE": "EDEM",
+  "cidade": "Rio de Janeiro",
+  "query": "\"EDEM\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"EDEM\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Você sabia que a EDEM é uma escola com floresta ...",
+        "link": "https://www.instagram.com/p/DODpPN2ETMX/",
+        "snippet": "Poliedro Sistema de Ensino Viver Aprendendo Gás Carbônico (CO2) ... SOS MATA ATLÂNTICA INSTITUTO FEDERAL Rio de Janeiro Campus Paracambi ...",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "A experiência do Ensino Médio no Band combina alta ...",
+        "link": "https://www.instagram.com/reel/DYSFTrCh81H/",
+        "snippet": "No Radar Enem do Bernoulli Sistema de Ensino você consegue fazer esse tipo de análise! Gente, ano passado, o Enem foi aplicado e nós tivemos ...",
+        "date": "há 2 meses",
+        "position": 2
+      },
+      {
+        "title": "O SIGNIFICADO DA EXPERIÊNCIA ESCOLAR PARA ...",
+        "link": "https://dialnet.unirioja.es/descarga/articulo/6208752.pdf",
+        "snippet": "de I Lélis · 2005 · Citado por 40 — Rio de Janeiro. Nossa intenção era a de verificar como adolescentes se ... ...comparando com a escola Edem, os pais desse colégio não se caracterizam.",
+        "position": 3
+      },
+      {
+        "title": "Escolas particulares no Rio com mensalidade entre R$ ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/07/23/escolas-particulares-no-rio-com-mensalidade-entre-r-3001-a-r-5000-veja-lista.ghtml",
+        "snippet": "... sistema de ensino. Há ainda o detalhamento sobre quais atividades ... Guia de Escolas: encontre a melhor escola no Rio de Janeiro ou em São Paulo:.",
+        "date": "há 2 dias",
+        "position": 4
+      },
+      {
+        "title": "Formação docente: percepções de professores ...",
+        "link": "https://www.scielo.br/j/ep/a/dn8pztJSC3YYgLJCfQBqPSH/?format=pdf&lang=pt",
+        "snippet": "de MGCA Nascimento · 2017 · Citado por 26 — II- Escola EDEM, Rio de Janeiro, RJ, Brazil. Contact: rose.f.reis28@gmail ... o papel do sistema de ensino nesse processo? Defende-se aqui que faria ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

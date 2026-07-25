@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "31074098",
+  "NO_ENTIDADE": "COLEGIO DOS JESUITAS",
+  "cidade": "Juiz de Fora",
+  "query": "\"COLEGIO DOS JESUITAS\" \"Juiz de Fora\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DOS JESUITAS\" \"Juiz de Fora\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Avenida Pres. Itamar Franco, nº 1600 Centro – Juiz de ...",
+        "link": "https://www.colegiodosjesuitas.com.br/wp-content/uploads/2021/02/Regimento-Interno.pdf",
+        "snippet": "Pedagógico do Colégio dos Jesuítas e neste Regimento. Art. 30 – Os ... à forma de organização da escolaridade do sistema de ensino. O Colégio dos.",
+        "position": 1
+      },
+      {
+        "title": "Colégio dos Jesuítas on Instagram: \"Um histórico escolar ...",
+        "link": "https://www.instagram.com/reel/DWUp2jIE7cw/",
+        "snippet": "o ensino de qualidade pautado ali em professores, material didático... ... Juiz de Fora, queremos contribuir para a construção da sociedade de ...",
+        "date": "há 4 meses",
+        "position": 2
+      },
+      {
+        "title": "A cidade de Juiz de Fora (MG) está em festa! O ...",
+        "link": "https://www.instagram.com/p/DVgIGtLDHRq/",
+        "snippet": "O Colégio dos Jesuítas avança em mais uma iniciativa alinhada ao ... MENSALIDADE COM MATERIAL DIDÁTICO JÁ INCLUSO NO VALOR! 3º, 4º E 5º ...",
+        "date": "há 4 meses",
+        "position": 3
+      },
+      {
+        "title": "Colégio dos Jesuítas on Instagram: \"Amanhã o Colégio dos ...",
+        "link": "https://www.instagram.com/reel/DURRWZPD2NG/",
+        "snippet": "Photo by Prefeitura de Juiz de Fora on May 05, 2026. May be an ... SISTEMA DE ENSINO Esperamos por todos(as) vocês! COLÉGIO MATER ...",
+        "date": "há 5 meses",
+        "position": 4
+      },
+      {
+        "title": "contexto e proposta da rede jesuíta de educação básica",
+        "link": "https://redejesuitadeeducacao.com.br/wp-content/uploads/2024/08/inovacaopedagogica_portugues.pdf",
+        "snippet": "do Ensino Fundamental do Colégio dos Jesuítas (Juiz de Fora – MG). •. Prof.ª ... Mas o sistema de ensino continua a estimular a repetição, a disputa, a hierarquia ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

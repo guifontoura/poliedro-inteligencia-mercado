@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "35123675",
+  "NO_ENTIDADE": "PRUDENTE DE MORAES COLEGIO",
+  "cidade": "Salto",
+  "query": "\"PRUDENTE DE MORAES COLEGIO\" \"Salto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"PRUDENTE DE MORAES COLEGIO\" \"Salto\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Setor -Supervisão.xlsx",
+        "link": "https://midiasstoragesec.blob.core.windows.net/001/2025/02/superviso-privadas.pdf",
+        "snippet": "Salto. Humanidade Escola de Educação Profissional. Salto. Sistema e Caracol Colégio e Sistema de Ensino e Colégio (Marli). Itu. Presbiteriano Felipe Manoel de ...",
+        "position": 1
+      },
+      {
+        "title": "Escolas no Ensino Fundamental I no Jardim Santa Cruz - Salto",
+        "link": "https://querobolsa.com.br/escolas/etapa-de-ensino/ensino-fundamental-i/salto-sp/jardim-santa-cruz",
+        "snippet": "Bolsas para Ensino Fundamental I no Jardim Santa Cruz - Salto. Mensalidades a partir de R ... prudente de moraes colegio · prima primeira ... Material Didático ...",
+        "position": 2
+      },
+      {
+        "title": "Bolsas de estudo nas escolas de Guaraú em Salto",
+        "link": "https://www.melhorescola.com.br/bolsas-de-estudo/sao-paulo/salto/guarau",
+        "snippet": "prudente de moraes colegio · prima primeira ... Salto Ville - Salto - SP. Saiba mais · Logo - jayme ... Material Didático Incluso. Infantil em alta! R ...",
+        "position": 3
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-SP.1.privada.do.htm",
+        "snippet": "ANGLO SISTEMA DE ENSINO, P, TATUI, SP, ---, Sim. IAN MAZZUCATTO PUCINELI, ABSOLUTO ... PRUDENTE DE MORAES COLEGIO, P, SALTO, SP, ---, Sim. JOSÉ PEDRO OLIVA ...",
+        "position": 4
+      },
+      {
+        "title": "Escolas no Ensino Médio em Centro - Salto - SP",
+        "link": "https://querobolsa.com.br/escolas/etapa-de-ensino/ensino-medio/salto-sp/centro",
+        "snippet": "Escolas no Ensino Médio no Centro - Salto. Página Inicial/; Escolas/; Salto/; Centro ... prudente de moraes colegio · prima primeira ... Material Didático Incluso.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

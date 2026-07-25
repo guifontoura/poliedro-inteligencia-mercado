@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "23246880",
+  "NO_ENTIDADE": "CHRISTUS COLEGIO PRE UNIVERSITARIO",
+  "cidade": "Fortaleza",
+  "query": "\"CHRISTUS COLEGIO PRE UNIVERSITARIO\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"CHRISTUS COLEGIO PRE UNIVERSITARIO\" \"Fortaleza\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Inscrições Abertas! Extensivo 2025 Chegou a hora de se ...",
+        "link": "https://www.instagram.com/reel/DFLkG_4yl0G/",
+        "snippet": "... Material didático exclusivo e atualizado, alinhado com as exigências ... CHRISTUS COLÉGIO PRÉ-UNIVERSITÁRIO NO INEP: 23246880 ...",
+        "date": "há 1 ano",
+        "position": 1
+      },
+      {
+        "title": "A Prefeitura de Fortaleza abriu, nesta quinta-feira (23/07) ...",
+        "link": "https://www.instagram.com/p/DbJXbnLDXY9/",
+        "snippet": "... material didático, laboratório de redação, passagem de ônibus, lanche ... Christus Colégio Pré-Universitário (Fortaleza) – 779,39 pontos",
+        "date": "há 1 dia",
+        "position": 2
+      },
+      {
+        "title": "Multitude Sistema de Ensino on Instagram: \"Multitude e o ...",
+        "link": "https://www.instagram.com/reel/DPjgKXKET2w/",
+        "snippet": "Photo by Multitude Sistema de Ensino on June 24, 2026. May be an ... Christus Colégio Pré-Universitário Fortaleza/CE 779,33 4º São José ...",
+        "date": "há 9 meses",
+        "position": 3
+      },
+      {
+        "title": "Escolas pertencentes ao Sistema de Ensino do Estado do",
+        "link": "https://www.ce.gov.br/cge/wp-content/uploads/sites/85/2021/03/PAR.0443.2021.Escolas-pertencentes-ao-Sistema-de-Ensino-do-Estado-do-Ceara-COM-ANEXO-1.pdf",
+        "snippet": "23246880 CHRISTUS COLÉGIO PRE UNIVERSITÁRIO. 632. SEFOR 2 ... Fortaleza. 23330414 VITORIA SANTOS ESCOLA. 896. SEFOR 3. Fortaleza. 23317019 ZURIEL COLÉGIO.",
+        "position": 4
+      },
+      {
+        "title": "Alunos Premiados de Escolas Privadas - 16ª OBMEP",
+        "link": "http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosGeral-CE.2.privada.do.htm",
+        "snippet": "Material Didático. Provas e Soluções · Banco de Questões ... CE, ---, Sim. LEANDRO SILVA NOGUEIRA FILHO, CHRISTUS COLEGIO PRE UNIVERSITARIO, P, FORTALEZA, CE, --- ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

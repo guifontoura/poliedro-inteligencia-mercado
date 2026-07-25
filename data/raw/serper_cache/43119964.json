@@ -1,0 +1,53 @@
+{
+  "codigo_escola": "43119964",
+  "NO_ENTIDADE": "COLEGIO DOM ALBERTO",
+  "cidade": "Santa Cruz do Sul",
+  "query": "\"COLEGIO DOM ALBERTO\" \"Santa Cruz do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DOM ALBERTO\" \"Santa Cruz do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Dom Alberto | Santa Cruz do Sul RS",
+        "link": "https://www.facebook.com/ColegioDomAlberto/?locale=pt_BR",
+        "snippet": "Colégio Dom Alberto, Santa Cruz do Sul. 6182 likes · 128 talking about this ... Sistema de Ensino. Education. . Follow ...",
+        "rating": 4.7,
+        "ratingCount": 14,
+        "position": 1
+      },
+      {
+        "title": "Colégio Dom Alberto | Tradição e Inovação no Ensino",
+        "link": "https://www.colegiodomalberto.com.br/",
+        "snippet": "Conheça o Colégio Dom Alberto em Santa Cruz do Sul. Infraestrutura completa ... Referência nacional em educação, o Anglo oferece material didático ...",
+        "position": 2
+      },
+      {
+        "title": "Educação Infantil ao Médio (@colegiodomalberto)",
+        "link": "https://www.instagram.com/colegiodomalberto/",
+        "snippet": "Há um ano, a gestão 2elles abraçou o Colégio Dom Alberto e fez os nossos corredores pulsarem com uma alegria renovada.",
+        "position": 3
+      },
+      {
+        "title": "Colégio Dom Alberto: há 17 anos proporcionando ensino ...",
+        "link": "https://www.riovalejornal.com.br/colegio-dom-alberto-ha-17-anos-proporcionando-ensino-de-qualidade/",
+        "snippet": "Durante 128 anos, desde 1874 até 2002, o Colégio Dom Alberto era conhecido como Colégio Sagrado Coração de Jesus, e era dirigido por freiras ...",
+        "date": "16 de jul. de 2019",
+        "position": 4
+      },
+      {
+        "title": "Colégio Dom Alberto fortaleceu sua proposta pedagógica ...",
+        "link": "https://blog.eduallbilingue.com.br/como-o-colegio-dom-alberto-fortaleceu-sua-proposta-pedagogica-com-o-eduall/",
+        "snippet": "O Colégio Dom Alberto, em Santa Cruz do Sul (RS), fundado em 2002 ... material didático, o suporte pedagógico e a proposta de formação continuada ...",
+        "date": "10 de fev. de 2025",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

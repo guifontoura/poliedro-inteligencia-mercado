@@ -1,0 +1,54 @@
+{
+  "codigo_escola": "26053837",
+  "NO_ENTIDADE": "COLEGIO DIOCESANO DE CARUARU",
+  "cidade": "Caruaru",
+  "query": "\"COLEGIO DIOCESANO DE CARUARU\" \"Caruaru\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO DIOCESANO DE CARUARU\" \"Caruaru\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio Diocesano de Caruaru on Instagram: \"Hoje é o Dia ...",
+        "link": "https://www.instagram.com/reel/DV59YUPiFQj/",
+        "snippet": "... CARUARU TEM ASSINATURA ESPAÇO MAKER RUMO AO 100 CENTENÁRIO COLÉGIO DIOCESANO DE CARUARU ... O evento de apresentação do sistema de ensino ...",
+        "date": "há 4 meses",
+        "position": 1
+      },
+      {
+        "title": "Diocesano: 90 anos de tradição e inovação à frente de seu ...",
+        "link": "https://g1.globo.com/pe/caruaru-regiao/especial-publicitario/colegio-diocesano-de-caruaru/noticia/diocesano-90-anos-de-tradicao-e-inovacao-a-frente-de-seu-tempo.ghtml",
+        "snippet": "... material didático utilizado pelo Diocesano, o Sistema Ari de Sá (SAS). ... É por essas razões que o Colégio Diocesano de Caruaru é conhecido ...",
+        "date": "16 de nov. de 2017",
+        "position": 2
+      },
+      {
+        "title": "Colégio Diocesano de Caruaru on Instagram: \"Mais uma vez ...",
+        "link": "https://www.instagram.com/reel/DN0v2bi3C8N/",
+        "snippet": "CONEXÃO CARUARU COLÉGIO DIOCESANO Colégio Diocesano de Caruaru está ... Por meio do Sistema de Ensino Fibonacci, nossos alunos contam com material ...",
+        "date": "há 11 meses",
+        "position": 3
+      },
+      {
+        "title": "Dia Internacional da Educação Católica 🙏🏽 No ...",
+        "link": "https://www.instagram.com/p/DYVJbSWG9Ot/",
+        "snippet": "Photo by Colégio Diocesano de Caruaru on May ...",
+        "date": "há 2 meses",
+        "position": 4
+      },
+      {
+        "title": "Colégio Diocesano de Caruaru on Instagram: \"Diocesano ...",
+        "link": "https://www.instagram.com/reel/DUTOR-ADrQ4/",
+        "snippet": "O Colégio Diocesano de Caruaru figura entre os 10 melhores colégios ... Você conhece o Sistema de Ensino de Educação Clássica? Eu sou ...",
+        "date": "há 5 meses",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

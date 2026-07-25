@@ -1,0 +1,52 @@
+{
+  "codigo_escola": "50007858",
+  "NO_ENTIDADE": "COLEGIO SALESIANO DOM BOSCO",
+  "cidade": "Campo Grande",
+  "query": "\"COLEGIO SALESIANO DOM BOSCO\" \"Campo Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SALESIANO DOM BOSCO\" \"Campo Grande\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "No Colégio Salesiano Dom Bosco, cada momento vivido é ...",
+        "link": "https://www.instagram.com/reel/DN779ixjYSp/",
+        "snippet": "Vem estudar no Colégio Salesiano Dom Bosco de Campo Grande. Aqui é ... E ainda receber o material didático totalmente gratuito no ano que vem.",
+        "date": "há 10 meses",
+        "position": 1
+      },
+      {
+        "title": "No Colégio Salesiano Dom Bosco, educamos com amor, ...",
+        "link": "https://www.instagram.com/p/DOMBcjWjfXw/",
+        "snippet": "Sistema de Ensino Dom Bosco by SAE Digital Colégio São Luís ... Vem estudar no Colégio Salesiano Dom Bosco de Campo Grande. Aqui é ...",
+        "date": "há 10 meses",
+        "position": 2
+      },
+      {
+        "title": "Escolas Salesianas",
+        "link": "https://rsb.org.br/escolas",
+        "snippet": "... material didático impresso e digital próprio, no desenvolvimento de uma ... Colégio Salesiano Dom Bosco SALVADOR - BA Endereço: AV Divino Espírito ...",
+        "position": 3
+      },
+      {
+        "title": "Colégio Salesiano Araçatuba apresenta novo sistema ...",
+        "link": "https://www.missaosalesiana.org.br/colegio-salesiano-aracatuba-apresenta-novo-sistema-didatico-para-o-ensino-medio/",
+        "snippet": "Apresentação do material didático. O Colégio Salesiano “Dom Luiz Lasagna” apresentou à comunidade escolar o Bernoulli Sistema de Ensino, ...",
+        "date": "22 de nov. de 2024",
+        "position": 4
+      },
+      {
+        "title": "COLÉGIO SALESIANO DOM BOSCO",
+        "link": "https://www.objetivo.br/institucional/unidade/ms/campo-grande/oc-8080-colegio-salesiano-dom-bosco-objetivo.aspx",
+        "snippet": "COLÉGIO SALESIANO DOM BOSCO - OBJETIVO. Conheça a unidade. Endereço. Rua Quatorze de Julho, 227 - Centro Campo Grande / MS - CEP: 79002-335. Região. -. Telefone.",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

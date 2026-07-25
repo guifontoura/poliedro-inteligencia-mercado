@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "33194688",
+  "NO_ENTIDADE": "LEGACY SCHOOL REGIAO OCEANICA",
+  "cidade": "Niterói",
+  "query": "\"LEGACY SCHOOL REGIAO OCEANICA\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"LEGACY SCHOOL REGIAO OCEANICA\" \"Niterói\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Legacy School on Instagram: \"Conheça mais, sobre o nosso ...",
+        "link": "https://www.instagram.com/reel/C0Jqio8uEQO/",
+        "snippet": "Conheça mais, sobre o nosso material didático da Legacy School. É importante entrar em contato com a escola ou os professores para obter ...",
+        "date": "há 2 anos",
+        "position": 1
+      },
+      {
+        "title": "Listas de Materiais 2026",
+        "link": "https://legacyschoolcaxias.com/listasdemateriais2026/",
+        "snippet": "O material didático (Sistema Mackenzie Educacional e Edify) são vendidos na escola. Nas listas a seguir estão materiais individuais, coletivos e livros ...",
+        "position": 2
+      },
+      {
+        "title": "Unidade Região Oceânica Niterói",
+        "link": "https://legacyschool.com.br/unidade/regiao-oceanica-niteroi/",
+        "snippet": "Rua Dr. Cássio Rother do Amaral, 261 – Maravista - esquina com Av. Profa. Romanda Gonçalves; (21) 98631‑0116; legacyschoolregiaooceanica ...",
+        "position": 3
+      },
+      {
+        "title": "Legacy School on Instagram: \"Apresentamos os novos ...",
+        "link": "https://www.instagram.com/reel/DSGbyNsjrdI/",
+        "snippet": "Desenvolvendo habilidades essenciais: Estimulamos o pensamento crítico, a resolução de problemas, a comunicação eficaz, o trabalho em equipe e a ...",
+        "date": "há 7 meses",
+        "position": 4
+      },
+      {
+        "title": "https://sistemalegacy.com/",
+        "link": "https://sistemalegacy.com/",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

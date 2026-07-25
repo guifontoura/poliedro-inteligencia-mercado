@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "31004952",
+  "NO_ENTIDADE": "COLEGIO SANTA MARIA MINAS - UNIDADE PAMPULHA",
+  "cidade": "Belo Horizonte",
+  "query": "\"COLEGIO SANTA MARIA MINAS - UNIDADE PAMPULHA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COLEGIO SANTA MARIA MINAS - UNIDADE PAMPULHA\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Unidade Pampulha - Colégio Santa Maria - PUC Minas",
+        "link": "https://santamaria.pucminas.br/unidade-pampulha/",
+        "snippet": "Escola particular católica, localizada no bairro Planalto, em Belo Horizonte/MG, referência em educação básica de qualidade, com turmas da Educação Infantil ...",
+        "position": 1
+      },
+      {
+        "title": "História - Colégio Santa Maria - PUC Minas",
+        "link": "https://santamaria.pucminas.br/historia/",
+        "snippet": "A história da instituição tem início com a vinda das Irmãs Dominicanas, de Sévres, na França, para Belo Horizonte ... Sistema de Ensino Arquidiocesano, em ...",
+        "position": 2
+      },
+      {
+        "title": "Colégio Santa Maria Minas on Instagram: \"Educação para ...",
+        "link": "https://www.instagram.com/p/DIB6zRJO21C/",
+        "snippet": "... Colégio Santa Maria Minas – Unidade Pampulha recebeu uma ação educativa promovida pelo Detran ... Belo Horizonte. Durante a visita ...",
+        "date": "há 1 ano",
+        "position": 3
+      },
+      {
+        "title": "GUIA DO ESTUDANTE - 2022 - Colégio Santa Maria Minas",
+        "link": "https://santamaria.pucminas.br/wp-content/uploads/2022/04/guiadoestudantecsmminas-2022.pdf",
+        "snippet": "Em 2006, as Unidades Escolares, então integrantes do Sistema de Ensino Arquidiocesano, passaram ... ensino da Arquidiocese de Belo Horizonte. Tais mudanças ...",
+        "position": 4
+      },
+      {
+        "title": "10 melhores escolas de Barreiro e Pampulha em BH",
+        "link": "https://www.melhorescola.com.br/artigos/escolas-de-barreiro-e-pampulha-em-bh",
+        "snippet": "Colégio Santa Maria Minas – Unidade Pampulha. Nota Enem: 665,22. Endereço: R Adelina Sales Pereira, 273 - Planalto, Belo Horizonte - MG. ... Sistema de Ensino ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

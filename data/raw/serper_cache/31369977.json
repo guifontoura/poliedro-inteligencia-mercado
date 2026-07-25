@@ -1,0 +1,49 @@
+{
+  "codigo_escola": "31369977",
+  "NO_ENTIDADE": "COL CHROMOS BARREIRO",
+  "cidade": "Belo Horizonte",
+  "query": "\"COL CHROMOS BARREIRO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"COL CHROMOS BARREIRO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Col Chromos Barreiro em Belo Horizonte, MG - 27.811.393/0002 ...",
+        "link": "https://www.econodata.com.br/consulta-empresa/27811393000250-sociedade-educacional-barreiro-ltda",
+        "snippet": "Consulte Col Chromos Barreiro: CNPJ 27.811.393/0002-50, sede em Belo Horizonte/MG ... material didático ... material didático próprio. Copiar conteúdo ...",
+        "position": 1
+      },
+      {
+        "title": "2026",
+        "link": "https://cee.educacao.mg.gov.br/index.php/legislacao/pareceres/category/97-2026?start=420",
+        "snippet": "Recredenciamento da entidade SICA - Sistema de Ensino Fundamental e Médio Caldense Ltda. - ... Belo Horizonte / MG - CEP 30160-042. Telefone: (31) 3071-4750 ...",
+        "position": 2
+      },
+      {
+        "title": "Taxa de Distorção Idade/Série - Belo Horizonte",
+        "link": "https://qedu.org.br/municipio/3106200-belo-horizonte/distorcao-idade-serie",
+        "snippet": "COL CHROMOS BARREIRO. 0,9%. COL CHROMOS BURITIS. 2%. COL CHROMOS CASTELO. 1,6 ... SISTEMA DE ENSINO ERIDA DURAES. 10,8%. SISTEMA EDUCACIONAL ATHENA - UNIDADE ...",
+        "position": 3
+      },
+      {
+        "title": "escolas de educação infantil - Prefeitura de Belo Horizonte",
+        "link": "https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/educacao/2021/escolas_educinfantil-versao-site-validado.pdf",
+        "snippet": "COL CHROMOS BARREIRO. SECRETARIA MUNICIPAL DE EDUCAÇÃO - BH. COL CHROMOS ... SISTEMA DE ENSINO SEJE -EIRELI- ME. SECRETARIA MUNICIPAL DE EDUCAÇÃO - BH.",
+        "position": 4
+      },
+      {
+        "title": "LIGA BH FUTSAL 2025 - edição",
+        "link": "https://ligabhfutsal.ritmodoesporte.com.br/futsal/liga-bh-futsal-2025/1-edicao-ano-2025/4783",
+        "snippet": "SISTEMA DE ENSINO PIAGET · ESCOLA DE FUTSAL 4 EM LINHA · MONTE SIÃO FUTSAL ... Rua Marquês De Barbacena, 310 - SAUDADE Belo Horizonte / MG;; #liga bh futsal ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

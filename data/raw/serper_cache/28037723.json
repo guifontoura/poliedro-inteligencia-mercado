@@ -1,0 +1,45 @@
+{
+  "codigo_escola": "28037723",
+  "NO_ENTIDADE": "NUCLEO AVANCADO DE ENSINO G8 LTDA",
+  "cidade": "Aracaju",
+  "query": "\"NUCLEO AVANCADO DE ENSINO G8 LTDA\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"NUCLEO AVANCADO DE ENSINO G8 LTDA\" \"Aracaju\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/06/23/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-de-cada-estado-e-df.ghtml",
+        "snippet": "Núcleo Avançado de Ensino G8 Ltda - 686,34 - Aracaju (Sergipe) - Particular - 144% ... Farina Sistema de Ensino - 668,93 - Cuiabá (Mato ...",
+        "date": "23 de jun. de 2026",
+        "position": 1
+      },
+      {
+        "title": "Enem 2025: conheça as 15 escolas com as maiores notas ...",
+        "link": "https://www.folhape.com.br/noticias/enem-2025-conheca-as-15-escolas-com-as-maiores-notas-em-pernambuco/495936/",
+        "snippet": "Nucleo Avancado de Ensino G8 Ltda - Aracaju - Salgado Filho - Nota: 686.34 ... Farina Sistema de Ensino - Cuiabá - Areão - Nota: 668.92.",
+        "date": "23 de jun. de 2026",
+        "position": 2
+      },
+      {
+        "title": "Ensino",
+        "link": "https://olimpiadasdebiologia.butantan.gov.br/assets/documentos/2025/OBB_Alunos_Fase_2_Geral.pdf",
+        "snippet": "... Aracaju. Adelia Gabriele Borges de Sousa. 2º ano - Ensino Médio. 14. 6 UNIDADE ... SISTEMA DE ENSINO. 35159013 SP. Rio Claro. ANA CLARA ALVES DE OLIVEIRA. 3º ...",
+        "position": 3
+      },
+      {
+        "title": "Desempenho de Alunos do Ensino Médio | PDF | Faculdade",
+        "link": "https://pt.scribd.com/document/897959944/OBB-Alunos-Fase-2-Geral",
+        "snippet": "... SISTEMA DE ENSINO 35159013 SP Rio Claro ANA CLARA ALVES DE OLIVEIRA 3º ... NUCLEO AVANCADO DE ENSINO G8 LTDA 28037723 SE Aracaju Eduardo Silva Tiago 2º ...",
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

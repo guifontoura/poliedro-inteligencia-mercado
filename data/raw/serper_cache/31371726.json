@@ -1,0 +1,43 @@
+{
+  "codigo_escola": "31371726",
+  "NO_ENTIDADE": "SOPHIS EDUCACIONAL",
+  "cidade": "Divinópolis",
+  "query": "\"SOPHIS EDUCACIONAL\" \"Divinópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"SOPHIS EDUCACIONAL\" \"Divinópolis\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Colégio – Sophis",
+        "link": "https://sophiseducacional.com.br/colegio/",
+        "snippet": "O Colégio Sophis é uma escola particular fundada em 2019, com sede em Divinópolis e Pará de Minas, Minas Gerais. ... © Sophis Educacional 2026. Alguma dúvida?",
+        "position": 1
+      },
+      {
+        "title": "Sophis: a transformação do seu futuro",
+        "link": "https://sophiseducacional.com.br/pre-vestibular/",
+        "snippet": "Foco no sucesso dos alunos · O melhor material didático do Brasil · Ambiente inspirador · Preparação é tudo · UNIDADE DIVINÓPOLIS · Unidade Pará de Minas.",
+        "position": 2
+      },
+      {
+        "title": "Busca de escolas, municípios e estados",
+        "link": "https://qedu.org.br/municipio/3122306-divinopolis/busca",
+        "snippet": "APOGEU SISTEMA DE ENSINO. DO MERCADO, 191. CENTRO. 35500048 Divinópolis ... SOPHIS EDUCACIONAL. SETE DE SETEMBRO, 620. CENTRO. 35500011 Divinópolis ...",
+        "position": 3
+      },
+      {
+        "title": "Preparação completa para ingressar no CEFET-MG",
+        "link": "https://sophiseducacional.com.br/cefet/",
+        "snippet": "UNIDADE DIVINÓPOLIS. NOVO ENDEREÇO: Avenida Getúlio Vargas, 420. Centro ... © Sophis Educacional 2026. Alguma dúvida?",
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

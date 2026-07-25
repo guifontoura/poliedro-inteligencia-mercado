@@ -1,0 +1,50 @@
+{
+  "codigo_escola": "26194619",
+  "NO_ENTIDADE": "ACADEMIA CRISTA DE BOA VIAGEM ENSINO MEDIO",
+  "cidade": "Recife",
+  "query": "\"ACADEMIA CRISTA DE BOA VIAGEM ENSINO MEDIO\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "searchParameters": {
+      "q": "\"ACADEMIA CRISTA DE BOA VIAGEM ENSINO MEDIO\" \"Recife\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+      "gl": "br",
+      "hl": "pt-br",
+      "type": "search",
+      "num": 5,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Academia Cristã de Boa Viagem: Home | ACBV",
+        "link": "https://www.academiacrista.com.br/",
+        "snippet": "Há 40 anos integrando o aluno com Deus, família e sociedade. · Educação Cristã · Esporte e Arte · Formação Acadêmica · Foco no objetivo · Lógica, Tech e STEM · Apoio ...",
+        "position": 1
+      },
+      {
+        "title": "Sistema Mackenzie de Ensino completa 20 anos",
+        "link": "https://www.mackenzie.br/s/gemkt/revista/110/sme.html",
+        "snippet": "Na verdade, atualmente esse material atende escolas que buscam oferecer a seus alunos formação com relevância acadêmica”, resume. Márcia Régis, gerente do SME.",
+        "position": 2
+      },
+      {
+        "title": "Sistema de Ensino Objetivo: o que é e quais os benefícios.",
+        "link": "https://www.youtube.com/watch?v=wuP-E_n4UkQ",
+        "snippet": "O professor e o material didático são e sempre serão as estrelas de uma escola, mas há soluções educacionais que caminham lado a lado com ...",
+        "date": "há 4 anos",
+        "position": 3
+      },
+      {
+        "title": "Academia Cristã de Boa Viagem (@academiacrista)",
+        "link": "https://www.instagram.com/academiacrista/",
+        "snippet": "Referência nacional em ensino cristão (81) 3312-5000 (81) 99963-4010 ACBV English School: @acbvenglishschool. Saiba mais sobre a ...",
+        "position": 4
+      },
+      {
+        "title": "Sistema de Ensino - Colégio Souza Leão | Cordeiro",
+        "link": "https://site.colegiosouzaleao.com/institucional2/sistema-de-ensino.html",
+        "snippet": "Como material de apoio aos professores, os livros didáticos oferecem orientações didáticas aula a aula, resolução das atividades e programação anual dos ...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}
