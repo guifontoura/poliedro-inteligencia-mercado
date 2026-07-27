@@ -121,7 +121,7 @@ REGISTROS = {
     # em página nenhuma — se o resultado não é conclusivo de cara, marca nao_identificado e
     # segue pra próxima; ver conversa sobre pipeline de busca).
     "29480620": ("não identificado", "nao_identificado", "Centro Educacional Villa Lobos (Camaçari, BA) — busca não confirmou sistema; ATENÇÃO: unidade irmã (mesmo CNPJ 04692152000153, unidade Salvador) usa Sistema COC — vale conferir se Camaçari segue o mesmo, não presumi"),
-    "52103137": ("não identificado", "nao_identificado", "Colégio Arena (Goiânia) — busca não trouxe sistema de terceiros; site oficial não citado nos resultados"),
+    "52103137": ("Sistema Poliedro", "confirmado", "Colégio Arena (Goiânia) — CORRIGIDO 24/07: site oficial próprio tem página dedicada 'colegioarena.com.br/pagina/sistema-de-ensino-poliedro', busca anterior não tinha achado — CLIENTE OCULTO POLIEDRO (Líder local em Goiânia, já citado como validação empírica no METODOLOGIA.md)"),
     "35142967": ("não identificado", "provavel_proprio", "Colégio Engenheiro Salvador Arena (São Bernardo do Campo) — mantido pela Fundação Salvador Arena, ensino gratuito, metodologia/currículo próprios, sem sistema de terceiros citado"),
     "35286187": ("Sistema Etapa (produzido pelo próprio Colégio Etapa, comercializado a escolas conveniadas)", "confirmado", "Etapa Colégio (Valinhos) — usa o Sistema Etapa, material próprio da rede Etapa que também é vendido a escolas conveniadas em todo o Brasil"),
     "31354562": ("não identificado", "provavel_proprio", "Colégio Gabarito (Uberaba) — rede própria (Gabarito Educação, 7 unidades em MG) que licencia SUA PRÓPRIA marca/material a escolas afiliadas na região; não usa sistema de terceiros, é ela quem licencia"),
