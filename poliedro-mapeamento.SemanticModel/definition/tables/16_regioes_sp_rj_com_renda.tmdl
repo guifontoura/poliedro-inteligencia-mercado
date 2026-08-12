@@ -1,0 +1,163 @@
+table 16_regioes_sp_rj_com_renda
+	lineageTag: a28e757b-17ec-4405-8ef5-e35c03b38af1
+
+	column cidade
+		dataType: string
+		lineageTag: 42c65662-3a51-45ca-9dd2-f6f9658a7b92
+		summarizeBy: none
+		sourceColumn: cidade
+
+		annotation SummarizationSetBy = Automatic
+
+	column granularidade
+		dataType: string
+		lineageTag: bee3c96f-5558-4b6c-ad92-811bce71edd3
+		summarizeBy: none
+		sourceColumn: granularidade
+
+		annotation SummarizationSetBy = Automatic
+
+	column regiao
+		dataType: string
+		lineageTag: 2f233a70-8576-4881-8079-a40d15af7735
+		summarizeBy: none
+		sourceColumn: regiao
+
+		annotation SummarizationSetBy = Automatic
+
+	column qtd_escolas_confiaveis
+		dataType: int64
+		formatString: 0
+		lineageTag: 7ac3da48-0a54-4223-8ffc-13488bbda99f
+		summarizeBy: none
+		sourceColumn: qtd_escolas_confiaveis
+
+		annotation SummarizationSetBy = Automatic
+
+	column qtd_participantes_enem
+		dataType: int64
+		formatString: 0
+		lineageTag: 70d74e8d-3681-48fa-af74-268e6d79a347
+		summarizeBy: none
+		sourceColumn: qtd_participantes_enem
+
+		annotation SummarizationSetBy = Automatic
+
+	column enem_ponderado
+		dataType: double
+		lineageTag: 762a06ec-7b46-4f6c-a930-7edd59ecfea1
+		summarizeBy: none
+		sourceColumn: enem_ponderado
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column qtd_escolas_elegiveis
+		dataType: int64
+		formatString: 0
+		lineageTag: 4af52381-923b-4661-b413-f2c8905ea676
+		summarizeBy: none
+		sourceColumn: qtd_escolas_elegiveis
+
+		annotation SummarizationSetBy = Automatic
+
+	column amostra_significativa
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: dca6cd97-2ea5-4d1b-8e4d-6899c16a0c35
+		summarizeBy: none
+		sourceColumn: amostra_significativa
+
+		annotation SummarizationSetBy = Automatic
+
+	column rank_enem_na_cidade
+		dataType: int64
+		formatString: 0
+		lineageTag: acc97471-e9da-4fb3-a55c-67a9f9773521
+		summarizeBy: none
+		sourceColumn: rank_enem_na_cidade
+
+		annotation SummarizationSetBy = Automatic
+
+	column rank_volume_na_cidade
+		dataType: int64
+		formatString: 0
+		lineageTag: e1b8af2a-c202-4422-a0f1-6a4907b1e771
+		summarizeBy: none
+		sourceColumn: rank_volume_na_cidade
+
+		annotation SummarizationSetBy = Automatic
+
+	column qtd_golden_leads
+		dataType: int64
+		formatString: 0
+		lineageTag: 170ebcde-fdc1-411f-85a2-95d319a6f7ee
+		summarizeBy: none
+		sourceColumn: qtd_golden_leads
+
+		annotation SummarizationSetBy = Automatic
+
+	column renda_media_responsavel
+		dataType: double
+		lineageTag: 115b50fa-650e-46ac-89e1-774f1653da3b
+		summarizeBy: none
+		sourceColumn: renda_media_responsavel
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column renda_mediana_responsavel
+		dataType: int64
+		formatString: "R$"#,0;-"R$"#,0;"R$"#,0
+		lineageTag: c26e05a1-5080-4ce1-adac-279a79ca7291
+		summarizeBy: none
+		sourceColumn: renda_mediana_responsavel
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"currencyCulture":"es-BR"}
+
+	column regiao_oportunidade
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: e9b61478-83ab-4c41-9398-b031bc35b93a
+		summarizeBy: none
+		sourceColumn: regiao_oportunidade
+
+		annotation SummarizationSetBy = Automatic
+
+	column chave_regiao
+		dataType: string
+		lineageTag: a883633d-51ac-47f9-b386-5d1e24493474
+		summarizeBy: none
+		sourceColumn: chave_regiao
+
+		annotation SummarizationSetBy = Automatic
+
+	column distancia_parceiro_mais_proximo_km
+		dataType: double
+		lineageTag: 9dfc825e-6d08-4198-910e-1365f611509b
+		summarizeBy: none
+		sourceColumn: distancia_parceiro_mais_proximo_km
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition 16_regioes_sp_rj_com_renda = m
+		mode: import
+		source =
+				let
+				    Fonte = Csv.Document(File.Contents("C:\Users\guilh\PycharmProjects\Mapeamento_Escolas\data\outputs\16_regioes_sp_rj_com_renda.csv"),[Delimiter=";", Columns=16, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Usar a Primeira Linha como Cabeçalho" = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+				    #"Alterar Tipo" = Table.TransformColumnTypes(#"Usar a Primeira Linha como Cabeçalho",{{"cidade", type text}, {"granularidade", type text}, {"regiao", type text}, {"qtd_escolas_confiaveis", Int64.Type}, {"qtd_participantes_enem", Int64.Type}, {"enem_ponderado", type number}, {"qtd_escolas_elegiveis", Int64.Type}, {"amostra_significativa", type logical}, {"rank_enem_na_cidade", Int64.Type}, {"rank_volume_na_cidade", Int64.Type}, {"qtd_golden_leads", Int64.Type}, {"renda_media_responsavel", type number}, {"renda_mediana_responsavel", Int64.Type}, {"regiao_oportunidade", type logical}, {"chave_regiao", type text}, {"distancia_parceiro_mais_proximo_km", type number}}),
+				    #"Colocar Cada Palavra Em Maiúscula" = Table.TransformColumns(#"Alterar Tipo",{{"regiao", Text.Proper, type text}, {"chave_regiao", Text.Proper, type text}})
+				in
+				    #"Colocar Cada Palavra Em Maiúscula"
+
+	annotation PBI_NavigationStepName = Navegação
+
+	annotation PBI_ResultType = Table
+

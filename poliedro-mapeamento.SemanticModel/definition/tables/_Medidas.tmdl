@@ -1,0 +1,21 @@
+table _Medidas
+	isHidden
+	lineageTag: 27a80ad7-05af-4b07-ba05-879b06b3d196
+
+	measure 'Qtd Escolas' = COUNTROWS('29_universo_completo_powerbi')
+		formatString: #,##0
+		lineageTag: 03651e6b-ff34-4c67-9051-be183ee180a0
+
+	measure 'Escolas na Seleção' = COUNTROWS('29_universo_completo_powerbi')
+		formatString: #,0
+		lineageTag: 9a8a7034-7d5a-4db5-9a80-0cdbef46b52f
+
+	column Value
+		lineageTag: 48a52456-e2d6-46cc-b402-4f66bfdc777f
+		isNameInferred
+		sourceColumn: [Value]
+
+	partition _Medidas = calculated
+		mode: import
+		source = {BLANK()}
+

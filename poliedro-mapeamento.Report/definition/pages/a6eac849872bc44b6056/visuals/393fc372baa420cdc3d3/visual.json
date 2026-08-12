@@ -1,0 +1,366 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.11.0/schema.json",
+  "name": "393fc372baa420cdc3d3",
+  "position": {
+    "x": 627.355623100304,
+    "y": 472.70516717325228,
+    "z": 7000,
+    "height": 232.46200607902736,
+    "width": 643.89057750759878,
+    "tabOrder": 7000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "NO_ENTIDADE"
+                }
+              },
+              "queryRef": "29_universo_completo_powerbi.NO_ENTIDADE",
+              "nativeQueryRef": "Escola",
+              "displayName": "Escola"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "regiao"
+                }
+              },
+              "queryRef": "29_universo_completo_powerbi.regiao",
+              "nativeQueryRef": "Bairro / Distrito1",
+              "displayName": "Bairro / Distrito"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "score_destaque"
+                }
+              },
+              "queryRef": "Sum(29_universo_completo_powerbi.score_destaque)",
+              "nativeQueryRef": "Score",
+              "displayName": "Score",
+              "format": "0.000"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "distancia_parceiro_atual_km"
+                }
+              },
+              "queryRef": "Sum(29_universo_completo_powerbi.distancia_parceiro_atual_km)",
+              "nativeQueryRef": "Dist. Parceiro (km)",
+              "displayName": "Dist. Parceiro (km)"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "sistema_ensino_identificado"
+                }
+              },
+              "queryRef": "29_universo_completo_powerbi.sistema_ensino_identificado",
+              "nativeQueryRef": "Sist. Ensino",
+              "displayName": "Sist. Ensino"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "bairro"
+                }
+              },
+              "queryRef": "29_universo_completo_powerbi.bairro",
+              "nativeQueryRef": "Bairro SP",
+              "displayName": "Bairro SP"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "29_universo_completo_powerbi"
+                  }
+                },
+                "Property": "score_destaque"
+              }
+            },
+            "direction": "Descending"
+          }
+        ]
+      }
+    },
+    "objects": {
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "86.9374105307756D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "29_universo_completo_powerbi.bairro"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "222.44523932756817D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "29_universo_completo_powerbi.NO_ENTIDADE"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "86.22572491406773D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(29_universo_completo_powerbi.distancia_parceiro_atual_km)"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "42.93510752386383D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(29_universo_completo_powerbi.score_destaque)"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "164.93841852507634D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "29_universo_completo_powerbi.sistema_ensino_identificado"
+          }
+        }
+      ],
+      "columnHeaders": [
+        {
+          "properties": {}
+        }
+      ],
+      "columnFormatting": [
+        {
+          "properties": {
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 2,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(29_universo_completo_powerbi.score_destaque)"
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#1B2438'"
+                    }
+                  }
+                }
+              }
+            },
+            "radius": {
+              "expr": {
+                "Literal": {
+                  "Value": "15D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "visualHeader": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "e2b92517be32a6b03d36",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "NO_ENTIDADE"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "ab79d81588257622b1d1",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "regiao"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "c309f95a048ba0504227",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "score_destaque"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "e5177db21609e285b0d3",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "distancia_parceiro_atual_km"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "681cfb0b726badb7e167",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "sistema_ensino_identificado"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "f7d85dc3260dc6b0e602",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "bairro"
+          }
+        },
+        "type": "Categorical"
+      }
+    ]
+  }
+}

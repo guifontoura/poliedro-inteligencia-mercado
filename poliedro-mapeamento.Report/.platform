@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "poliedro-mapeamento"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3a15ab8f-6b2d-4461-948f-e84ca05bb349"
+  }
+}

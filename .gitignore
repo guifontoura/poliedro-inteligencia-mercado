@@ -13,6 +13,12 @@ Roteiro_Apresentacao_Oral.pdf
 # Dados brutos grandes (baixe via poliedro_01_baixar_dados.py, não versionar binário)
 data/raw/*.zip
 data/raw/*.xlsx
+data/raw/*.rar
+
+# GitHub bloqueia qualquer arquivo >100MB no push — achado 12/08:
+# microdados_enem_2024.rar (407MB, poliedro_27) estava sem cobertura no .gitignore
+# (só *.zip/*.xlsx), destravado agora. Confira antes de publicar: `git status --short`
+# não deve listar nenhum arquivo de data/raw/ maior que uns poucos MB.
 
 # Artefatos do exercício anterior, não relacionados a este case
 mercado_educacional_local.db

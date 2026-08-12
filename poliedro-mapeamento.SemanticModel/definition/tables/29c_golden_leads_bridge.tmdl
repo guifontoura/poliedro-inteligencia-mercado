@@ -1,0 +1,44 @@
+table 29c_golden_leads_bridge
+	lineageTag: ebc7ccd6-7f88-4ec9-b321-e2f2f5beb403
+
+	column codigo_escola
+		dataType: int64
+		formatString: 0
+		lineageTag: c00a8fda-1c0f-4d5a-904f-8a57bc83a3d5
+		summarizeBy: none
+		sourceColumn: codigo_escola
+
+		annotation SummarizationSetBy = Automatic
+
+	column segmento_golden_lead
+		dataType: string
+		lineageTag: 1c2da3ca-eaa8-485e-a55b-851351e3a9aa
+		summarizeBy: none
+		sourceColumn: segmento_golden_lead
+		sortByColumn: segmento_ordem
+
+		changedProperty = SortByColumn
+
+		annotation SummarizationSetBy = Automatic
+
+	column segmento_ordem
+		dataType: int64
+		formatString: 0
+		lineageTag: 79603c3e-580f-49cb-86f0-3d2399ec0ec6
+		summarizeBy: sum
+		sourceColumn: segmento_ordem
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 29c_golden_leads_bridge = m
+		mode: import
+		source =
+				let
+				    Fonte = Csv.Document(File.Contents("C:\Users\guilh\PycharmProjects\Mapeamento_Escolas\data\outputs\29c_golden_leads_bridge.csv"),[Delimiter=";", Columns=3, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Cabeçalhos Promovidos" = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+				    #"Tipo Alterado" = Table.TransformColumnTypes(#"Cabeçalhos Promovidos",{{"codigo_escola", Int64.Type}, {"segmento_golden_lead", type text}, {"segmento_ordem", Int64.Type}})
+				in
+				    #"Tipo Alterado"
+
+	annotation PBI_ResultType = Table
+

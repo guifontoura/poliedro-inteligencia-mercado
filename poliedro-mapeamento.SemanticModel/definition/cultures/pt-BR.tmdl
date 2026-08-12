@@ -1,0 +1,5621 @@
+cultureInfo pt-BR
+
+	linguisticMetadata =
+			{
+			  "Version": "4.1.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "entity_14_cidades_powerbi": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "14 cidades powerbi": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "14 cidade powerbi": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "14_cidades_powerbi": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.codigo_municipio": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "codigo_municipio"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "codigo municipio": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "codigo_municipio": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.populacao_total": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "populacao_total"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "populacao total": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "populacao_total": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "populacao aggregate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "populacao overall": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.qtd_escolas_elegiveis": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "qtd_escolas_elegiveis"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qtd escolas elegiveis": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "qtd escola elegiveis": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "qtd_escolas_elegiveis": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.qtd_escolas_com_enem": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "qtd_escolas_com_enem"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qtd escolas com enem": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "qtd escola com enem": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "qtd_escolas_com_enem": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.enem_media_praca": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "enem_media_praca"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "enem media praca": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "enem_media_praca": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.populacao_0_17": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "populacao_0_17"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "populacao 0 17": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "populacao_0_17": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.score_socioeconomico": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "score_socioeconomico"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "score socioeconomico": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "score_socioeconomico": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.percentil_socioeconomico": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "percentil_socioeconomico"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "percentil socioeconomico": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percentil_socioeconomico": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.percentil_volume_escola": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "percentil_volume_escolas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "percentil volume escola": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percentil_volume_escolas": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.percentil_qualidade_enem": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "percentil_qualidade_enem"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "percentil qualidade enem": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percentil_qualidade_enem": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.score_priorizacao": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "score_priorizacao"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "score priorizacao": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "score_priorizacao": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.nome_municipio_ibge": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "nome_municipio_ibge"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "nome municipio ibge": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "nome_municipio_ibge": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Cidade": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.uf": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "uf"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "uf": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.rank_cidade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "rank_cidade"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "rank cidade": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "rank_cidade": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi.top_10": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "14_cidades_powerbi",
+			          "ConceptualProperty": "top10"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "top 10": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "top10": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "best 10": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "first 10": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "leading 10": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "maximum 10": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "peak 10": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "upper 10": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "_medida": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.value": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "Value"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "value": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "assessment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "worth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "price": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "cost": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "charge": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "rate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "importance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        },
+			        {
+			          "significance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        },
+			        {
+			          "usefulness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        },
+			        {
+			          "consequence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.qtd_escolas": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "Qtd Escolas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qtd escolas": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.sistema_ensino_top_outro": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "sistema_ensino_top_outros"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "sistema ensino top outro": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "sistema_ensino_top_outros": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "sistema ensino best outro": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.599
+			          }
+			        },
+			        {
+			          "sistema ensino first outro": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.599
+			          }
+			        },
+			        {
+			          "sistema ensino leading outro": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.599
+			          }
+			        },
+			        {
+			          "sistema ensino maximum outro": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.599
+			          }
+			        },
+			        {
+			          "sistema ensino peak outro": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.599
+			          }
+			        },
+			        {
+			          "sistema ensino upper outro": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.599
+			          }
+			        },
+			        {
+			          "Sistema de Ensino": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.no_entidade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "NO_ENTIDADE"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "no entidade": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "NO_ENTIDADE": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "number entidade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "Escola": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.cidade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "cidade"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "cidade": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.segmento_comercial": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "segmento_comercial"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "segmento comercial": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "segmento_comercial": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Posição": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.sistema_ensino_identificado": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "sistema_ensino_identificado"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "sistema ensino identificado": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "sistema_ensino_identificado": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Sist. Ensino": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.bairro": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "bairro"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "bairro": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Bairro SP": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.longitude": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "LONGITUDE"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "longitude": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.latitude": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "LATITUDE"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "latitude": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "leeway": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "freedom": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "autonomy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "liberty": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "opportunity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "room": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "scope": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "space": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "rope": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "location": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.score_destaque": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "score_destaque"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "score destaque": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "score_destaque": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Score": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.distancia_parceiro_atual_km": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "distancia_parceiro_atual_km"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "distancia parceiro atual km": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "distancia_parceiro_atual_km": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Dist. Parceiro (km)": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.endereco_completo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "endereco_completo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "endereco completo": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "endereco_completo": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Endereço Completo": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "29 universo completo powerbi": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "29_universo_completo_powerbi": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.codigo_escola": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "codigo_escola"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "codigo escola": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "codigo_escola": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.codigo_municipio": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "codigo_municipio"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "codigo municipio": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "codigo_municipio": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.uf": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "UF"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "uf": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.produto_alvo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "produto_alvo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "produto alvo": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "produto_alvo": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.rank_municipio": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "rank_municipio"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "rank municipio": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "rank_municipio": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.n_escolas_confiaveis_municipio": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "n_escolas_confiaveis_municipio"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "n escolas confiaveis municipio": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "n escola confiaveis municipio": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "n_escolas_confiaveis_municipio": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.enem_media_geral": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "enem_media_geral"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "enem media geral": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "enem_media_geral": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.qtd_participantes_enem": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "qtd_participantes_enem"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qtd participantes enem": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "qtd participante enem": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "qtd_participantes_enem": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.qt_mat_med": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "QT_MAT_MED"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat med": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_MED": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.indice_infra": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "indice_infra"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "indice infra": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "indice_infra": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.rede_propria_poliedro": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "rede_propria_poliedro"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "rede propria poliedro": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "rede_propria_poliedro": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.ja_cliente_poliedro_qualquer_marca": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "ja_cliente_poliedro_qualquer_marca"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ja cliente poliedro qualquer marca": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "ja_cliente_poliedro_qualquer_marca": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.confianca": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "confianca"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "confianca": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.distrito": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "distrito"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "distrito": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.regiao": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "regiao"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "regiao": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Bairro / Distrito": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.chave_regiao": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "chave_regiao"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "chave regiao": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "chave_regiao": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.granularidade_geo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "granularidade_geo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "granularidade geo": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "granularidade_geo": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.cep": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "cep"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "cep": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.renda_mediana_responsavel": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "renda_mediana_responsavel"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "renda mediana responsavel": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "renda_mediana_responsavel": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.renda_categoria": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "renda_categoria"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "renda categoria": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "renda_categoria": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.score_priorizacao_cidade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "score_priorizacao_cidade"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "score priorizacao cidade": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "score_priorizacao_cidade": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.nome_parceiro_mais_proximo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "nome_parceiro_mais_proximo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "nome parceiro mais proximo": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "nome parceiro Mai proximo": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "nome_parceiro_mais_proximo": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.enem_media_geral_2024": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "enem_media_geral_2024"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "enem media geral 2024": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "enem_media_geral_2024": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.qtd_participantes_enem_2024": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "qtd_participantes_enem_2024"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qtd participantes enem 2024": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "qtd participante enem 2024": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "qtd_participantes_enem_2024": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.enem_media_2ano": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "enem_media_2anos"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "enem media 2ano": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "enem_media_2anos": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.delta_enem_2025_2024": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "delta_enem_2025_2024"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "delta enem 2025 2024": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "delta_enem_2025_2024": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.ja_cliente_poliedro_sim_nao": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "ja_cliente_poliedro_sim_nao"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ja cliente poliedro sim nao": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "ja_cliente_poliedro_sim_nao": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.faixa_rank_cidade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "faixa_rank_cidade"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "faixa rank cidade": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "faixa_rank_cidade": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi.segmento_golden_lead": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29_universo_completo_powerbi",
+			          "ConceptualProperty": "segmento_golden_lead"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "segmento golden lead": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "segmento_golden_lead": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "segmento golden principal": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "segmento golden chief": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "segmento golden main": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "segmento golden central": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "segmento golden prime": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "segmento golden top": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "segmento golden indication": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "segmento golden information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "segmento golden pointer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "segmento golden clue": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        }
+			      ]
+			    },
+			    "entity_2_9b_faixas_rank_bridge": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29b_faixas_rank_bridge"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "2 9b faixas rank bridge": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "2 9b faixa rank bridge": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "29b_faixas_rank_bridge": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "2 9b faixa rank connection": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "2 9b faixa rank conduit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "2 9b faixa rank association": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "2 9b faixa rank bond": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.504
+			          }
+			        },
+			        {
+			          "2 9b faixa rank tie": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.504
+			          }
+			        },
+			        {
+			          "2 9b faixa rank link": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.504
+			          }
+			        },
+			        {
+			          "2 9b faixa rank channel": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.504
+			          }
+			        },
+			        {
+			          "2 9b faixa rank passage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.504
+			          }
+			        },
+			        {
+			          "2 9b faixa rank join": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.504
+			          }
+			        },
+			        {
+			          "2 9b faixa rank viaduct": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.494
+			          }
+			        }
+			      ]
+			    },
+			    "entity_2_9b_faixas_rank_bridge.codigo_escola": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29b_faixas_rank_bridge",
+			          "ConceptualProperty": "codigo_escola"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "codigo escola": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "codigo_escola": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_2_9b_faixas_rank_bridge.faixa_rank_cidade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29b_faixas_rank_bridge",
+			          "ConceptualProperty": "faixa_rank_cidade"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "faixa rank cidade": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "faixa_rank_cidade": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_2_9b_faixas_rank_bridge.faixa_ordem": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29b_faixas_rank_bridge",
+			          "ConceptualProperty": "faixa_ordem"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "faixa ordem": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "faixa_ordem": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_2_9c_golden_leads_bridge": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29c_golden_leads_bridge"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "2 9c golden leads bridge": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "2 9c golden lead bridge": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "29c_golden_leads_bridge": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "2 9c golden lead connection": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "2 9c golden lead conduit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "2 9c golden lead association": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.52
+			          }
+			        },
+			        {
+			          "2 9c golden lead bond": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.504
+			          }
+			        },
+			        {
+			          "2 9c golden lead tie": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.504
+			          }
+			        },
+			        {
+			          "2 9c golden lead link": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.504
+			          }
+			        },
+			        {
+			          "2 9c golden lead channel": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.504
+			          }
+			        },
+			        {
+			          "2 9c golden lead passage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.504
+			          }
+			        },
+			        {
+			          "2 9c golden lead join": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.504
+			          }
+			        },
+			        {
+			          "2 9c golden lead viaduct": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.494
+			          }
+			        }
+			      ]
+			    },
+			    "entity_2_9c_golden_leads_bridge.codigo_escola": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29c_golden_leads_bridge",
+			          "ConceptualProperty": "codigo_escola"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "codigo escola": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "codigo_escola": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_2_9c_golden_leads_bridge.segmento_golden_lead": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29c_golden_leads_bridge",
+			          "ConceptualProperty": "segmento_golden_lead"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "segmento golden lead": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "segmento_golden_lead": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "segmento golden principal": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "segmento golden chief": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "segmento golden main": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "segmento golden central": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "segmento golden prime": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "segmento golden top": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "segmento golden indication": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "segmento golden information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "segmento golden pointer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "segmento golden clue": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        }
+			      ]
+			    },
+			    "entity_2_9c_golden_leads_bridge.segmento_ordem": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "29c_golden_leads_bridge",
+			          "ConceptualProperty": "segmento_ordem"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "segmento ordem": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "segmento_ordem": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "16 regioes sp rj com renda": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "16 regioe sp rj com renda": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "16_regioes_sp_rj_com_renda": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.cidade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "cidade"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "cidade": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.granularidade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "granularidade"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "granularidade": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.regiao": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "regiao"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "regiao": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Bairro / Distrito": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.qtd_escolas_confiaveis": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "qtd_escolas_confiaveis"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qtd escolas confiaveis": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "qtd escola confiaveis": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "qtd_escolas_confiaveis": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.qtd_participantes_enem": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "qtd_participantes_enem"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qtd participantes enem": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "qtd participante enem": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "qtd_participantes_enem": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.enem_ponderado": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "enem_ponderado"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "enem ponderado": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "enem_ponderado": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.qtd_escolas_elegiveis": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "qtd_escolas_elegiveis"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qtd escolas elegiveis": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "qtd escola elegiveis": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "qtd_escolas_elegiveis": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.amostra_significativa": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "amostra_significativa"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "amostra significativa": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "amostra_significativa": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.rank_enem_na_cidade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "rank_enem_na_cidade"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "rank enem na cidade": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "rank_enem_na_cidade": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.rank_volume_na_cidade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "rank_volume_na_cidade"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "rank volume na cidade": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "rank_volume_na_cidade": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.qtd_golden_lead": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "qtd_golden_leads"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qtd golden lead": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "qtd_golden_leads": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "qtd golden principal": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qtd golden chief": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qtd golden main": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qtd golden central": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qtd golden prime": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qtd golden top": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qtd golden indication": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "qtd golden information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "qtd golden pointer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "qtd golden clue": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        },
+			        {
+			          "Golden Leads": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.renda_media_responsavel": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "renda_media_responsavel"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "renda media responsavel": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "renda_media_responsavel": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.renda_mediana_responsavel": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "renda_mediana_responsavel"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "renda mediana responsavel": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "renda_mediana_responsavel": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.regiao_oportunidade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "regiao_oportunidade"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "regiao oportunidade": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "regiao_oportunidade": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.chave_regiao": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "chave_regiao"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "chave regiao": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "chave_regiao": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda.distancia_parceiro_mais_proximo_km": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "16_regioes_sp_rj_com_renda",
+			          "ConceptualProperty": "distancia_parceiro_mais_proximo_km"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "distancia parceiro mais proximo km": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "distancia parceiro Mai proximo km": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "distancia_parceiro_mais_proximo_km": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    }
+			  },
+			  "Relationships": {
+			    "entity_2_9b_faixas_rank_bridge_has_entity_29_universo_completo_powerbi": {
+			      "Binding": {
+			        "ConceptualEntity": "29b_faixas_rank_bridge"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_2_9b_faixas_rank_bridge": {
+			          "Target": {
+			            "Entity": "entity_2_9b_faixas_rank_bridge"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_2_9b_faixas_rank_bridge"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing2_9b_faixas_rank_bridges_have_29_universo_completo_powerbis"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_2_9b_faixas_rank_bridge"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_2_9b_faixas_rank_bridges"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_entity_16_regioes_sp_rj_com_renda": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_16_regioes_sp_rj_com_rendas"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_29_universo_completo_powerbis"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_entity_14_cidades_powerbi": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_14_cidades_powerbis"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_29_universo_completo_powerbis"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_distancia_parceiro_mais_proximo_km": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.distancia_parceiro_mais_proximo_km": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.distancia_parceiro_mais_proximo_km"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.distancia_parceiro_mais_proximo_km"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_distancia_parceiro_mais_proximo_km"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_chave_regiao": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.chave_regiao": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.chave_regiao"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.chave_regiao"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_chave_regiaos"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_regiao_oportunidade": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.regiao_oportunidade": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.regiao_oportunidade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.regiao_oportunidade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_regiao_oportunidades"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_renda_mediana_responsavel": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.renda_mediana_responsavel": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.renda_mediana_responsavel"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.renda_mediana_responsavel"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_renda_mediana_responsavels"
+			        },
+			        {
+			          "Adjective": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Adjectives": [
+			              {
+			                "expensive": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Antonyms": [
+			              {
+			                "cheap": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Measurement": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.renda_mediana_responsavel"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "renda_mediana_responsavel_indicates_how_expensive_16_regioes_sp_rj_com_rendas_are"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_renda_media_responsavel": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.renda_media_responsavel": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.renda_media_responsavel"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.renda_media_responsavel"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_renda_media_responsavels"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_qtd_golden_lead": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.qtd_golden_lead": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.qtd_golden_lead"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.qtd_golden_lead"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_qtd_golden_leads"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_rank_volume_na_cidade": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.rank_volume_na_cidade": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.rank_volume_na_cidade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.rank_volume_na_cidade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_rank_volume_na_cidades"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_rank_enem_na_cidade": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.rank_enem_na_cidade": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.rank_enem_na_cidade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.rank_enem_na_cidade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_rank_enem_na_cidades"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_amostra_significativa": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.amostra_significativa": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.amostra_significativa"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.amostra_significativa"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_amostra_significativas"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_qtd_escolas_elegiveis": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.qtd_escolas_elegiveis": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.qtd_escolas_elegiveis"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.qtd_escolas_elegiveis"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_qtd_escolas_elegiveises"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_enem_ponderado": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.enem_ponderado": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.enem_ponderado"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.enem_ponderado"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_enem_ponderados"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_qtd_participantes_enem": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.qtd_participantes_enem": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.qtd_participantes_enem"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.qtd_participantes_enem"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_qtd_participantes_enems"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_qtd_escolas_confiaveis": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.qtd_escolas_confiaveis": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.qtd_escolas_confiaveis"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.qtd_escolas_confiaveis"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_qtd_escolas_confiaveises"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_regiao": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.regiao": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.regiao"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.regiao"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_regiaos"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_granularidade": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.granularidade": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.granularidade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.granularidade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_granularidades"
+			        }
+			      ]
+			    },
+			    "entity_16_regioes_sp_rj_com_renda_has_cidade": {
+			      "Binding": {
+			        "ConceptualEntity": "16_regioes_sp_rj_com_renda"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_16_regioes_sp_rj_com_renda": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda"
+			          }
+			        },
+			        "entity_16_regioes_sp_rj_com_renda.cidade": {
+			          "Target": {
+			            "Entity": "entity_16_regioes_sp_rj_com_renda.cidade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda"
+			            },
+			            "Object": {
+			              "Role": "entity_16_regioes_sp_rj_com_renda.cidade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing16_regioes_sp_rj_com_rendas_have_cidades"
+			        }
+			      ]
+			    },
+			    "entity_2_9c_golden_leads_bridge_has_segmento_ordem": {
+			      "Binding": {
+			        "ConceptualEntity": "29c_golden_leads_bridge"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_2_9c_golden_leads_bridge": {
+			          "Target": {
+			            "Entity": "entity_2_9c_golden_leads_bridge"
+			          }
+			        },
+			        "entity_2_9c_golden_leads_bridge.segmento_ordem": {
+			          "Target": {
+			            "Entity": "entity_2_9c_golden_leads_bridge.segmento_ordem"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_2_9c_golden_leads_bridge"
+			            },
+			            "Object": {
+			              "Role": "entity_2_9c_golden_leads_bridge.segmento_ordem"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing2_9c_golden_leads_bridges_have_segmento_ordems"
+			        }
+			      ]
+			    },
+			    "entity_2_9c_golden_leads_bridge_has_segmento_golden_lead": {
+			      "Binding": {
+			        "ConceptualEntity": "29c_golden_leads_bridge"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_2_9c_golden_leads_bridge": {
+			          "Target": {
+			            "Entity": "entity_2_9c_golden_leads_bridge"
+			          }
+			        },
+			        "entity_2_9c_golden_leads_bridge.segmento_golden_lead": {
+			          "Target": {
+			            "Entity": "entity_2_9c_golden_leads_bridge.segmento_golden_lead"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_2_9c_golden_leads_bridge"
+			            },
+			            "Object": {
+			              "Role": "entity_2_9c_golden_leads_bridge.segmento_golden_lead"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing2_9c_golden_leads_bridges_have_segmento_golden_leads"
+			        }
+			      ]
+			    },
+			    "entity_2_9b_faixas_rank_bridge_has_faixa_ordem": {
+			      "Binding": {
+			        "ConceptualEntity": "29b_faixas_rank_bridge"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_2_9b_faixas_rank_bridge": {
+			          "Target": {
+			            "Entity": "entity_2_9b_faixas_rank_bridge"
+			          }
+			        },
+			        "entity_2_9b_faixas_rank_bridge.faixa_ordem": {
+			          "Target": {
+			            "Entity": "entity_2_9b_faixas_rank_bridge.faixa_ordem"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_2_9b_faixas_rank_bridge"
+			            },
+			            "Object": {
+			              "Role": "entity_2_9b_faixas_rank_bridge.faixa_ordem"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing2_9b_faixas_rank_bridges_have_faixa_ordems"
+			        }
+			      ]
+			    },
+			    "entity_2_9b_faixas_rank_bridge_has_faixa_rank_cidade": {
+			      "Binding": {
+			        "ConceptualEntity": "29b_faixas_rank_bridge"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_2_9b_faixas_rank_bridge": {
+			          "Target": {
+			            "Entity": "entity_2_9b_faixas_rank_bridge"
+			          }
+			        },
+			        "entity_2_9b_faixas_rank_bridge.faixa_rank_cidade": {
+			          "Target": {
+			            "Entity": "entity_2_9b_faixas_rank_bridge.faixa_rank_cidade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_2_9b_faixas_rank_bridge"
+			            },
+			            "Object": {
+			              "Role": "entity_2_9b_faixas_rank_bridge.faixa_rank_cidade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing2_9b_faixas_rank_bridges_have_faixa_rank_cidades"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_segmento_golden_lead": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.segmento_golden_lead": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.segmento_golden_lead"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.segmento_golden_lead"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_segmento_golden_leads"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_faixa_rank_cidade": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.faixa_rank_cidade": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.faixa_rank_cidade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.faixa_rank_cidade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_faixa_rank_cidades"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_ja_cliente_poliedro_sim_nao": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.ja_cliente_poliedro_sim_nao": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.ja_cliente_poliedro_sim_nao"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.ja_cliente_poliedro_sim_nao"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_ja_cliente_poliedro_sim_naos"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_delta_enem_2025_2024": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.delta_enem_2025_2024": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.delta_enem_2025_2024"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.delta_enem_2025_2024"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_delta_enem_2025_2024"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_enem_media_2ano": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.enem_media_2ano": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.enem_media_2ano"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.enem_media_2ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_enem_media_2anos"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_qtd_participantes_enem_2024": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.qtd_participantes_enem_2024": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.qtd_participantes_enem_2024"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.qtd_participantes_enem_2024"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_qtd_participantes_enem_2024"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_enem_media_geral_2024": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.enem_media_geral_2024": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.enem_media_geral_2024"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.enem_media_geral_2024"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_enem_media_geral_2024"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_nome_parceiro_mais_proximo": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.nome_parceiro_mais_proximo": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.nome_parceiro_mais_proximo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.nome_parceiro_mais_proximo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_nome_parceiro_mais_proximos"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_score_priorizacao_cidade": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.score_priorizacao_cidade": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.score_priorizacao_cidade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.score_priorizacao_cidade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_score_priorizacao_cidades"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_renda_categoria": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.renda_categoria": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.renda_categoria"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.renda_categoria"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_renda_categorias"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_renda_mediana_responsavel": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.renda_mediana_responsavel": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.renda_mediana_responsavel"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.renda_mediana_responsavel"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_renda_mediana_responsavels"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_cep": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.cep": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.cep"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.cep"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_ceps"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_granularidade_geo": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.granularidade_geo": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.granularidade_geo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.granularidade_geo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_granularidade_geos"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_regiao": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.regiao": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.regiao"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.regiao"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_regiaos"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_distrito": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.distrito": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.distrito"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.distrito"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_distrito"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_confianca": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.confianca": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.confianca"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.confianca"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_confiancas"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_ja_cliente_poliedro_qualquer_marca": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.ja_cliente_poliedro_qualquer_marca": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.ja_cliente_poliedro_qualquer_marca"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.ja_cliente_poliedro_qualquer_marca"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_ja_cliente_poliedro_qualquer_marcas"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_rede_propria_poliedro": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.rede_propria_poliedro": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.rede_propria_poliedro"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.rede_propria_poliedro"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_rede_propria_poliedros"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_indice_infra": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.indice_infra": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.indice_infra"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.indice_infra"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_indice_infra"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_qt_mat_med": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.qt_mat_med": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.qt_mat_med"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.qt_mat_med"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_qt_mat_meds"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_qtd_participantes_enem": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.qtd_participantes_enem": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.qtd_participantes_enem"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.qtd_participantes_enem"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_qtd_participantes_enems"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_enem_media_geral": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.enem_media_geral": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.enem_media_geral"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.enem_media_geral"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_enem_media_gerals"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_n_escolas_confiaveis_municipio": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.n_escolas_confiaveis_municipio": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.n_escolas_confiaveis_municipio"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.n_escolas_confiaveis_municipio"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_n_escolas_confiaveis_municipios"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_rank_municipio": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.rank_municipio": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.rank_municipio"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.rank_municipio"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_rank_municipios"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_produto_alvo": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.produto_alvo": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.produto_alvo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.produto_alvo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_produto_alvos"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_uf": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.uf": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.uf"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.uf"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_ufs"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_codigo_escola": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.codigo_escola": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.codigo_escola"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.codigo_escola"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_codigo_escolas"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_endereco_completo": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.endereco_completo": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.endereco_completo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.endereco_completo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_endereco_completos"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_distancia_parceiro_atual_km": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.distancia_parceiro_atual_km": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.distancia_parceiro_atual_km"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.distancia_parceiro_atual_km"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_distancia_parceiro_atual_km"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_score_destaque": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.score_destaque": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.score_destaque"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.score_destaque"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_score_destaques"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_latitude": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.latitude": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.latitude"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.latitude"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_latitudes"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_longitude": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.longitude": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.longitude"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.longitude"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_longitudes"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_bairro": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.bairro": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.bairro"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.bairro"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_bairros"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_sistema_ensino_identificado": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.sistema_ensino_identificado": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.sistema_ensino_identificado"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.sistema_ensino_identificado"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_sistema_ensino_identificados"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_segmento_comercial": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.segmento_comercial": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.segmento_comercial"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.segmento_comercial"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_segmento_comercials"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_cidade": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.cidade": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.cidade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.cidade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_cidades"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_no_entidade": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.no_entidade": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.no_entidade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.no_entidade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_no_entidades"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_sistema_ensino_top_outro": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi.sistema_ensino_top_outro": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi.sistema_ensino_top_outro"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi.sistema_ensino_top_outro"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_sistema_ensino_top_outros"
+			        }
+			      ]
+			    },
+			    "entity_29_universo_completo_powerbi_has_entity__medida_qtd_escolas": {
+			      "Binding": {
+			        "ConceptualEntity": "29_universo_completo_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        },
+			        "entity__medida.qtd_escolas": {
+			          "Target": {
+			            "Entity": "entity__medida.qtd_escolas"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.qtd_escolas"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_qtd_escolas"
+			        }
+			      ]
+			    },
+			    "entity__medida_has_value": {
+			      "Binding": {
+			        "ConceptualEntity": "_Medidas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity__medida": {
+			          "Target": {
+			            "Entity": "entity__medida"
+			          }
+			        },
+			        "entity__medida.value": {
+			          "Target": {
+			            "Entity": "entity__medida.value"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity__medida"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.value"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing_medidas_have_values"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_top_10": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.top_10": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.top_10"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.top_10"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_top_10"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_rank_cidade": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.rank_cidade": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.rank_cidade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.rank_cidade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_rank_cidades"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_uf": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.uf": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.uf"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.uf"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_ufs"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_nome_municipio_ibge": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.nome_municipio_ibge": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.nome_municipio_ibge"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.nome_municipio_ibge"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_nome_municipio_ibges"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_score_priorizacao": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.score_priorizacao": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.score_priorizacao"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.score_priorizacao"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_score_priorizacaos"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_percentil_qualidade_enem": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.percentil_qualidade_enem": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.percentil_qualidade_enem"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.percentil_qualidade_enem"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_percentil_qualidade_enems"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_percentil_volume_escola": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.percentil_volume_escola": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.percentil_volume_escola"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.percentil_volume_escola"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_percentil_volume_escolas"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_percentil_socioeconomico": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.percentil_socioeconomico": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.percentil_socioeconomico"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.percentil_socioeconomico"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_percentil_socioeconomicos"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_score_socioeconomico": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.score_socioeconomico": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.score_socioeconomico"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.score_socioeconomico"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_score_socioeconomicos"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_populacao_0_17": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.populacao_0_17": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.populacao_0_17"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.populacao_0_17"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_populacao_0_17"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_enem_media_praca": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.enem_media_praca": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.enem_media_praca"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.enem_media_praca"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_enem_media_pracas"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_qtd_escolas_com_enem": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.qtd_escolas_com_enem": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.qtd_escolas_com_enem"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.qtd_escolas_com_enem"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_qtd_escolas_com_enems"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_qtd_escolas_elegiveis": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.qtd_escolas_elegiveis": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.qtd_escolas_elegiveis"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.qtd_escolas_elegiveis"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_qtd_escolas_elegiveises"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_populacao_total": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.populacao_total": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.populacao_total"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.populacao_total"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_populacao_totals"
+			        }
+			      ]
+			    },
+			    "entity_14_cidades_powerbi_has_codigo_municipio": {
+			      "Binding": {
+			        "ConceptualEntity": "14_cidades_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_14_cidades_powerbi": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi"
+			          }
+			        },
+			        "entity_14_cidades_powerbi.codigo_municipio": {
+			          "Target": {
+			            "Entity": "entity_14_cidades_powerbi.codigo_municipio"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_14_cidades_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_14_cidades_powerbi.codigo_municipio"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing14_cidades_powerbis_have_codigo_municipios"
+			        }
+			      ]
+			    },
+			    "entity_2_9c_golden_leads_bridge_has_entity_29_universo_completo_powerbi": {
+			      "Binding": {
+			        "ConceptualEntity": "29c_golden_leads_bridge"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "entity_2_9c_golden_leads_bridge": {
+			          "Target": {
+			            "Entity": "entity_2_9c_golden_leads_bridge"
+			          }
+			        },
+			        "entity_29_universo_completo_powerbi": {
+			          "Target": {
+			            "Entity": "entity_29_universo_completo_powerbi"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_2_9c_golden_leads_bridge"
+			            },
+			            "Object": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing2_9c_golden_leads_bridges_have_29_universo_completo_powerbis"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "entity_29_universo_completo_powerbi"
+			            },
+			            "Object": {
+			              "Role": "entity_2_9c_golden_leads_bridge"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing29_universo_completo_powerbis_have_2_9c_golden_leads_bridges"
+			        }
+			      ]
+			    }
+			  },
+			  "Agents": {
+			    "Internal": {
+			      "Version": "1.1.0"
+			    }
+			  }
+			}
+		contentType: json
+

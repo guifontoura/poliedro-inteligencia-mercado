@@ -1,0 +1,9 @@
+{
+  "codigo_escola": "43216471",
+  "NO_ENTIDADE": "UNIDADE DE ENSINO COLEGIO SINODAL PRADO GRAVATAI",
+  "cidade": "Gravataí",
+  "query": "\"UNIDADE DE ENSINO COLEGIO SINODAL PRADO GRAVATAI\" \"Gravataí\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "erro": "ProxyError: 403 Forbidden"
+  }
+}

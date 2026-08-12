@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "poliedro-mapeamento"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "224f96f1-d940-44da-90cc-4365311904f4"
+  }
+}

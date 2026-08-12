@@ -1,0 +1,371 @@
+table 29_universo_completo_powerbi
+	lineageTag: 5d804c27-3a9c-40ff-835a-d625b03120f9
+
+	column codigo_escola
+		dataType: int64
+		formatString: 0
+		lineageTag: afa251bc-98ca-45ab-8452-ae4ae26f9b39
+		summarizeBy: none
+		sourceColumn: codigo_escola
+
+		annotation SummarizationSetBy = Automatic
+
+	column NO_ENTIDADE
+		dataType: string
+		lineageTag: 4ddb4e75-2ae0-49f2-951a-99646c27041b
+		summarizeBy: none
+		sourceColumn: NO_ENTIDADE
+
+		annotation SummarizationSetBy = Automatic
+
+	column codigo_municipio
+		dataType: int64
+		formatString: 0
+		lineageTag: 6aafe944-5d8c-4a33-b321-e751e564c671
+		summarizeBy: none
+		sourceColumn: codigo_municipio
+
+		annotation SummarizationSetBy = Automatic
+
+	column cidade
+		dataType: string
+		lineageTag: 906db25d-68b3-45d1-bd5d-da7a0f5621ad
+		summarizeBy: none
+		sourceColumn: cidade
+
+		annotation SummarizationSetBy = Automatic
+
+	column UF
+		dataType: string
+		lineageTag: d0ad2890-534c-4012-8511-3d8126c38a7c
+		summarizeBy: none
+		sourceColumn: UF
+
+		annotation SummarizationSetBy = Automatic
+
+	column segmento_comercial
+		dataType: string
+		lineageTag: c6d65309-d2d9-4716-8d60-ae4e45f3fd72
+		summarizeBy: none
+		sourceColumn: segmento_comercial
+
+		annotation SummarizationSetBy = Automatic
+
+	column produto_alvo
+		dataType: string
+		lineageTag: 3a096c9b-49bf-4aa7-b5ee-2a9bfbbd14d4
+		summarizeBy: none
+		sourceColumn: produto_alvo
+
+		annotation SummarizationSetBy = Automatic
+
+	column rank_municipio
+		dataType: int64
+		formatString: 0
+		lineageTag: 00a18941-d8e2-4e58-9696-3f1ffdfa5eba
+		summarizeBy: sum
+		sourceColumn: rank_municipio
+
+		annotation SummarizationSetBy = Automatic
+
+	column n_escolas_confiaveis_municipio
+		dataType: int64
+		formatString: 0
+		lineageTag: a7ab9769-3037-4e72-baa2-fa9e8637ab2d
+		summarizeBy: sum
+		sourceColumn: n_escolas_confiaveis_municipio
+
+		annotation SummarizationSetBy = Automatic
+
+	column score_destaque
+		dataType: double
+		lineageTag: 37addb29-3d41-4ec8-bbca-49f0d31df2eb
+		summarizeBy: sum
+		sourceColumn: score_destaque
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column enem_media_geral
+		dataType: double
+		lineageTag: 1c7a8c95-462f-4202-90ea-7aebec5745d1
+		summarizeBy: sum
+		sourceColumn: enem_media_geral
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column qtd_participantes_enem
+		dataType: int64
+		formatString: 0
+		lineageTag: ab6601a3-a9cd-42c9-818f-375b30e6ea88
+		summarizeBy: sum
+		sourceColumn: qtd_participantes_enem
+
+		annotation SummarizationSetBy = Automatic
+
+	column QT_MAT_MED
+		dataType: int64
+		formatString: 0
+		lineageTag: bcdd395f-24db-4874-acfb-a74cbfcdff8d
+		summarizeBy: sum
+		sourceColumn: QT_MAT_MED
+
+		annotation SummarizationSetBy = Automatic
+
+	column indice_infra
+		dataType: int64
+		formatString: 0
+		lineageTag: 05dfd9a2-9200-44ab-82d7-c5cec0b3b5bc
+		summarizeBy: sum
+		sourceColumn: indice_infra
+
+		annotation SummarizationSetBy = Automatic
+
+	column rede_propria_poliedro
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 2cf376ca-11cd-4f6a-ac75-9efdb0dac95c
+		summarizeBy: none
+		sourceColumn: rede_propria_poliedro
+
+		annotation SummarizationSetBy = Automatic
+
+	column ja_cliente_poliedro_qualquer_marca
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 4e527064-b8d8-4b29-b1e3-2d91d62e230e
+		summarizeBy: none
+		sourceColumn: ja_cliente_poliedro_qualquer_marca
+
+		annotation SummarizationSetBy = Automatic
+
+	column sistema_ensino_identificado
+		dataType: string
+		lineageTag: aa9730d8-1f7c-48d1-ab4d-2ef1ce5dd67b
+		summarizeBy: none
+		sourceColumn: sistema_ensino_identificado
+
+		annotation SummarizationSetBy = Automatic
+
+	column confianca
+		dataType: string
+		lineageTag: de9bf23d-016c-4e9b-8fb7-26e850723a05
+		summarizeBy: none
+		sourceColumn: confianca
+
+		annotation SummarizationSetBy = Automatic
+
+	column bairro
+		dataType: string
+		lineageTag: f7e52370-3370-4b05-9bf6-d090f84ec26a
+		summarizeBy: none
+		sourceColumn: bairro
+
+		annotation SummarizationSetBy = Automatic
+
+	column distrito
+		dataType: string
+		lineageTag: 97abe7d1-84b8-45f1-8238-871219c825a7
+		summarizeBy: none
+		sourceColumn: distrito
+
+		annotation SummarizationSetBy = Automatic
+
+	column regiao
+		dataType: string
+		lineageTag: 71eeb0f5-96b8-4430-a1cc-5ddf781fc099
+		summarizeBy: none
+		sourceColumn: regiao
+
+		annotation SummarizationSetBy = Automatic
+
+	column chave_regiao
+		dataType: string
+		lineageTag: b8969612-87cd-4a3e-8419-82a99b49f064
+		summarizeBy: none
+		sourceColumn: chave_regiao
+
+		annotation SummarizationSetBy = Automatic
+
+	column granularidade_geo
+		dataType: string
+		lineageTag: 8ada39fe-ac3b-4db0-8a41-4eebad8558e3
+		summarizeBy: none
+		sourceColumn: granularidade_geo
+
+		annotation SummarizationSetBy = Automatic
+
+	column LATITUDE
+		dataType: double
+		lineageTag: 67027a3c-85a5-479d-9f7d-156f4c7e6f40
+		summarizeBy: sum
+		sourceColumn: LATITUDE
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column LONGITUDE
+		dataType: double
+		lineageTag: e157fc1e-938e-4dc2-900c-b056a52c98ef
+		summarizeBy: sum
+		sourceColumn: LONGITUDE
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column cep
+		dataType: int64
+		formatString: 0
+		lineageTag: a519707e-c0e0-4814-954d-25b1829b45b4
+		summarizeBy: sum
+		sourceColumn: cep
+
+		annotation SummarizationSetBy = Automatic
+
+	column endereco_completo
+		dataType: string
+		lineageTag: 30692255-ddcb-49f3-9239-a93907b1cc48
+		summarizeBy: none
+		sourceColumn: endereco_completo
+
+		annotation SummarizationSetBy = Automatic
+
+	column renda_mediana_responsavel
+		dataType: double
+		lineageTag: 7cf69f93-343b-4eb4-8a38-0e527902f678
+		summarizeBy: sum
+		sourceColumn: renda_mediana_responsavel
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column renda_categoria
+		dataType: string
+		lineageTag: 089582de-991d-4b0a-a8d6-d993fd44078e
+		summarizeBy: none
+		sourceColumn: renda_categoria
+
+		annotation SummarizationSetBy = Automatic
+
+	column score_priorizacao_cidade
+		dataType: double
+		lineageTag: e31c2a01-5704-4dec-933d-44c05a6097ce
+		summarizeBy: sum
+		sourceColumn: score_priorizacao_cidade
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column distancia_parceiro_atual_km
+		dataType: double
+		lineageTag: 5ae088d6-e450-4820-968a-0ec5ad877225
+		summarizeBy: sum
+		sourceColumn: distancia_parceiro_atual_km
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column nome_parceiro_mais_proximo
+		dataType: string
+		lineageTag: 9316c3a5-18cb-4726-b324-a08324ec9feb
+		summarizeBy: none
+		sourceColumn: nome_parceiro_mais_proximo
+
+		annotation SummarizationSetBy = Automatic
+
+	column enem_media_geral_2024
+		dataType: double
+		lineageTag: 5587506a-4dab-44dc-9a64-91e057433590
+		summarizeBy: sum
+		sourceColumn: enem_media_geral_2024
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column qtd_participantes_enem_2024
+		dataType: int64
+		formatString: 0
+		lineageTag: 60a9adbf-2694-45ce-a2b5-0bf3f81ae110
+		summarizeBy: sum
+		sourceColumn: qtd_participantes_enem_2024
+
+		annotation SummarizationSetBy = Automatic
+
+	column enem_media_2anos
+		dataType: double
+		lineageTag: e76eb7b1-fb11-44c4-a443-93f26328bee1
+		summarizeBy: sum
+		sourceColumn: enem_media_2anos
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column delta_enem_2025_2024
+		dataType: double
+		lineageTag: 12441220-08a4-4bbb-ae2f-ce8ba72aeedb
+		summarizeBy: sum
+		sourceColumn: delta_enem_2025_2024
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column sistema_ensino_top_outros
+		dataType: string
+		lineageTag: 85b3c415-3620-4601-935e-a314c4d7515e
+		summarizeBy: none
+		sourceColumn: sistema_ensino_top_outros
+
+		annotation SummarizationSetBy = Automatic
+
+	column ja_cliente_poliedro_sim_nao
+		dataType: string
+		lineageTag: 37a3e3d3-b029-4843-bf46-a605c5d3a92d
+		summarizeBy: none
+		sourceColumn: ja_cliente_poliedro_sim_nao
+
+		changedProperty = SortByColumn
+
+		annotation SummarizationSetBy = Automatic
+
+	column faixa_rank_cidade
+		dataType: string
+		lineageTag: 2218669a-dfb4-4312-b2f6-ae1d18b37ac8
+		summarizeBy: none
+		sourceColumn: faixa_rank_cidade
+
+		annotation SummarizationSetBy = Automatic
+
+	column segmento_golden_lead
+		dataType: string
+		lineageTag: 855bdbe1-88f1-4539-832e-bbf5a0638a45
+		summarizeBy: none
+		sourceColumn: segmento_golden_lead
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 29_universo_completo_powerbi = m
+		mode: import
+		source =
+				let
+				    Fonte = Csv.Document(File.Contents("C:\Users\guilh\PycharmProjects\Mapeamento_Escolas\data\outputs\29_universo_completo_powerbi.csv"),[Delimiter=";", Columns=40, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Cabeçalhos Promovidos" = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+				    #"Tipo Alterado" = Table.TransformColumnTypes(#"Cabeçalhos Promovidos",{{"codigo_escola", Int64.Type}, {"NO_ENTIDADE", type text}, {"codigo_municipio", Int64.Type}, {"cidade", type text}, {"UF", type text}, {"segmento_comercial", type text}, {"produto_alvo", type text}, {"rank_municipio", Int64.Type}, {"n_escolas_confiaveis_municipio", Int64.Type}, {"score_destaque", type number}, {"enem_media_geral", type number}, {"qtd_participantes_enem", Int64.Type}, {"QT_MAT_MED", Int64.Type}, {"indice_infra", Int64.Type}, {"rede_propria_poliedro", type logical}, {"ja_cliente_poliedro_qualquer_marca", type logical}, {"sistema_ensino_identificado", type text}, {"confianca", type text}, {"bairro", type text}, {"distrito", type text}, {"regiao", type text}, {"chave_regiao", type text}, {"granularidade_geo", type text}, {"LATITUDE", type number}, {"LONGITUDE", type number}, {"cep", Int64.Type}, {"endereco_completo", type text}, {"renda_mediana_responsavel", type number}, {"renda_categoria", type text}, {"score_priorizacao_cidade", type number}, {"distancia_parceiro_atual_km", type number}, {"nome_parceiro_mais_proximo", type text}, {"enem_media_geral_2024", type number}, {"qtd_participantes_enem_2024", Int64.Type}, {"enem_media_2anos", type number}, {"delta_enem_2025_2024", type number}, {"sistema_ensino_top_outros", type text}, {"ja_cliente_poliedro_sim_nao", type text}, {"faixa_rank_cidade", type text}, {"segmento_golden_lead", type text}}),
+				    #"Colocar Cada Palavra Em Maiúscula" = Table.TransformColumns(#"Tipo Alterado",{{"NO_ENTIDADE", Text.Proper, type text}, {"bairro", Text.Proper, type text}, {"regiao", Text.Proper, type text}, {"endereco_completo", Text.Proper, type text}})
+				in
+				    #"Colocar Cada Palavra Em Maiúscula"
+
+	annotation PBI_NavigationStepName = Navegação
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,100 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "14_cidades_powerbi",
+          "nodeLineageTag": "52840c65-f306-4d5c-a8bf-2a67f6f11350",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 72.861738433986943,
+            "y": 550.50252871380269
+          },
+          "nodeIndex": "_Medidas",
+          "nodeLineageTag": "27a80ad7-05af-4b07-ba05-879b06b3d196",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 427.84487403910214,
+            "y": 467.79679065964967
+          },
+          "nodeIndex": "29_universo_completo_powerbi",
+          "nodeLineageTag": "5d804c27-3a9c-40ff-835a-d625b03120f9",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 661.28163728543484,
+            "y": 12.462905894694075
+          },
+          "nodeIndex": "29b_faixas_rank_bridge",
+          "nodeLineageTag": "9f8ebc51-6204-45e7-a792-e1644e133033",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 675.084334855417,
+            "y": 247.89797702895788
+          },
+          "nodeIndex": "29c_golden_leads_bridge",
+          "nodeLineageTag": "ebc7ccd6-7f88-4ec9-b321-e2f2f5beb403",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 842.1568498625611,
+            "y": 474.073769909745
+          },
+          "nodeIndex": "16_regioes_sp_rj_com_renda",
+          "nodeLineageTag": "a28e757b-17ec-4405-8ef5-e35c03b38af1",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 63.287087723234038,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}

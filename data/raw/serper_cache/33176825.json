@@ -1,0 +1,9 @@
+{
+  "codigo_escola": "33176825",
+  "NO_ENTIDADE": "COLEGIO SANTO AGOSTINHO - UNIDADE INSTITUTO CULTURAL SANTO AGOSTINHO",
+  "cidade": "Rio de Janeiro",
+  "query": "\"COLEGIO SANTO AGOSTINHO - UNIDADE INSTITUTO CULTURAL SANTO AGOSTINHO\" \"Rio de Janeiro\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "erro": "ProxyError: 403 Forbidden"
+  }
+}

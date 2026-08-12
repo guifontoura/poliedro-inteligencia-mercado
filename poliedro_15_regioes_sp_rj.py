@@ -29,9 +29,20 @@ demais, sem força administrativa). RA é o equivalente oficial ao distrito de
 São Paulo (citação da Wikipédia: "o que equivale aos distritos de São
 Paulo") — 33 no total, mesma ordem de grandeza dos 88 distritos de SP.
 Tabela bairro→RA vinda da Wikipédia ("Regiões administrativas da cidade do
-Rio de Janeiro", fonte oficial: Prefeitura/IPP). Cada linha do CSV de saída
-tem uma coluna `granularidade` avisando qual unidade está sendo usada
-(distrito em SP, regiao_administrativa no RJ).
+Rio de Janeiro", fonte oficial: Prefeitura/IPP).
+
+Revisão 28/07 (Gui, depois do teste bairro x distrito em SP que manteve
+distrito lá): RJ passa a usar BAIRRO direto, não mais RA. Motivo: RA é
+grosseira demais no RJ — a Zona Sul inteira cai em poucas RAs (Botafogo,
+Copacabana, Lagoa), escondendo diferença de renda relevante dentro delas
+(Leblon e Ipanema ficam juntos com Gávea e São Conrado na mesma RA "Lagoa",
+apesar do gradiente de renda real entre eles). O Censo Escolar já traz bairro
+nativo com boa cobertura, então a granularidade fina fica melhor aproveitada
+indo direto ao bairro, com as correções de grafia já mapeadas em
+`CORRECOES_BAIRRO_RJ`. `RA_POR_BAIRRO_RJ` fica mantido no arquivo só como
+referência histórica — não é mais usado pra agregar região. Cada linha do
+CSV de saída tem uma coluna `granularidade` avisando qual unidade está sendo
+usada (distrito em SP, bairro no RJ).
 
 Limitação importante (documentada, não escondida): o score_priorizacao da
 Parte 1 usa 3 componentes (40% renda, 30% volume, 30% ENEM). Aqui só
@@ -56,6 +67,8 @@ from pathlib import Path
 
 import pandas as pd
 
+from poliedro_14_consolidar_dataset_powerbi import CORRECOES_BAIRRO_RJ
+
 RAW_DIR = Path("data/raw")
 OUT_DIR = Path("data/outputs")
 
@@ -71,34 +84,12 @@ def _sem_acento(texto) -> str:
         return texto
     return unicodedata.normalize("NFKD", str(texto)).encode("ascii", "ignore").decode("ascii").strip().upper()
 
-# Correções de nome de bairro no RJ (24/07, achado ao cruzar com renda IBGE
-# no passo 16): NO_BAIRRO é auto-declarado por cada escola no Censo, então o
-# MESMO bairro real aparece grafado de formas diferentes — fragmentando o
-# agrupamento por região (ex.: 4 escolas em "RECREIO DOS BANDEIRANTES" e 1
-# em "RECREIO" viravam 2 linhas separadas). Corrigido caso a caso, com fonte:
-#   - RECREIO -> RECREIO DOS BANDEIRANTES (nome oficial, é o mesmo bairro)
-#   - IRAJA / IRAJ -> IRAJÁ (sem acento / truncado no Censo)
-#   - BARRA OLIMPICA / BARRA OLÍMPICA -> BARRA DA TIJUCA ("Barra Olímpica"
-#     não é bairro oficial do IBGE, é nome popular de uma região dentro de
-#     Barra da Tijuca — confirmado: não existe na lista de bairros do IBGE)
-#   - FREGUESIA (JACAREPAGUA) -> FREGUESIA (JACAREPAGUÁ) (sem acento)
-#   - FREGUESIA JACAREPAGU -> FREGUESIA (JACAREPAGUÁ) (truncado no Censo)
-#   - FREGUESIA (bare, sem qualificador) -> FREGUESIA (JACAREPAGUÁ):
-#     ASSUNÇÃO documentada, não confirmada — existem duas Freguesias no Rio
-#     (Jacarepaguá e Ilha do Governador), e o Censo já tem "FREGUESIA (ILHA
-#     DO GOVERNADOR)" como valor próprio quando é essa; assumimos que a
-#     forma bare se refere à de Jacarepaguá (a mais populosa/mais citada).
-#     Afeta só 5 das 465 escolas do RJ — baixo risco, mas fica registrado.
-CORRECOES_BAIRRO_RJ = {
-    "RECREIO": "RECREIO DOS BANDEIRANTES",
-    "IRAJA": "IRAJÁ",
-    "IRAJ": "IRAJÁ",
-    "BARRA OLIMPICA": "BARRA DA TIJUCA",
-    "BARRA OLÍMPICA": "BARRA DA TIJUCA",
-    "FREGUESIA (JACAREPAGUA)": "FREGUESIA (JACAREPAGUÁ)",
-    "FREGUESIA JACAREPAGU": "FREGUESIA (JACAREPAGUÁ)",
-    "FREGUESIA": "FREGUESIA (JACAREPAGUÁ)",
-}
+# Correções de nome de bairro no RJ: NO_BAIRRO é auto-declarado por cada
+# escola no Censo, então o MESMO bairro real aparece grafado de formas
+# diferentes, fragmentando o agrupamento por região. CORRECOES_BAIRRO_RJ
+# agora mora em poliedro_14_consolidar_dataset_powerbi.py (cópia única,
+# importada aqui) — ver lá pro raciocínio completo de cada entrada, incluindo
+# o achado de 04/08 (MEIER/MARACANA/PRACA SECA/JACAREPAGUA sem acento).
 
 # Revisão 24/07 (Gui: "no RJ só temos bairro, acha mais eficiente juntar em
 # zonas maiores?"): SIM, mas Região Administrativa (RA) oficial da Prefeitura
@@ -197,17 +188,12 @@ def carregar_escolas_sp_rj() -> pd.DataFrame:
     # "Rio de Janeiro", 1 valor só) — o campo simplesmente não é subdividido
     # ali no Censo. Em São Paulo, NO_DISTRITO é real (88 distritos
     # distintos). Então usamos uma unidade de agregação por cidade: distrito
-    # pra São Paulo, bairro pra Rio de Janeiro — e marcamos qual é qual numa
-    # coluna própria, pra não escondermos a diferença de fonte.
-    end["granularidade"] = end["cidade"].map({"São Paulo": "distrito", "Rio de Janeiro": "regiao_administrativa"})
+    # pra São Paulo, bairro pra Rio de Janeiro (revisão 28/07, ver docstring)
+    # — e marcamos qual é qual numa coluna própria, pra não escondermos a
+    # diferença de fonte.
+    end["granularidade"] = end["cidade"].map({"São Paulo": "distrito", "Rio de Janeiro": "bairro"})
     bairro_corrigido = end["NO_BAIRRO"].replace(CORRECOES_BAIRRO_RJ)
-    # Normaliza (maiúsculo, sem acento) dos dois lados antes de casar — o
-    # RA_POR_BAIRRO_RJ foi digitado à mão a partir da Wikipédia com acentos
-    # inconsistentes, e o NO_BAIRRO bruto do Censo vem acentuado; casar sem
-    # normalizar os dois lados perdia ~55 escolas por causa só de acento.
-    ra_normalizado = {_sem_acento(k): v for k, v in RA_POR_BAIRRO_RJ.items()}
-    regiao_administrativa = bairro_corrigido.apply(_sem_acento).map(ra_normalizado)
-    end["regiao"] = end["NO_DISTRITO"].where(end["cidade"] == "São Paulo", regiao_administrativa)
+    end["regiao"] = end["NO_DISTRITO"].where(end["cidade"] == "São Paulo", bairro_corrigido)
     return end
 
 
@@ -256,7 +242,7 @@ def exibir_resumo(dist: pd.DataFrame) -> None:
     print("\n--- Top 5 por ENEM ponderado (amostra significativa) em cada cidade ---")
     sig = dist[dist["amostra_significativa"]]
     for cidade in MUNICIPIOS_ALVO.values():
-        unidade = "distrito" if cidade == "São Paulo" else "região administrativa"
+        unidade = "distrito" if cidade == "São Paulo" else "bairro"
         print(f"\n{cidade} (unidade: {unidade}):")
         cols = ["regiao", "qtd_escolas_confiaveis", "enem_ponderado", "qtd_golden_leads"]
         print(sig[sig["cidade"] == cidade].sort_values("enem_ponderado", ascending=False)[cols].head(5).to_string(index=False))
@@ -265,11 +251,10 @@ def exibir_resumo(dist: pd.DataFrame) -> None:
 def main():
     escolas = carregar_escolas_sp_rj()
 
-    sem_ra = escolas[(escolas["cidade"] == "Rio de Janeiro") & escolas["regiao"].isna()]
-    if len(sem_ra):
-        print(f"[Sanity check] {len(sem_ra)} escolas do RJ sem Região Administrativa mapeada "
-              f"(bairro não está na tabela oficial usada — ver RA_POR_BAIRRO_RJ): "
-              f"{sorted(sem_ra['NO_BAIRRO'].dropna().unique().tolist())}")
+    sem_bairro = escolas[(escolas["cidade"] == "Rio de Janeiro") & escolas["regiao"].isna()]
+    if len(sem_bairro):
+        print(f"[Sanity check] {len(sem_bairro)} escolas do RJ sem bairro preenchido no Censo "
+              f"(caem de fora da agregação regional).")
 
     dist = agregar_por_regiao(escolas)
     dist = contar_golden_leads_por_regiao(escolas, dist)

@@ -1,0 +1,24 @@
+model Model
+	culture: pt-BR
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: pt-BR
+	valueFilterBehavior: independent
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["14_cidades_powerbi","29_universo_completo_powerbi","29b_faixas_rank_bridge","29c_golden_leads_bridge","16_regioes_sp_rj_com_renda"]
+
+annotation PBI_ProTooling = ["DevMode","MCP-PBIModeling"]
+
+ref table 14_cidades_powerbi
+ref table _Medidas
+ref table 29_universo_completo_powerbi
+ref table 29b_faixas_rank_bridge
+ref table 29c_golden_leads_bridge
+ref table 16_regioes_sp_rj_com_renda
+
+ref cultureInfo pt-BR
+

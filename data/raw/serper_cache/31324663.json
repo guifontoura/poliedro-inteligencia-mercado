@@ -1,0 +1,9 @@
+{
+  "codigo_escola": "31324663",
+  "NO_ENTIDADE": "SIC - ESCOLA PROFISSIONALIZANTE SANTO AGOSTINHO",
+  "cidade": "Belo Horizonte",
+  "query": "\"SIC - ESCOLA PROFISSIONALIZANTE SANTO AGOSTINHO\" \"Belo Horizonte\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "erro": "ProxyError: 403 Forbidden"
+  }
+}

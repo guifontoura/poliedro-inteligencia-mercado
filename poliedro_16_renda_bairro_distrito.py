@@ -36,12 +36,16 @@ de junção normalizada (maiúsculo + sem acento) nos dois lados — validamos a
 taxa de match no sanity check, não presumimos 100%.
 
 Revisão 24/07 (o passo 15 passou a agregar o RJ por Região Administrativa
-oficial, não mais por bairro cru — ver lá pro motivo): o IBGE não publica
-renda por RA diretamente, só por bairro. Então aqui agregamos a renda dos
-BAIRROS de cada RA numa média PONDERADA pela população do bairro (`V06002`,
-moradores em domicílios — mesma fonte, evita que um bairro minúsculo e rico
-distorça a RA inteira). Usa o mesmo dicionário `RA_POR_BAIRRO_RJ` do passo
-15 (importado de lá, não duplicado).
+oficial, não mais por bairro cru): o IBGE não publica renda por RA
+diretamente, só por bairro — então nessa época agregávamos os BAIRROS de
+cada RA numa média ponderada pela população.
+
+Revisão 28/07 (o passo 15 voltou a usar bairro direto no RJ — RA escondia
+diferença de renda relevante dentro da mesma região, ver docstring de
+`poliedro_15_regioes_sp_rj.py`): a agregação por RA fica desnecessária aqui.
+`renda_bairro_2022.csv` já vem pronto no nível de bairro, o mesmo nível que
+o passo 15 agora usa — é join direto, sem ponderação nem dicionário
+`RA_POR_BAIRRO_RJ` (que não é mais importado deste arquivo).
 
 Limitação que fica documentada, não escondida: V06004/V06006 medem renda do
 RESPONSÁVEL pelo domicílio, não renda per capita domiciliar (que é o que a
@@ -57,8 +61,6 @@ import unicodedata
 from pathlib import Path
 
 import pandas as pd
-
-from poliedro_15_regioes_sp_rj import RA_POR_BAIRRO_RJ
 
 RAW_DIR = Path("data/raw")
 OUT_DIR = Path("data/outputs")
@@ -87,34 +89,17 @@ def carregar_renda_distrito_sp() -> pd.DataFrame:
     ]
 
 
-def carregar_renda_ra_rj() -> pd.DataFrame:
-    """Renda do responsável por Região Administrativa (RJ) — bairros do IBGE agregados via
-    RA_POR_BAIRRO_RJ, ponderados pela população do bairro (V06002)."""
+def carregar_renda_bairro_rj() -> pd.DataFrame:
+    """Renda do responsável por bairro, só Rio de Janeiro capital — join direto, sem agregação."""
     df = pd.read_csv(RAW_DIR / "renda_bairro_2022.csv", sep=";", encoding="latin-1")
     df["CD_BAIRRO"] = df["CD_BAIRRO"].astype(str)
     df = df[df["CD_BAIRRO"].str.startswith(PREFIXO_MUNICIPIO["Rio de Janeiro"])].copy()
-    for col in ["V06002", "V06004", "V06006"]:
+    df["regiao_norm"] = df["NM_BAIRRO"].apply(normalizar_nome)
+    for col in ["V06004", "V06006"]:
         df[col] = df[col].astype(str).str.replace(",", ".").astype(float)
-
-    ra_normalizado = {normalizar_nome(k): v for k, v in RA_POR_BAIRRO_RJ.items()}
-    df["regiao"] = df["NM_BAIRRO"].apply(normalizar_nome).map(ra_normalizado)
-    sem_ra = df[df["regiao"].isna()]
-    if len(sem_ra):
-        print(f"[Sanity check] {len(sem_ra)} bairros do IBGE (RJ) sem RA mapeada, "
-              f"excluídos da agregação: {sorted(sem_ra['NM_BAIRRO'].tolist())}")
-    df = df.dropna(subset=["regiao"])
-
-    def media_ponderada_por_pop(g: pd.DataFrame, col: str) -> float:
-        return (g[col] * g["V06002"]).sum() / g["V06002"].sum()
-
-    linhas = []
-    for regiao, g in df.groupby("regiao"):
-        linhas.append({
-            "regiao_norm": normalizar_nome(regiao),
-            "renda_media_responsavel": round(media_ponderada_por_pop(g, "V06004"), 2),
-            "renda_mediana_responsavel": round(media_ponderada_por_pop(g, "V06006"), 2),
-        })
-    return pd.DataFrame(linhas)
+    return df.rename(columns={"V06004": "renda_media_responsavel", "V06006": "renda_mediana_responsavel"})[
+        ["regiao_norm", "renda_media_responsavel", "renda_mediana_responsavel"]
+    ]
 
 
 def enriquecer_regioes_com_renda() -> pd.DataFrame:
@@ -123,12 +108,41 @@ def enriquecer_regioes_com_renda() -> pd.DataFrame:
     regioes["regiao_norm"] = regioes["regiao"].apply(normalizar_nome)
 
     renda_sp = carregar_renda_distrito_sp()
-    renda_rj = carregar_renda_ra_rj()
+    renda_rj = carregar_renda_bairro_rj()
 
     sp = regioes[regioes["cidade"] == "São Paulo"].merge(renda_sp, on="regiao_norm", how="left")
     rj = regioes[regioes["cidade"] == "Rio de Janeiro"].merge(renda_rj, on="regiao_norm", how="left")
 
     return pd.concat([sp, rj], ignore_index=True).drop(columns=["regiao_norm"])
+
+
+def marcar_regiao_oportunidade(df: pd.DataFrame) -> pd.DataFrame:
+    """Sinaliza região com renda alta COMPARADA DENTRO DA PRÓPRIA CIDADE — candidata a expansão.
+
+    Revisão 05/08 (correção do Gui): a versão anterior media ENEM abaixo da
+    mediana e usava uma mediana de renda ÚNICA misturando SP e RJ — os dois
+    erros que ele apontou. SP e RJ têm patamares de renda bem diferentes; uma
+    mediana única fazia praticamente todo bairro do Rio (renda mais baixa em
+    geral) nunca aparecer como "oportunidade", mesmo sendo o bairro mais rico
+    da própria cidade — viés real que o Gui pegou antes de eu propagar ele
+    pro dashboard. ENEM saiu do critério: o pedido dele foi renda alta
+    RELATIVA à cidade como o fator principal.
+
+    Critério agora: renda_mediana_responsavel >= mediana das regiões
+    elegíveis DA MESMA CIDADE (mediana calculada separadamente pra São Paulo
+    e Rio de Janeiro, nunca misturada). "Elegível" = amostra_significativa E
+    renda encontrada.
+
+    `qtd_golden_leads` e `distancia_parceiro_mais_proximo_km` (passo 16b)
+    continuam disponíveis como colunas na tabela pra leitura manual, mas não
+    entram nesse filtro — o Gui preferiu manter o critério simples e olhar
+    esses dois caso a caso em vez de embutir mais uma regra automática.
+    """
+    base = df["amostra_significativa"] & df["renda_mediana_responsavel"].notna()
+    mediana_por_cidade = df.loc[base].groupby("cidade")["renda_mediana_responsavel"].median()
+    mediana_renda_da_cidade = df["cidade"].map(mediana_por_cidade)
+    df["regiao_oportunidade"] = base & (df["renda_mediana_responsavel"] >= mediana_renda_da_cidade)
+    return df
 
 
 def exibir_resumo(df: pd.DataFrame) -> None:
@@ -145,9 +159,23 @@ def exibir_resumo(df: pd.DataFrame) -> None:
         cols = ["regiao", "renda_mediana_responsavel", "enem_ponderado", "qtd_golden_leads"]
         print(sig[sig["cidade"] == cidade].sort_values("renda_mediana_responsavel", ascending=False)[cols].head(5).to_string(index=False))
 
+    print(f"\n[Sanity check] Regiões em 'oportunidade' (renda alta + ENEM mediano/baixo + pouco Poliedro): {df['regiao_oportunidade'].sum()}")
+    print(df[df["regiao_oportunidade"]][["cidade", "regiao", "renda_mediana_responsavel", "enem_ponderado", "qtd_golden_leads"]]
+          .sort_values("renda_mediana_responsavel", ascending=False).to_string(index=False))
+
+
+def adicionar_chave_regiao(df: pd.DataFrame) -> pd.DataFrame:
+    """Chave `cidade|regiao` — mesma coluna que o poliedro_29 agora gera, pra relacionar as
+    2 tabelas no modelo do Power BI (pedido do Gui, 06/08: sincronizar a segmentação SP/RJ
+    entre a tabela de escolas e a tabela de regiões, hoje sem relacionamento nenhum)."""
+    df["chave_regiao"] = df["cidade"].str.cat(df["regiao"], sep="|")
+    return df
+
 
 def main():
     df = enriquecer_regioes_com_renda()
+    df = marcar_regiao_oportunidade(df)
+    df = adicionar_chave_regiao(df)
     exibir_resumo(df)
     # sep=';' e decimal=',' — formato brasileiro, pro Power BI Desktop reconhecer os decimais.
     df.to_csv(OUT_DIR / "16_regioes_sp_rj_com_renda.csv", index=False, sep=";", decimal=",")

@@ -1,0 +1,833 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.11.0/schema.json",
+  "name": "ca8a3912d810b209ce76",
+  "position": {
+    "x": 5.8181818181818183,
+    "y": 264.72727272727275,
+    "z": 3000,
+    "height": 445.09090909090907,
+    "width": 1268.3636363636363,
+    "tabOrder": 3000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "NO_ENTIDADE"
+                }
+              },
+              "queryRef": "29_universo_completo_powerbi.NO_ENTIDADE",
+              "nativeQueryRef": "Escola",
+              "displayName": "Escola"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "segmento_comercial"
+                }
+              },
+              "queryRef": "29_universo_completo_powerbi.segmento_comercial",
+              "nativeQueryRef": "Posição",
+              "displayName": "Posição"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "29_universo_completo_powerbi"
+                        }
+                      },
+                      "Property": "rank_municipio"
+                    }
+                  },
+                  "Function": 6
+                }
+              },
+              "queryRef": "Sum(29_universo_completo_powerbi.rank_municipio)",
+              "nativeQueryRef": "Rank na Cidade",
+              "displayName": "Rank na Cidade"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "29_universo_completo_powerbi"
+                        }
+                      },
+                      "Property": "score_destaque"
+                    }
+                  },
+                  "Function": 1
+                }
+              },
+              "queryRef": "Sum(29_universo_completo_powerbi.score_destaque)",
+              "nativeQueryRef": "Score",
+              "displayName": "Score",
+              "format": "0.000"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "sistema_ensino_identificado"
+                }
+              },
+              "queryRef": "29_universo_completo_powerbi.sistema_ensino_identificado",
+              "nativeQueryRef": "Sist. Ensino",
+              "displayName": "Sist. Ensino"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "29_universo_completo_powerbi"
+                        }
+                      },
+                      "Property": "renda_mediana_responsavel"
+                    }
+                  },
+                  "Function": 1
+                }
+              },
+              "queryRef": "Sum(29_universo_completo_powerbi.renda_mediana_responsavel)",
+              "nativeQueryRef": "Renda Mediana",
+              "displayName": "Renda Mediana",
+              "format": "\"R$\" #,0.###############;-\"R$\" #,0.###############;\"R$\" #,0.###############"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "29_universo_completo_powerbi"
+                        }
+                      },
+                      "Property": "enem_media_2anos"
+                    }
+                  },
+                  "Function": 0
+                }
+              },
+              "queryRef": "Sum(29_universo_completo_powerbi.enem_media_2anos)",
+              "nativeQueryRef": "ENEM Ponderado (2024/2025)",
+              "displayName": "ENEM Ponderado (2024/2025)"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "29_universo_completo_powerbi"
+                        }
+                      },
+                      "Property": "QT_MAT_MED"
+                    }
+                  },
+                  "Function": 6
+                }
+              },
+              "queryRef": "Sum(29_universo_completo_powerbi.QT_MAT_MED)",
+              "nativeQueryRef": "Qtd. Matrículas E.M.",
+              "displayName": "Qtd. Matrículas E.M."
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "29_universo_completo_powerbi"
+                        }
+                      },
+                      "Property": "indice_infra"
+                    }
+                  },
+                  "Function": 6
+                }
+              },
+              "queryRef": "Sum(29_universo_completo_powerbi.indice_infra)",
+              "nativeQueryRef": "Infra (0-5)",
+              "displayName": "Infra (0-5)"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "29_universo_completo_powerbi"
+                        }
+                      },
+                      "Property": "distancia_parceiro_atual_km"
+                    }
+                  },
+                  "Function": 0
+                }
+              },
+              "queryRef": "Sum(29_universo_completo_powerbi.distancia_parceiro_atual_km)",
+              "nativeQueryRef": "Dist. Parceiro (km)",
+              "displayName": "Dist. Parceiro (km)"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "bairro"
+                }
+              },
+              "queryRef": "29_universo_completo_powerbi.bairro",
+              "nativeQueryRef": "Bairro",
+              "displayName": "Bairro"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "cidade"
+                }
+              },
+              "queryRef": "29_universo_completo_powerbi.cidade",
+              "nativeQueryRef": "Cidade",
+              "displayName": "Cidade"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "UF"
+                }
+              },
+              "queryRef": "29_universo_completo_powerbi.UF",
+              "nativeQueryRef": "UF"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "endereco_completo"
+                }
+              },
+              "queryRef": "29_universo_completo_powerbi.endereco_completo",
+              "nativeQueryRef": "Endereço Completo",
+              "displayName": "Endereço Completo"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Aggregation": {
+                "Expression": {
+                  "Column": {
+                    "Expression": {
+                      "SourceRef": {
+                        "Entity": "29_universo_completo_powerbi"
+                      }
+                    },
+                    "Property": "score_destaque"
+                  }
+                },
+                "Function": 1
+              }
+            },
+            "direction": "Descending"
+          }
+        ]
+      }
+    },
+    "objects": {
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "255.14195595291164D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "29_universo_completo_powerbi.NO_ENTIDADE"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "148.1095963650553D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "29_universo_completo_powerbi.sistema_ensino_identificado"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "45.436475416171476D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(29_universo_completo_powerbi.score_destaque)"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "105.18603038853468D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "29_universo_completo_powerbi.segmento_comercial"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "57.35251714964583D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(29_universo_completo_powerbi.rank_municipio)"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "69.71230175963217D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(29_universo_completo_powerbi.renda_mediana_responsavel)"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "63.75540173822228D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(29_universo_completo_powerbi.distancia_parceiro_atual_km)"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "98.06489198963014D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "29_universo_completo_powerbi.bairro"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "71.23882666982264D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(29_universo_completo_powerbi.QT_MAT_MED)"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "40.247909299683684D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(29_universo_completo_powerbi.indice_infra)"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "84.56135894671783D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(29_universo_completo_powerbi.enem_media_2anos)"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "86.41021766583138D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "29_universo_completo_powerbi.cidade"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "449.0588205041039D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "29_universo_completo_powerbi.endereco_completo"
+          }
+        }
+      ],
+      "columnHeaders": [
+        {
+          "properties": {
+            "alignment": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Left'"
+                }
+              }
+            },
+            "wordWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "total": [
+        {
+          "properties": {
+            "totals": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "grid": [
+        {
+          "properties": {
+            "gridHorizontal": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "gridVertical": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "columnFormatting": [
+        {
+          "properties": {
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 2,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(29_universo_completo_powerbi.score_destaque)"
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#141B2C'"
+                    }
+                  }
+                }
+              }
+            },
+            "radius": {
+              "expr": {
+                "Literal": {
+                  "Value": "15D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "padding": [
+        {
+          "properties": {
+            "top": {
+              "expr": {
+                "Literal": {
+                  "Value": "5D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "f881a50d028e2800b657",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "NO_ENTIDADE"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "bbbac0d847a010382190",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "segmento_comercial"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "ed3c1e44a1892eca6ccc",
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "29_universo_completo_powerbi"
+                  }
+                },
+                "Property": "rank_municipio"
+              }
+            },
+            "Function": 6
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "53ca400d07b3c99de156",
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "29_universo_completo_powerbi"
+                  }
+                },
+                "Property": "score_destaque"
+              }
+            },
+            "Function": 1
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "d77af9f60d930cdc4d4d",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "sistema_ensino_identificado"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "e8450d5841a980ae3e4e",
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "29_universo_completo_powerbi"
+                  }
+                },
+                "Property": "renda_mediana_responsavel"
+              }
+            },
+            "Function": 1
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "952c74f27728d0adb953",
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "29_universo_completo_powerbi"
+                  }
+                },
+                "Property": "enem_media_2anos"
+              }
+            },
+            "Function": 0
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "1b27dc385404bb092e06",
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "29_universo_completo_powerbi"
+                  }
+                },
+                "Property": "QT_MAT_MED"
+              }
+            },
+            "Function": 6
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "997000ab40021a0b00d2",
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "29_universo_completo_powerbi"
+                  }
+                },
+                "Property": "indice_infra"
+              }
+            },
+            "Function": 6
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "6c0c94c8b00bbce06631",
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "29_universo_completo_powerbi"
+                  }
+                },
+                "Property": "distancia_parceiro_atual_km"
+              }
+            },
+            "Function": 0
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "5d4a637d809dd338c00b",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "bairro"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "fff77a209b0440960a8a",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "cidade"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "234b839be082ea7c244a",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "UF"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "ae14e702c89921940880",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "endereco_completo"
+          }
+        },
+        "type": "Categorical"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+relationship AutoDetected_531f1341-204f-4bb8-9e74-4abe2044115c
+	fromColumn: 29_universo_completo_powerbi.codigo_municipio
+	toColumn: 14_cidades_powerbi.codigo_municipio
+
+relationship AutoDetected_6dc9b6ab-b648-46a1-bcdd-5ac2865c6539
+	crossFilteringBehavior: bothDirections
+	fromColumn: 29b_faixas_rank_bridge.codigo_escola
+	toColumn: 29_universo_completo_powerbi.codigo_escola
+
+relationship AutoDetected_876506f8-8337-4e6d-9eb4-7f52accb2eb1
+	crossFilteringBehavior: bothDirections
+	fromColumn: 29c_golden_leads_bridge.codigo_escola
+	toColumn: 29_universo_completo_powerbi.codigo_escola
+
+relationship b35fc34e-009e-43aa-1e2b-721e666d40d4
+	fromColumn: 29_universo_completo_powerbi.chave_regiao
+	toColumn: 16_regioes_sp_rj_com_renda.chave_regiao
+

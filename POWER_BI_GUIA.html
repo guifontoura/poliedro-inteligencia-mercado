@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Guia Power BI — Case Poliedro</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <style type="text/css">body { font-family: -apple-system, "Segoe UI", Arial, sans-serif; max-width: 900px; margin: 40px auto; padding: 0 20px; line-height: 1.55; background: #141B2C; color: #F5F7FA; }
+h1 { border-bottom: 3px solid #D4AF37; padding-bottom: 8px; color: #F5F7FA; }
+h2 { margin-top: 40px; color: #D4AF37; border-bottom: 1px solid #2A3550; padding-bottom: 6px; }
+h3 { color: #F5F7FA; margin-top: 28px; }
+a { color: #3987e5; }
+code { background: #1B2438; color: #EDA100; padding: 1px 5px; border-radius: 3px; font-size: 0.9em; }
+table { border-collapse: collapse; width: 100%; margin: 14px 0; }
+th, td { border: 1px solid #2A3550; padding: 6px 10px; text-align: left; }
+th { background: #2A3550; color: #F5F7FA; }
+tr:nth-child(even) { background: #1B2438; }
+tr:nth-child(odd) { background: #141B2C; }
+hr { border: none; border-top: 2px solid #2A3550; margin: 30px 0; }
+blockquote { border-left: 3px solid #D4AF37; padding-left: 12px; color: #C9CEDA; }
+strong { color: #F5F7FA; }
+</style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Guia Power BI — Case Poliedro</h1>
+</header>
+<h1 id="guia-power-bi-case-poliedro">Guia Power BI — Case Poliedro</h1>
+<p>Formato: <code>Visual &gt; Campo &gt; Onde &gt; Ação</code>. Se a tela não bater, pare e mande print.</p>
+<hr />
+<h2 id="norte-do-projeto-3-perguntas-3-páginas">Norte do projeto — 3 perguntas, 3 páginas</h2>
+<p>O case pergunta uma coisa só: <strong>“onde o Poliedro deveria construir share de prestígio?”</strong>. As 3 páginas respondem essa pergunta em 3 etapas de decisão — não são 3 dashboards soltos, são 3 passos da mesma história.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Página</th>
+<th>Pergunta de negócio</th>
+<th>O que resolve no case</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1 — Visão Executiva</td>
+<td>Onde investir?</td>
+<td><strong>Parte 1</strong> do case: 10 cidades prioritárias, metodologia justificada</td>
+</tr>
+<tr class="even">
+<td>2 — Inteligência Comercial</td>
+<td>Como entrar em SP/RJ?</td>
+<td>Não pedido pelo case — mas é a prioridade de negócio que você ouviu na reunião (Poliedro quer entrar forte nesses 2 mercados) e o maior diferencial analítico do projeto</td>
+</tr>
+<tr class="odd">
+<td>3 — Escolas Prioritárias &amp; Explorador</td>
+<td>Quais escolas, e como pesquisar qualquer uma?</td>
+<td><strong>Parte 2</strong> do case (top escolas por cidade, ≥2 critérios) + exploração livre + resumo de metodologia</td>
+</tr>
+</tbody>
+</table>
+<p>Revisão 06/08: reordenei depois de comparar com um segundo parecer (Gemini) e com o seu reforço de que SP/RJ é prioridade explícita de negócio, não só uma descoberta lateral — ver “Sobre os pareceres do GPT e do Gemini” mais abaixo pra entender a mudança de posição em relação à versão anterior deste guia (que tinha Inteligência Comercial na página 3).</p>
+<p>Frase de abertura sugerida (adapte pra sua voz, não decore): <em>“O desafio era identificar onde o Poliedro deveria construir share de prestígio. Transformei isso em um processo de decisão em 3 níveis: primeiro os mercados prioritários — cidades —, depois onde concentrar esforço nos 2 maiores mercados do país — SP e RJ, por distrito/bairro —, e por fim as instituições específicas pra prospectar, com uma ferramenta de exploração completa.”</em></p>
+<p>⚠️ Só 3 páginas de dashboard. Um “Roadmap/Metodologia” completo (pesos, fontes, limitações) <strong>não é uma 4ª página</strong> — vira o documento escrito, entrega separada da apresentação. Dentro do dashboard, a página 3 tem só um resumo curto da metodologia (card), não o documento inteiro — ver seção da página 3. Resista à tentação de criar mais abas: com 10 minutos de apresentação, 3 páginas bem feitas comunicam mais do que 5 páginas rasas.</p>
+<h3 id="o-achado-sprj-números-reais-pra-defender-na-banca">O achado SP/RJ — números reais pra defender na banca</h3>
+<p>Pergunta óbvia de Q&amp;A: “cadê São Paulo e Rio no top 10?”. Responda com dado, não com desculpa:</p>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Cidade</th>
+<th>Rank nacional</th>
+<th>Score final</th>
+<th>Percentil volume de escolas</th>
+<th>Percentil socioeconômico</th>
+<th>Percentil qualidade ENEM</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Rio de Janeiro</td>
+<td>19º</td>
+<td>0,8408</td>
+<td>0,997 (quase máximo)</td>
+<td>0,950</td>
+<td><strong>0,540 — o mais baixo dos 3</strong></td>
+</tr>
+<tr class="even">
+<td>São Paulo</td>
+<td>29º</td>
+<td>0,8116</td>
+<td>1,000 (máximo)</td>
+<td>0,953</td>
+<td><strong>0,435 — o mais baixo dos 3</strong></td>
+</tr>
+</tbody>
+</table>
+<p>As duas cidades têm o melhor volume de escolas elegíveis do país (465 e 603) e socioeconômico alto — o que derruba o score é só o percentil de qualidade ENEM. Motivo: esse indicador é uma média da cidade inteira; com 400-600 escolas de qualidade muito heterogênea, os polos de excelência ficam diluídos entre um mar de escolas medianas. É limitação estrutural de qualquer score agregado por cidade grande, não bug do pipeline. A página 2 (Inteligência Comercial) existe justamente pra não perder esses dois mercados: troca a unidade de análise de “cidade” pra “bairro/distrito”, onde a diluição não acontece.</p>
+<h3 id="sobre-os-pareceres-do-gpt-e-do-gemini">Sobre os pareceres do GPT e do Gemini</h3>
+<p>Os dois convergem no essencial, o que é sinal forte de que a leitura está certa: separar “o que o case pediu” do “o que você descobriu além”, e não esconder o achado SP/RJ — transformar em mérito, com número. Ambos concordam também que uma 4ª aba de puro texto (“Roadmap”) desperdiça espaço de dashboard.</p>
+<p>Onde eles discordam entre si — e a decisão tomada aqui:</p>
+<ul>
+<li><strong>GPT</strong> botava Escolas Prioritárias na página 2 e Inteligência Comercial (SP/RJ) na página 3, como “bônus” no fim. <strong>Gemini</strong> botava Inteligência Comercial na página 2, argumentando que é a pergunta mais urgente pro negócio agora. Fiquei com a ordem do Gemini porque você confirmou que SP/RJ é prioridade explícita da liderança, não só uma descoberta sua — quando existe um sinal de negócio real (não um palpite de IA), ele pesa mais que uma convenção genérica de “o que o case pediu primeiro vem primeiro”. A Parte 2 do case continua obrigatória e continua na página 3, só não abre a apresentação.</li>
+<li><strong>GPT</strong> sugeriu documentar a metodologia só como texto separado. <strong>Gemini</strong> sugeriu um painel/card dentro do dashboard. Os dois têm razão em coisas diferentes: o case pede uma “metodologia documentada” como entrega — isso é objeto arquivável, citável, que um avaliador relê depois; um card dentro do Power BI não substitui isso. Mas na hora da fala, ninguém vai abrir um PDF no meio da demonstração — um resumo curto na tela ajuda a responder perguntas ao vivo. Fiz as duas coisas: o documento completo é a entrega oficial, o card na página 3 é um atalho de consulta durante a apresentação.</li>
+<li><strong>GPT</strong> sugeriu Top 20 escolas por cidade na tabela principal. Isso não serve como resposta final da Parte 2 (o case pede 5, não 20) — mantido como estava: a tabela completa/exploratória pode mostrar quantas você quiser (inclusive menos de 20, cidades pequenas não têm 20 escolas elegíveis — comportamento normal de qualquer filtro Top N), mas o visual que responde formalmente a Parte 2 fica travado em 5.</li>
+<li><strong>Ambos sugeriram um “Score Comercial” novo combinando renda + distância + sistema + cliente.</strong> Não implementei agora — um score novo, com pesos definidos às pressas faltando ~2 dias, quebra a própria regra que seguimos o projeto inteiro (toda métrica de score precisa de peso justificado, não arbitrário). Se sobrar tempo depois de fechar o essencial, dá pra revisitar; até lá, a página 3 deixa as colunas separadas (renda, distância, sistema, cliente) pro time comercial ordenar/filtrar manualmente — mais lento, mas 100% defensável numa pergunta de banca.</li>
+</ul>
+<hr />
+<h2 id="página-1-visão-executiva-onde-investir">Página 1 — Visão Executiva (Onde investir?)</h2>
+<p><strong>Renomear página:</strong> aba “Página 1” &gt; clique, espere 1s, clique de novo &gt; <code>Visão Executiva</code></p>
+<h3 id="segmentações">Segmentações</h3>
+<p>Visual = <strong>Segmentação de Dados</strong> (não “Segmentação de Lista Versão Prévia” — essa não tem modo Suspenso). Cada uma: arrastar campo &gt; canto superior direito do visual &gt; <strong>Suspenso</strong>.</p>
+<table>
+<thead>
+<tr class="header">
+<th>#</th>
+<th>Campo</th>
+<th>Config extra</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td><code>produto_alvo</code></td>
+<td>marcar só “Poliedro”</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td><code>UF</code></td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td><code>cidade</code></td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td><code>segmento_comercial</code></td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cartões">Cartões</h3>
+<p>Visual = <strong>Cartão</strong> (não “KPI”, não “Cartão Múltiplo”). Passo fixo: arrastar <code>codigo_escola</code> &gt; caixinha “Dados do cartão” &gt; seta ao lado do campo &gt; <strong>Contagem</strong>.</p>
+<table>
+<thead>
+<tr class="header">
+<th>#</th>
+<th>Rótulo</th>
+<th>Filtro <strong>neste visual</strong></th>
+<th>Esperado</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Total</td>
+<td>nenhum</td>
+<td>1.127</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Líder local</td>
+<td><code>segmento_comercial</code> = Líder local</td>
+<td>210</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Desafiante</td>
+<td><code>segmento_comercial</code> = Desafiante (2º-5º local)</td>
+<td>405</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Cliente Poliedro</td>
+<td><code>ja_cliente_poliedro_qualquer_marca</code> = Verdadeiro</td>
+<td>62</td>
+</tr>
+</tbody>
+</table>
+<p>⚠️ O filtro tem que estar em <strong>“Filtros neste visual”</strong> (cartão selecionado), nunca em “Filtros nesta página” — senão os 4 cartões ficam presos ao mesmo filtro.</p>
+<p>Rótulo de cada cartão: Inserir &gt; Caixa de texto &gt; nome &gt; posicionar em cima do cartão.</p>
+<h3 id="gráfico-top-10-cidades">Gráfico Top 10 cidades</h3>
+<p>Gráfico de Colunas Clusterizadas &gt; tabela <code>14_cidades_powerbi</code> &gt; Eixo X <code>nome_municipio_ibge</code> &gt; Valores <code>score_priorizacao</code> &gt; Filtros neste visual: <code>top10</code> = Verdadeiro</p>
+<h3 id="mapa">Mapa</h3>
+<p>Mapa (não “Mapa de Densidade”/“Coroplético”/“ArcGIS”) &gt; Local: <code>LATITUDE</code> + <code>LONGITUDE</code> &gt; Legenda: <code>segmento_comercial</code> &gt; Tamanho: <code>score_destaque</code></p>
+<p><strong>Por que LATITUDE/LONGITUDE aparecem no tooltip mesmo sem eu arrastar pra lá:</strong> o Power BI mostra automaticamente, no tooltip padrão, TODOS os campos usados em qualquer caixinha do visual — como estão em “Local”, entram de graça no tooltip. Não tem um botão “esconder só esse campo do tooltip”; a única forma garantida de controlar exatamente o que aparece é criar uma <strong>página de tooltip customizada</strong>:</p>
+<ol type="1">
+<li>Clique no <strong>“+”</strong> pra criar uma página nova &gt; renomeie pra <code>Tooltip Mapa</code>.</li>
+<li>Com a página selecionada (nenhum visual nela) &gt; painel <strong>Formatar página</strong> (ou clique na área vazia &gt; Formato) &gt; seção <strong>“Tipo de página”</strong> &gt; troque de “Personalizado” pra <strong>“Dica de Ferramenta”</strong>. A página encolhe pro tamanho certo.</li>
+<li>Nessa página, crie um <strong>Cartão Múltiplo</strong> (ou 2 Cartões separados) com <code>NO_ENTIDADE</code> e <code>endereco_completo</code> — só o que você quer mostrar.</li>
+<li>Volte pra página do mapa &gt; clique no mapa &gt; painel Visualizações &gt; ícone de pincel “Formatar visual” &gt; seção <strong>“Dicas de ferramentas”</strong> &gt; campo <strong>“Tipo”</strong>: troque de “Padrão” pra <strong>“Relatório da página”</strong> &gt; campo <strong>“Página”</strong>: escolha <code>Tooltip Mapa</code>.</li>
+<li>Teste passando o mouse numa bolha — agora só aparece o que você desenhou na página de tooltip, sem LATITUDE/LONGITUDE.</li>
+</ol>
+<h3 id="tabela-principal">Tabela principal</h3>
+<p>Tabela (não “Matriz”) &gt; Colunas nesta ordem: <code>NO_ENTIDADE</code>, <code>cidade</code>, <code>UF</code>, <code>segmento_comercial</code>, <code>score_destaque</code>, <code>sistema_ensino_identificado</code>, <code>ja_cliente_poliedro_qualquer_marca</code>, <code>distancia_parceiro_atual_km</code>, <code>renda_mediana_responsavel</code> &gt; clique cabeçalho <code>score_destaque</code> 2x (decrescente)</p>
+<h3 id="formatar-colunas">Formatar colunas</h3>
+<p>Painel Dados &gt; tabela <code>29_universo_completo_powerbi</code> &gt; coluna <code>score_destaque</code> &gt; aba <strong>Ferramentas de Coluna</strong> &gt; Formato &gt; <strong>Número Decimal Fixo</strong> &gt; Casas decimais <strong>3</strong> Repita para <code>renda_mediana_responsavel</code> &gt; Formato &gt; <strong>Moeda</strong></p>
+<h3 id="gráfico-de-rosca-sistema-de-ensino-confirmados">Gráfico de Rosca — Sistema de Ensino (confirmados)</h3>
+<p>Gráfico de Rosca &gt; Legenda: <code>sistema_ensino_top_outros</code> &gt; <strong>Valores: arraste <code>codigo_escola</code> pra essa caixinha (sem isso o gráfico fica em branco — é o erro mais comum aqui, Legenda sozinha não desenha nada)</strong> &gt; seta ao lado do campo em Valores &gt; <strong>Contagem</strong> &gt; Filtros neste visual: <code>confianca</code> = <strong>confirmado</strong>.</p>
+<p>Por que <code>sistema_ensino_top_outros</code> e não <code>sistema_ensino_identificado</code>: o campo bruto tem ~56 valores distintos, ilegível num gráfico de rosca. Esse campo já vem pronto do pipeline agrupando tudo abaixo de 25 escolas confirmadas em <strong>“Outros (sistema minoritário)”</strong> — ajuste o limiar em <code>LIMIAR_SISTEMA_ENSINO_GRAFICO</code> no <code>poliedro_29...py</code> se quiser mais/menos fatias.</p>
+<h3 id="modo-de-análise-golden-leads-x-outras-escolas">Modo de Análise — Golden Leads x Outras Escolas</h3>
+<p>Reaproveita <code>produto_alvo</code>, sem script novo. Mecanismo: Indicadores (Bookmarks) + Botões.</p>
+<ol type="1">
+<li>Exibição &gt; marcar <strong>Indicadores</strong></li>
+<li>Segmentação <code>produto_alvo</code> &gt; marcar só “Poliedro” &gt; Indicadores &gt; Adicionar &gt; renomear <code>Golden Leads</code></li>
+<li>Segmentação <code>produto_alvo</code> &gt; Selecionar tudo &gt; Indicadores &gt; Adicionar &gt; renomear <code>Outras Escolas</code></li>
+<li>Indicadores &gt; clique <code>Golden Leads</code> (fica como estado padrão de abertura)</li>
+<li>Inserir &gt; Botões &gt; Em branco — criar 2, no topo da página, acima de <code>UF</code>
+<ul>
+<li>Botão 1: texto <code>🎯 Golden Leads (1.127)</code> &gt; seção Ação &gt; Tipo <strong>Indicador</strong> &gt; <code>Golden Leads</code></li>
+<li>Botão 2: texto <code>🌎 Outras Escolas (4.444)</code> &gt; seção Ação &gt; Tipo <strong>Indicador</strong> &gt; <code>Outras Escolas</code></li>
+</ul></li>
+<li>Inserir &gt; Caixa de texto <code>Exibindo: 1.127 Golden Leads</code>; Inserir &gt; Caixa de texto <code>Exibindo: 4.444 escolas (todas as elegíveis)</code> — sobrepor as duas no mesmo lugar</li>
+<li>Painel Seleção: deixar só uma caixa visível (olho) por vez &gt; regravar cada Indicador (botão direito &gt; Atualizar) já com essa visibilidade</li>
+<li>Painel Seleção &gt; segmentação <code>produto_alvo</code> &gt; ícone de olho &gt; esconder</li>
+<li>Reordenar segmentações no canvas: <code>UF</code> &gt; <code>cidade</code> &gt; <code>sistema_ensino_identificado</code> &gt; <code>ja_cliente_poliedro_qualquer_marca</code> &gt; <code>segmento_comercial</code></li>
+<li>Título da página &gt; caixa de texto &gt; <code>Visão Executiva — Onde Investir?</code></li>
+</ol>
+<p><em>(correção 06/08: essa caixa de título estava com o nome errado — “Inteligência Comercial”, que hoje é o título da página 3, não da 1. Se o seu arquivo ainda tem o texto antigo, corrija.)</em></p>
+<p>Ctrl+S</p>
+<hr />
+<h2 id="página-2-inteligência-comercial-como-entrar-em-sprj">Página 2 — Inteligência Comercial (Como entrar em SP/RJ?)</h2>
+<p>Era a antiga “Página 2 — Renda x ENEM” — <strong>mantém a posição 2</strong>, só o título/enquadramento mudou (ver “Norte do projeto” acima). Não responde ao case (não foi pedida) — é o insight que você descobriu e que a liderança confirmou como prioridade real: bairros ricos com pouca cobertura Poliedro em SP/RJ (ver “O achado SP/RJ” no topo deste guia). Vem em 2º lugar porque é a pergunta mais urgente pro negócio agora, não porque é a resposta formal do case.</p>
+<p>Nova página (<strong>+</strong>) &gt; renomear <code>Inteligência Comercial</code></p>
+<p>Filtros nesta página: <code>amostra_significativa</code> (tabela <code>16_regioes_sp_rj_com_renda</code>) = Verdadeiro</p>
+<p><strong>Gráfico de Dispersão</strong> &gt; tabela <code>16_regioes_sp_rj_com_renda</code> &gt; Eixo X <code>renda_mediana_responsavel</code> &gt; Eixo Y <code>enem_ponderado</code> &gt; Tamanho <code>qtd_escolas_elegiveis</code> &gt; Legenda <code>qtd_golden_leads</code> &gt; <strong>Valores</strong> <code>regiao</code></p>
+<p>⚠️ <strong>Sem campo em Valores, o gráfico agrupa errado</strong> (uma bolha por combinação de Legenda, não por região) — o visual novo de Dispersão renomeou o antigo campo “Detalhes” pra “Valores”. <code>regiao</code> sozinho já é único aqui (confirmado: nenhum nome se repete entre SP e RJ nos dados atuais).</p>
+<p>Leitura: quadrante inferior direito (renda alta, ENEM baixo/médio) = bairro rico com pouca presença Poliedro.</p>
+<p><strong>Slicer de cidade:</strong> Segmentação de Dados &gt; campo <code>cidade</code> &gt; Estilo <strong>Bloco</strong> (só 2 valores — São Paulo/Rio de Janeiro — vira 2 botões lado a lado, mais rápido que dropdown) &gt; posicionar acima do gráfico/tabela. Sem escopo especial: por padrão afeta todos os visuais da página que usam essa tabela (dispersão, tabela de regiões prioritárias e a nova tabela de escolas por região, todas juntas), que é o comportamento que você quer aqui.</p>
+<p><strong>Por que <code>enem_ponderado</code> usa MÉDIA (ponderada) e não mediana:</strong> renda usa mediana porque a distribuição de renda é enviesada — uma família muito rica distorce a média de um bairro pequeno, não distorce a mediana (mesmo motivo documentado no <code>poliedro_16</code>). ENEM não tem esse problema (nota é limitada a 0-1000, sem “outlier bilionário”) — o risco aqui é outro: escola pequena (5 participantes) puxando o número tanto quanto escola grande (300 participantes) se você tirasse uma média/mediana simples entre escolas. Por isso <code>enem_ponderado</code> pondera pela quantidade de participantes de cada escola (<code>poliedro_15</code>, função <code>media_ponderada</code>) — informação que uma mediana jogaria fora. Resumindo: mediana é a ferramenta certa pra “elimina outlier”, ponderação é a ferramenta certa pra “elimina distorção de amostra pequena” — são problemas diferentes, cada métrica usa a solução certa pro problema dela.</p>
+<h3 id="caixa-de-texto-leitura-guiada">Caixa de texto — leitura guiada</h3>
+<p>Inserir &gt; Caixa de texto, ao lado/abaixo do gráfico:</p>
+<blockquote>
+<p><strong>Como ler:</strong> cada bolha é uma região (distrito em SP, bairro no RJ). Eixo X = renda mediana do responsável (mais à direita = bairro mais rico). Eixo Y = ENEM ponderado (mais pra cima = nota mais alta). Tamanho = quantidade de escolas elegíveis na região. Cor = quantas Golden Leads já existem ali. <strong>Quadrante de oportunidade:</strong> direita (renda alta comparada com o resto da própria cidade — SP e RJ são comparados separadamente, não misturados). ENEM não entra nesse critério — nota da região não é sinal de oportunidade comercial por si só.</p>
+</blockquote>
+<h3 id="tabela-regiões-prioritárias">Tabela — Regiões prioritárias</h3>
+<p>Tabela &gt; tabela <code>16_regioes_sp_rj_com_renda</code> &gt; colunas: <code>cidade</code>, <code>regiao</code>, <code>renda_mediana_responsavel</code>, <code>qtd_golden_leads</code>, <code>distancia_parceiro_mais_proximo_km</code> &gt; Filtros neste visual: <code>regiao_oportunidade</code> = Verdadeiro &gt; ordenar por <code>renda_mediana_responsavel</code> decrescente</p>
+<p>O que é <code>regiao_oportunidade</code>: coluna calculada no pipeline (<code>poliedro_16_renda_bairro_distrito.py</code>), não em DAX — sinaliza região com <code>renda_mediana_responsavel</code> acima da mediana das regiões elegíveis <strong>da mesma cidade</strong> (mediana de SP e mediana do RJ calculadas separadamente — correção do Gui em 05/08, a versão anterior misturava as duas e sub-representava o RJ). 54 regiões batem esse critério hoje (35 em SP, 19 no RJ). <code>qtd_golden_leads</code> e <code>distancia_parceiro_mais_proximo_km</code> ficam na tabela como contexto pra leitura manual, mas não entram no filtro — decisão do Gui de manter o critério simples. Ver docstring da função <code>marcar_regiao_oportunidade</code> pra critério completo.</p>
+<h3 id="tabela-escolas-da-região-selecionada">Tabela — Escolas da região selecionada</h3>
+<p>Gap real, apontado pelo Gui em 06/08: quem clica numa bolha/linha de região sabia que ali era promissor, mas precisava voltar pra página 1 e filtrar manualmente pra ver quais escolas existem ali. Causa raiz: <code>29_universo_completo_powerbi</code> (nível escola) e <code>16_regioes_sp_rj_com_renda</code> (nível região) nunca tiveram relacionamento no modelo — sem relacionamento, clique num visual de uma tabela nunca filtra visual de outra tabela, é comportamento normal do Power BI, não bug de configuração.</p>
+<p>Correção 06/08 (feita no pipeline, não em DAX): as duas tabelas agora exportam uma coluna <code>chave_regiao</code> (<code>cidade + "|" + regiao</code>, ex. <code>"São Paulo|Moema"</code>) — já está nos CSVs depois de rodar <code>poliedro_29</code> e <code>poliedro_16</code>/<code>poliedro_16b</code> de novo. Falta só criar o relacionamento no Power BI Desktop:</p>
+<ol type="1">
+<li>Ícone <strong>Modelo</strong> (barra lateral esquerda) &gt; arraste <code>chave_regiao</code> de <code>29_universo_completo_powerbi</code> até <code>chave_regiao</code> de <code>16_regioes_sp_rj_com_renda</code>.</li>
+<li>Confirme cardinalidade <strong>“Muitos-para-um”</strong> (29 = muitos, 16 = um) e direção do filtro <strong>“Único”</strong> (16 → 29 — região filtra escola, não o contrário; não marque “Ambos”).</li>
+<li>Volte pra página Inteligência Comercial &gt; Tabela nova &gt; tabela <code>29_universo_completo_powerbi</code> &gt; colunas: <code>NO_ENTIDADE</code>, <code>score_destaque</code>, <code>sistema_ensino_identificado</code>, <code>ja_cliente_poliedro_qualquer_marca</code>, <code>distancia_parceiro_atual_km</code> — <strong>sem filtro fixo nenhum</strong>. Clicar numa bolha do gráfico de dispersão ou numa linha da tabela de regiões prioritárias agora filtra essa tabela sozinho, via interação cruzada padrão (o relacionamento é o que faz isso funcionar).</li>
+<li>Se você tinha adicionado campos avulsos em “Filtros neste visual” dessa tabela antes (ex. <code>bairro</code> ou <code>NO_ENTIDADE</code> como “é Tudo”) pra tentar simular esse comportamento manualmente, remova — com o relacionamento certo eles não fazem mais nada.</li>
+</ol>
+<p>⚠️ <strong>Cobertura real, não escondida:</strong> rodando o pipeline atualizado, 98,7% das 841 escolas de SP+RJ casam com uma região da tabela 16. 9 bairros do Rio (Cosme Velho, Jardim Botânico, Praça da Bandeira, Grajaú, Penha, Glória, Encantado, Saúde, Gamboa) não têm linha correspondente em <code>16</code> — provavelmente porque o Censo IBGE de renda não cobre esses bairros na granularidade usada, ou porque <code>poliedro_15</code> não teve escola confiável suficiente ali pra virar linha. Escolas nesses 9 bairros continuam aparecendo normalmente na página 1/3, só não aparecem quando você filtra por região nesta página. Se quiser fechar esse gap, o próximo passo é investigar esses 9 nomes especificamente no arquivo de renda do IBGE — não fiz isso agora pra não atrasar a sincronização principal.</p>
+<p>Ctrl+S</p>
+<hr />
+<h2 id="página-3-escolas-prioritárias-explorador-quais-escolas-metodologia">Página 3 — Escolas Prioritárias &amp; Explorador (Quais escolas? + metodologia)</h2>
+<p>Era a antiga “Página 3 — Explorador Completo”. Reúne 3 coisas na mesma página: a resposta curada da Parte 2 do case, a exploração livre de qualquer escola, e um resumo curto de metodologia pra consulta durante a apresentação.</p>
+<p>Segmentação de Dados x2 (<code>29_universo_completo_powerbi</code>): <code>cidade</code>, <code>produto_alvo</code> — aqui deixe <strong>“Selecionar tudo”</strong> marcado (diferente da página 1).</p>
+<p><strong>Tabela (modo exploração completa)</strong> &gt; colunas nesta ordem: <code>NO_ENTIDADE</code>, <code>rank_municipio</code>, <code>segmento_comercial</code>, <code>produto_alvo</code>, <code>score_destaque</code>, <code>QT_MAT_MED</code>, <code>indice_infra</code>, <code>distancia_parceiro_atual_km</code>, <code>nome_parceiro_mais_proximo</code>, <code>sistema_ensino_identificado</code> &gt; ordenar por <code>rank_municipio</code> crescente</p>
+<p>Uso: ver a posição real de qualquer escola, mesmo <code>produto_alvo = nenhum</code>. Sinal de expansão: <code>distancia_parceiro_atual_km</code> alto + <code>renda_mediana_responsavel</code> alta.</p>
+<h3 id="curadoria-pra-parte-2-do-case-top-5-por-cidade">Curadoria pra Parte 2 do case (top 5 por cidade)</h3>
+<p>O case pede a lista das 5 escolas de maior destaque em pelo menos 3 das 10 cidades prioritárias, com ≥2 critérios (1 do Censo, 1 do ENEM). <code>score_destaque</code> já combina os dois (ENEM + infra + seletividade + inclusão — ver Referência de colunas), então a tabela acima já cumpre o critério de metodologia. O que falta é <strong>curar</strong> a visão pra não entregar uma tabela solta de 1.127 linhas como se fosse a resposta:</p>
+<ol type="1">
+<li>Confirmado no código-fonte (<code>poliedro_29</code>, não só suposição): <code>rank_municipio</code> já reinicia em 1 a cada cidade (<code>groupby("codigo_municipio")["score_destaque"].rank(...)</code>) — pode confiar sem checar na tela.</li>
+<li>Adicione um segundo visual (ou um segundo estado da mesma tabela, via bookmark — mesmo mecanismo do “Golden Leads x Outras Escolas” da página 1) com Filtros neste visual: <code>rank_municipio</code> <strong>é menor ou igual a</strong> <code>5</code>, e a segmentação <code>cidade</code> restrita às cidades que você vai apresentar na fala (mínimo 3, das que estão em <code>top10</code>). Cidades com menos de 5 escolas elegíveis simplesmente mostram menos de 5 linhas — comportamento esperado de um filtro Top N, não erro.</li>
+<li>Esse é o visual que você mostra na apresentação como resposta direta da Parte 2. A tabela completa (sem filtro) fica disponível pra quem quiser explorar mais, mas não é o que resolve o case.</li>
+</ol>
+<h3 id="card-resumo-de-metodologia-consulta-rápida-durante-a-apresentação">Card — Resumo de metodologia (consulta rápida durante a apresentação)</h3>
+<p>Inserir &gt; Caixa de texto, num canto discreto da página (não é o documento de metodologia completo — esse continua sendo entrega separada, ver “Norte do projeto” acima):</p>
+<blockquote>
+<p><strong>Como o score foi construído:</strong> <code>score_destaque</code> combina ENEM (desempenho), infraestrutura do Censo Escolar (porte/estrutura), seletividade e inclusão — nenhum peso arbitrário sem justificativa (ver documento de metodologia pros pesos exatos e a razão de cada um). <strong>Limitações conhecidas:</strong> sem dado de mensalidade (não é público); ~76% das escolas fora do recorte comercial ainda não têm sistema de ensino pesquisado; SP e RJ saem do Top 10 nacional por diluição estatística (ver página 2).</p>
+</blockquote>
+<p>Ctrl+S</p>
+<hr />
+<h2 id="referência-de-colunas">Referência de colunas</h2>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Coluna</th>
+<th>O que é</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>chave_regiao</code></td>
+<td>(tabelas <code>29_universo_completo_powerbi</code> e <code>16_regioes_sp_rj_com_renda</code>) <code>cidade + "\|" + regiao</code> — chave de relacionamento entre as 2 tabelas no modelo. Só existe pra São Paulo/Rio (NaN nas demais cidades, de propósito)</td>
+</tr>
+<tr class="even">
+<td><code>regiao</code></td>
+<td>(tabela <code>29_universo_completo_powerbi</code>) = <code>distrito</code> em São Paulo, <code>bairro</code> no Rio — mesma unidade que a coluna <code>regiao</code> da tabela 16, só que no nível de escola</td>
+</tr>
+<tr class="odd">
+<td><code>distancia_parceiro_mais_proximo_km</code></td>
+<td>(tabela <code>16_regioes_sp_rj_com_renda</code>) Mediana da distância das escolas da região até o parceiro Poliedro mais próximo — calculada no <code>poliedro_16b</code>, depois do passo 29</td>
+</tr>
+<tr class="even">
+<td><code>regiao_oportunidade</code></td>
+<td>(tabela <code>16_regioes_sp_rj_com_renda</code>) Verdadeiro/Falso — renda mediana da região acima da mediana da própria cidade (SP e RJ comparados separadamente)</td>
+</tr>
+<tr class="odd">
+<td><code>segmento_comercial</code></td>
+<td>Líder local / Desafiante (2º-5º) / Outras posições / Sem comparação local — posição real no ranking da cidade</td>
+</tr>
+<tr class="even">
+<td><code>produto_alvo</code></td>
+<td>Poliedro / Polígono / nenhum — classificação comercial por score (Polígono ainda especulativo, sem mensalidade real)</td>
+</tr>
+<tr class="odd">
+<td><code>score_destaque</code></td>
+<td>Score nacional (ENEM+infra+seletividade+inclusão), 0 a 1</td>
+</tr>
+<tr class="even">
+<td><code>indice_infra</code></td>
+<td>0 a 5 — soma de lab. ciências, lab. informática, biblioteca, quadra coberta, auditório</td>
+</tr>
+<tr class="odd">
+<td><code>sistema_ensino_identificado</code></td>
+<td>Sistema já usado hoje. “Pendente de pesquisa” = ninguém confirmou ainda (nunca pesquisou OU pesquisou e não achou — unificado pra virar planilha viva que o time comercial vai preenchendo); “Fora do escopo da pesquisa” = nem é candidata comercial hoje (produto_alvo=nenhum)</td>
+</tr>
+<tr class="even">
+<td><code>endereco_completo</code></td>
+<td>Rua, número, bairro e CEP prontos pro tooltip do mapa — evita expor LATITUDE/LONGITUDE cru pro time comercial</td>
+</tr>
+<tr class="odd">
+<td><code>sistema_ensino_top_outros</code></td>
+<td>Mesma coisa que <code>sistema_ensino_identificado</code>, mas com sistemas confirmados de menos de 25 escolas agrupados em “Outros (sistema minoritário)” — use essa versão em gráfico de pizza/rosca, não a bruta</td>
+</tr>
+<tr class="even">
+<td><code>ja_cliente_poliedro_qualquer_marca</code></td>
+<td>Verdadeiro/Falso — já é cliente Poliedro, própria ou outra marca</td>
+</tr>
+<tr class="odd">
+<td><code>distancia_parceiro_atual_km</code></td>
+<td>Km até o cliente/parceiro Poliedro mais próximo na mesma cidade</td>
+</tr>
+<tr class="even">
+<td><code>nome_parceiro_mais_proximo</code></td>
+<td>Nome desse parceiro/cliente</td>
+</tr>
+<tr class="odd">
+<td><code>renda_mediana_responsavel</code></td>
+<td>Renda mediana do responsável pelo domicílio, IBGE Censo 2022</td>
+</tr>
+<tr class="even">
+<td><code>enem_media_2anos</code></td>
+<td>Média 2024+2025 — mais estável que 1 ano só</td>
+</tr>
+<tr class="odd">
+<td><code>delta_enem_2025_2024</code></td>
+<td>Diferença entre edições — variação até ±22 pontos é ruído normal</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="erros-comuns">Erros comuns</h2>
+<p><strong>Cartão mostra “4 Mil” em vez de “4.444” (06/08):</strong> não é o formato da medida — é a opção <strong>“Unidades de exibição”</strong> do visual, que por padrão vem em “Auto” e comprime qualquer número grande em K/Mil/Mi, independente do <code>FormatString</code> da medida (<code>#,##0</code> não evita isso, os dois são configurações separadas). Sintoma típico: alguns cartões da mesma página arredondam e outros não — os que não arredondam já tiveram essa opção ajustada antes, os novos (ou que trocaram de campo, como ao mover <code>Qtd Escolas</code> pra <code>_Medidas</code>) voltam pro padrão “Auto”. Correção: clique no cartão &gt; painel Visualizações &gt; ícone de pincel “Formatar visual” &gt; seção de valor/retorno de chamada (nome exato varia com a versão — use a lupa de busca no topo do painel “Formatar visual” e digite “unidades de exibição” se não achar de primeira) &gt; troque <strong>“Auto”</strong> por <strong>“Nenhum”</strong>. Repita em cada cartão afetado — é uma configuração por visual, não do modelo, então não tem como corrigir uma vez só pra todos.</p>
+<p><strong>“Coluna X não foi encontrada” ao Atualizar:</strong> cache de importação antigo — normalmente só acontece quando uma coluna existente foi <strong>renomeada ou removida</strong> no CSV (adicionar coluna nova, como fizemos com <code>regiao</code>/<code>chave_regiao</code> em 06/08, não costuma quebrar Atualizar). Se acontecer: Página Inicial &gt; Transformar Dados &gt; botão direito na consulta &gt; Excluir &gt; feche o Power Query &gt; Obter Dados &gt; importe o CSV de novo, do zero. ⚠️ Essa ação (excluir + reimportar) tem um efeito colateral sério — ver o item logo abaixo antes de fazer isso.</p>
+<p><strong>Card mostrando um número muito menor do que o esperado (ex.: Total = 63 em vez de 1.127):</strong> provável filtro vazado — confira se algum campo (ex.: <code>ja_cliente_poliedro_qualquer_marca</code>) está em <strong>“Filtros nesta página”</strong> em vez de <strong>“Filtros neste visual”</strong>. Filtro de página afeta todos os cartões juntos.</p>
+<p><strong>Números decimais errados (<code>9738</code> em vez de <code>0,9738</code>):</strong> mesma causa/solução do cache antigo acima.</p>
+<p><strong>Formato mudou na tabela do modelo mas o visual continua com 2 casas decimais:</strong> clique na tabela (canvas) &gt; painel Visualizações &gt; ícone de pincel “Formatar visual” &gt; seção “Valores” &gt; ajuste “Casas decimais” ali também — o visual pode ter uma formatação própria por cima da do modelo.</p>
+<p><strong>Medida <code>Qtd Escolas</code> some do painel Dados sempre que a tabela <code>29</code> é reimportada (05/08, de novo em 06/08) — causa raiz e correção definitiva:</strong></p>
+<p>Por que continua acontecendo mesmo seguindo “prefira Atualizar”: uma medida DAX fica presa ao <strong>objeto</strong> da tabela, não só ao nome dela. “Excluir a consulta + Obter Dados de novo” cria um objeto novo por baixo do capô (mesmo nome na tela, identidade diferente pro motor do Power BI) — qualquer medida presa à tabela antiga vira órfã e some, mesmo que o nome da tabela seja idêntico depois. Isso vai continuar acontecendo pra sempre enquanto a medida morar dentro de <code>29_universo_completo_powerbi</code>, porque cedo ou tarde uma mudança de estrutura de coluna (renomear/remover) vai forçar um reimport completo de novo — não é um erro seu, é a arquitetura do Power BI.</p>
+<p>⚠️ <strong>O mesmo vale pros relacionamentos</strong> (<code>29↔︎14_cidades</code>, <code>29↔︎16_regioes</code> via <code>chave_regiao</code>) — eles também ficam presos ao objeto da tabela. Excluir+reimportar <code>29</code> derruba os relacionamentos junto, não só a medida. Não tem como blindar relacionamento (por natureza ele liga 2 tabelas físicas específicas); a única defesa é comportamental: use <strong>Atualizar</strong> sempre que só linhas ou colunas novas mudaram (é o caso de qualquer rerun do pipeline Python), e reserve “Excluir + Obter Dados” só pra quando Atualizar realmente reclamar de coluna renomeada/removida — sabendo que, se fizer isso, vai ter que recriar os 2 relacionamentos manualmente na aba Modelo depois.</p>
+<p><strong>Correção definitiva pra medida (faça uma vez, nunca mais se repete):</strong> tire a medida de dentro de <code>29_universo_completo_powerbi</code> e coloque numa <strong>tabela de medidas separada</strong>, que não vem de CSV nenhum — como ela não é uma consulta importada, nenhum “Excluir + Obter Dados” da tabela 29 encosta nela.</p>
+<ol type="1">
+<li>Modelagem (ou Página Inicial) &gt; <strong>Nova Tabela</strong> &gt; cole essa fórmula DAX: <code>_Medidas = {BLANK()}</code> — cria uma tabelinha de 1 coluna e 1 linha vazia, sem ligação com nenhum CSV.</li>
+<li>Painel Dados &gt; botão direito em <code>_Medidas</code> &gt; <strong>Ocultar no modo de exibição de relatório</strong> (opcional — deixa o painel de campos mais limpo; a medida continua aparecendo normalmente nos visuais).</li>
+<li>Clique em <code>_Medidas</code> &gt; <strong>Nova medida</strong> &gt; recrie <code>Qtd Escolas</code> com a fórmula original (<code>COUNTROWS(...)</code>) e reaplique a formatação de número que tinha antes.</li>
+<li>Em cada visual que já usava a medida antiga (agora quebrada/sumida), remova o campo quebrado e arraste a medida nova de <code>_Medidas</code> no lugar.</li>
+<li>A partir daqui: pode excluir e reimportar <code>29_universo_completo_powerbi</code> quantas vezes quiser (por causa de mudança de coluna no pipeline, por exemplo) — <code>Qtd Escolas</code> nunca mais some, porque não está mais fisicamente dentro dela. Só lembre que os 2 relacionamentos (item acima) continuam vulneráveis e precisam ser recriados manualmente se você excluir+reimportar.</li>
+</ol>
+<hr />
+<h2 id="configuração-inicial-só-refazer-numa-máquina-nova-arquivo-do-zero">Configuração inicial (só refazer numa máquina nova / arquivo do zero)</h2>
+<ol type="1">
+<li>Obter Dados &gt; Texto/CSV &gt; importar (3x, um de cada vez, <code>Carregar</code> sem “Transformar Dados”): <code>29_universo_completo_powerbi.csv</code>, <code>14_cidades_powerbi.csv</code>, <code>16_regioes_sp_rj_com_renda.csv</code> (pasta <code>data/outputs/</code>)</li>
+</ol>
+<p>⚠️ <strong>Ordem pra rodar o pipeline do zero:</strong> <code>poliedro_15</code> → <code>poliedro_16</code> → <code>poliedro_19</code> → <code>poliedro_29</code> → <strong><code>poliedro_16b</code></strong> (por último — ele volta e acrescenta <code>distancia_parceiro_mais_proximo_km</code> no arquivo do passo 16, porque essa distância só existe depois que o passo 29 sabe quem já é cliente Poliedro). Se rodar só o <code>poliedro_16</code> de novo sozinho depois, essa coluna some do CSV — precisa rodar o <code>16b</code> de novo também. 2. Ícone <strong>Modelo</strong> &gt; arrastar <code>codigo_municipio</code> de <code>29_universo_completo_powerbi</code> até <code>codigo_municipio</code> de <code>14_cidades_powerbi</code> &gt; confirmar cardinalidade “Muitos-para-Um” 3. Ícone <strong>Modelo</strong> &gt; arrastar <code>chave_regiao</code> de <code>29_universo_completo_powerbi</code> até <code>chave_regiao</code> de <code>16_regioes_sp_rj_com_renda</code> &gt; cardinalidade “Muitos-para-Um”, direção do filtro “Único” (16 → 29) — relacionamento novo de 06/08, sem ele a página de Inteligência Comercial não consegue filtrar a tabela de escolas ao clicar numa região (ver seção “Tabela — Escolas da região selecionada”) 4. Exibição &gt; Temas &gt; Procurar temas &gt; <code>powerbi_tema_poliedro.json</code></p>
+</body>
+</html>

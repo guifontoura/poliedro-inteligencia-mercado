@@ -1,0 +1,155 @@
+table 14_cidades_powerbi
+	lineageTag: 52840c65-f306-4d5c-a8bf-2a67f6f11350
+
+	column codigo_municipio
+		dataType: int64
+		formatString: 0
+		lineageTag: 6fd1ecb2-0441-4033-b67d-764b06913a87
+		summarizeBy: none
+		sourceColumn: codigo_municipio
+
+		annotation SummarizationSetBy = Automatic
+
+	column populacao_total
+		dataType: int64
+		formatString: 0
+		lineageTag: 6545ac7e-054d-474e-b1f4-554b6ed87cf7
+		summarizeBy: none
+		sourceColumn: populacao_total
+
+		annotation SummarizationSetBy = Automatic
+
+	column qtd_escolas_elegiveis
+		dataType: int64
+		formatString: 0
+		lineageTag: 858e896a-571c-45ea-aa45-b461b1082669
+		summarizeBy: none
+		sourceColumn: qtd_escolas_elegiveis
+
+		annotation SummarizationSetBy = Automatic
+
+	column qtd_escolas_com_enem
+		dataType: int64
+		formatString: 0
+		lineageTag: cb08293f-86a3-4f35-8c0c-20e8f3ad3a13
+		summarizeBy: none
+		sourceColumn: qtd_escolas_com_enem
+
+		annotation SummarizationSetBy = Automatic
+
+	column enem_media_praca
+		dataType: double
+		lineageTag: c7664ade-f602-4119-8c6f-7d6e60c8e1db
+		summarizeBy: none
+		sourceColumn: enem_media_praca
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column populacao_0_17
+		dataType: int64
+		formatString: 0
+		lineageTag: 3a566a64-1198-4027-b854-effef1935dfb
+		summarizeBy: none
+		sourceColumn: populacao_0_17
+
+		annotation SummarizationSetBy = Automatic
+
+	column score_socioeconomico
+		dataType: double
+		lineageTag: 4ebb08f9-9c39-4e5f-8947-6f1a41cbd8bc
+		summarizeBy: none
+		sourceColumn: score_socioeconomico
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column percentil_socioeconomico
+		dataType: double
+		lineageTag: 85e0fb7f-1772-4568-81ed-db3987c1adf9
+		summarizeBy: none
+		sourceColumn: percentil_socioeconomico
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column percentil_volume_escolas
+		dataType: double
+		lineageTag: b71e02d8-1621-489e-95ab-113ed748a32a
+		summarizeBy: none
+		sourceColumn: percentil_volume_escolas
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column percentil_qualidade_enem
+		dataType: double
+		lineageTag: 90c3950c-5506-4227-8c46-85bcf21554fb
+		summarizeBy: none
+		sourceColumn: percentil_qualidade_enem
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column score_priorizacao
+		dataType: double
+		formatString: 0.000
+		lineageTag: 0e38ff5e-98bb-4fe7-bdf0-4aee14997b66
+		summarizeBy: none
+		sourceColumn: score_priorizacao
+
+		annotation SummarizationSetBy = Automatic
+
+	column nome_municipio_ibge
+		dataType: string
+		lineageTag: 718fda27-1f02-4380-a730-f86e4689ed22
+		summarizeBy: none
+		sourceColumn: nome_municipio_ibge
+
+		annotation SummarizationSetBy = Automatic
+
+	column uf
+		dataType: string
+		lineageTag: 43c29e82-5393-4a55-8855-0c41b10ac141
+		summarizeBy: none
+		sourceColumn: uf
+
+		annotation SummarizationSetBy = Automatic
+
+	column rank_cidade
+		dataType: int64
+		formatString: 0
+		lineageTag: 7a122d1a-0320-4285-98fb-1ab1b7bba92a
+		summarizeBy: none
+		sourceColumn: rank_cidade
+
+		annotation SummarizationSetBy = Automatic
+
+	column top10
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 9e5e0667-2022-426c-9120-1129e34daafb
+		summarizeBy: none
+		sourceColumn: top10
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 14_cidades_powerbi = m
+		mode: import
+		source =
+				let
+				    Fonte = Csv.Document(File.Contents("C:\Users\guilh\PycharmProjects\Mapeamento_Escolas\data\outputs\14_cidades_powerbi.csv"),[Delimiter=";", Columns=15, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Cabeçalhos Promovidos" = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+				    #"Tipo Alterado" = Table.TransformColumnTypes(#"Cabeçalhos Promovidos",{{"codigo_municipio", Int64.Type}, {"populacao_total", Int64.Type}, {"qtd_escolas_elegiveis", Int64.Type}, {"qtd_escolas_com_enem", Int64.Type}, {"enem_media_praca", type number}, {"populacao_0_17", Int64.Type}, {"score_socioeconomico", type number}, {"percentil_socioeconomico", type number}, {"percentil_volume_escolas", type number}, {"percentil_qualidade_enem", type number}, {"score_priorizacao", type number}, {"nome_municipio_ibge", type text}, {"uf", type text}, {"rank_cidade", Int64.Type}, {"top10", type logical}})
+				in
+				    #"Tipo Alterado"
+
+	annotation PBI_ResultType = Exception
+
+	annotation PBI_NavigationStepName = Navegação
+

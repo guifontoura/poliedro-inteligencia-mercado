@@ -1,0 +1,44 @@
+table 29b_faixas_rank_bridge
+	lineageTag: 9f8ebc51-6204-45e7-a792-e1644e133033
+
+	column codigo_escola
+		dataType: int64
+		formatString: 0
+		lineageTag: 92d24ba9-60ec-46ce-98b5-b5a584d04fd7
+		summarizeBy: none
+		sourceColumn: codigo_escola
+
+		annotation SummarizationSetBy = Automatic
+
+	column faixa_rank_cidade
+		dataType: string
+		lineageTag: 3798d24a-a617-443b-a65c-2f6dbb81e081
+		summarizeBy: none
+		sourceColumn: faixa_rank_cidade
+		sortByColumn: faixa_ordem
+
+		changedProperty = SortByColumn
+
+		annotation SummarizationSetBy = Automatic
+
+	column faixa_ordem
+		dataType: int64
+		formatString: 0
+		lineageTag: 4dc3267e-9f6d-4e99-b8e9-b27342cdef3c
+		summarizeBy: sum
+		sourceColumn: faixa_ordem
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 29b_faixas_rank_bridge = m
+		mode: import
+		source =
+				let
+				    Fonte = Csv.Document(File.Contents("C:\Users\guilh\PycharmProjects\Mapeamento_Escolas\data\outputs\29b_faixas_rank_bridge.csv"),[Delimiter=";", Columns=3, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Cabeçalhos Promovidos" = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+				    #"Tipo Alterado" = Table.TransformColumnTypes(#"Cabeçalhos Promovidos",{{"codigo_escola", Int64.Type}, {"faixa_rank_cidade", type text}, {"faixa_ordem", Int64.Type}})
+				in
+				    #"Tipo Alterado"
+
+	annotation PBI_ResultType = Table
+

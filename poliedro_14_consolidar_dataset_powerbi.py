@@ -34,15 +34,19 @@ por distritos [...] na cidade RJ só temos a divisão por bairros. Vc acha que
 seria mais eficiente juntar zonas maiores?"): este é o arquivo que ele
 efetivamente importa no Power BI — até agora só o `distrito` de SP era real
 (`NO_DISTRITO` do Censo funciona bem em SP), o do RJ vinha com o valor
-degenerado do Censo (sempre "Rio de Janeiro", ver achado do passo 15). Ao
-invés da divisão informal de "zona" (só 4-5 zonas, sem estatuto
-administrativo — a pesquisa mostrou fontes divergindo até em quantas
-existem), usamos a Região Administrativa (RA) oficial da Prefeitura/IPP: 33
-RAs, descritas na Wikipédia como "o que equivale aos distritos de São
-Paulo" — mesmo nível de granularidade que SP, mas com validade
-administrativa oficial. `distrito` no RJ agora recebe a RA (via o mesmo
-crosswalk `RA_POR_BAIRRO_RJ` do passo 15, para não duplicar); uma coluna
-`granularidade_geo` deixa explícito que SP usa "distrito" e RJ usa "regiao_administrativa".
+degenerado do Censo (sempre "Rio de Janeiro", ver achado do passo 15).
+
+Revisão 24/07: chegamos a usar a Região Administrativa (RA) oficial da
+Prefeitura/IPP no lugar do `distrito` degenerado do RJ — 33 RAs, mesmo nível
+de granularidade que os distritos de SP.
+
+Revisão 28/07 (Gui, depois do teste bairro x distrito em SP): RA saiu de
+novo. RJ usa `bairro` direto como unidade regional — RA escondia diferença
+de renda relevante dentro da mesma região (ver docstring de
+`poliedro_15_regioes_sp_rj.py`), e o Censo já traz bairro nativo com boa
+cobertura. A coluna `distrito` no RJ continua com o valor degenerado do
+Censo, sem uso prático — a coluna `granularidade_geo` deixa explícito que
+SP deve ser agrupado por "distrito" e RJ por "bairro".
 
 Modelo sugerido (ver POWER_BI_GUIA.md):
 - `14_escolas_powerbi.csv` (fato): 1 linha por Golden Lead.
@@ -61,16 +65,37 @@ from pathlib import Path
 
 import pandas as pd
 
-from poliedro_15_regioes_sp_rj import RA_POR_BAIRRO_RJ
-
 RAW_DIR = Path("data/raw")
 OUT_DIR = Path("data/outputs")
 
 LIMIAR_FUZZY = 0.90
 
-# Mesma correção de grafia do RJ já usada no passo 15/17 — ver lá pro
-# raciocínio completo (NO_BAIRRO auto-declarado, mesmo bairro grafado de
-# formas diferentes por escolas diferentes).
+# Correção de grafia do RJ (NO_BAIRRO é auto-declarado por cada escola no
+# Censo, então o MESMO bairro real aparece grafado de formas diferentes —
+# fragmentando o agrupamento por região). Esta é a cópia canônica do
+# dicionário; poliedro_15/29 importam daqui em vez de duplicar.
+#   - RECREIO -> RECREIO DOS BANDEIRANTES (nome oficial, é o mesmo bairro)
+#   - IRAJA / IRAJ -> IRAJÁ (sem acento / truncado no Censo)
+#   - BARRA OLIMPICA / BARRA OLÍMPICA -> BARRA DA TIJUCA ("Barra Olímpica"
+#     não é bairro oficial do IBGE, é nome popular de uma região dentro de
+#     Barra da Tijuca — confirmado: não existe na lista de bairros do IBGE)
+#   - FREGUESIA (JACAREPAGUA) -> FREGUESIA (JACAREPAGUÁ) (sem acento)
+#   - FREGUESIA JACAREPAGU -> FREGUESIA (JACAREPAGUÁ) (truncado no Censo)
+#   - FREGUESIA (bare, sem qualificador) -> FREGUESIA (JACAREPAGUÁ):
+#     ASSUNÇÃO documentada, não confirmada — existem duas Freguesias no Rio
+#     (Jacarepaguá e Ilha do Governador), e o Censo já tem "FREGUESIA (ILHA
+#     DO GOVERNADOR)" como valor próprio quando é essa; assumimos que a
+#     forma bare se refere à de Jacarepaguá (a mais populosa/mais citada).
+#     Afeta só 5 das 465 escolas do RJ — baixo risco, mas fica registrado.
+#
+# Achado (04/08, Gui, cruzando renda IBGE no dashboard Power BI): mais 4
+# pares sem acento fragmentando linhas em poliedro_15/16 — MEIER, MARACANA,
+# PRACA SECA e JACAREPAGUA (a versão "bairro" solta, distinta da
+# "FREGUESIA (JACAREPAGUA)" acima) apareciam como bairro separado da forma
+# acentuada. Confirmado que renda batia igual nos dois lados (o join com
+# IBGE já normalizava acento), mas enem_ponderado/qtd_participantes_enem/
+# qtd_golden_leads ficavam divididos entre as duas grafias — corrigido
+# adicionando as 4 entradas abaixo, mesmo padrão dos casos anteriores.
 CORRECOES_BAIRRO_RJ = {
     "RECREIO": "RECREIO DOS BANDEIRANTES",
     "IRAJA": "IRAJÁ",
@@ -80,6 +105,10 @@ CORRECOES_BAIRRO_RJ = {
     "FREGUESIA (JACAREPAGUA)": "FREGUESIA (JACAREPAGUÁ)",
     "FREGUESIA JACAREPAGU": "FREGUESIA (JACAREPAGUÁ)",
     "FREGUESIA": "FREGUESIA (JACAREPAGUÁ)",
+    "MEIER": "MÉIER",
+    "MARACANA": "MARACANÃ",
+    "PRACA SECA": "PRAÇA SECA",
+    "JACAREPAGUA": "JACAREPAGUÁ",
 }
 
 
@@ -156,9 +185,19 @@ def casar_renda_por_escola(escolas: pd.DataFrame, renda_b, renda_d, cidades_com_
     return pd.Series(valores, index=escolas.index)
 
 
+def escolher_base_de_escolas() -> "tuple[Path, str]":
+    """Usa o universo expandido (Poliedro + Polígono) se o passo 28 já rodou; senão, só as Golden Leads."""
+    expandido = OUT_DIR / "04b_universo_expandido_segmentado.csv"
+    if expandido.exists():
+        return expandido, "expandido (Poliedro + Polígono, passo 28)"
+    return OUT_DIR / "04_golden_leads_segmentadas.csv", "Golden Leads apenas (passo 04)"
+
+
 def montar_tabela_escolas() -> pd.DataFrame:
-    """Golden Leads + cidade + bairro corrigido + renda + sistema de ensino identificado."""
-    golden = pd.read_csv(OUT_DIR / "04_golden_leads_segmentadas.csv", dtype={"codigo_escola": str, "codigo_municipio": str})
+    """Universo de escolas + cidade + bairro corrigido + renda + sistema de ensino identificado."""
+    caminho_base, descricao_base = escolher_base_de_escolas()
+    print(f"[Base de escolas] {descricao_base} -> {caminho_base.name}")
+    golden = pd.read_csv(caminho_base, dtype={"codigo_escola": str, "codigo_municipio": str})
     cidades = pd.read_csv(OUT_DIR / "01_cidades_prioritarias.csv", dtype={"codigo_municipio": str})[
         ["codigo_municipio", "nome_municipio_ibge", "uf", "score_priorizacao"]
     ]
@@ -184,21 +223,13 @@ def montar_tabela_escolas() -> pd.DataFrame:
     escolas = escolas.drop(columns=["NO_BAIRRO"])
     escolas["cep"] = escolas["cep"].astype("Int64")
 
-    # 1b. RJ: substitui o `distrito` degenerado do Censo (sempre "Rio de
-    # Janeiro") pela Região Administrativa oficial (mesmo crosswalk do passo
-    # 15) — pedido do Gui pra separar RJ em regiões maiores no Power BI, do
-    # mesmo jeito que SP já é separado por distrito real.
-    ra_normalizado = {normalizar_nome(k): v for k, v in RA_POR_BAIRRO_RJ.items()}
-    eh_rj = escolas["cidade"] == "Rio de Janeiro"
-    ra_da_escola = escolas.loc[eh_rj, "bairro"].apply(normalizar_nome).map(ra_normalizado)
-    sem_ra = ra_da_escola.isna().sum()
-    if sem_ra:
-        bairros_sem_ra = sorted(escolas.loc[eh_rj][ra_da_escola.isna()]["bairro"].unique().tolist())
-        print(f"[Sanity check] {sem_ra} escolas do RJ sem RA mapeada (bairro não reconhecido, "
-              f"mantido o distrito original do Censo): {bairros_sem_ra}")
-    escolas.loc[eh_rj, "distrito"] = ra_da_escola.where(ra_da_escola.notna(), escolas.loc[eh_rj, "distrito"])
+    # 1b. RJ: a granularidade regional é `bairro` direto (revisão 28/07 — RA
+    # escondia diferença de renda relevante dentro da mesma região, ver
+    # docstring de `poliedro_15_regioes_sp_rj.py`). `distrito` no RJ
+    # continua degenerado (sempre "Rio de Janeiro", puro dado bruto do
+    # Censo) — não usar essa coluna pra agrupar região no RJ, usar `bairro`.
     escolas["granularidade_geo"] = escolas["cidade"].map(
-        {"São Paulo": "distrito", "Rio de Janeiro": "regiao_administrativa"}
+        {"São Paulo": "distrito", "Rio de Janeiro": "bairro"}
     ).fillna("nao_aplicavel")
 
     # 2. Renda por bairro/distrito (IBGE Censo 2022).
@@ -252,8 +283,8 @@ def exibir_resumo(escolas: pd.DataFrame, cidades: pd.DataFrame) -> None:
           f"({escolas['renda_mediana_responsavel'].notna().mean() * 100:.1f}%)")
     rj = escolas[escolas["cidade"] == "Rio de Janeiro"]
     if len(rj):
-        print(f"[Sanity check] RJ: {rj['distrito'].nunique()} Regiões Administrativas distintas "
-              f"em {len(rj)} escolas (era 1 valor degenerado 'Rio de Janeiro' antes da correção)")
+        print(f"[Sanity check] RJ: {rj['bairro'].nunique()} bairros distintos em {len(rj)} escolas "
+              f"(granularidade regional do RJ — coluna 'distrito' continua degenerada, não usar)")
     print(f"[Sanity check] Distribuição renda_categoria:\n{escolas['renda_categoria'].value_counts()}")
     if "sistema_ensino_identificado" in escolas.columns:
         pesquisadas = (escolas["sistema_ensino_identificado"] != "Não pesquisado ainda").sum()

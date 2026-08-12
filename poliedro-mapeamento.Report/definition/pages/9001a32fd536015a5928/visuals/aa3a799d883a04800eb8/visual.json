@@ -1,0 +1,577 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.11.0/schema.json",
+  "name": "aa3a799d883a04800eb8",
+  "position": {
+    "x": 529.25842696629218,
+    "y": 168.74906367041197,
+    "z": 11000,
+    "height": 324.82157018239496,
+    "width": 347.15305313243459,
+    "tabOrder": 11000
+  },
+  "visual": {
+    "visualType": "map",
+    "query": {
+      "queryState": {
+        "Series": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "segmento_comercial"
+                }
+              },
+              "queryRef": "29_universo_completo_powerbi.segmento_comercial",
+              "nativeQueryRef": "Posição",
+              "displayName": "Posição"
+            }
+          ]
+        },
+        "Size": {
+          "projections": [
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "29_universo_completo_powerbi"
+                        }
+                      },
+                      "Property": "score_destaque"
+                    }
+                  },
+                  "Function": 1
+                }
+              },
+              "queryRef": "Sum(29_universo_completo_powerbi.score_destaque)",
+              "nativeQueryRef": "Score",
+              "displayName": "Score"
+            }
+          ]
+        },
+        "Tooltips": {
+          "projections": [
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "29_universo_completo_powerbi"
+                        }
+                      },
+                      "Property": "NO_ENTIDADE"
+                    }
+                  },
+                  "Function": 3
+                }
+              },
+              "queryRef": "Min(29_universo_completo_powerbi.NO_ENTIDADE)",
+              "nativeQueryRef": "Insituição",
+              "displayName": "Insituição"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "29_universo_completo_powerbi"
+                        }
+                      },
+                      "Property": "cidade"
+                    }
+                  },
+                  "Function": 3
+                }
+              },
+              "queryRef": "Min(29_universo_completo_powerbi.cidade)",
+              "nativeQueryRef": "Cidade",
+              "displayName": "Cidade"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "29_universo_completo_powerbi"
+                        }
+                      },
+                      "Property": "distancia_parceiro_atual_km"
+                    }
+                  },
+                  "Function": 1
+                }
+              },
+              "queryRef": "Sum(29_universo_completo_powerbi.distancia_parceiro_atual_km)",
+              "nativeQueryRef": "Dist. Esc. Poliedro",
+              "displayName": "Dist. Esc. Poliedro"
+            }
+          ]
+        },
+        "X": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "LONGITUDE"
+                }
+              },
+              "queryRef": "29_universo_completo_powerbi.LONGITUDE",
+              "nativeQueryRef": "Longitude",
+              "displayName": "Longitude"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "29_universo_completo_powerbi"
+                    }
+                  },
+                  "Property": "LATITUDE"
+                }
+              },
+              "queryRef": "29_universo_completo_powerbi.LATITUDE",
+              "nativeQueryRef": "Latitude",
+              "displayName": "Latitude"
+            }
+          ]
+        }
+      }
+    },
+    "objects": {
+      "legend": [
+        {
+          "properties": {
+            "showTitle": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            },
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "position": {
+              "expr": {
+                "Literal": {
+                  "Value": "'BottomCenter'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "dataPoint": [
+        {
+          "properties": {
+            "fill": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 3,
+                      "Percent": -0.25
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "selector": {
+            "data": [
+              {
+                "scopeId": {
+                  "Comparison": {
+                    "ComparisonKind": 0,
+                    "Left": {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Entity": "29_universo_completo_powerbi"
+                          }
+                        },
+                        "Property": "segmento_comercial"
+                      }
+                    },
+                    "Right": {
+                      "Literal": {
+                        "Value": "'Desafiante (2º-5º local)'"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "properties": {
+            "fill": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 2,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "selector": {
+            "data": [
+              {
+                "scopeId": {
+                  "Comparison": {
+                    "ComparisonKind": 0,
+                    "Left": {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Entity": "29_universo_completo_powerbi"
+                          }
+                        },
+                        "Property": "segmento_comercial"
+                      }
+                    },
+                    "Right": {
+                      "Literal": {
+                        "Value": "'Líder local'"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "properties": {
+            "fill": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 0,
+                      "Percent": -0.3
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "selector": {
+            "data": [
+              {
+                "scopeId": {
+                  "Comparison": {
+                    "ComparisonKind": 0,
+                    "Left": {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Entity": "29_universo_completo_powerbi"
+                          }
+                        },
+                        "Property": "segmento_comercial"
+                      }
+                    },
+                    "Right": {
+                      "Literal": {
+                        "Value": "'Outras posições'"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Mapa'"
+                }
+              }
+            },
+            "alignment": {
+              "expr": {
+                "Literal": {
+                  "Value": "'center'"
+                }
+              }
+            },
+            "titleWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "radius": {
+              "expr": {
+                "Literal": {
+                  "Value": "15D"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#141B2C'"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "padding": [
+        {
+          "properties": {
+            "top": {
+              "expr": {
+                "Literal": {
+                  "Value": "5D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "3ff49087e025d0cae9b0",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "segmento_comercial"
+          }
+        },
+        "type": "Categorical",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "2",
+              "Entity": "29_universo_completo_powerbi",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "2"
+                          }
+                        },
+                        "Property": "segmento_comercial"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'Desafiante (2º-5º local)'"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'Líder local'"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'Outras posições'"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "fc11e547298b900e6568",
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "29_universo_completo_powerbi"
+                  }
+                },
+                "Property": "score_destaque"
+              }
+            },
+            "Function": 1
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "7b7d26084b9e0ac53105",
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "29_universo_completo_powerbi"
+                  }
+                },
+                "Property": "NO_ENTIDADE"
+              }
+            },
+            "Function": 3
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "95b2bf271ace900d6800",
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "29_universo_completo_powerbi"
+                  }
+                },
+                "Property": "cidade"
+              }
+            },
+            "Function": 3
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "8ad7605c5b746a009a52",
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "29_universo_completo_powerbi"
+                  }
+                },
+                "Property": "distancia_parceiro_atual_km"
+              }
+            },
+            "Function": 1
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "14bdb8f51ba2c30e4d64",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "LONGITUDE"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "945d41f7dcd305046b43",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "29_universo_completo_powerbi"
+              }
+            },
+            "Property": "LATITUDE"
+          }
+        },
+        "type": "Advanced"
+      }
+    ]
+  }
+}

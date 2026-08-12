@@ -98,17 +98,29 @@ def montar_query(nome_escola: str, cidade: str) -> str:
 
 
 def carregar_escolas_pendentes() -> pd.DataFrame:
-    """Golden Leads que ainda não estão no registro manual (poliedro_19)."""
-    from poliedro_19_sistema_ensino_identificado import REGISTROS
+    """Golden Leads com confianca == 'nao_identificado' no registro manual (poliedro_19).
 
+    Correção (28/07): a versão anterior filtrava por PRESENÇA em
+    `REGISTROS.keys()`, não pela confiança da pesquisa. Isso parou de
+    funcionar quando o poliedro_19 passou a pré-popular `REGISTROS` com um
+    placeholder pra TODAS as 1.127 Golden Leads desde o início (pra rastrear
+    cobertura de 0% a 100%) — a partir daí toda escola já "estava" em
+    REGISTROS, então esta função sempre devolvia 0 pendentes, mesmo com
+    centenas ainda sem pesquisa real. O critério certo é a confiança, não a
+    presença da chave.
+    """
     golden = pd.read_csv(OUT_DIR / "04_golden_leads_segmentadas.csv", dtype={"codigo_escola": str})
     cidades = pd.read_csv(OUT_DIR / "01_cidades_prioritarias.csv", dtype={"codigo_municipio": str})[
         ["codigo_municipio", "nome_municipio_ibge"]
     ]
     golden["codigo_municipio"] = golden["codigo_municipio"].astype(str)
     golden = golden.merge(cidades, on="codigo_municipio", how="left")
-    ja_registradas = set(REGISTROS.keys())
-    pendentes = golden[~golden["codigo_escola"].isin(ja_registradas)]
+
+    sistema = pd.read_csv(
+        OUT_DIR / "19_sistema_ensino_identificado.csv", sep=";", dtype={"codigo_escola": str}
+    )
+    codigos_pendentes = set(sistema[sistema["confianca"] == "nao_identificado"]["codigo_escola"])
+    pendentes = golden[golden["codigo_escola"].isin(codigos_pendentes)]
     return pendentes[["codigo_escola", "NO_ENTIDADE", "nome_municipio_ibge", "score_destaque"]].sort_values(
         "score_destaque", ascending=False
     )

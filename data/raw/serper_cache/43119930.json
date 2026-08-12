@@ -1,0 +1,9 @@
+{
+  "codigo_escola": "43119930",
+  "NO_ENTIDADE": "COLEGIO MAUA",
+  "cidade": "Santa Cruz do Sul",
+  "query": "\"COLEGIO MAUA\" \"Santa Cruz do Sul\" (\"sistema de ensino\" OR \"material didático\" OR \"sistema pedagógico\" OR \"solução educacional\" OR \"apostila\" OR \"sistema de aprendizagem\")",
+  "resposta": {
+    "erro": "ProxyError: 403 Forbidden"
+  }
+}

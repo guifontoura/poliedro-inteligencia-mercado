@@ -1,0 +1,464 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.11.0/schema.json",
+  "name": "e51844853d313a3a96bb",
+  "position": {
+    "x": 10.699088145896656,
+    "y": 472.70516717325228,
+    "z": 5000,
+    "height": 232.46200607902736,
+    "width": 604.01215805471122,
+    "tabOrder": 5000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "16_regioes_sp_rj_com_renda"
+                    }
+                  },
+                  "Property": "cidade"
+                }
+              },
+              "queryRef": "16_regioes_sp_rj_com_renda.cidade",
+              "nativeQueryRef": "Cidade",
+              "displayName": "Cidade"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "16_regioes_sp_rj_com_renda"
+                    }
+                  },
+                  "Property": "regiao"
+                }
+              },
+              "queryRef": "16_regioes_sp_rj_com_renda.regiao",
+              "nativeQueryRef": "Bairro / Distrito",
+              "displayName": "Bairro / Distrito"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "16_regioes_sp_rj_com_renda"
+                        }
+                      },
+                      "Property": "renda_mediana_responsavel"
+                    }
+                  },
+                  "Function": 6
+                }
+              },
+              "queryRef": "Sum(16_regioes_sp_rj_com_renda.renda_mediana_responsavel)",
+              "nativeQueryRef": "Renda Mediana",
+              "displayName": "Renda Mediana"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "16_regioes_sp_rj_com_renda"
+                        }
+                      },
+                      "Property": "enem_ponderado"
+                    }
+                  },
+                  "Function": 1
+                }
+              },
+              "queryRef": "Sum(16_regioes_sp_rj_com_renda.enem_ponderado)",
+              "nativeQueryRef": "ENEM Ponderado",
+              "displayName": "ENEM Ponderado"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "16_regioes_sp_rj_com_renda"
+                        }
+                      },
+                      "Property": "rank_enem_na_cidade"
+                    }
+                  },
+                  "Function": 0
+                }
+              },
+              "queryRef": "Sum(16_regioes_sp_rj_com_renda.rank_enem_na_cidade)",
+              "nativeQueryRef": "Rank ENEM na Cidade",
+              "displayName": "Rank ENEM na Cidade"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "16_regioes_sp_rj_com_renda"
+                        }
+                      },
+                      "Property": "qtd_golden_leads"
+                    }
+                  },
+                  "Function": 6
+                }
+              },
+              "queryRef": "Sum(16_regioes_sp_rj_com_renda.qtd_golden_leads)",
+              "nativeQueryRef": "Golden Leads",
+              "displayName": "Golden Leads"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "16_regioes_sp_rj_com_renda"
+                        }
+                      },
+                      "Property": "distancia_parceiro_mais_proximo_km"
+                    }
+                  },
+                  "Function": 0
+                }
+              },
+              "queryRef": "Sum(16_regioes_sp_rj_com_renda.distancia_parceiro_mais_proximo_km)",
+              "nativeQueryRef": "Dist. Parceiro (km)",
+              "displayName": "Dist. Parceiro (km)"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Aggregation": {
+                "Expression": {
+                  "Column": {
+                    "Expression": {
+                      "SourceRef": {
+                        "Entity": "16_regioes_sp_rj_com_renda"
+                      }
+                    },
+                    "Property": "rank_enem_na_cidade"
+                  }
+                },
+                "Function": 0
+              }
+            },
+            "direction": "Ascending"
+          }
+        ]
+      }
+    },
+    "objects": {
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "98.79035755991771D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "16_regioes_sp_rj_com_renda.cidade"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "103.5144251657617D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "16_regioes_sp_rj_com_renda.regiao"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "69.96525362760275D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(16_regioes_sp_rj_com_renda.renda_mediana_responsavel)"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "75.08374893789944D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(16_regioes_sp_rj_com_renda.enem_ponderado)"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "79.28713120034459D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(16_regioes_sp_rj_com_renda.rank_enem_na_cidade)"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "53.36037096577624D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(16_regioes_sp_rj_com_renda.qtd_golden_leads)"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "87.4571620994125D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Sum(16_regioes_sp_rj_com_renda.distancia_parceiro_mais_proximo_km)"
+          }
+        }
+      ],
+      "columnHeaders": [
+        {
+          "properties": {}
+        }
+      ],
+      "total": [
+        {
+          "properties": {
+            "totals": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#1B2438'"
+                    }
+                  }
+                }
+              }
+            },
+            "radius": {
+              "expr": {
+                "Literal": {
+                  "Value": "15D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "00af849e6aae04954c06",
+        "ordinal": 0,
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "16_regioes_sp_rj_com_renda"
+              }
+            },
+            "Property": "regiao"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "d6b94bd5d61354c8c61a",
+        "ordinal": 1,
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "16_regioes_sp_rj_com_renda"
+              }
+            },
+            "Property": "cidade"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "beddfb3e0ade44452002",
+        "ordinal": 2,
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "16_regioes_sp_rj_com_renda"
+                  }
+                },
+                "Property": "distancia_parceiro_mais_proximo_km"
+              }
+            },
+            "Function": 0
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "57266ea9d90710401b05",
+        "ordinal": 3,
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "16_regioes_sp_rj_com_renda"
+                  }
+                },
+                "Property": "enem_ponderado"
+              }
+            },
+            "Function": 1
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "c98c29af81ad7d1bae16",
+        "ordinal": 4,
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "16_regioes_sp_rj_com_renda"
+                  }
+                },
+                "Property": "qtd_golden_leads"
+              }
+            },
+            "Function": 6
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "f57c3e76aee00190458d",
+        "ordinal": 5,
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "16_regioes_sp_rj_com_renda"
+                  }
+                },
+                "Property": "rank_enem_na_cidade"
+              }
+            },
+            "Function": 0
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "d160155031a6854b7e8e",
+        "ordinal": 6,
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "16_regioes_sp_rj_com_renda"
+                  }
+                },
+                "Property": "renda_mediana_responsavel"
+              }
+            },
+            "Function": 6
+          }
+        },
+        "type": "Advanced"
+      }
+    ],
+    "filterSortOrder": "Custom"
+  }
+}
